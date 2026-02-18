@@ -1,0 +1,506 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Luca Netz-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat-Franck Honorat-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Philipp Sander-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Joseph Scally-Joseph Scally-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Luca Netz-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Franck Honorat-Franck Honorat-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julian Weigl-Alassane Pléa-Alassane Pléa-Alassane Pléa-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Franck Honorat-Franck Honorat-Franck Honorat-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Ball Recovery-Carry-Shot,Kevin Stöger-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Alassane Pléa-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Philipp Sander-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure-Foul Committed,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper,Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Clearance,Philipp Sander-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Joseph Scally-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Carry-Pass,Jonas Omlin-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Miscontrol,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Clearance-Pressure,Tim Kleindienst-Kevin Stöger-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Goal Keeper,Julian Weigl-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Ball Recovery-Carry,Ko Itakura-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Ko Itakura-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Julian Weigl-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass,Luca Netz-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Philipp Sander-Philipp Sander-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Clearance,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Pressure,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Ball Recovery-Ball Recovery,Ko Itakura-Alassane Pléa-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Alassane Pléa-Alassane Pléa-Alassane Pléa-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Miscontrol-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Alassane Pléa-Alassane Pléa-Alassane Pléa-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+50/50,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Franck Honorat-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Philipp Sander-Philipp Sander-Philipp Sander-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat-Franck Honorat-Philipp Sander-Philipp Sander-Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Ko Itakura-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Philipp Sander-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Philipp Sander-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander-Alassane Pléa-Alassane Pléa-Alassane Pléa-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Luca Netz-Luca Netz-Luca Netz-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Nico Elvedi-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Jonas Omlin-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Ko Itakura-Ko Itakura-Luca Netz-Luca Netz-Luca Netz-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Committed,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Block,Nico Elvedi-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Duel,Kevin Stöger-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger-Kevin Stöger-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Philipp Sander-Philipp Sander-Philipp Sander-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Block,Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Goal Keeper,Joseph Scally-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Dribble-Carry,Joseph Scally-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribble-Carry,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Joseph Scally-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Foul Committed,Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger-Kevin Stöger-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Nico Elvedi-Philipp Sander-Philipp Sander-Philipp Sander-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat-Franck Honorat-Alassane Pléa-Alassane Pléa-Alassane Pléa-Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Franck Honorat-Franck Honorat-Franck Honorat-Julian Weigl-Julian Weigl-Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Shot,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass,Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Luca Netz-Luca Netz-Luca Netz-Philipp Sander-Philipp Sander-Philipp Sander-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alassane Pléa-Alassane Pléa-Alassane Pléa-Luca Netz-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass,Kevin Stöger-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Block,Joseph Scally-Joseph Scally-Joseph Scally-Alassane Pléa-Alassane Pléa-Alassane Pléa-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Franck Honorat-Alassane Pléa-Alassane Pléa-Alassane Pléa-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Luca Netz-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Alassane Pléa-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Shot,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Committed,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Shot,Franck Honorat-Franck Honorat-Franck Honorat-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Ko Itakura-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Luca Netz-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Jonas Omlin-Jonas Omlin-Jonas Omlin-Julian Weigl-Julian Weigl-Julian Weigl-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alassane Pléa-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Alassane Pléa-Alassane Pléa-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass,Joseph Scally-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Ball Recovery-Carry-Pass-Ball Receipt,Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Duel,Ko Itakura-Ko Itakura-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Carry,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Foul Committed,Philipp Sander-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Ko Itakura-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Julian Weigl-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Julian Weigl-Julian Weigl-Julian Weigl-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Committed,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Injury Stoppage,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Luca Netz-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt-Foul Committed,Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Luca Netz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Pass-Ball Receipt-Carry,Nico Elvedi-Franck Honorat-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alassane Pléa-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass,Philipp Sander-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ko Itakura-Franck Honorat-Franck Honorat-Franck Honorat-Alassane Pléa-Alassane Pléa-Alassane Pléa-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Netz-Kevin Stöger-Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Franck Honorat-Franck Honorat-Franck Honorat-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribble-Carry,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat-Franck Honorat-Joseph Scally-Joseph Scally-Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Philipp Sander-Franck Honorat-Franck Honorat-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Duel,Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Ball Recovery-Carry,Julian Weigl-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Philipp Sander-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Luca Netz-Julian Weigl-Julian Weigl-Franck Honorat-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Pressure,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure-Pressure,Kevin Stöger-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Committed,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Alassane Pléa-Alassane Pléa-Alassane Pléa-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Elvedi-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alassane Pléa-Ko Itakura-Ko Itakura-Ko Itakura-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Injury Stoppage-Pass-Ball Receipt-Duel,Ko Itakura-Philipp Sander-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt,Jonas Omlin-Nico Elvedi-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Jonas Omlin-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Nico Elvedi-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribble-Carry,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Philipp Sander-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat-Franck Honorat-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass,Franck Honorat-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Dispossessed,Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julian Weigl-Julian Weigl-Julian Weigl-Franck Honorat-Franck Honorat-Franck Honorat-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Goal Keeper-Pressure-Pressure,Philipp Sander-Jonas Omlin-Julian Weigl-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass,Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Nico Elvedi-Luca Netz-Luca Netz-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Nico Elvedi-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribble-Carry,Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Alassane Pléa-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Joseph Scally-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass,Jonas Omlin-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Carry,Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Alassane Pléa-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Luca Netz-Nico Elvedi-Nico Elvedi-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Philipp Sander-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Nico Elvedi-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Kevin Stöger-Kevin Stöger-Kevin Stöger-Alassane Pléa-Alassane Pléa-Alassane Pléa-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Shot,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Shot,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ko Itakura-Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Jonas Omlin-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass,Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt,Franck Honorat-Franck Honorat-Franck Honorat-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Pass-Ball Receipt,Jonas Omlin-Jonas Omlin-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Kevin Stöger-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Ko Itakura-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Dribble,Franck Honorat-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Ko Itakura-Ko Itakura-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Duel,Philipp Sander-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Philipp Sander-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass,Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure-Foul Committed,Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Pressure,Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Luca Netz-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Alassane Pléa-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alassane Pléa-Franck Honorat-Franck Honorat-Franck Honorat-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribbled Past,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass,Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Miscontrol,Alassane Pléa-Alassane Pléa,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure-Pressure-Pressure,Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Pressure-Pressure,Kevin Stöger-Luca Netz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper,Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Nico Elvedi-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Jonas Omlin-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry,Kevin Stöger-Kevin Stöger-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Luca Netz-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Luca Netz-Nico Elvedi-Nico Elvedi-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Julian Weigl-Philipp Sander-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Jonas Omlin-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat-Franck Honorat-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Substitution-Substitution,Alassane Pléa-Philipp Sander,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Tactical Shift,Unknown,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Nico Elvedi-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Pass,Ko Itakura-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Julian Weigl-Julian Weigl-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+50/50-Carry,Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Luca Netz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt,Franck Honorat-Franck Honorat-Franck Honorat-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Luca Netz-Luca Netz-Luca Netz-Robin Hack-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Hack-Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Joseph Scally-Ko Itakura-Ko Itakura-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Luca Netz-Luca Netz-Luca Netz-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Kleindienst-Tim Kleindienst-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Franck Honorat-Franck Honorat-Franck Honorat-Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Shot,Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Luca Netz-Luca Netz-Luca Netz-Robin Hack-Robin Hack-Robin Hack-Luca Netz-Luca Netz-Luca Netz-Robin Hack-Robin Hack-Robin Hack-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Miscontrol,Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Kevin Stöger-Kevin Stöger-Kevin Stöger-Robin Hack-Robin Hack-Kevin Stöger-Kevin Stöger-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Franck Honorat-Franck Honorat-Franck Honorat-Robin Hack-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Miscontrol,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Julian Weigl-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Franck Honorat-Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat-Franck Honorat-Robin Hack-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Netz-Luca Netz-Luca Netz-Julian Weigl-Julian Weigl-Julian Weigl-Rocco Reitz-Rocco Reitz-Julian Weigl-Julian Weigl-Julian Weigl-Robin Hack-Robin Hack-Robin Hack-Luca Netz-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Rocco Reitz-Rocco Reitz-Julian Weigl-Julian Weigl-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Rocco Reitz-Joseph Scally-Joseph Scally-Joseph Scally-Robin Hack-Robin Hack-Robin Hack-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Carry-Dispossessed,Rocco Reitz-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Jonas Omlin-Ko Itakura-Jonas Omlin-Jonas Omlin-Franck Honorat-Franck Honorat-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Franck Honorat-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Julian Weigl-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass-Ball Receipt,Jonas Omlin-Jonas Omlin-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Duel,Ko Itakura-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Luca Netz-Julian Weigl-Julian Weigl-Robin Hack-Robin Hack-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Dribble,Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Rocco Reitz-Rocco Reitz-Rocco Reitz-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Joseph Scally-Rocco Reitz-Rocco Reitz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Carry,Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Jonas Omlin-Jonas Omlin-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Kevin Stöger-Kevin Stöger-Franck Honorat-Franck Honorat,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Franck Honorat-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ko Itakura-Luca Netz-Luca Netz-Luca Netz-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Substitution-Substitution-Pass,Tim Kleindienst-Franck Honorat-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass-Ball Receipt,Tomáš Čvančara-Tomáš Čvančara-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Carry-Pass,Rocco Reitz-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper,Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jonas Omlin-Luca Netz-Luca Netz-Luca Netz-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Carry,Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Julian Weigl-Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Pass,Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Ball Recovery-Carry,Luca Netz-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Shot,Kevin Stöger-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Injury Stoppage,Luca Netz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Substitution-Pass-Ball Receipt,Luca Netz-Joseph Scally-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Ko Itakura-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Julian Weigl-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribble-Carry,Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt,Tomáš Čvančara-Kevin Stöger-Kevin Stöger-Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Nathan Ngoumou Minpole-Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Rocco Reitz-Joseph Scally-Joseph Scally-Joseph Scally-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dribbled Past,Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel-Carry,Ko Itakura-Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Tactical Shift,Unknown,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper,Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Joseph Scally-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won,Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Nico Elvedi-Nico Elvedi-Nico Elvedi-Rocco Reitz-Rocco Reitz-Rocco Reitz-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry,Julian Weigl-Julian Weigl,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Rocco Reitz-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Rocco Reitz-Rocco Reitz-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry,Tomáš Čvančara-Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry-Shot,Tomáš Čvančara-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance,Robin Hack,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Ko Itakura-Kevin Stöger-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Won-Pass,Nathan Ngoumou Minpole-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Clearance-Duel,Ko Itakura-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Rocco Reitz-Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-50/50,Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Recovery-Carry,Stefan Lainer-Stefan Lainer,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Stefan Lainer-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Kevin Stöger-Kevin Stöger-Kevin Stöger-Stefan Lainer-Stefan Lainer-Stefan Lainer-Tomáš Čvančara-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Kevin Stöger-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Interception-Carry,Rocco Reitz-Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Dispossessed,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Pressure-Ball Receipt,Stefan Lainer-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass,Stefan Lainer,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pass-Ball Receipt,Rocco Reitz-Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Foul Committed,Rocco Reitz,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Duel,Nico Elvedi,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Goal Keeper-Pass,Jonas Omlin-Jonas Omlin,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Ball Receipt-Carry-Miscontrol,Tomáš Čvančara-Tomáš Čvančara-Tomáš Čvančara,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Pressure,Ko Itakura,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234

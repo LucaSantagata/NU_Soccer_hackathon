@@ -1,0 +1,617 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Clearance,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alexander Nübel-Alexander Nübel-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alexander Nübel-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Miscontrol,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dribble,Jamie Leweling-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Atakan Karazor-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Carry-Pass-Ball Receipt-Pass,Enzo Millot-Enzo Millot-Enzo Millot-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Ameen Al Dakhil-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Carry,Alexander Nübel-Alexander Nübel-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Pressure,Ramon Hendriks-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Angelo Stiller-Angelo Stiller-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt-Carry,Jamie Leweling-Atakan Karazor-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Angelo Stiller-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Angelo Stiller-Angelo Stiller-Angelo Stiller-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Angelo Stiller-Angelo Stiller-Angelo Stiller-Maximilian Mittelstädt-Maximilian Mittelstädt-Nick Woltemade-Nick Woltemade-Enzo Millot-Enzo Millot-Enzo Millot-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Pressure,Jamie Leweling-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ramon Hendriks-Alexander Nübel-Alexander Nübel-Alexander Nübel-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Atakan Karazor-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Pressure,Jamie Leweling-Jamie Leweling-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Clearance,Alexander Nübel-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Pass-Ball Receipt-Pass,Atakan Karazor-Angelo Stiller-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Miscontrol-Pressure,Nick Woltemade-Nick Woltemade-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Enzo Millot-Nick Woltemade-Nick Woltemade-Nick Woltemade-Enzo Millot-Enzo Millot-Enzo Millot-Nick Woltemade-Nick Woltemade-Nick Woltemade-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Alexander Nübel-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Atakan Karazor-Atakan Karazor-Atakan Karazor-Angelo Stiller-Angelo Stiller-Angelo Stiller-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Atakan Karazor-Atakan Karazor-Atakan Karazor-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Miscontrol,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ramon Hendriks-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Pressure,Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Ermedin Demirović-Ermedin Demirović-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Ball Recovery-Carry-Pass,Ermedin Demirović-Atakan Karazor-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dispossessed,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Atakan Karazor-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Enzo Millot-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Ramon Hendriks-Ramon Hendriks-Atakan Karazor-Atakan Karazor-Angelo Stiller-Angelo Stiller-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Ameen Al Dakhil-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Ameen Al Dakhil-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass,Ramon Hendriks-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Ball Recovery-Carry,Atakan Karazor-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass,Atakan Karazor-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Finn Jeltsch-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Nick Woltemade-Nick Woltemade-Nick Woltemade-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Angelo Stiller-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ameen Al Dakhil-Atakan Karazor-Enzo Millot-Enzo Millot-Enzo Millot-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Shot,Nick Woltemade-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Duel,Maximilian Mittelstädt-Angelo Stiller-Angelo Stiller-Angelo Stiller-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Angelo Stiller-Angelo Stiller-Angelo Stiller-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dribble,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Enzo Millot-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Finn Jeltsch-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nick Woltemade-Nick Woltemade-Nick Woltemade-Atakan Karazor-Atakan Karazor-Atakan Karazor-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure-Foul Committed,Angelo Stiller-Jamie Leweling-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Carry-Pass,Alexander Nübel-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dispossessed,Ramon Hendriks-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dispossessed,Ramon Hendriks-Ramon Hendriks-Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Angelo Stiller-Angelo Stiller-Angelo Stiller-Jamie Leweling-Jamie Leweling-Jamie Leweling-Atakan Karazor-Atakan Karazor-Atakan Karazor-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dispossessed,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ramon Hendriks-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Nick Woltemade-Nick Woltemade-Nick Woltemade-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Pass-Ball Receipt,Alexander Nübel-Alexander Nübel-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nick Woltemade-Ermedin Demirović-Ermedin Demirović-Ermedin Demirović-Enzo Millot-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ramon Hendriks-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Enzo Millot-Enzo Millot-Enzo Millot-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Ermedin Demirović-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Clearance-Pass,Ameen Al Dakhil-Angelo Stiller-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Ball Recovery-Carry,Maximilian Mittelstädt-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Shot,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Miscontrol,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Ramon Hendriks-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Duel,Alexander Nübel-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribbled Past-Foul Committed,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Nick Woltemade-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Pressure,Enzo Millot-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Nick Woltemade-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dispossessed,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Pass,Finn Jeltsch-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt,Angelo Stiller-Angelo Stiller-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Enzo Millot-Angelo Stiller-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jamie Leweling-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Angelo Stiller-Angelo Stiller-Angelo Stiller-Atakan Karazor-Atakan Karazor-Atakan Karazor-Jamie Leweling-Jamie Leweling-Jamie Leweling-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass,Jamie Leweling-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Atakan Karazor-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Angelo Stiller-Angelo Stiller-Angelo Stiller-Maximilian Mittelstädt-Maximilian Mittelstädt-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Miscontrol-Duel,Ramon Hendriks-Enzo Millot-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Ramon Hendriks-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ermedin Demirović-Nick Woltemade-Nick Woltemade-Nick Woltemade-Angelo Stiller-Angelo Stiller-Angelo Stiller-Enzo Millot-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ameen Al Dakhil-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Duel,Alexander Nübel-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Duel,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Ball Recovery-Carry,Maximilian Mittelstädt-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Maximilian Mittelstädt-Enzo Millot-Enzo Millot-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Finn Jeltsch-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Enzo Millot-Enzo Millot-Enzo Millot-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Alexander Nübel-Alexander Nübel-Alexander Nübel-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt,Ameen Al Dakhil-Alexander Nübel-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Nick Woltemade-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol,Ermedin Demirović-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enzo Millot-Enzo Millot-Alexander Nübel-Alexander Nübel-Alexander Nübel-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamie Leweling-Atakan Karazor-Atakan Karazor-Atakan Karazor-Angelo Stiller-Angelo Stiller-Angelo Stiller-Enzo Millot-Enzo Millot-Angelo Stiller-Angelo Stiller-Angelo Stiller-Enzo Millot-Enzo Millot-Enzo Millot-Atakan Karazor-Atakan Karazor-Ameen Al Dakhil-Ameen Al Dakhil-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Alexander Nübel-Alexander Nübel-Alexander Nübel-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass,Jamie Leweling-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol-Pressure,Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Angelo Stiller-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Atakan Karazor-Ameen Al Dakhil-Nick Woltemade-Nick Woltemade-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ermedin Demirović-Atakan Karazor-Atakan Karazor-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Jamie Leweling-Finn Jeltsch-Alexander Nübel-Alexander Nübel-Alexander Nübel-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Enzo Millot-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pressure,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Angelo Stiller-Alexander Nübel-Alexander Nübel-Alexander Nübel-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Nick Woltemade-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble-Carry,Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Angelo Stiller-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Enzo Millot-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ermedin Demirović-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Shot,Enzo Millot-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Shot,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil-Atakan Karazor-Atakan Karazor-Atakan Karazor-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dispossessed,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribbled Past-Pressure,Enzo Millot-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Atakan Karazor-Enzo Millot-Enzo Millot-Angelo Stiller-Angelo Stiller-Angelo Stiller-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Miscontrol-Pressure,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Angelo Stiller-Ameen Al Dakhil-Ameen Al Dakhil-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble-Carry,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Pressure-50/50,Enzo Millot-Enzo Millot-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Atakan Karazor-Atakan Karazor-Atakan Karazor-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Ramon Hendriks-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Alexander Nübel-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Pass,Ramon Hendriks-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Ameen Al Dakhil-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dispossessed,Ermedin Demirović-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Atakan Karazor-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ermedin Demirović-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Enzo Millot-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Maximilian Mittelstädt-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Atakan Karazor-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Pass-Ball Receipt-Ball Receipt-Carry-Pass-Duel,Ermedin Demirović-Ermedin Demirović-Ermedin Demirović-Enzo Millot-Enzo Millot-Ermedin Demirović-Ermedin Demirović-Ermedin Demirović-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Pressure,Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribbled Past-Pressure,Finn Jeltsch-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Ameen Al Dakhil-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+50/50,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+50/50,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Ramon Hendriks-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Ramon Hendriks-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Pressure-Pressure,Angelo Stiller-Angelo Stiller-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Pass-Ball Receipt-Carry-Pass,Ameen Al Dakhil-Angelo Stiller-Atakan Karazor-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass,Jamie Leweling-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Duel,Jamie Leweling-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Clearance,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Angelo Stiller-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Enzo Millot-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Ermedin Demirović-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Angelo Stiller-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ramon Hendriks-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol-Pass-Ball Receipt-Carry,Nick Woltemade-Nick Woltemade-Nick Woltemade-Ermedin Demirović-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Atakan Karazor-Atakan Karazor-Atakan Karazor-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Miscontrol,Atakan Karazor-Angelo Stiller-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ramon Hendriks-Angelo Stiller-Enzo Millot-Enzo Millot-Enzo Millot-Nick Woltemade-Nick Woltemade-Nick Woltemade-Atakan Karazor-Atakan Karazor-Atakan Karazor-Enzo Millot-Enzo Millot-Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Finn Jeltsch-Maximilian Mittelstädt-Maximilian Mittelstädt-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Ameen Al Dakhil-Atakan Karazor-Atakan Karazor-Atakan Karazor-Ermedin Demirović-Ermedin Demirović-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Jamie Leweling-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Nick Woltemade-Nick Woltemade-Jamie Leweling-Jamie Leweling-Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Shot,Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Own Goal For,Granit Xhaka,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Angelo Stiller-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Foul Committed,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Clearance,Alexander Nübel-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Finn Jeltsch-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Enzo Millot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Atakan Karazor-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Jamie Leweling-Jamie Leweling-Jamie Leweling-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamie Leweling-Jamie Leweling-Jamie Leweling-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Ameen Al Dakhil-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Block,Maximilian Mittelstädt-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Substitution-Substitution-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alexander Nübel-Enzo Millot-Jamie Leweling-Ermedin Demirović-Angelo Stiller-Angelo Stiller-Angelo Stiller-Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Maximilian Mittelstädt-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt-Pass,Maximilian Mittelstädt-Maximilian Mittelstädt-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Maximilian Mittelstädt-Ameen Al Dakhil-Alexander Nübel-Alexander Nübel-Alexander Nübel-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Finn Jeltsch-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Interception-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Finn Jeltsch-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass,Ermedin Demirović-Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Angelo Stiller-Angelo Stiller-Angelo Stiller-Deniz Undav-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Angelo Stiller-Angelo Stiller-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Dispossessed,Ermedin Demirović-Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry-Pass-Ball Receipt-Carry,Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-Ameen Al Dakhil-Ameen Al Dakhil,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ameen Al Dakhil-Alexander Nübel-Alexander Nübel-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dispossessed,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Ball Receipt,Nick Woltemade-Angelo Stiller-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Ramon Hendriks-Atakan Karazor-Atakan Karazor-Atakan Karazor-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt,Ermedin Demirović,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Substitution-Substitution-Pass-Ball Receipt-Carry-Pass,Ermedin Demirović-Ermedin Demirović-Ameen Al Dakhil-Atakan Karazor-Angelo Stiller-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,El Bilal Toure-El Bilal Toure-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Alexander Nübel-Alexander Nübel-Julian Chabot-Julian Chabot-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Alexander Nübel-El Bilal Toure-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribbled Past-Pressure,Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Goal Keeper-Clearance-Duel,Maximilian Mittelstädt-Alexander Nübel-Julian Chabot-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Duel,Angelo Stiller-Julian Chabot-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Ramon Hendriks-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Angelo Stiller-Julian Chabot-Julian Chabot-Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry,Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Finn Jeltsch-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Pass,Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,El Bilal Toure-El Bilal Toure-El Bilal Toure-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Miscontrol,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass,Ramon Hendriks-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Maximilian Mittelstädt-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass,Josha Mamadou Karaboue Vagnoman-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Dribble-Carry,Nick Woltemade-Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Deniz Undav-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Shot,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Pressure,Deniz Undav-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Foul Committed,Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Carry-Pass,Alexander Nübel-Alexander Nübel-Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Maximilian Mittelstädt-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Deniz Undav-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt,Angelo Stiller-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,El Bilal Toure-Deniz Undav-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,Deniz Undav-El Bilal Toure-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble,El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Pressure,El Bilal Toure-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry-Miscontrol,Finn Jeltsch-Finn Jeltsch-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Josha Mamadou Karaboue Vagnoman,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Block-Pressure,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance,Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Own Goal Against-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Angelo Stiller-El Bilal Toure-Atakan Karazor-Atakan Karazor-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Ramon Hendriks-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Substitution,Maximilian Mittelstädt-Maximilian Mittelstädt,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Finn Jeltsch-Atakan Karazor-Atakan Karazor-Atakan Karazor-El Bilal Toure-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Pass-Pressure,Ramon Hendriks-Ramon Hendriks-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Angelo Stiller-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Clearance-Pressure,Julian Chabot-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+50/50-Carry,Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Miscontrol-Ball Receipt,Angelo Stiller-Deniz Undav-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Chris Führich-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribbled Past-Ball Recovery,Deniz Undav-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Won-Pass-Duel,Atakan Karazor-Alexander Nübel-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Miscontrol-Pressure,Chris Führich-Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Atakan Karazor-Atakan Karazor-Angelo Stiller-Angelo Stiller-Angelo Stiller-Chris Führich-Chris Führich,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dribble,Chris Führich,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel-Carry,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry-Miscontrol,Nick Woltemade-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,El Bilal Toure-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman-Finn Jeltsch-Finn Jeltsch-Finn Jeltsch-El Bilal Toure-El Bilal Toure-El Bilal Toure-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Recovery-Carry,Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Atakan Karazor-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman-Josha Mamadou Karaboue Vagnoman-Angelo Stiller-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Angelo Stiller-Chris Führich-Chris Führich-Chris Führich,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Ball Receipt-Carry,Deniz Undav-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dispossessed,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Deniz Undav-Angelo Stiller,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Foul Committed,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Julian Chabot,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Chris Führich,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Duel,Ramon Hendriks,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alexander Nübel-El Bilal Toure-Alexander Nübel-Alexander Nübel-Ramon Hendriks-Ramon Hendriks-Ramon Hendriks-El Bilal Toure,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry,El Bilal Toure-Nick Woltemade-Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Dispossessed,Nick Woltemade,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass,Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Pass,Angelo Stiller-Chris Führich-Chris Führich,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pass-Ball Receipt-Carry-Pass,Ramon Hendriks-Atakan Karazor-Atakan Karazor-Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Atakan Karazor,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Deniz Undav-Finn Jeltsch,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure,Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Pressure-Pressure,Julian Chabot-Deniz Undav,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Goal Keeper,Alexander Nübel,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508

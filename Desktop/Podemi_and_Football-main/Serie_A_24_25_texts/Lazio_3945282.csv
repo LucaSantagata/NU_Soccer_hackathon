@@ -1,0 +1,418 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Pressure,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past-Pressure-Pressure,Mario Gila Fuentes-Nicolò Rovella-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Nicolò Rovella-Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Pass,Alessio Romagnoli-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Shot,Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Alessio Romagnoli-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Pressure,Boulaye Dia-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Shot,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block-Ball Recovery-Carry,Manuel Lazzari-Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Miscontrol,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Lazzari-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Christos Mandas-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Dribble-Carry,Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Dribble-Carry,Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Boulaye Dia-Christos Mandas-Christos Mandas-Christos Mandas-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Miscontrol,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Ball Recovery-Carry,Adam Marušić-Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble-Carry,Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Ball Recovery-Carry,Christos Mandas-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass,Adam Marušić-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Miscontrol,Christos Mandas-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Miscontrol-Error,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Shot,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Foul Committed,Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Christos Mandas-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Injury Stoppage,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Christos Mandas-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Shot,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Lazzari-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Mattia Zaccagni-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Mario Gila Fuentes-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass,Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Duel,Mattia Zaccagni-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Shot-Ball Receipt,Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Shot,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boulaye Dia-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Clearance-Duel,Boulaye Dia-Valentín Mariano José Castellanos Giménez-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Miscontrol,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block-Pass,Alessio Romagnoli-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boulaye Dia-Boulaye Dia-Boulaye Dia-Adam Marušić-Adam Marušić-Adam Marušić-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Nicolò Rovella-Adam Marušić-Adam Marušić-Adam Marušić-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Duel,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mario Gila Fuentes-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Adam Marušić-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass,Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Shot,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Manuel Lazzari-Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Lazzari-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Shot-Ball Receipt,Nicolò Rovella-Alessio Romagnoli-Christos Mandas-Christos Mandas-Christos Mandas-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Lazzari-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Dispossessed,Adam Marušić-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Ball Recovery,Mario Gila Fuentes-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Mattéo Guendouzi Olié-Christos Mandas-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed-Interception,Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolò Rovella-Alessio Romagnoli-Boulaye Dia-Boulaye Dia-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Manuel Lazzari-Manuel Lazzari-Manuel Lazzari-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Shot,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Christos Mandas-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Shot-Block,Boulaye Dia-Boulaye Dia-Boulaye Dia-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Lazzari-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+50/50,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Injury Stoppage,Mario Gila Fuentes-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Substitution,Manuel Lazzari,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Tactical Shift,Unknown,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Player Off-Block-Clearance,Boulaye Dia-Nicolò Rovella-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block-Pressure,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Player On,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Foul Committed,Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Nicolò Rovella-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Pedro Eliezer Rodríguez Ledesma-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Boulaye Dia-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Bad Behaviour,Valentín Mariano José Castellanos Giménez-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Pressure,Alessio Romagnoli-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Christos Mandas-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Christos Mandas-Christos Mandas-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Christos Mandas-Christos Mandas-Christos Mandas-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Christos Mandas-Christos Mandas-Christos Mandas-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Foul Committed,Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alessio Romagnoli-Boulaye Dia-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass,Valentín Mariano José Castellanos Giménez-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Tactical Shift-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Unknown-Valentín Mariano José Castellanos Giménez-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Boulaye Dia-Boulaye Dia-Boulaye Dia-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boulaye Dia-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Luca Pellegrini-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Boulaye Dia-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Christos Mandas-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Boulaye Dia-Boulaye Dia-Boulaye Dia-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Pedro Eliezer Rodríguez Ledesma-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Nicolò Rovella-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Committed,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Clearance,Alessio Romagnoli-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Boulaye Dia-Boulaye Dia-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Pressure-Ball Receipt,Luca Pellegrini-Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Pedro Eliezer Rodríguez Ledesma-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Boulaye Dia-Boulaye Dia-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Adam Marušić-Adam Marušić-Adam Marušić-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass,Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolò Rovella-Mario Gila Fuentes-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adam Marušić-Christos Mandas-Christos Mandas-Christos Mandas-Adam Marušić-Adam Marušić-Adam Marušić-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Dribble-Carry,Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Luca Pellegrini-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Shot,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Pedro Eliezer Rodríguez Ledesma-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block-Ball Recovery-Carry,Nicolò Rovella-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Christos Mandas-Christos Mandas-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribble,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt,Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Pedro Eliezer Rodríguez Ledesma-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Adam Marušić-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel-Pass,Mattéo Guendouzi Olié-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Duel,Nicolò Rovella-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Shot,Boulaye Dia-Boulaye Dia,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alessio Romagnoli-Mario Gila Fuentes-Christos Mandas-Christos Mandas-Christos Mandas-Adam Marušić-Adam Marušić-Adam Marušić-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Adam Marušić-Adam Marušić-Adam Marušić-Boulaye Dia-Boulaye Dia-Boulaye Dia-Adam Marušić-Adam Marušić-Boulaye Dia-Boulaye Dia-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Christos Mandas-Christos Mandas-Christos Mandas-Adam Marušić-Adam Marušić-Adam Marušić-Boulaye Dia-Boulaye Dia-Adam Marušić-Adam Marušić-Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Adam Marušić-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Nicolò Rovella-Nicolò Rovella-Nicolò Rovella-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Substitution-Substitution-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Nicolò Rovella-Boulaye Dia-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Dribble-Carry,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Christos Mandas-Christos Mandas-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adam Marušić-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Reda Belahyane-Reda Belahyane-Reda Belahyane-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Luca Pellegrini-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Reda Belahyane-Reda Belahyane-Reda Belahyane-Adam Marušić-Adam Marušić-Adam Marušić-Reda Belahyane-Reda Belahyane,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Miscontrol-Foul Committed,Reda Belahyane-Reda Belahyane,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Tactical Shift,Unknown,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+50/50-Carry,Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Duel,Alessio Romagnoli-Christos Mandas-Matías Vecino Falero-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luca Pellegrini-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Adam Marušić-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mario Gila Fuentes-Christos Mandas-Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Adam Marušić-Adam Marušić-Adam Marušić-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pedro Eliezer Rodríguez Ledesma-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass,Mattia Zaccagni-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christos Mandas-Christos Mandas-Mario Gila Fuentes-Mario Gila Fuentes-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Alessio Romagnoli-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mario Gila Fuentes-Adam Marušić-Adam Marušić-Adam Marušić-Matías Vecino Falero-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dispossessed,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Pass-Ball Receipt,Adam Marušić-Matías Vecino Falero-Matías Vecino Falero-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won,Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception-Carry,Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass-Ball Receipt,Mattia Zaccagni-Christos Mandas-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Matías Vecino Falero-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Interception-Carry,Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry,Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Dribble-Carry,Adam Marušić-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mattia Zaccagni-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt,Christos Mandas-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry,Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Ball Receipt-Carry,Mattia Zaccagni-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Pass,Valentín Mariano José Castellanos Giménez-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Adam Marušić-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Christos Mandas-Christos Mandas-Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Christos Mandas-Christos Mandas-Christos Mandas-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Dispossessed,Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattia Zaccagni-Mattia Zaccagni-Mattia Zaccagni-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Adam Marušić-Adam Marušić-Adam Marušić-Matías Vecino Falero-Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matías Vecino Falero-Mario Gila Fuentes-Mario Gila Fuentes-Mario Gila Fuentes-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattéo Guendouzi Olié-Matías Vecino Falero-Matías Vecino Falero-Matías Vecino Falero-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Valentín Mariano José Castellanos Giménez-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Mario Gila Fuentes-Mario Gila Fuentes,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mario Gila Fuentes-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Foul Won-Substitution-Substitution-Tactical Shift-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattéo Guendouzi Olié-Valentín Mariano José Castellanos Giménez-Mattia Zaccagni-Unknown-Mattéo Guendouzi Olié-Alessio Romagnoli-Alessio Romagnoli-Alessio Romagnoli-Luca Pellegrini-Luca Pellegrini-Luca Pellegrini-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Receipt-Pass,Alessio Romagnoli-Alessio Romagnoli,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance-Ball Recovery-Carry,Elseid Hysaj-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Christos Mandas-Christos Mandas-Christos Mandas-Adam Marušić-Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Elseid Hysaj,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past,Elseid Hysaj,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Mattéo Guendouzi Olié,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper-Pass-Ball Receipt-Duel,Christos Mandas-Christos Mandas-Tijanni Noslin-Tijanni Noslin,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Block,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Duel,Adam Marušić,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Clearance,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Luca Pellegrini-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Mattéo Guendouzi Olié-Luca Pellegrini-Luca Pellegrini-Tijanni Noslin-Tijanni Noslin-Tijanni Noslin,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Luca Pellegrini-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma-Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pass,Tijanni Noslin,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Dribbled Past-Pass,Luca Pellegrini-Luca Pellegrini,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Tijanni Noslin,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure-Foul Committed,Pedro Eliezer Rodríguez Ledesma-Pedro Eliezer Rodríguez Ledesma,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Pressure,Matías Vecino Falero,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983
+Goal Keeper,Christos Mandas,3945282,Lazio,Won,2,0,Second half,1.0434462117774603,0.8283645102280983

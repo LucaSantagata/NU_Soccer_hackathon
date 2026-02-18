@@ -1,0 +1,454 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception-Duel,Jackson Tchatchoua-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Pressure-Ball Receipt,Jackson Tchatchoua-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt-Carry,Jackson Tchatchoua-Ondrej Duda-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribble,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Paweł Dawidowicz-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Diego Coppola-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Ondrej Duda-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Reda Belahyane-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry-Pass,Tomáš Suslov-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Dispossessed,Tomáš Suslov-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pressure,Diego Coppola-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Martin Frese-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Diego Coppola-Diego Coppola-Diego Coppola-Martin Frese-Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ondrej Duda-Ondrej Duda-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass,Ondrej Duda-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass,Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Martin Frese-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ondrej Duda-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Diego Coppola-Diego Coppola-Diego Coppola-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martin Frese-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Paweł Dawidowicz-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ondrej Duda-Reda Belahyane-Reda Belahyane-Reda Belahyane-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Darko Lazović-Darko Lazović-Darko Lazović-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lorenzo Montipò-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Martin Frese-Martin Frese-Martin Frese-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Ondrej Duda-Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Pressure,Jackson Tchatchoua-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Ondrej Duda-Reda Belahyane-Reda Belahyane-Reda Belahyane-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Diego Coppola-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Martin Frese-Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Reda Belahyane-Reda Belahyane-Reda Belahyane-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass,Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Miscontrol,Casper Tengstedt-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Martin Frese-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Casper Tengstedt-Ondrej Duda-Ondrej Duda-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt,Martin Frese-Martin Frese-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martin Frese-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Carry,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Miscontrol-Pressure,Paweł Dawidowicz-Casper Tengstedt-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Error-Pressure,Darko Lazović-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Goal Keeper-Clearance-Pressure,Ondrej Duda-Lorenzo Montipò-Darko Lazović-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass,Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Injury Stoppage,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Referee Ball-Drop,Unknown,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Darko Lazović-Darko Lazović-Darko Lazović-Ondrej Duda-Ondrej Duda-Ondrej Duda-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Jackson Tchatchoua-Ondrej Duda-Ondrej Duda-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Ondrej Duda-Ondrej Duda-Ondrej Duda-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Darko Lazović-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lorenzo Montipò-Lorenzo Montipò-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Ondrej Duda-Ondrej Duda-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Diego Coppola-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martin Frese-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past-Foul Committed,Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Clearance,Diego Coppola-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Paweł Dawidowicz-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Casper Tengstedt-Ondrej Duda-Darko Lazović-Darko Lazović-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Diego Coppola-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Lorenzo Montipò-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry,Casper Tengstedt-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Darko Lazović-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Darko Lazović-Darko Lazović-Darko Lazović-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Abdoulrahmane Harroui-Darko Lazović-Darko Lazović-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Martin Frese-Martin Frese-Martin Frese-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Reda Belahyane-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Diego Coppola-Ondrej Duda-Ondrej Duda-Ondrej Duda-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass-Ball Receipt-Duel,Lorenzo Montipò-Lorenzo Montipò-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Dispossessed,Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Foul Committed,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass-Ball Receipt,Paweł Dawidowicz-Casper Tengstedt-Casper Tengstedt-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Ball Recovery-Carry,Paweł Dawidowicz-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribble-Carry,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Miscontrol-Pressure,Reda Belahyane-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pressure,Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Tchatchoua-Reda Belahyane-Reda Belahyane-Reda Belahyane-Tomáš Suslov-Tomáš Suslov-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Darko Lazović-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Abdoulrahmane Harroui-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Darko Lazović-Martin Frese-Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane-Ondrej Duda-Ondrej Duda-Ondrej Duda-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Martin Frese-Martin Frese-Martin Frese-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass,Casper Tengstedt-Darko Lazović-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass,Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Shot,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Shot,Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Reda Belahyane-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Lorenzo Montipò-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Dribble,Reda Belahyane-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Duel,Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Pressure,Diego Coppola-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Ball Recovery-Carry-Dispossessed,Jackson Tchatchoua-Ondrej Duda-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past-Clearance,Jackson Tchatchoua-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Ball Recovery-Carry-Pass,Casper Tengstedt-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Dribble,Tomáš Suslov-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Duel,Lorenzo Montipò-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Martin Frese-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Reda Belahyane-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Diego Coppola-Diego Coppola-Reda Belahyane-Reda Belahyane-Reda Belahyane-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Pressure,Ondrej Duda-Ondrej Duda-Ondrej Duda-Casper Tengstedt-Casper Tengstedt-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception-Pressure,Martin Frese-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Carry,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribble-Carry,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Reda Belahyane-Darko Lazović-Darko Lazović-Darko Lazović-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Diego Coppola-Ondrej Duda-Ondrej Duda-Ondrej Duda-Reda Belahyane-Reda Belahyane-Reda Belahyane-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Paweł Dawidowicz-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry,Ondrej Duda-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Jackson Tchatchoua-Ondrej Duda-Ondrej Duda-Ondrej Duda-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Martin Frese-Martin Frese-Martin Frese-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Diego Coppola-Diego Coppola-Diego Coppola-Martin Frese-Martin Frese-Martin Frese-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Ondrej Duda-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Tomáš Suslov-Martin Frese-Martin Frese-Martin Frese-Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt,Reda Belahyane-Reda Belahyane-Reda Belahyane-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paweł Dawidowicz-Paweł Dawidowicz-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Diego Coppola-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ondrej Duda-Reda Belahyane-Reda Belahyane-Reda Belahyane-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Pressure,Jackson Tchatchoua-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Shield-Pass-Pass-Ball Receipt-Carry-Pass,Jackson Tchatchoua-Lorenzo Montipò-Tomáš Suslov-Diego Coppola-Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Reda Belahyane-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass-Ball Receipt,Martin Frese-Darko Lazović-Darko Lazović-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass,Diego Coppola-Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass-Ball Receipt,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Casper Tengstedt-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Jackson Tchatchoua-Jackson Tchatchoua-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry,Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Darko Lazović-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Darko Lazović-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Darko Lazović-Darko Lazović-Darko Lazović-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass,Reda Belahyane-Darko Lazović-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Miscontrol-Pressure,Casper Tengstedt-Casper Tengstedt-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Ondrej Duda-Martin Frese-Paweł Dawidowicz-Paweł Dawidowicz-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Ondrej Duda-Ondrej Duda-Ondrej Duda-Diego Coppola-Diego Coppola-Diego Coppola-Martin Frese-Martin Frese-Martin Frese-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Darko Lazović-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Reda Belahyane-Ondrej Duda-Ondrej Duda-Ondrej Duda-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Dribble,Darko Lazović-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Martin Frese-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Miscontrol,Casper Tengstedt-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martin Frese-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Ondrej Duda-Ondrej Duda-Ondrej Duda-Martin Frese-Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane-Ondrej Duda-Ondrej Duda-Reda Belahyane-Reda Belahyane-Reda Belahyane-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Reda Belahyane-Reda Belahyane-Reda Belahyane-Diego Coppola-Diego Coppola-Diego Coppola-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribble-Carry,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Paweł Dawidowicz-Ondrej Duda-Ondrej Duda-Ondrej Duda-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass,Jackson Tchatchoua-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry,Casper Tengstedt-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won-Pass,Casper Tengstedt-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Shot,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt,Jackson Tchatchoua-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Casper Tengstedt-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Dribble,Reda Belahyane-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Block,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past-Pressure,Diego Coppola-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lorenzo Montipò-Lorenzo Montipò-Ondrej Duda-Ondrej Duda-Ondrej Duda-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Paweł Dawidowicz-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass-Ball Receipt,Lorenzo Montipò-Lorenzo Montipò-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt-Pass-Ball Receipt,Reda Belahyane-Martin Frese-Ondrej Duda-Ondrej Duda-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Reda Belahyane-Reda Belahyane-Reda Belahyane-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paweł Dawidowicz-Diego Coppola-Diego Coppola-Diego Coppola-Reda Belahyane-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass-Ball Receipt-Carry,Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Reda Belahyane-Casper Tengstedt-Casper Tengstedt-Casper Tengstedt-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui-Casper Tengstedt-Casper Tengstedt-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Shot,Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Jackson Tchatchoua-Casper Tengstedt-Casper Tengstedt-Casper Tengstedt-Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Reda Belahyane-Tomáš Suslov-Tomáš Suslov-Tomáš Suslov-Lorenzo Montipò-Lorenzo Montipò-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass,Martin Frese-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass,Ondrej Duda-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Pass,Abdoulrahmane Harroui-Abdoulrahmane Harroui-Abdoulrahmane Harroui,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Foul Committed,Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Foul Committed,Diego Coppola-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Clearance,Casper Tengstedt-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Injury Stoppage,Unknown,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Substitution-Substitution,Abdoulrahmane Harroui-Tomáš Suslov,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Referee Ball-Drop-Ball Recovery-Carry-Pass-Ball Receipt,Unknown-Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Diego Coppola-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won-Pass-Ball Receipt-Carry-Pass,Grigoris Kastanos-Grigoris Kastanos-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Tactical Shift-Shot,Unknown-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Bad Behaviour,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass,Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Grigoris Kastanos-Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Clearance,Grigoris Kastanos-Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Flavius Daniliuc-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Dispossessed,Grigoris Kastanos-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Pressure,Paweł Dawidowicz-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Darko Lazović-Casper Tengstedt-Casper Tengstedt-Casper Tengstedt-Grigoris Kastanos-Grigoris Kastanos-Grigoris Kastanos-Martin Frese-Martin Frese-Martin Frese-Diego Coppola-Diego Coppola-Diego Coppola-Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Miscontrol,Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Reda Belahyane-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Lorenzo Montipò-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Grigoris Kastanos-Casper Tengstedt-Casper Tengstedt-Casper Tengstedt-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Injury Stoppage,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Pass,Lorenzo Montipò-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Casper Tengstedt,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Pass,Darko Lazović-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Diego Coppola-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Substitution-Pass-Ball Receipt,Casper Tengstedt-Martin Frese-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Pass,Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Paweł Dawidowicz-Reda Belahyane-Reda Belahyane-Reda Belahyane-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Flavius Daniliuc-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Martin Frese-Paweł Dawidowicz-Jackson Tchatchoua-Jackson Tchatchoua-Flavius Daniliuc-Flavius Daniliuc-Flavius Daniliuc-Ondrej Duda-Ondrej Duda-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Darko Lazović-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception,Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Foul Committed,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Bad Behaviour,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Duel,Lorenzo Montipò-Jackson Tchatchoua-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Miscontrol-Ball Recovery-Carry-Miscontrol,Grigoris Kastanos-Reda Belahyane-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+50/50-Carry,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass,Reda Belahyane-Martin Frese-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Foul Committed,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Carry,Flavius Daniliuc-Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Foul Committed,Ondrej Duda-Ondrej Duda-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Block-Clearance,Diego Coppola-Paweł Dawidowicz-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Pressure-Ball Receipt,Diego Coppola-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry,Darko Lazović-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass,Daniel Fernando Mosquera Bonilla-Martin Frese-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure-Pressure,Flavius Daniliuc-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Pass-Ball Receipt-Carry,Jackson Tchatchoua-Ondrej Duda-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Grigoris Kastanos-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Darko Lazović-Darko Lazović-Darko Lazović-Ondrej Duda-Ondrej Duda-Ondrej Duda-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Ondrej Duda-Martin Frese-Martin Frese-Martin Frese-Darko Lazović-Darko Lazović-Martin Frese-Martin Frese-Martin Frese-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass,Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Shot,Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Ondrej Duda-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Duel,Flavius Daniliuc-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Flavius Daniliuc-Lorenzo Montipò-Paweł Dawidowicz-Martin Frese-Martin Frese-Martin Frese-Ondrej Duda,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Duel-Clearance,Paweł Dawidowicz-Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry,Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Won-Pass-Ball Receipt,Paweł Dawidowicz-Paweł Dawidowicz-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Diego Coppola-Ondrej Duda-Ondrej Duda-Ondrej Duda-Grigoris Kastanos-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Substitution-Substitution,Ondrej Duda-Darko Lazović,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Tactical Shift-Pass-Ball Receipt,Lorenzo Montipò-Unknown-Lorenzo Montipò-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Flavius Daniliuc-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Diego Coppola,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper,Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Lorenzo Montipò-Lorenzo Montipò-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Reda Belahyane-Reda Belahyane-Reda Belahyane-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Martin Frese-Martin Frese-Martin Frese-Domagoj Bradarić-Domagoj Bradarić-Domagoj Bradarić,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Domagoj Bradarić,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past-Pressure,Domagoj Bradarić-Domagoj Bradarić,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past-Pressure,Domagoj Bradarić-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Block,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribbled Past,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Carry-Pass,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Miscontrol,Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Giangiacomo Magnani,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Pass-Ball Receipt-Pass,Grigoris Kastanos-Grigoris Kastanos-Paweł Dawidowicz-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Flavius Daniliuc,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paweł Dawidowicz-Grigoris Kastanos-Grigoris Kastanos-Grigoris Kastanos-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dribble,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Flavius Daniliuc-Flavius Daniliuc-Flavius Daniliuc-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua-Grigoris Kastanos-Grigoris Kastanos-Grigoris Kastanos-Paweł Dawidowicz-Paweł Dawidowicz-Paweł Dawidowicz-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Giangiacomo Magnani-Giangiacomo Magnani-Giangiacomo Magnani-Paweł Dawidowicz-Paweł Dawidowicz-Giangiacomo Magnani-Giangiacomo Magnani-Giangiacomo Magnani-Lorenzo Montipò-Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Lorenzo Montipò,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Clearance-Pass-Ball Receipt-Carry,Giangiacomo Magnani-Paweł Dawidowicz-Reda Belahyane-Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Dispossessed,Reda Belahyane,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Diego Coppola-Reda Belahyane-Reda Belahyane-Reda Belahyane-Domagoj Bradarić-Domagoj Bradarić-Domagoj Bradarić-Grigoris Kastanos,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery,Domagoj Bradarić,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Miscontrol,Domagoj Bradarić,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Goal Keeper-Carry-Pass-Ball Receipt,Lorenzo Montipò-Lorenzo Montipò-Lorenzo Montipò-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Giangiacomo Magnani-Domagoj Bradarić-Domagoj Bradarić-Domagoj Bradarić-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Reda Belahyane-Reda Belahyane-Reda Belahyane-Martin Frese-Martin Frese-Martin Frese-Domagoj Bradarić-Domagoj Bradarić-Domagoj Bradarić-Martin Frese-Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass,Martin Frese,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Receipt-Carry-Dispossessed,Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla-Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Foul Committed,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Domagoj Bradarić-Domagoj Bradarić-Domagoj Bradarić-Jackson Tchatchoua-Jackson Tchatchoua-Jackson Tchatchoua,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pressure,Daniel Fernando Mosquera Bonilla,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779
+Pass-Ball Receipt,Giangiacomo Magnani-Paweł Dawidowicz,3944986,Hellas Verona,Won,2,0,First half,1.2981786577333299,0.7751160981909779

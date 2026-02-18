@@ -1,0 +1,521 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Duel,Denis Vavro-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Denis Vavro-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shield-Pass,Patrick Wimmer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Pressure,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Bence Dárdai-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kamil Grabara-Kamil Grabara-Kamil Grabara-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Pressure,Mohamed El Amine Amoura-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Carry,Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannick Gerhardt-Joakim Mæhle-Joakim Mæhle-Joakim Mæhle-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Mohamed El Amine Amoura-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ridle Bote Baku-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Denis Vavro-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Bence Dárdai-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Pressure,Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bence Dárdai-Kilian Fischer-Kilian Fischer-Kilian Fischer-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara-Kamil Grabara-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara-Kamil Grabara-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception-Carry,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Pass-Ball Receipt-Carry,Yannick Gerhardt-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Konstantinos Koulierakis-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-50/50,Denis Vavro-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Pressure,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass,Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Pass,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper-Pressure,Konstantinos Koulierakis-Kamil Grabara-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper,Konstantinos Koulierakis-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Bence Dárdai-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Arnold-Maximilian Arnold-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara-Denis Vavro-Denis Vavro-Denis Vavro-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Denis Vavro-Denis Vavro-Denis Vavro-Bence Dárdai-Bence Dárdai-Bence Dárdai-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Joakim Mæhle-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Dribble,Bence Dárdai-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Kilian Fischer-Kilian Fischer-Kilian Fischer-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Kilian Fischer-Kilian Fischer-Kilian Fischer-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Bence Dárdai-Bence Dárdai-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Joakim Mæhle-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Injury Stoppage,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Player Off,Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past-Foul Committed,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass,Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Bence Dárdai-Bence Dárdai-Bence Dárdai-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Player On-Substitution,Kilian Fischer-Joakim Mæhle-Joakim Mæhle,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Yannick Gerhardt-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Ball Recovery-Carry,Patrick Wimmer-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Bence Dárdai-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Cédric Zesiger-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ridle Bote Baku-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Kamil Grabara-Kamil Grabara-Kamil Grabara-Denis Vavro-Denis Vavro-Denis Vavro-Kamil Grabara-Kamil Grabara-Kamil Grabara-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara-Kamil Grabara-Denis Vavro-Denis Vavro-Denis Vavro-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Shot,Maximilian Arnold-Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Shot,Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kamil Grabara-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shield-Pass-Ball Receipt-Carry,Ridle Bote Baku-Kilian Fischer-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Yannick Gerhardt-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Foul Committed,Denis Vavro-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt-Carry,Kamil Grabara-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kamil Grabara-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohamed El Amine Amoura-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Shot,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Maximilian Arnold-Kilian Fischer-Kilian Fischer-Kilian Fischer-Bence Dárdai-Bence Dárdai-Bence Dárdai-Denis Vavro-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Injury Stoppage,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Denis Vavro-Denis Vavro-Denis Vavro-Kamil Grabara-Kamil Grabara-Kamil Grabara-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Dribble-Carry,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Denis Vavro-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Pass,Konstantinos Koulierakis-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Dispossessed,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Maximilian Arnold-Denis Vavro-Denis Vavro-Denis Vavro-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannick Gerhardt-Konstantinos Koulierakis-Bence Dárdai-Bence Dárdai-Bence Dárdai-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Dribble,Yannick Gerhardt-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Cédric Zesiger-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Patrick Wimmer-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Shot,Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Carry,Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Maximilian Arnold-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Pressure,Cédric Zesiger-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Carry,Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Maximilian Arnold-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bence Dárdai-Kilian Fischer-Kilian Fischer-Kilian Fischer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Maximilian Arnold-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Denis Vavro-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Cédric Zesiger-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Mohamed El Amine Amoura-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Maximilian Arnold-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt-Duel,Kamil Grabara-Kamil Grabara-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Mohamed El Amine Amoura-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Pass-Ball Receipt-Carry-Shot,Bence Dárdai-Bence Dárdai-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Patrick Wimmer-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Mohamed El Amine Amoura-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Shot,Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Clearance-Clearance,Cédric Zesiger-Maximilian Arnold-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Injury Stoppage,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Referee Ball-Drop-Ball Recovery-Carry-Pass,Unknown-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Mohamed El Amine Amoura-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass,Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Kamil Grabara-Kamil Grabara-Kamil Grabara-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper,Kilian Fischer-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper-Ball Recovery-Carry,Maximilian Arnold-Kamil Grabara-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Duel,Mohamed El Amine Amoura-Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kilian Fischer-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Pressure,Denis Vavro-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Goal Keeper-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Kamil Grabara-Kamil Grabara-Kamil Grabara-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Foul Committed,Denis Vavro-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Maximilian Arnold-Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kamil Grabara-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Yannick Gerhardt-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Interception,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Yannick Gerhardt-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Arnold-Kamil Grabara-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Denis Vavro-Denis Vavro-Denis Vavro-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Bence Dárdai-Bence Dárdai-Bence Dárdai-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bence Dárdai-Denis Vavro-Denis Vavro-Denis Vavro-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Pass-Ball Receipt,Patrick Wimmer-Yannick Gerhardt-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt-Carry,Kamil Grabara-Konstantinos Koulierakis-Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Bence Dárdai-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Kilian Fischer-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Bence Dárdai-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kamil Grabara-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Ball Recovery-Pressure,Patrick Wimmer-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Patrick Wimmer-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Maximilian Arnold-Konstantinos Koulierakis-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Carry-Pass-Ball Receipt,Kamil Grabara-Kamil Grabara-Kamil Grabara-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Bence Dárdai-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Mohamed El Amine Amoura-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Miscontrol,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kilian Fischer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Dribble,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kilian Fischer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+50/50-Pass,Patrick Wimmer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+50/50,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Pressure,Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past-Pressure,Bence Dárdai-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper-Duel,Denis Vavro-Kamil Grabara-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Ridle Bote Baku-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble-Carry,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Patrick Wimmer-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Kamil Grabara-Kamil Grabara-Kamil Grabara-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Ball Recovery-Carry,Bence Dárdai-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble,Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Goal Keeper-Ball Recovery-Carry,Kilian Fischer-Kamil Grabara-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Ridle Bote Baku-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Block,Kamil Grabara-Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Kamil Grabara-Mohamed El Amine Amoura-Kamil Grabara-Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kamil Grabara-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Kamil Grabara-Kamil Grabara-Kamil Grabara-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Clearance,Cédric Zesiger-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt-Carry,Kamil Grabara-Kamil Grabara-Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Injury Stoppage,Bence Dárdai-Konstantinos Koulierakis-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Referee Ball-Drop,Unknown,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Clearance,Cédric Zesiger-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Dispossessed,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Bad Behaviour,Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Substitution-Substitution,Patrick Wimmer-Mohamed El Amine Amoura,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Bence Dárdai-Kamil Grabara-Kamil Grabara-Kamil Grabara-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Pass,Ridle Bote Baku-Maximilian Arnold-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Cédric Zesiger-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Tiago Barreiros de Melo Tomás-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Pass-Ball Receipt-Carry-Dribble,Yannick Gerhardt-Yannick Gerhardt-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Pressure,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Ball Recovery-Carry,Ridle Bote Baku-Kamil Grabara-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kamil Grabara-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Dispossessed,Cédric Zesiger-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Cédric Zesiger-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Jonas Older Wind-Kilian Fischer-Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kilian Fischer-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribbled Past,Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Duel,Kilian Fischer-Kamil Grabara-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Denis Vavro-Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Kamil Grabara-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Konstantinos Koulierakis-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Bence Dárdai-Bence Dárdai,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kilian Fischer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Bad Behaviour-Pass-Ball Receipt,Kamil Grabara-Kamil Grabara-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Miscontrol-Pressure,Tiago Barreiros de Melo Tomás-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Pressure-Ball Receipt,Denis Vavro-Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Pressure,Denis Vavro-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Clearance,Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Carry,Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble-Carry,Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Substitution-Substitution-Tactical Shift,Bence Dárdai-Kilian Fischer-Unknown,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kamil Grabara-Kamil Grabara-Kamil Grabara-Kamil Grabara-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Older Wind-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dribble,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jonas Older Wind-Denis Vavro-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Injury Stoppage,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Kevin Behrens-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Ridle Bote Baku-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+50/50-Carry,Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Yannick Gerhardt-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Kevin Behrens-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Dispossessed,Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Jonas Older Wind-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Miscontrol-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Salih Özcan-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Denis Vavro-Salih Özcan-Salih Özcan-Denis Vavro-Denis Vavro-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt,Kamil Grabara-Kamil Grabara-Kamil Grabara-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Kevin Behrens-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Ridle Bote Baku-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Tiago Barreiros de Melo Tomás-Salih Özcan-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Dribble,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Salih Özcan-Salih Özcan-Salih Özcan-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Miscontrol,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Dribble,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Committed,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Cédric Zesiger-Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Cédric Zesiger-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Pressure,Yannick Gerhardt-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Ball Recovery-Carry,Maximilian Arnold-Kevin Behrens-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Kevin Behrens-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Maximilian Arnold-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block-Pass-Ball Receipt-Carry,Cédric Zesiger-Salih Özcan-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Yannick Gerhardt-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt,Maximilian Arnold-Maximilian Arnold-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Denis Vavro-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Tiago Barreiros de Melo Tomás-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry,Jonas Older Wind-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Salih Özcan-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Maximilian Arnold-Maximilian Arnold-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Cédric Zesiger-Cédric Zesiger-Cédric Zesiger-Salih Özcan-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Miscontrol-50/50,Kevin Behrens-Kevin Behrens-Kevin Behrens-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure-Foul Committed,Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Dribble,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kamil Grabara-Kamil Grabara-Kamil Grabara-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Kevin Behrens-Kevin Behrens-Kevin Behrens-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Pressure,Denis Vavro-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper,Kamil Grabara,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Injury Stoppage-Pass-Ball Receipt-Duel,Kamil Grabara-Kamil Grabara-Kevin Behrens-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Pass-Ball Receipt,Denis Vavro-Kevin Behrens-Kevin Behrens-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass-Ball Receipt,Kevin Behrens-Kevin Behrens-Kevin Behrens-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shot,Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Bad Behaviour,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Foul Won-Pass-Ball Receipt-Carry,Ridle Bote Baku-Denis Vavro-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Pass-Ball Receipt,Denis Vavro-Yannick Gerhardt-Yannick Gerhardt-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Pass,Cédric Zesiger-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Konstantinos Koulierakis,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel-Clearance-Ball Recovery-Carry,Ridle Bote Baku-Denis Vavro-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Salih Özcan-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Receipt-Carry-Miscontrol,Salih Özcan-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-50/50,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance-Clearance,Denis Vavro-Maximilian Arnold,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Dispossessed,Salih Özcan-Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry,Salih Özcan-Salih Özcan,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Carry-Pass,Salih Özcan-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Clearance,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Cédric Zesiger,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pressure,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Block,Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Ball Recovery-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass-Ball Receipt,Kamil Grabara-Denis Vavro-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass,Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Shield-Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Ridle Bote Baku-Kevin Behrens,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt-Duel,Kevin Behrens-Jonas Older Wind-Jonas Older Wind,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Duel,Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Goal Keeper-Pass,Kamil Grabara-Denis Vavro,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067

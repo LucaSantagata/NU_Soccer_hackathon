@@ -1,0 +1,7652 @@
+[
+    {
+        "iterationId": 743,
+        "id": 122838,
+        "homeSquadId": 38,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-08-18T18:30:00Z",
+        "lastCalculationDate": "2025-08-28T06:30:00.471380Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684272"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1033915"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122839,
+        "homeSquadId": 41,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-08-19T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:33.441698Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684290"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035157"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122840,
+        "homeSquadId": 30,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-08-19T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:40.160523Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684305"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035158"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122841,
+        "homeSquadId": 31,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-08-19T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:38.697242Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684311"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035851"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122842,
+        "homeSquadId": 46,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-08-19T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:35.675123Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684332"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035852"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122843,
+        "homeSquadId": 39,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-08-19T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:37.560974Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684320"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035160"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122844,
+        "homeSquadId": 29,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-08-19T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:32.672344Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684278"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1035850"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122845,
+        "homeSquadId": 446,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-08-20T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:28.618996Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684284"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1037891"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122846,
+        "homeSquadId": 35,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-08-20T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:26:26.789784Z",
+        "matchDay": {
+            "index": 0,
+            "name": "1. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684296"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1037890"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122847,
+        "homeSquadId": 37,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-08-25T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:24:37.329319Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684362"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1071133"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122848,
+        "homeSquadId": 34,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-08-26T13:30:00Z",
+        "lastCalculationDate": "2025-09-25T14:13:08.495203Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684368"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049398"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122849,
+        "homeSquadId": 27,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-08-26T13:30:00Z",
+        "lastCalculationDate": "2025-09-25T14:27:49.033601Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684389"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049399"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122850,
+        "homeSquadId": 416,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-08-26T13:30:00Z",
+        "lastCalculationDate": "2025-09-25T14:38:50.971692Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684395"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049400"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122851,
+        "homeSquadId": 432,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-08-26T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:24:30.658392Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684407"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049401"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122852,
+        "homeSquadId": 36,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-08-26T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:24:26.798885Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684422"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049402"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122853,
+        "homeSquadId": 32,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-08-26T16:30:00Z",
+        "lastCalculationDate": "2025-09-25T14:19:21.591819Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684383"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1049397"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122854,
+        "homeSquadId": 42,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-08-27T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:24:25.937266Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684377"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1052093"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122855,
+        "homeSquadId": 33,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-08-27T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:24:24.694414Z",
+        "matchDay": {
+            "index": 1,
+            "name": "2. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684350"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1052092"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122856,
+        "homeSquadId": 29,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-09-01T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:34.359162Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684476"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1062308"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122857,
+        "homeSquadId": 41,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-09-02T13:30:00Z",
+        "lastCalculationDate": "2025-09-25T15:05:46.014158Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684512"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1064347"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122858,
+        "homeSquadId": 31,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-09-02T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:36.775812Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684548"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1064346"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122859,
+        "homeSquadId": 38,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-09-02T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:41.142348Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684557"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1064345"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122860,
+        "homeSquadId": 39,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-09-02T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:41.848025Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684563"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1573338"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122861,
+        "homeSquadId": 46,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-09-02T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:42.464410Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684569"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1064343"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122862,
+        "homeSquadId": 32,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-09-02T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:44.796474Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684539"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1064342"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122863,
+        "homeSquadId": 35,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-09-03T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:21:47.247116Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684527"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1066582"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122864,
+        "homeSquadId": 446,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-09-03T15:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:24:09.687778Z",
+        "matchDay": {
+            "index": 2,
+            "name": "3. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684497"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1066581"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122865,
+        "homeSquadId": 33,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-09-15T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:17:57.488487Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684614"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1091747"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122866,
+        "homeSquadId": 37,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-09-16T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:17:57.949151Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684632"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093856"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122867,
+        "homeSquadId": 34,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-09-16T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:01.321677Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684638"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093855"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122868,
+        "homeSquadId": 30,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-09-16T13:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:34:37.391339Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684650"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093854"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122869,
+        "homeSquadId": 42,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-09-16T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:03.320642Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684662"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093853"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122870,
+        "homeSquadId": 27,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-09-16T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:06.737499Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684668"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093852"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122871,
+        "homeSquadId": 416,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-09-16T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:07.716843Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684683"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1093851"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122872,
+        "homeSquadId": 432,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-09-17T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:08.954540Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684692"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1096139"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122873,
+        "homeSquadId": 36,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-09-17T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:18:09.173357Z",
+        "matchDay": {
+            "index": 3,
+            "name": "4. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684701"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1096138"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122874,
+        "homeSquadId": 46,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-09-22T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:18.296153Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684827"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1108462"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122875,
+        "homeSquadId": 33,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-09-23T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:20.131133Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684725"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110026"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122876,
+        "homeSquadId": 29,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-09-23T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:21.792210Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684737"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110025"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122877,
+        "homeSquadId": 446,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-09-23T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:22.629269Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684746"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110024"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122878,
+        "homeSquadId": 32,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-09-23T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:26.329724Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684779"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110023"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122879,
+        "homeSquadId": 39,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-09-23T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:29.192179Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684800"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110022"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122880,
+        "homeSquadId": 38,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-09-23T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:31.548647Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684785"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1110021"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122881,
+        "homeSquadId": 41,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-09-24T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:32.606918Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684752"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1112522"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122882,
+        "homeSquadId": 35,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-09-24T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:15:35.608167Z",
+        "matchDay": {
+            "index": 4,
+            "name": "5. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684767"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1113357"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122883,
+        "homeSquadId": 31,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-09-29T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:11.300603Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684917"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1125959"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122884,
+        "homeSquadId": 30,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-09-30T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:14.428191Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684890"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1128495"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122885,
+        "homeSquadId": 42,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-09-30T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:17.379885Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684896"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1128494"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122886,
+        "homeSquadId": 27,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-09-30T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:17.422086Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684905"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1128493"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122887,
+        "homeSquadId": 416,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-09-30T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:19.810248Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684923"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1128492"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122888,
+        "homeSquadId": 432,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-09-30T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:19.493132Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684929"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1127573"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122889,
+        "homeSquadId": 37,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-09-30T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:21.052381Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684878"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1128491"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122890,
+        "homeSquadId": 36,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-10-01T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:20.552021Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684941"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1131215"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122891,
+        "homeSquadId": 34,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-10-01T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:12:24.522196Z",
+        "matchDay": {
+            "index": 5,
+            "name": "6. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684884"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1131214"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122892,
+        "homeSquadId": 32,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-10-06T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:11.074357Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685037"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1144462"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122893,
+        "homeSquadId": 29,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-10-07T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:12.964819Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684986"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1146884"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122894,
+        "homeSquadId": 37,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-10-07T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:16.120473Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684998"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1146883"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122895,
+        "homeSquadId": 39,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-10-07T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:16.326439Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685067"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1146882"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122896,
+        "homeSquadId": 46,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-10-07T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:22.339012Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685082"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1146881"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122897,
+        "homeSquadId": 38,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-10-07T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:22.339091Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685052"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1146880"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122898,
+        "homeSquadId": 41,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-10-08T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:23.189604Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685013"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1149517"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122899,
+        "homeSquadId": 33,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-10-08T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:27.760767Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684977"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1149516"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122900,
+        "homeSquadId": 35,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-10-08T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:10:27.148504Z",
+        "matchDay": {
+            "index": 6,
+            "name": "7. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685025"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1150405"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122901,
+        "homeSquadId": 29,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-10-20T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:21.427333Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685118"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1181632"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122902,
+        "homeSquadId": 446,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-10-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:23.122301Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685130"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1184229"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122903,
+        "homeSquadId": 34,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-10-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:21.820198Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685139"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1183440"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122904,
+        "homeSquadId": 30,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-10-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:25.973534Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685154"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1184228"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122905,
+        "homeSquadId": 31,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-10-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:30.069540Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685319"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1184227"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122906,
+        "homeSquadId": 36,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-10-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:31.185860Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685346"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1184226"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122907,
+        "homeSquadId": 42,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-10-21T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:35.757998Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685169"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1184225"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122908,
+        "homeSquadId": 27,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-10-22T13:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:33:01.211202Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685208"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1187070"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122909,
+        "homeSquadId": 432,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-10-22T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:07:36.485588Z",
+        "matchDay": {
+            "index": 7,
+            "name": "8. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685334"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1187069"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122910,
+        "homeSquadId": 33,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-10-28T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:10.325690Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685556"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1203753"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122911,
+        "homeSquadId": 37,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-10-28T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:10.969776Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685595"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1204785"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122912,
+        "homeSquadId": 41,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-10-29T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:11.245932Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685613"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1207776"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122913,
+        "homeSquadId": 35,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-10-29T14:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:34:04.221534Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685646"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1207777"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122914,
+        "homeSquadId": 32,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-10-28T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:13.660256Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685658"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1203752"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122915,
+        "homeSquadId": 38,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-10-28T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:12.970037Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685697"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1204787"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122916,
+        "homeSquadId": 416,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-10-27T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:22.305115Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685709"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1201884"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122917,
+        "homeSquadId": 39,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-10-28T13:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:33:39.147443Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685721"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1204786"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122918,
+        "homeSquadId": 46,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-10-28T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:05:23.704327Z",
+        "matchDay": {
+            "index": 8,
+            "name": "9. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685727"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1203749"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122919,
+        "homeSquadId": 29,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-11-04T17:30:00Z",
+        "lastCalculationDate": "2025-08-28T11:56:26.042418Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685844"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224314"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122920,
+        "homeSquadId": 446,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-11-04T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:08.747765Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685874"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224319"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122921,
+        "homeSquadId": 34,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-11-04T14:30:00Z",
+        "lastCalculationDate": "2025-08-29T02:38:40.530902Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685889"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224318"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122922,
+        "homeSquadId": 30,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-11-05T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:09.795833Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685910"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1226809"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122923,
+        "homeSquadId": 42,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-11-04T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:10.504342Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685928"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224317"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122924,
+        "homeSquadId": 27,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-11-04T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:14.526290Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685946"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224316"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122925,
+        "homeSquadId": 31,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-11-04T14:30:00Z",
+        "lastCalculationDate": "2025-08-29T01:35:33.348277Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685970"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1224315"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122926,
+        "homeSquadId": 432,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-11-05T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:20.735629Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686012"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1227674"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122927,
+        "homeSquadId": 36,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-11-03T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:03:20.434530Z",
+        "matchDay": {
+            "index": 9,
+            "name": "10. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686033"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1221927"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122928,
+        "homeSquadId": 33,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-11-11T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:00:54.379967Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686222"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1241443"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122929,
+        "homeSquadId": 37,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-11-12T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T02:34:14.338699Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686264"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1244764"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122930,
+        "homeSquadId": 41,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-11-12T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T02:44:53.282912Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686285"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1243911"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122931,
+        "homeSquadId": 32,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-11-10T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T23:11:42.683527Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686333"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1239820"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122932,
+        "homeSquadId": 38,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-11-12T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T23:56:03.742955Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686360"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1244765"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122933,
+        "homeSquadId": 416,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-11-11T17:30:00Z",
+        "lastCalculationDate": "2025-07-25T01:40:24.884759Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686384"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1241439"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122934,
+        "homeSquadId": 39,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-11-11T14:30:00Z",
+        "lastCalculationDate": "2025-07-25T03:23:52.871148Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686405"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1241442"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122935,
+        "homeSquadId": 46,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-11-11T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:01:05.137940Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686444"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1241441"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122936,
+        "homeSquadId": 36,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-11-11T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T01:01:08.551517Z",
+        "matchDay": {
+            "index": 10,
+            "name": "11. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686477"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1241440"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122937,
+        "homeSquadId": 29,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-11-25T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:01.974070Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685811"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1271893"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122938,
+        "homeSquadId": 446,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-11-25T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:02.447487Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685832"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1272696"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122939,
+        "homeSquadId": 34,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-11-25T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:03.349354Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685862"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1271895"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122940,
+        "homeSquadId": 35,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-11-25T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:06.583116Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685898"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1272695"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122941,
+        "homeSquadId": 30,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-11-25T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:07.572176Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685925"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1271896"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122942,
+        "homeSquadId": 27,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-11-24T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:10.244781Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685958"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1270497"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122943,
+        "homeSquadId": 31,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-11-26T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:11.264574Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686009"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1274927"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122944,
+        "homeSquadId": 38,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-11-25T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:59:14.037261Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686045"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1271897"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122945,
+        "homeSquadId": 432,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-11-26T14:30:00Z",
+        "lastCalculationDate": "2025-07-26T00:29:53.944228Z",
+        "matchDay": {
+            "index": 11,
+            "name": "12. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686066"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1274928"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122946,
+        "homeSquadId": 33,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-01-24T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:56:50.874717Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685517"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1370108"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122947,
+        "homeSquadId": 37,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-12-02T14:30:00Z",
+        "lastCalculationDate": "2025-07-28T23:44:19.615568Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685577"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1287861"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122948,
+        "homeSquadId": 41,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-12-03T16:30:00Z",
+        "lastCalculationDate": "2025-07-28T23:45:44.329798Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685607"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1289994"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122949,
+        "homeSquadId": 42,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-12-03T14:30:00Z",
+        "lastCalculationDate": "2025-08-28T11:54:37.289110Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685652"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1289995"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122950,
+        "homeSquadId": 32,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-12-02T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:56:59.985160Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685664"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1287862"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122951,
+        "homeSquadId": 416,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-12-02T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:57:01.734510Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685703"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1287863"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122952,
+        "homeSquadId": 39,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-12-03T18:30:00Z",
+        "lastCalculationDate": "2025-07-28T12:21:22.885037Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685715"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1289993"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122953,
+        "homeSquadId": 46,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-12-02T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:57:03.249517Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685730"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1287860"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122954,
+        "homeSquadId": 36,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-12-01T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:57:03.683129Z",
+        "matchDay": {
+            "index": 12,
+            "name": "13. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685739"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1285822"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122955,
+        "homeSquadId": 29,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-12-09T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:31.290340Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684902"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1301590"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122956,
+        "homeSquadId": 446,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-12-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:35.231778Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684935"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1300909"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122957,
+        "homeSquadId": 35,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-12-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-29T01:58:31.207994Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685046"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1300910"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122958,
+        "homeSquadId": 30,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-12-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-29T01:48:05.475461Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685145"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1300911"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122959,
+        "homeSquadId": 27,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-12-10T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:39.022799Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685160"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1302875"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122960,
+        "homeSquadId": 31,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-12-08T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:40.086217Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685175"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1299680"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122961,
+        "homeSquadId": 38,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-12-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:42.543960Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685214"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1300912"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122962,
+        "homeSquadId": 46,
+        "awaySquadId": 41,
+        "scheduledDate": "2023-12-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:43.484877Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685313"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1303525"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122963,
+        "homeSquadId": 432,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-12-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:54:48.155391Z",
+        "matchDay": {
+            "index": 13,
+            "name": "14. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685328"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1300913"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122964,
+        "homeSquadId": 33,
+        "awaySquadId": 46,
+        "scheduledDate": "2023-12-17T18:30:00Z",
+        "lastCalculationDate": "2025-08-29T03:27:40.469419Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684761"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1314546"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122965,
+        "homeSquadId": 37,
+        "awaySquadId": 31,
+        "scheduledDate": "2023-12-16T17:30:00Z",
+        "lastCalculationDate": "2025-08-29T02:40:52.980273Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684773"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1312957"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122966,
+        "homeSquadId": 34,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-12-17T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:34.182579Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684794"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1314548"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122967,
+        "homeSquadId": 41,
+        "awaySquadId": 35,
+        "scheduledDate": "2023-12-17T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:35.526346Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684809"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1314547"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122968,
+        "homeSquadId": 42,
+        "awaySquadId": 432,
+        "scheduledDate": "2023-12-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-30T11:02:06.283710Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684818"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1312958"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122969,
+        "homeSquadId": 32,
+        "awaySquadId": 38,
+        "scheduledDate": "2023-12-15T19:30:00Z",
+        "lastCalculationDate": "2025-07-30T10:04:49.346840Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684833"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1311376"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122970,
+        "homeSquadId": 416,
+        "awaySquadId": 446,
+        "scheduledDate": "2023-12-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-30T09:35:11.000737Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684845"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1312369"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122971,
+        "homeSquadId": 39,
+        "awaySquadId": 29,
+        "scheduledDate": "2023-12-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-30T06:21:43.617233Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684857"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1312959"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122972,
+        "homeSquadId": 36,
+        "awaySquadId": 30,
+        "scheduledDate": "2023-12-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-30T00:58:57.650219Z",
+        "matchDay": {
+            "index": 14,
+            "name": "15. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684866"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1312371"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122973,
+        "homeSquadId": 29,
+        "awaySquadId": 42,
+        "scheduledDate": "2023-12-19T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:47.228376Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684578"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1317861"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122974,
+        "homeSquadId": 446,
+        "awaySquadId": 27,
+        "scheduledDate": "2023-12-20T17:30:00Z",
+        "lastCalculationDate": "2025-08-29T02:44:14.259514Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684584"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319278"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122975,
+        "homeSquadId": 41,
+        "awaySquadId": 416,
+        "scheduledDate": "2023-12-20T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:47.807159Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684593"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319273"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122976,
+        "homeSquadId": 35,
+        "awaySquadId": 32,
+        "scheduledDate": "2023-12-20T19:30:00Z",
+        "lastCalculationDate": "2025-07-31T05:04:40.269609Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684602"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319274"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122977,
+        "homeSquadId": 30,
+        "awaySquadId": 33,
+        "scheduledDate": "2023-12-20T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:51.503638Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684608"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319275"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122978,
+        "homeSquadId": 31,
+        "awaySquadId": 36,
+        "scheduledDate": "2023-12-19T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:53.751048Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684623"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1317862"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122979,
+        "homeSquadId": 38,
+        "awaySquadId": 37,
+        "scheduledDate": "2023-12-19T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:56.371685Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684644"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1317388"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122980,
+        "homeSquadId": 46,
+        "awaySquadId": 39,
+        "scheduledDate": "2023-12-20T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:56.575487Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684656"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319276"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122981,
+        "homeSquadId": 432,
+        "awaySquadId": 34,
+        "scheduledDate": "2023-12-20T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:52:59.683476Z",
+        "matchDay": {
+            "index": 15,
+            "name": "16. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684674"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1319277"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122982,
+        "homeSquadId": 33,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-01-12T19:30:00Z",
+        "lastCalculationDate": "2025-08-06T00:36:28.209810Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684404"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1352750"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122983,
+        "homeSquadId": 37,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-01-13T14:30:00Z",
+        "lastCalculationDate": "2025-08-05T23:04:03.861941Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684431"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1353650"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122984,
+        "homeSquadId": 34,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-01-13T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:48:35.689419Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684449"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1354160"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122985,
+        "homeSquadId": 42,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-01-13T14:30:00Z",
+        "lastCalculationDate": "2025-08-05T05:02:57.234822Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684461"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1353652"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122986,
+        "homeSquadId": 32,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-01-14T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:48:37.155988Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684470"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1355623"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122987,
+        "homeSquadId": 27,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-01-13T14:30:00Z",
+        "lastCalculationDate": "2025-08-06T01:58:40.688645Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684482"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1353653"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122988,
+        "homeSquadId": 416,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-01-14T14:30:00Z",
+        "lastCalculationDate": "2025-08-06T01:34:22.773159Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684491"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1355624"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122989,
+        "homeSquadId": 39,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-01-13T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:48:45.072657Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684506"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1354161"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122990,
+        "homeSquadId": 36,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-01-13T17:30:00Z",
+        "lastCalculationDate": "2025-08-05T23:28:53.233366Z",
+        "matchDay": {
+            "index": 16,
+            "name": "17. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684518"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1354159"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122991,
+        "homeSquadId": 33,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-01-21T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:00.313146Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684275"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1365692"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122992,
+        "homeSquadId": 27,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-01-20T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:01.619354Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684281"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1363798"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122993,
+        "homeSquadId": 42,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-02-07T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:02.130468Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684287"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1389190"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122994,
+        "homeSquadId": 37,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-01-20T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:04.006772Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684293"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1364285"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122995,
+        "homeSquadId": 36,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-01-20T14:30:00Z",
+        "lastCalculationDate": "2025-08-29T03:38:23.958801Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684299"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1363801"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122996,
+        "homeSquadId": 432,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-01-20T14:30:00Z",
+        "lastCalculationDate": "2025-08-06T03:49:11.558536Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684308"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1363800"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122997,
+        "homeSquadId": 34,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-01-20T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:06.968411Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684314"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1363797"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122998,
+        "homeSquadId": 416,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-01-20T14:30:00Z",
+        "lastCalculationDate": "2025-08-06T02:31:56.636627Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684335"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1363799"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 122999,
+        "homeSquadId": 32,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-01-21T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:47:12.472629Z",
+        "matchDay": {
+            "index": 17,
+            "name": "18. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684323"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1365691"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123000,
+        "homeSquadId": 39,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-01-27T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:46:58.835039Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684353"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373999"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123001,
+        "homeSquadId": 46,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-01-27T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:46:49.093212Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684365"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1374000"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123002,
+        "homeSquadId": 38,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-01-27T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T05:34:51.491638Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684371"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373998"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123003,
+        "homeSquadId": 35,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-01-26T19:30:00Z",
+        "lastCalculationDate": "2025-08-06T23:44:54.470493Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684380"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373057"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123004,
+        "homeSquadId": 41,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-01-27T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:46:48.250384Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684386"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373995"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123005,
+        "homeSquadId": 30,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-01-27T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T00:27:13.299274Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684392"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373996"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123006,
+        "homeSquadId": 29,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-01-28T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:46:46.258752Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684398"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1375467"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123007,
+        "homeSquadId": 31,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-01-27T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T00:38:55.244314Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684416"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1373997"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123008,
+        "homeSquadId": 446,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-01-28T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:46:54.148085Z",
+        "matchDay": {
+            "index": 18,
+            "name": "19. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684425"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1375468"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123009,
+        "homeSquadId": 432,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-02-02T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:44:12.052387Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684479"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1382436"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123010,
+        "homeSquadId": 37,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-02-04T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:44:16.150559Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684500"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1385064"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123011,
+        "homeSquadId": 36,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-02-03T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:44:16.673958Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684521"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383439"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123012,
+        "homeSquadId": 27,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-02-03T17:30:00Z",
+        "lastCalculationDate": "2025-08-07T23:54:34.326467Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684530"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383995"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123013,
+        "homeSquadId": 33,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-02-03T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:44:17.035859Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684542"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383435"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123014,
+        "homeSquadId": 30,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-02-04T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T10:21:40.921660Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684551"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1385065"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123015,
+        "homeSquadId": 42,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-02-03T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T14:16:33.626710Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684560"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383437"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123016,
+        "homeSquadId": 416,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-02-03T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:44:21.354332Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684566"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383438"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123017,
+        "homeSquadId": 34,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-02-03T14:30:00Z",
+        "lastCalculationDate": "2025-08-07T09:00:39.835725Z",
+        "matchDay": {
+            "index": 19,
+            "name": "20. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684572"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1383436"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123018,
+        "homeSquadId": 41,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-02-10T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:41:55.411078Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684620"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392915"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123019,
+        "homeSquadId": 39,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-02-10T14:30:00Z",
+        "lastCalculationDate": "2025-08-08T01:13:48.012130Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684635"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392920"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123020,
+        "homeSquadId": 29,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-02-09T19:30:00Z",
+        "lastCalculationDate": "2025-08-08T03:25:47.757936Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684641"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1391852"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123021,
+        "homeSquadId": 446,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-02-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:42:03.115809Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684653"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392916"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123022,
+        "homeSquadId": 46,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-02-11T14:30:00Z",
+        "lastCalculationDate": "2025-08-08T02:38:31.267959Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684665"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1394577"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123023,
+        "homeSquadId": 31,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-02-11T16:30:00Z",
+        "lastCalculationDate": "2025-08-08T00:19:11.151536Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684671"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1394576"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123024,
+        "homeSquadId": 35,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-02-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:42:06.000810Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684686"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392917"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123025,
+        "homeSquadId": 38,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-02-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:42:06.555797Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684698"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392919"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123026,
+        "homeSquadId": 32,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-02-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:42:08.721447Z",
+        "matchDay": {
+            "index": 20,
+            "name": "21. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684704"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1392918"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123027,
+        "homeSquadId": 416,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-02-18T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:40:16.503994Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684728"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1404032"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123028,
+        "homeSquadId": 30,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-02-17T14:30:00Z",
+        "lastCalculationDate": "2025-08-08T23:50:34.915659Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684740"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402877"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123029,
+        "homeSquadId": 31,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-02-17T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:40:21.482640Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684749"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402879"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123030,
+        "homeSquadId": 432,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-02-17T14:30:00Z",
+        "lastCalculationDate": "2025-08-09T02:25:00.999021Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684758"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402265"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123031,
+        "homeSquadId": 34,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-02-18T14:30:00Z",
+        "lastCalculationDate": "2025-08-08T23:26:06.691068Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684770"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1404033"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123032,
+        "homeSquadId": 37,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-02-17T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:40:25.660088Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684782"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402876"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123033,
+        "homeSquadId": 27,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-02-16T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:40:26.088373Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684788"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1618214"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123034,
+        "homeSquadId": 42,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-02-17T14:30:00Z",
+        "lastCalculationDate": "2025-10-06T08:38:54.475988Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684803"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402878"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123035,
+        "homeSquadId": 36,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-02-17T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:40:27.757061Z",
+        "matchDay": {
+            "index": 21,
+            "name": "22. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684830"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1402880"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123036,
+        "homeSquadId": 33,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-02-24T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:38:28.334317Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684881"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1412672"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123037,
+        "homeSquadId": 39,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-02-25T18:30:00Z",
+        "lastCalculationDate": "2025-08-11T23:08:52.397672Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684887"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1414478"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123038,
+        "homeSquadId": 35,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-02-25T14:30:00Z",
+        "lastCalculationDate": "2025-08-12T23:48:57.078402Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684893"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1413853"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123039,
+        "homeSquadId": 41,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-02-23T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:38:28.845965Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684899"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1411603"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123040,
+        "homeSquadId": 46,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-02-24T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:38:31.651039Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684911"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1412676"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123041,
+        "homeSquadId": 29,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-02-25T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:38:36.412232Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684920"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1414479"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123042,
+        "homeSquadId": 32,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-02-24T14:30:00Z",
+        "lastCalculationDate": "2025-08-12T23:09:56.403234Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684926"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1412674"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123043,
+        "homeSquadId": 446,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-02-24T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:38:39.634370Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684932"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1412673"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123044,
+        "homeSquadId": 38,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-02-24T14:30:00Z",
+        "lastCalculationDate": "2025-08-11T23:51:56.674384Z",
+        "matchDay": {
+            "index": 22,
+            "name": "23. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684944"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1412675"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123045,
+        "homeSquadId": 34,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-03-01T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:36:32.424727Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684980"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1421274"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123046,
+        "homeSquadId": 446,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-03-02T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:36:32.808737Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684989"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422332"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123047,
+        "homeSquadId": 416,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-03-02T14:30:00Z",
+        "lastCalculationDate": "2025-08-14T01:34:16.792610Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685004"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422334"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123048,
+        "homeSquadId": 27,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-03-03T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:36:36.645159Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685016"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1424220"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123049,
+        "homeSquadId": 432,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-03-02T14:30:00Z",
+        "lastCalculationDate": "2025-08-14T13:58:16.570454Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685031"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422335"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123050,
+        "homeSquadId": 42,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-03-02T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:36:37.706317Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685040"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422333"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123051,
+        "homeSquadId": 31,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-03-03T16:30:00Z",
+        "lastCalculationDate": "2025-08-13T03:37:26.102653Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685055"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1424219"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123052,
+        "homeSquadId": 36,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-03-02T14:30:00Z",
+        "lastCalculationDate": "2025-08-14T22:38:43.536183Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685073"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422336"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123053,
+        "homeSquadId": 30,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-03-02T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:36:44.195572Z",
+        "matchDay": {
+            "index": 23,
+            "name": "24. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685085"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1422331"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123054,
+        "homeSquadId": 38,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-03-09T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:50.025849Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685121"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1433150"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123055,
+        "homeSquadId": 46,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-03-08T19:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:53.281277Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685133"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1431484"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123056,
+        "homeSquadId": 416,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-03-10T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:53.580891Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685148"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1434371"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123057,
+        "homeSquadId": 41,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-03-10T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:55.928175Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685157"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1434369"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123058,
+        "homeSquadId": 33,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-03-09T14:30:00Z",
+        "lastCalculationDate": "2025-08-14T23:28:24.125222Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685184"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1600206"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123059,
+        "homeSquadId": 32,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-03-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:57.648473Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685265"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1432533"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123060,
+        "homeSquadId": 35,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-03-10T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:34:58.454284Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685322"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1434370"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123061,
+        "homeSquadId": 39,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-03-09T14:30:00Z",
+        "lastCalculationDate": "2025-08-14T23:07:59.228996Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685337"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1432534"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123062,
+        "homeSquadId": 37,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-03-09T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:35:02.797091Z",
+        "matchDay": {
+            "index": 24,
+            "name": "25. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685349"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1618213"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123063,
+        "homeSquadId": 36,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-03-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:33:14.513363Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685568"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1442639"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123064,
+        "homeSquadId": 27,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-03-15T19:30:00Z",
+        "lastCalculationDate": "2025-08-16T06:33:19.583152Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685601"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1441541"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123065,
+        "homeSquadId": 34,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-03-17T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:33:18.575321Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685616"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1444619"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123066,
+        "homeSquadId": 29,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-03-17T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:33:21.641674Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685649"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1444618"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123067,
+        "homeSquadId": 432,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-03-16T14:30:00Z",
+        "lastCalculationDate": "2025-08-16T12:21:30.164245Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685661"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1443310"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123068,
+        "homeSquadId": 446,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-03-16T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:33:26.338370Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685700"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1442635"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123069,
+        "homeSquadId": 42,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-03-16T14:30:00Z",
+        "lastCalculationDate": "2025-08-29T03:58:26.047450Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685712"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1443309"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123070,
+        "homeSquadId": 30,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-03-16T14:30:00Z",
+        "lastCalculationDate": "2025-08-15T00:45:53.051946Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685724"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1442636"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123071,
+        "homeSquadId": 31,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-03-16T17:30:00Z",
+        "lastCalculationDate": "2025-08-16T07:06:53.097828Z",
+        "matchDay": {
+            "index": 25,
+            "name": "26. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685736"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1443308"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123072,
+        "homeSquadId": 33,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-03-30T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:31:12.639111Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685850"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1462429"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123073,
+        "homeSquadId": 35,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-03-30T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:31:15.848120Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685877"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1461740"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123074,
+        "homeSquadId": 32,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-03-30T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:31:12.560347Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685895"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1462430"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123075,
+        "homeSquadId": 38,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-03-30T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:31:17.071118Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685913"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1461742"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123076,
+        "homeSquadId": 37,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-03-30T14:30:00Z",
+        "lastCalculationDate": "2025-08-17T02:08:02.553508Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685934"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1461738"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123077,
+        "homeSquadId": 39,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-03-31T13:30:00Z",
+        "lastCalculationDate": "2025-08-17T01:24:14.170371Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685952"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1463765"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123078,
+        "homeSquadId": 41,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-03-30T14:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:31:15.748578Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685979"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1461739"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123079,
+        "homeSquadId": 46,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-03-31T15:30:00Z",
+        "lastCalculationDate": "2025-08-29T04:00:03.428529Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686021"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1463764"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123080,
+        "homeSquadId": 416,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-03-31T17:30:00Z",
+        "lastCalculationDate": "2025-08-29T04:04:04.658837Z",
+        "matchDay": {
+            "index": 26,
+            "name": "27. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686039"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1463763"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123081,
+        "homeSquadId": 432,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-04-06T13:30:00Z",
+        "lastCalculationDate": "2025-08-29T04:00:59.862047Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686228"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481116"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123082,
+        "homeSquadId": 34,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-04-06T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:29:15.824122Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686267"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481113"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123083,
+        "homeSquadId": 446,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-04-06T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:29:16.875376Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686288"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481840"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123084,
+        "homeSquadId": 30,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-04-07T15:30:00Z",
+        "lastCalculationDate": "2025-08-19T02:09:24.591634Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686336"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481109"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123085,
+        "homeSquadId": 35,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-04-05T18:30:00Z",
+        "lastCalculationDate": "2025-08-17T04:07:56.306009Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686363"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1471406"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123086,
+        "homeSquadId": 27,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-04-06T13:30:00Z",
+        "lastCalculationDate": "2025-08-19T05:07:51.666335Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686387"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481115"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123087,
+        "homeSquadId": 31,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-04-07T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:29:24.123171Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686408"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481839"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123088,
+        "homeSquadId": 29,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-04-06T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:29:24.358735Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686456"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481111"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123089,
+        "homeSquadId": 42,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-04-06T13:30:00Z",
+        "lastCalculationDate": "2025-08-19T04:55:48.706372Z",
+        "matchDay": {
+            "index": 27,
+            "name": "28. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686480"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1481841"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123090,
+        "homeSquadId": 32,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-04-13T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:42.881635Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685817"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486066"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123091,
+        "homeSquadId": 39,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-04-12T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:45.735633Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685838"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1484911"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123092,
+        "homeSquadId": 36,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-04-14T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:49.196222Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685868"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1487393"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123093,
+        "homeSquadId": 46,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-04-13T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:49.283960Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685901"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486062"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123094,
+        "homeSquadId": 37,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-04-13T13:30:00Z",
+        "lastCalculationDate": "2025-08-19T13:13:52.885639Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685931"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486064"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123095,
+        "homeSquadId": 33,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-04-13T13:30:00Z",
+        "lastCalculationDate": "2025-08-19T12:40:05.398846Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685961"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486063"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123096,
+        "homeSquadId": 42,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-04-13T13:30:00Z",
+        "lastCalculationDate": "2025-08-29T04:02:49.820327Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686018"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486065"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123097,
+        "homeSquadId": 41,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-04-14T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:52.771012Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686048"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1487392"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123098,
+        "homeSquadId": 416,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-04-13T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:27:54.420199Z",
+        "matchDay": {
+            "index": 28,
+            "name": "29. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9686069"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1486067"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123099,
+        "homeSquadId": 446,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-04-20T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:21.630413Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685520"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1496912"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123100,
+        "homeSquadId": 432,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-04-20T13:30:00Z",
+        "lastCalculationDate": "2025-08-19T23:53:36.209386Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685580"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1496916"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123101,
+        "homeSquadId": 29,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-04-21T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:23.958191Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685610"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1498975"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123102,
+        "homeSquadId": 34,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-04-21T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:23.884882Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685655"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1498974"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123103,
+        "homeSquadId": 31,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-04-20T13:30:00Z",
+        "lastCalculationDate": "2025-08-20T00:20:09.349110Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685667"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1496915"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123104,
+        "homeSquadId": 30,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-04-20T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:25.562358Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685706"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1496913"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123105,
+        "homeSquadId": 35,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-04-19T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:26.578311Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685718"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1495641"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123106,
+        "homeSquadId": 38,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-04-21T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:26:28.894963Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685733"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1498304"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123107,
+        "homeSquadId": 27,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-04-20T13:30:00Z",
+        "lastCalculationDate": "2025-08-20T00:14:24.864109Z",
+        "matchDay": {
+            "index": 29,
+            "name": "30. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685742"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1496914"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123108,
+        "homeSquadId": 37,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-04-27T13:30:00Z",
+        "lastCalculationDate": "2025-08-20T02:31:34.926795Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684908"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1507326"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123109,
+        "homeSquadId": 32,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-04-28T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:45.795101Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684938"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1508599"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123110,
+        "homeSquadId": 33,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-04-27T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:47.520264Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685049"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1507325"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123111,
+        "homeSquadId": 34,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-04-27T13:30:00Z",
+        "lastCalculationDate": "2025-08-20T11:13:14.142346Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685151"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1506698"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123112,
+        "homeSquadId": 42,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-04-28T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:47.320983Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685163"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1509264"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123113,
+        "homeSquadId": 416,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-04-26T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:47.846149Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685178"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1506190"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123114,
+        "homeSquadId": 39,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-04-27T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:47.876678Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685268"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1507327"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123115,
+        "homeSquadId": 41,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-04-27T16:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:24:49.587748Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685316"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1507324"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123116,
+        "homeSquadId": 36,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-04-28T17:30:00Z",
+        "lastCalculationDate": "2025-08-20T01:40:26.711582Z",
+        "matchDay": {
+            "index": 30,
+            "name": "31. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9685331"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1509263"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123117,
+        "homeSquadId": 46,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-05-04T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:08.334703Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684764"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517190"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123118,
+        "homeSquadId": 31,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-05-03T18:30:00Z",
+        "lastCalculationDate": "2025-08-21T04:35:45.888557Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684776"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517191"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123119,
+        "homeSquadId": 27,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-05-04T16:30:00Z",
+        "lastCalculationDate": "2025-08-21T06:54:08.431308Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684797"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517783"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123120,
+        "homeSquadId": 35,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-05-05T15:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:08.788176Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684812"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1519085"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123121,
+        "homeSquadId": 432,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-05-05T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:11.232750Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684821"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1519741"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123122,
+        "homeSquadId": 38,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-05-04T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:17.471992Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684836"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517189"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123123,
+        "homeSquadId": 446,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-05-05T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:17.991854Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684848"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1519086"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123124,
+        "homeSquadId": 29,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-05-04T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:23:19.080668Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684860"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517187"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123125,
+        "homeSquadId": 30,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-05-04T13:30:00Z",
+        "lastCalculationDate": "2025-08-21T07:34:26.421002Z",
+        "matchDay": {
+            "index": 31,
+            "name": "32. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684869"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1517188"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123126,
+        "homeSquadId": 27,
+        "awaySquadId": 446,
+        "scheduledDate": "2024-05-11T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:21:35.221614Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684587"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1528523"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123127,
+        "homeSquadId": 416,
+        "awaySquadId": 41,
+        "scheduledDate": "2024-05-12T17:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:21:36.117515Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684596"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1530735"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123128,
+        "homeSquadId": 32,
+        "awaySquadId": 35,
+        "scheduledDate": "2024-05-11T13:30:00Z",
+        "lastCalculationDate": "2025-08-28T02:16:44.073339Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684605"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1528522"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123129,
+        "homeSquadId": 33,
+        "awaySquadId": 30,
+        "scheduledDate": "2024-05-12T15:30:00Z",
+        "lastCalculationDate": "2025-08-28T01:05:55.451135Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684611"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1530736"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123130,
+        "homeSquadId": 36,
+        "awaySquadId": 31,
+        "scheduledDate": "2024-05-12T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:21:37.634503Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684626"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1529977"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123131,
+        "homeSquadId": 37,
+        "awaySquadId": 38,
+        "scheduledDate": "2024-05-11T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:21:39.282315Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684647"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1528520"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123132,
+        "homeSquadId": 39,
+        "awaySquadId": 46,
+        "scheduledDate": "2024-05-10T18:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:21:40.738153Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684659"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1532202"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123133,
+        "homeSquadId": 34,
+        "awaySquadId": 432,
+        "scheduledDate": "2024-05-11T13:30:00Z",
+        "lastCalculationDate": "2025-08-28T10:13:13.056649Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684680"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1573337"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123134,
+        "homeSquadId": 42,
+        "awaySquadId": 29,
+        "scheduledDate": "2024-05-11T16:30:00Z",
+        "lastCalculationDate": "2025-08-28T02:03:07.960229Z",
+        "matchDay": {
+            "index": 32,
+            "name": "33. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684581"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1573336"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123135,
+        "homeSquadId": 31,
+        "awaySquadId": 33,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-08-30T00:26:25.569223Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684410"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540757"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123136,
+        "homeSquadId": 35,
+        "awaySquadId": 37,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-08-28T03:12:19.141104Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684434"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540028"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123137,
+        "homeSquadId": 446,
+        "awaySquadId": 34,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:20:04.327464Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684452"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540754"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123138,
+        "homeSquadId": 30,
+        "awaySquadId": 42,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-08-30T00:07:25.011778Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684464"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1544422"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123139,
+        "homeSquadId": 46,
+        "awaySquadId": 32,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:20:11.382992Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684473"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540032"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123140,
+        "homeSquadId": 432,
+        "awaySquadId": 27,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:20:11.025837Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684485"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540758"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123141,
+        "homeSquadId": 38,
+        "awaySquadId": 416,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:20:11.676394Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684494"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540031"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123142,
+        "homeSquadId": 41,
+        "awaySquadId": 39,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-08-28T02:17:23.312124Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684509"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1543782"
+                ]
+            }
+        ]
+    },
+    {
+        "iterationId": 743,
+        "id": 123143,
+        "homeSquadId": 29,
+        "awaySquadId": 36,
+        "scheduledDate": "2024-05-18T13:30:00Z",
+        "lastCalculationDate": "2025-07-24T00:20:16.840030Z",
+        "matchDay": {
+            "index": 33,
+            "name": "34. Spieltag"
+        },
+        "available": true,
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9684524"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "1540753"
+                ]
+            }
+        ]
+    }
+]

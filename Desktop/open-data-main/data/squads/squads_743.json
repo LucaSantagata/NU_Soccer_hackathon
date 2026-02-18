@@ -1,0 +1,380 @@
+[
+    {
+        "id": 27,
+        "name": "1. FC K\u00f6ln",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/d66c67321cba356555d3a6b2936c196c952e6610.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "9"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "107"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 29,
+        "name": "Borussia Dortmund",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/b57efbe7494a1fb5f1affd8ba964c6b61b6568f4.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "258"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "103"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 30,
+        "name": "VfL Wolfsburg",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/2bf762ba99902f21d93917455f33283630dd87e5.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "2086"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "106"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 31,
+        "name": "TSG 1899 Hoffenheim",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/d6f9607600d61546a5e21fed3e8d5f77cbfc9ed7.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "24"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "113"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 32,
+        "name": "Borussia M\u00f6nchengladbach",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/c5651f3ba6972ea17f56ed5b1fa1a8bf9961d312.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "253"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "114"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 33,
+        "name": "FC Bayern M\u00fcnchen",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/f89ad0a55f3c8a7314a2b575167ecb90f479edea.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "209"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "100"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 34,
+        "name": "SC Freiburg",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/227cb326e0c90343c0b2bebda1d6c84c55e6226d.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "1639"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "118"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 35,
+        "name": "Eintracht Frankfurt",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/6f04ef21cd4dbaf306138ec743114671eccd1e65.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "530"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "108"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 36,
+        "name": "SV Darmstadt 98",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/2d02d407921e50ffc7f1c48a6e67a6a03f4ca752.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "1852"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "129"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 37,
+        "name": "RasenBallsport Leipzig",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/2daa0ead6047665f9e369b23b07c881ddec14d86.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "29680"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "312"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 38,
+        "name": "SV Werder Bremen",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/squad/5bd98128299f6d854e02e710c8459abf.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "2134"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "111"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 39,
+        "name": "FC Augsburg",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/703f37a85fcd76632193611f6cdd98729f7f01c3.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "594"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "123"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 41,
+        "name": "Bayer 04 Leverkusen",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/39d2953c70359b219834455c2274b25d75be8a18.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "205"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "102"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 42,
+        "name": "1. FSV Mainz 05",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/606353d69bfd3d63c51902cb55302c20cddf7499.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "21"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "120"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 46,
+        "name": "VfB Stuttgart",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/8bd5641b3db2745e15954f37c307497a024304f2.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "2076"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "115"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 416,
+        "name": "VfL Bochum",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/squad/82b0004f3b910874ca161a8c436ecfe0.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "2079"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "117"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 432,
+        "name": "1. FC Heidenheim 1846",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/squad/3550f1b9b48933a5ac36fee78f0696f3.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "5"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "763"
+                ]
+            }
+        ],
+        "access": true
+    },
+    {
+        "id": 446,
+        "name": "1. FC Union Berlin",
+        "countryId": 466,
+        "type": "CLUB",
+        "gender": "MALE",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/impect-images/v3/squad/m/3f5fa6274ea89e03235322fabbd813d50c54f492.png",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "19"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "757"
+                ]
+            }
+        ],
+        "access": true
+    }
+]

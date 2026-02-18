@@ -1,0 +1,703 @@
+from_id,to_id,team_id,team,from,to,passes,shared_minutes,passes_per90_shared
+1004,1023,46,VfB Stuttgart,Genki Haraguchi,Alexander Nübel,0.0,0.0,0.0
+1004,1056,46,VfB Stuttgart,Genki Haraguchi,Serhou Guirassy,0.0,0.0,0.0
+1004,1161,46,VfB Stuttgart,Genki Haraguchi,Mahmoud Dahoud,0.0,0.0,0.0
+1004,1171,46,VfB Stuttgart,Genki Haraguchi,Pascal Stenzel,0.0,0.0,0.0
+1004,1297,46,VfB Stuttgart,Genki Haraguchi,Maximilian Mittelstädt,0.0,0.0,0.0
+1004,1359,46,VfB Stuttgart,Genki Haraguchi,Waldemar Anton,2.0,27.32876833333336,6.586465873782206
+1004,5420,46,VfB Stuttgart,Genki Haraguchi,Borna Sosa,2.0,23.24248333333332,7.744439241647306
+1004,5774,46,VfB Stuttgart,Genki Haraguchi,Dan-Axel Zagadou,2.0,22.657500000000013,7.9443892750744745
+1004,9861,46,VfB Stuttgart,Genki Haraguchi,Fabian Bredlow,0.0,0.0,0.0
+1004,22947,46,VfB Stuttgart,Genki Haraguchi,Atakan Karazor,0.0,0.0,0.0
+1004,27123,46,VfB Stuttgart,Genki Haraguchi,Angelo Stiller,0.0,0.0,0.0
+1004,27426,46,VfB Stuttgart,Genki Haraguchi,Josha Vagnoman,0.0,0.0,0.0
+1004,31448,46,VfB Stuttgart,Genki Haraguchi,Leonidas Stergiou,0.0,0.0,0.0
+1004,33056,46,VfB Stuttgart,Genki Haraguchi,Roberto Massimo,3.0,22.905033333333357,11.787802098810873
+1004,35172,46,VfB Stuttgart,Genki Haraguchi,Chris Führich,0.0,0.0,0.0
+1004,41429,46,VfB Stuttgart,Genki Haraguchi,Woo-yeong Jeong,1.0,19.50280166666668,4.614721594273503
+1004,44929,46,VfB Stuttgart,Genki Haraguchi,Deniz Undav,0.0,0.0,0.0
+1004,45518,46,VfB Stuttgart,Genki Haraguchi,Silas,0.0,0.0,0.0
+1004,46337,46,VfB Stuttgart,Genki Haraguchi,Enzo Millot,0.0,0.0,0.0
+1004,50078,46,VfB Stuttgart,Genki Haraguchi,Hiroki Ito,2.0,23.341199999999997,7.711685774510309
+1004,51629,46,VfB Stuttgart,Genki Haraguchi,Jamie Leweling,0.0,0.0,0.0
+1004,53526,46,VfB Stuttgart,Genki Haraguchi,Anthony Rouault,0.0,0.0,0.0
+1004,53560,46,VfB Stuttgart,Genki Haraguchi,Lilian Egloff,0.0,0.0,0.0
+1004,104926,46,VfB Stuttgart,Genki Haraguchi,Luca Raimund,0.0,0.0,0.0
+1004,104927,46,VfB Stuttgart,Genki Haraguchi,Samuele Di Benedetto,0.0,0.0,0.0
+1004,114859,46,VfB Stuttgart,Genki Haraguchi,Jovan Milosevic,0.0,0.0,0.0
+1023,1004,46,VfB Stuttgart,Alexander Nübel,Genki Haraguchi,0.0,0.0,0.0
+1023,1056,46,VfB Stuttgart,Alexander Nübel,Serhou Guirassy,25.0,4447.198928333333,0.5059364414002563
+1023,1161,46,VfB Stuttgart,Alexander Nübel,Mahmoud Dahoud,7.0,290.2522183333333,2.170526046682928
+1023,1171,46,VfB Stuttgart,Alexander Nübel,Pascal Stenzel,29.0,2269.0706916666663,1.1502506332594318
+1023,1297,46,VfB Stuttgart,Alexander Nübel,Maximilian Mittelstädt,43.0,4126.561611666667,0.9378267827284311
+1023,1359,46,VfB Stuttgart,Alexander Nübel,Waldemar Anton,184.0,5937.572276666668,2.7890186810991926
+1023,5420,46,VfB Stuttgart,Alexander Nübel,Borna Sosa,1.0,33.39996666666669,2.6946134676781095
+1023,5774,46,VfB Stuttgart,Alexander Nübel,Dan-Axel Zagadou,104.0,3376.464073333333,2.772130784368028
+1023,9861,46,VfB Stuttgart,Alexander Nübel,Fabian Bredlow,0.0,0.0,0.0
+1023,22947,46,VfB Stuttgart,Alexander Nübel,Atakan Karazor,43.0,5550.702011666668,0.697209108301237
+1023,27123,46,VfB Stuttgart,Alexander Nübel,Angelo Stiller,69.0,5518.758278333332,1.125253125214867
+1023,27426,46,VfB Stuttgart,Alexander Nübel,Josha Vagnoman,13.0,2200.0496350000003,0.5318061835454907
+1023,31448,46,VfB Stuttgart,Alexander Nübel,Leonidas Stergiou,12.0,982.0431033333334,1.0997480623143454
+1023,33056,46,VfB Stuttgart,Alexander Nübel,Roberto Massimo,0.0,0.0,0.0
+1023,35172,46,VfB Stuttgart,Alexander Nübel,Chris Führich,20.0,5661.612168333333,0.3179306435131329
+1023,41429,46,VfB Stuttgart,Alexander Nübel,Woo-yeong Jeong,5.0,974.3693566666669,0.4618371841448885
+1023,44929,46,VfB Stuttgart,Alexander Nübel,Deniz Undav,19.0,4374.520459999999,0.39089998906988777
+1023,45518,46,VfB Stuttgart,Alexander Nübel,Silas,4.0,1776.3569566666663,0.20266196985291737
+1023,46337,46,VfB Stuttgart,Alexander Nübel,Enzo Millot,22.0,4837.222995000001,0.40932576439966245
+1023,50078,46,VfB Stuttgart,Alexander Nübel,Hiroki Ito,95.0,4417.28169,1.935579526059159
+1023,51629,46,VfB Stuttgart,Alexander Nübel,Jamie Leweling,5.0,2921.852046666667,0.15401190505637444
+1023,53526,46,VfB Stuttgart,Alexander Nübel,Anthony Rouault,52.0,2001.3578400000004,2.3384124050499633
+1023,53560,46,VfB Stuttgart,Alexander Nübel,Lilian Egloff,2.0,210.9803533333333,0.8531600082952433
+1023,104926,46,VfB Stuttgart,Alexander Nübel,Luca Raimund,0.0,0.0,0.0
+1023,104927,46,VfB Stuttgart,Alexander Nübel,Samuele Di Benedetto,0.0,0.0,0.0
+1023,114859,46,VfB Stuttgart,Alexander Nübel,Jovan Milosevic,0.0,0.0,0.0
+1056,1004,46,VfB Stuttgart,Serhou Guirassy,Genki Haraguchi,0.0,0.0,0.0
+1056,1023,46,VfB Stuttgart,Serhou Guirassy,Alexander Nübel,0.0,0.0,0.0
+1056,1161,46,VfB Stuttgart,Serhou Guirassy,Mahmoud Dahoud,8.0,320.140425,2.249013069811474
+1056,1171,46,VfB Stuttgart,Serhou Guirassy,Pascal Stenzel,13.0,2073.4400416666663,0.5642796398682134
+1056,1297,46,VfB Stuttgart,Serhou Guirassy,Maximilian Mittelstädt,49.0,3305.2909700000005,1.334224441970989
+1056,1359,46,VfB Stuttgart,Serhou Guirassy,Waldemar Anton,26.0,4697.7687700000015,0.49810880751374215
+1056,5420,46,VfB Stuttgart,Serhou Guirassy,Borna Sosa,0.0,0.0,0.0
+1056,5774,46,VfB Stuttgart,Serhou Guirassy,Dan-Axel Zagadou,16.0,1946.3118100000002,0.7398608961839469
+1056,9861,46,VfB Stuttgart,Serhou Guirassy,Fabian Bredlow,0.0,0.0,0.0
+1056,22947,46,VfB Stuttgart,Serhou Guirassy,Atakan Karazor,77.0,4575.811833333333,1.5144853530726843
+1056,27123,46,VfB Stuttgart,Serhou Guirassy,Angelo Stiller,88.0,4263.2957683333325,1.857717697849567
+1056,27426,46,VfB Stuttgart,Serhou Guirassy,Josha Vagnoman,14.0,1615.9265916666664,0.779738390653276
+1056,31448,46,VfB Stuttgart,Serhou Guirassy,Leonidas Stergiou,7.0,948.4689733333332,0.6642283698389264
+1056,33056,46,VfB Stuttgart,Serhou Guirassy,Roberto Massimo,1.0,31.809818333333318,2.8293151207873932
+1056,35172,46,VfB Stuttgart,Serhou Guirassy,Chris Führich,44.0,4500.6345316666675,0.8798759313019667
+1056,41429,46,VfB Stuttgart,Serhou Guirassy,Woo-yeong Jeong,19.0,946.4847733333332,1.8066851661836212
+1056,44929,46,VfB Stuttgart,Serhou Guirassy,Deniz Undav,54.0,2922.4813133333337,1.6629704278439903
+1056,45518,46,VfB Stuttgart,Serhou Guirassy,Silas,22.0,1372.563295,1.4425564250572502
+1056,46337,46,VfB Stuttgart,Serhou Guirassy,Enzo Millot,69.0,3510.6671716666656,1.7688945423589797
+1056,50078,46,VfB Stuttgart,Serhou Guirassy,Hiroki Ito,34.0,4229.834635,0.7234325367426568
+1056,51629,46,VfB Stuttgart,Serhou Guirassy,Jamie Leweling,32.0,2138.178143333333,1.346941090469757
+1056,53526,46,VfB Stuttgart,Serhou Guirassy,Anthony Rouault,10.0,1173.3185749999998,0.7670551026604179
+1056,53560,46,VfB Stuttgart,Serhou Guirassy,Lilian Egloff,3.0,193.9054183333333,1.3924314354942688
+1056,104926,46,VfB Stuttgart,Serhou Guirassy,Luca Raimund,0.0,0.0,0.0
+1056,104927,46,VfB Stuttgart,Serhou Guirassy,Samuele Di Benedetto,0.0,0.0,0.0
+1056,114859,46,VfB Stuttgart,Serhou Guirassy,Jovan Milosevic,0.0,0.0,0.0
+1161,1004,46,VfB Stuttgart,Mahmoud Dahoud,Genki Haraguchi,0.0,0.0,0.0
+1161,1023,46,VfB Stuttgart,Mahmoud Dahoud,Alexander Nübel,0.0,0.0,0.0
+1161,1056,46,VfB Stuttgart,Mahmoud Dahoud,Serhou Guirassy,7.0,320.140425,1.9678864360850399
+1161,1171,46,VfB Stuttgart,Mahmoud Dahoud,Pascal Stenzel,4.0,47.42440333333334,7.59102855695742
+1161,1297,46,VfB Stuttgart,Mahmoud Dahoud,Maximilian Mittelstädt,12.0,305.59714166666663,3.5340644683713096
+1161,1359,46,VfB Stuttgart,Mahmoud Dahoud,Waldemar Anton,30.0,335.11774166666663,8.056869763361032
+1161,5420,46,VfB Stuttgart,Mahmoud Dahoud,Borna Sosa,0.0,0.0,0.0
+1161,5774,46,VfB Stuttgart,Mahmoud Dahoud,Dan-Axel Zagadou,0.0,0.0,0.0
+1161,9861,46,VfB Stuttgart,Mahmoud Dahoud,Fabian Bredlow,0.0,0.0,0.0
+1161,22947,46,VfB Stuttgart,Mahmoud Dahoud,Atakan Karazor,23.0,107.52263999999995,19.25175944340653
+1161,27123,46,VfB Stuttgart,Mahmoud Dahoud,Angelo Stiller,37.0,310.5350866666667,10.723425928273526
+1161,27426,46,VfB Stuttgart,Mahmoud Dahoud,Josha Vagnoman,8.0,274.66745333333324,2.621351715546058
+1161,31448,46,VfB Stuttgart,Mahmoud Dahoud,Leonidas Stergiou,7.0,63.03125333333333,9.995041613218755
+1161,33056,46,VfB Stuttgart,Mahmoud Dahoud,Roberto Massimo,0.0,0.0,0.0
+1161,35172,46,VfB Stuttgart,Mahmoud Dahoud,Chris Führich,6.0,251.5854733333334,2.1463878372839806
+1161,41429,46,VfB Stuttgart,Mahmoud Dahoud,Woo-yeong Jeong,7.0,83.60824166666664,7.535142319003841
+1161,44929,46,VfB Stuttgart,Mahmoud Dahoud,Deniz Undav,8.0,266.60645500000004,2.7006097808096956
+1161,45518,46,VfB Stuttgart,Mahmoud Dahoud,Silas,7.0,83.6458166666666,7.531757416041334
+1161,46337,46,VfB Stuttgart,Mahmoud Dahoud,Enzo Millot,5.0,234.0452533333333,1.9227050905369074
+1161,50078,46,VfB Stuttgart,Mahmoud Dahoud,Hiroki Ito,25.0,335.9444616666667,6.697535624898951
+1161,51629,46,VfB Stuttgart,Mahmoud Dahoud,Jamie Leweling,3.0,55.523004999999976,4.862849191970069
+1161,53526,46,VfB Stuttgart,Mahmoud Dahoud,Anthony Rouault,3.0,48.807620000000014,5.531923089058633
+1161,53560,46,VfB Stuttgart,Mahmoud Dahoud,Lilian Egloff,0.0,0.0,0.0
+1161,104926,46,VfB Stuttgart,Mahmoud Dahoud,Luca Raimund,0.0,0.0,0.0
+1161,104927,46,VfB Stuttgart,Mahmoud Dahoud,Samuele Di Benedetto,0.0,0.0,0.0
+1161,114859,46,VfB Stuttgart,Mahmoud Dahoud,Jovan Milosevic,0.0,0.0,0.0
+1171,1004,46,VfB Stuttgart,Pascal Stenzel,Genki Haraguchi,0.0,0.0,0.0
+1171,1023,46,VfB Stuttgart,Pascal Stenzel,Alexander Nübel,22.0,2269.0706916666663,0.8726039286795689
+1171,1056,46,VfB Stuttgart,Pascal Stenzel,Serhou Guirassy,27.0,2073.4400416666663,1.1719654058801356
+1171,1161,46,VfB Stuttgart,Pascal Stenzel,Mahmoud Dahoud,6.0,47.42440333333334,11.38654283543613
+1171,1297,46,VfB Stuttgart,Pascal Stenzel,Maximilian Mittelstädt,11.0,999.2873933333333,0.9907059836886831
+1171,1359,46,VfB Stuttgart,Pascal Stenzel,Waldemar Anton,101.0,2349.87261,3.8682948008828446
+1171,5420,46,VfB Stuttgart,Pascal Stenzel,Borna Sosa,0.0,0.0,0.0
+1171,5774,46,VfB Stuttgart,Pascal Stenzel,Dan-Axel Zagadou,19.0,1425.2743383333334,1.199769022712929
+1171,9861,46,VfB Stuttgart,Pascal Stenzel,Fabian Bredlow,2.0,235.25445,0.7651289911838013
+1171,22947,46,VfB Stuttgart,Pascal Stenzel,Atakan Karazor,53.0,2420.460405,1.9706994545940528
+1171,27123,46,VfB Stuttgart,Pascal Stenzel,Angelo Stiller,43.0,1932.526975,2.0025593691906938
+1171,27426,46,VfB Stuttgart,Pascal Stenzel,Josha Vagnoman,16.0,232.98218666666668,6.180730040362455
+1171,31448,46,VfB Stuttgart,Pascal Stenzel,Leonidas Stergiou,0.0,0.0,0.0
+1171,33056,46,VfB Stuttgart,Pascal Stenzel,Roberto Massimo,0.0,0.0,0.0
+1171,35172,46,VfB Stuttgart,Pascal Stenzel,Chris Führich,25.0,2383.2344416666665,0.9440951174012525
+1171,41429,46,VfB Stuttgart,Pascal Stenzel,Woo-yeong Jeong,6.0,607.9296366666666,0.8882606924065571
+1171,44929,46,VfB Stuttgart,Pascal Stenzel,Deniz Undav,12.0,991.1295449999999,1.0896658317253574
+1171,45518,46,VfB Stuttgart,Pascal Stenzel,Silas,56.0,1337.4528216666665,3.7683572222902075
+1171,46337,46,VfB Stuttgart,Pascal Stenzel,Enzo Millot,59.0,1791.2439900000002,2.9644202742028454
+1171,50078,46,VfB Stuttgart,Pascal Stenzel,Hiroki Ito,37.0,2040.0463883333334,1.6323158233281774
+1171,51629,46,VfB Stuttgart,Pascal Stenzel,Jamie Leweling,39.0,846.7871733333335,4.1450793192616135
+1171,53526,46,VfB Stuttgart,Pascal Stenzel,Anthony Rouault,32.0,640.1605249999999,4.4988715916214925
+1171,53560,46,VfB Stuttgart,Pascal Stenzel,Lilian Egloff,0.0,0.0,0.0
+1171,104926,46,VfB Stuttgart,Pascal Stenzel,Luca Raimund,0.0,0.0,0.0
+1171,104927,46,VfB Stuttgart,Pascal Stenzel,Samuele Di Benedetto,0.0,0.0,0.0
+1171,114859,46,VfB Stuttgart,Pascal Stenzel,Jovan Milosevic,0.0,0.0,0.0
+1297,1004,46,VfB Stuttgart,Maximilian Mittelstädt,Genki Haraguchi,0.0,0.0,0.0
+1297,1023,46,VfB Stuttgart,Maximilian Mittelstädt,Alexander Nübel,38.0,4126.561611666667,0.8287771568297764
+1297,1056,46,VfB Stuttgart,Maximilian Mittelstädt,Serhou Guirassy,75.0,3305.2909700000005,2.042180268322942
+1297,1161,46,VfB Stuttgart,Maximilian Mittelstädt,Mahmoud Dahoud,18.0,305.59714166666663,5.301096702556965
+1297,1171,46,VfB Stuttgart,Maximilian Mittelstädt,Pascal Stenzel,9.0,999.2873933333333,0.8105776230180135
+1297,1359,46,VfB Stuttgart,Maximilian Mittelstädt,Waldemar Anton,71.0,4368.396805,1.4627792037312415
+1297,5420,46,VfB Stuttgart,Maximilian Mittelstädt,Borna Sosa,0.0,0.0,0.0
+1297,5774,46,VfB Stuttgart,Maximilian Mittelstädt,Dan-Axel Zagadou,123.0,2007.5353133333335,5.514224296069418
+1297,9861,46,VfB Stuttgart,Maximilian Mittelstädt,Fabian Bredlow,0.0,0.0,0.0
+1297,22947,46,VfB Stuttgart,Maximilian Mittelstädt,Atakan Karazor,67.0,4017.67918,1.5008664778455507
+1297,27123,46,VfB Stuttgart,Maximilian Mittelstädt,Angelo Stiller,191.0,4369.263653333334,3.9343013752181464
+1297,27426,46,VfB Stuttgart,Maximilian Mittelstädt,Josha Vagnoman,9.0,2065.2127450000003,0.3922114087088882
+1297,31448,46,VfB Stuttgart,Maximilian Mittelstädt,Leonidas Stergiou,5.0,954.63394,0.4713848744996432
+1297,33056,46,VfB Stuttgart,Maximilian Mittelstädt,Roberto Massimo,2.0,50.121901666666695,3.591244426380335
+1297,35172,46,VfB Stuttgart,Maximilian Mittelstädt,Chris Führich,257.0,4163.621268333333,5.555260315321323
+1297,41429,46,VfB Stuttgart,Maximilian Mittelstädt,Woo-yeong Jeong,18.0,179.74800999999997,9.012617163327707
+1297,44929,46,VfB Stuttgart,Maximilian Mittelstädt,Deniz Undav,74.0,4108.24655,1.62112957899277
+1297,45518,46,VfB Stuttgart,Maximilian Mittelstädt,Silas,16.0,462.8428616666666,3.1112071056138904
+1297,46337,46,VfB Stuttgart,Maximilian Mittelstädt,Enzo Millot,55.0,3720.9548199999995,1.3303037095193757
+1297,50078,46,VfB Stuttgart,Maximilian Mittelstädt,Hiroki Ito,181.0,3071.1204366666666,5.304253068525325
+1297,51629,46,VfB Stuttgart,Maximilian Mittelstädt,Jamie Leweling,20.0,2721.0715516666664,0.661504104475861
+1297,53526,46,VfB Stuttgart,Maximilian Mittelstädt,Anthony Rouault,26.0,992.14744,2.3585204231338843
+1297,53560,46,VfB Stuttgart,Maximilian Mittelstädt,Lilian Egloff,1.0,13.136368333333303,6.851208622981938
+1297,104926,46,VfB Stuttgart,Maximilian Mittelstädt,Luca Raimund,0.0,0.0,0.0
+1297,104927,46,VfB Stuttgart,Maximilian Mittelstädt,Samuele Di Benedetto,0.0,0.0,0.0
+1297,114859,46,VfB Stuttgart,Maximilian Mittelstädt,Jovan Milosevic,1.0,16.630768333333343,5.41165616621641
+1359,1004,46,VfB Stuttgart,Waldemar Anton,Genki Haraguchi,1.0,27.32876833333336,3.293232936891103
+1359,1023,46,VfB Stuttgart,Waldemar Anton,Alexander Nübel,208.0,5937.572276666668,3.1528037264599567
+1359,1056,46,VfB Stuttgart,Waldemar Anton,Serhou Guirassy,42.0,4697.7687700000015,0.8046373044452758
+1359,1161,46,VfB Stuttgart,Waldemar Anton,Mahmoud Dahoud,22.0,335.11774166666663,5.908371159798091
+1359,1171,46,VfB Stuttgart,Waldemar Anton,Pascal Stenzel,119.0,2349.87261,4.5576938743075095
+1359,1297,46,VfB Stuttgart,Waldemar Anton,Maximilian Mittelstädt,61.0,4368.396805,1.2567539637690948
+1359,5420,46,VfB Stuttgart,Waldemar Anton,Borna Sosa,1.0,44.51616833333334,2.0217373455434786
+1359,5774,46,VfB Stuttgart,Waldemar Anton,Dan-Axel Zagadou,274.0,3387.065433333333,7.280638796437778
+1359,9861,46,VfB Stuttgart,Waldemar Anton,Fabian Bredlow,29.0,837.8328016666667,3.1151800154016804
+1359,22947,46,VfB Stuttgart,Waldemar Anton,Atakan Karazor,179.0,5967.3281633333345,2.6997006967019215
+1359,27123,46,VfB Stuttgart,Waldemar Anton,Angelo Stiller,276.0,5963.708158333333,4.165193758733826
+1359,27426,46,VfB Stuttgart,Waldemar Anton,Josha Vagnoman,72.0,2263.4357099999997,2.862904376462277
+1359,31448,46,VfB Stuttgart,Waldemar Anton,Leonidas Stergiou,61.0,1145.6884916666668,4.791878455559535
+1359,33056,46,VfB Stuttgart,Waldemar Anton,Roberto Massimo,5.0,77.98918666666665,5.770030682886124
+1359,35172,46,VfB Stuttgart,Waldemar Anton,Chris Führich,46.0,6113.104003333335,0.677233693021181
+1359,41429,46,VfB Stuttgart,Waldemar Anton,Woo-yeong Jeong,24.0,1170.0986049999997,1.8459982695219097
+1359,44929,46,VfB Stuttgart,Waldemar Anton,Deniz Undav,66.0,4752.373196666667,1.2499018393939134
+1359,45518,46,VfB Stuttgart,Waldemar Anton,Silas,44.0,1780.637898333333,2.2239221144885986
+1359,46337,46,VfB Stuttgart,Waldemar Anton,Enzo Millot,135.0,4967.6846583333345,2.445807420488792
+1359,50078,46,VfB Stuttgart,Waldemar Anton,Hiroki Ito,237.0,4891.395771666666,4.360718493390719
+1359,51629,46,VfB Stuttgart,Waldemar Anton,Jamie Leweling,93.0,3168.2833883333333,2.6418091357676863
+1359,53526,46,VfB Stuttgart,Waldemar Anton,Anthony Rouault,199.0,2163.185546666667,8.279456206425834
+1359,53560,46,VfB Stuttgart,Waldemar Anton,Lilian Egloff,6.0,219.87532166666665,2.455937282578014
+1359,104926,46,VfB Stuttgart,Waldemar Anton,Luca Raimund,3.0,29.65358499999999,9.105138552387514
+1359,104927,46,VfB Stuttgart,Waldemar Anton,Samuele Di Benedetto,0.0,0.0,0.0
+1359,114859,46,VfB Stuttgart,Waldemar Anton,Jovan Milosevic,2.0,23.11668499999999,7.78658358670372
+5420,1004,46,VfB Stuttgart,Borna Sosa,Genki Haraguchi,2.0,23.24248333333332,7.744439241647306
+5420,1023,46,VfB Stuttgart,Borna Sosa,Alexander Nübel,0.0,0.0,0.0
+5420,1056,46,VfB Stuttgart,Borna Sosa,Serhou Guirassy,3.0,34.93881666666666,7.7277946352886415
+5420,1161,46,VfB Stuttgart,Borna Sosa,Mahmoud Dahoud,0.0,0.0,0.0
+5420,1171,46,VfB Stuttgart,Borna Sosa,Pascal Stenzel,0.0,0.0,0.0
+5420,1297,46,VfB Stuttgart,Borna Sosa,Maximilian Mittelstädt,0.0,0.0,0.0
+5420,1359,46,VfB Stuttgart,Borna Sosa,Waldemar Anton,2.0,44.51616833333334,4.043474691086957
+5420,5774,46,VfB Stuttgart,Borna Sosa,Dan-Axel Zagadou,1.0,45.17058333333335,1.9924471494169316
+5420,9861,46,VfB Stuttgart,Borna Sosa,Fabian Bredlow,0.0,0.0,0.0
+5420,22947,46,VfB Stuttgart,Borna Sosa,Atakan Karazor,1.0,34.059116666666675,2.6424643034880035
+5420,27123,46,VfB Stuttgart,Borna Sosa,Angelo Stiller,0.0,0.0,0.0
+5420,27426,46,VfB Stuttgart,Borna Sosa,Josha Vagnoman,0.0,0.0,0.0
+5420,31448,46,VfB Stuttgart,Borna Sosa,Leonidas Stergiou,0.0,0.0,0.0
+5420,33056,46,VfB Stuttgart,Borna Sosa,Roberto Massimo,1.0,30.6119,2.940033124373201
+5420,35172,46,VfB Stuttgart,Borna Sosa,Chris Führich,7.0,40.43183333333333,15.581781681925547
+5420,41429,46,VfB Stuttgart,Borna Sosa,Woo-yeong Jeong,1.0,36.44035166666666,2.4697895570071116
+5420,44929,46,VfB Stuttgart,Borna Sosa,Deniz Undav,0.0,0.0,0.0
+5420,45518,46,VfB Stuttgart,Borna Sosa,Silas,0.0,0.0,0.0
+5420,46337,46,VfB Stuttgart,Borna Sosa,Enzo Millot,0.0,0.0,0.0
+5420,50078,46,VfB Stuttgart,Borna Sosa,Hiroki Ito,4.0,36.04731666666667,9.986873734013487
+5420,51629,46,VfB Stuttgart,Borna Sosa,Jamie Leweling,1.0,10.972249999999985,8.202510879719302
+5420,53526,46,VfB Stuttgart,Borna Sosa,Anthony Rouault,0.0,0.0,0.0
+5420,53560,46,VfB Stuttgart,Borna Sosa,Lilian Egloff,0.0,0.0,0.0
+5420,104926,46,VfB Stuttgart,Borna Sosa,Luca Raimund,0.0,0.0,0.0
+5420,104927,46,VfB Stuttgart,Borna Sosa,Samuele Di Benedetto,0.0,0.0,0.0
+5420,114859,46,VfB Stuttgart,Borna Sosa,Jovan Milosevic,0.0,0.0,0.0
+5774,1004,46,VfB Stuttgart,Dan-Axel Zagadou,Genki Haraguchi,1.0,22.657500000000013,3.9721946375372372
+5774,1023,46,VfB Stuttgart,Dan-Axel Zagadou,Alexander Nübel,101.0,3376.464073333333,2.692165473280489
+5774,1056,46,VfB Stuttgart,Dan-Axel Zagadou,Serhou Guirassy,22.0,1946.3118100000002,1.017308732252927
+5774,1161,46,VfB Stuttgart,Dan-Axel Zagadou,Mahmoud Dahoud,0.0,0.0,0.0
+5774,1171,46,VfB Stuttgart,Dan-Axel Zagadou,Pascal Stenzel,19.0,1425.2743383333334,1.199769022712929
+5774,1297,46,VfB Stuttgart,Dan-Axel Zagadou,Maximilian Mittelstädt,134.0,2007.5353133333335,6.007366306287008
+5774,1359,46,VfB Stuttgart,Dan-Axel Zagadou,Waldemar Anton,265.0,3387.065433333333,7.041493726481792
+5774,5420,46,VfB Stuttgart,Dan-Axel Zagadou,Borna Sosa,7.0,45.17058333333335,13.947130045918522
+5774,9861,46,VfB Stuttgart,Dan-Axel Zagadou,Fabian Bredlow,0.0,0.0,0.0
+5774,22947,46,VfB Stuttgart,Dan-Axel Zagadou,Atakan Karazor,92.0,3096.8929983333333,2.6736474280693843
+5774,27123,46,VfB Stuttgart,Dan-Axel Zagadou,Angelo Stiller,105.0,2801.780695,3.372854990707972
+5774,27426,46,VfB Stuttgart,Dan-Axel Zagadou,Josha Vagnoman,10.0,1092.3440066666667,0.823916270430583
+5774,31448,46,VfB Stuttgart,Dan-Axel Zagadou,Leonidas Stergiou,2.0,52.13715166666667,3.4524325600065544
+5774,33056,46,VfB Stuttgart,Dan-Axel Zagadou,Roberto Massimo,1.0,78.49673499999999,1.1465445027745422
+5774,35172,46,VfB Stuttgart,Dan-Axel Zagadou,Chris Führich,60.0,3162.7273116666665,1.7073871592029082
+5774,41429,46,VfB Stuttgart,Dan-Axel Zagadou,Woo-yeong Jeong,14.0,843.0530416666668,1.4945678833078562
+5774,44929,46,VfB Stuttgart,Dan-Axel Zagadou,Deniz Undav,30.0,2244.8340783333333,1.2027614985266986
+5774,45518,46,VfB Stuttgart,Dan-Axel Zagadou,Silas,4.0,1403.59856,0.2564835917187034
+5774,46337,46,VfB Stuttgart,Dan-Axel Zagadou,Enzo Millot,43.0,2478.768751666667,1.561258990939716
+5774,50078,46,VfB Stuttgart,Dan-Axel Zagadou,Hiroki Ito,139.0,1718.896125,7.2779266984501465
+5774,51629,46,VfB Stuttgart,Dan-Axel Zagadou,Jamie Leweling,16.0,1313.0992783333331,1.0966421380017337
+5774,53526,46,VfB Stuttgart,Dan-Axel Zagadou,Anthony Rouault,32.0,709.4366716666667,4.059558964204752
+5774,53560,46,VfB Stuttgart,Dan-Axel Zagadou,Lilian Egloff,5.0,219.98153833333333,2.0456262075871323
+5774,104926,46,VfB Stuttgart,Dan-Axel Zagadou,Luca Raimund,0.0,0.0,0.0
+5774,104927,46,VfB Stuttgart,Dan-Axel Zagadou,Samuele Di Benedetto,0.0,0.0,0.0
+5774,114859,46,VfB Stuttgart,Dan-Axel Zagadou,Jovan Milosevic,0.0,0.0,0.0
+9861,1004,46,VfB Stuttgart,Fabian Bredlow,Genki Haraguchi,0.0,0.0,0.0
+9861,1023,46,VfB Stuttgart,Fabian Bredlow,Alexander Nübel,0.0,0.0,0.0
+9861,1056,46,VfB Stuttgart,Fabian Bredlow,Serhou Guirassy,7.0,625.3244183333334,1.0074770495595364
+9861,1161,46,VfB Stuttgart,Fabian Bredlow,Mahmoud Dahoud,1.0,56.05423333333334,1.6055879216972608
+9861,1171,46,VfB Stuttgart,Fabian Bredlow,Pascal Stenzel,5.0,235.25445,1.912822477959503
+9861,1297,46,VfB Stuttgart,Fabian Bredlow,Maximilian Mittelstädt,3.0,623.5638666666666,0.43299494154995943
+9861,1359,46,VfB Stuttgart,Fabian Bredlow,Waldemar Anton,26.0,837.8328016666667,2.7929200138084034
+9861,5420,46,VfB Stuttgart,Fabian Bredlow,Borna Sosa,0.0,0.0,0.0
+9861,5774,46,VfB Stuttgart,Fabian Bredlow,Dan-Axel Zagadou,0.0,0.0,0.0
+9861,22947,46,VfB Stuttgart,Fabian Bredlow,Atakan Karazor,4.0,803.24952,0.4481795395283896
+9861,27123,46,VfB Stuttgart,Fabian Bredlow,Angelo Stiller,15.0,831.3447666666667,1.62387502048388
+9861,27426,46,VfB Stuttgart,Fabian Bredlow,Josha Vagnoman,3.0,292.37531666666666,0.9234705688504599
+9861,31448,46,VfB Stuttgart,Fabian Bredlow,Leonidas Stergiou,0.0,0.0,0.0
+9861,33056,46,VfB Stuttgart,Fabian Bredlow,Roberto Massimo,0.0,0.0,0.0
+9861,35172,46,VfB Stuttgart,Fabian Bredlow,Chris Führich,1.0,752.0749000000001,0.11966893191090408
+9861,41429,46,VfB Stuttgart,Fabian Bredlow,Woo-yeong Jeong,2.0,226.5801216666667,0.7944209698360343
+9861,44929,46,VfB Stuttgart,Fabian Bredlow,Deniz Undav,6.0,582.2890166666667,0.9273745245810205
+9861,45518,46,VfB Stuttgart,Fabian Bredlow,Silas,1.0,23.365683333333347,3.8518026079556815
+9861,46337,46,VfB Stuttgart,Fabian Bredlow,Enzo Millot,0.0,0.0,0.0
+9861,50078,46,VfB Stuttgart,Fabian Bredlow,Hiroki Ito,29.0,847.7624016666666,3.0786927974970886
+9861,51629,46,VfB Stuttgart,Fabian Bredlow,Jamie Leweling,0.0,0.0,0.0
+9861,53526,46,VfB Stuttgart,Fabian Bredlow,Anthony Rouault,9.0,211.56756833333336,3.82856411491109
+9861,53560,46,VfB Stuttgart,Fabian Bredlow,Lilian Egloff,0.0,0.0,0.0
+9861,104926,46,VfB Stuttgart,Fabian Bredlow,Luca Raimund,0.0,0.0,0.0
+9861,104927,46,VfB Stuttgart,Fabian Bredlow,Samuele Di Benedetto,0.0,0.0,0.0
+9861,114859,46,VfB Stuttgart,Fabian Bredlow,Jovan Milosevic,0.0,0.0,0.0
+22947,1004,46,VfB Stuttgart,Atakan Karazor,Genki Haraguchi,0.0,0.0,0.0
+22947,1023,46,VfB Stuttgart,Atakan Karazor,Alexander Nübel,11.0,5550.702011666668,0.178355818402642
+22947,1056,46,VfB Stuttgart,Atakan Karazor,Serhou Guirassy,93.0,4575.811833333333,1.8291836082566189
+22947,1161,46,VfB Stuttgart,Atakan Karazor,Mahmoud Dahoud,26.0,107.52263999999995,21.762858501242164
+22947,1171,46,VfB Stuttgart,Atakan Karazor,Pascal Stenzel,87.0,2420.460405,3.2349217462204263
+22947,1297,46,VfB Stuttgart,Atakan Karazor,Maximilian Mittelstädt,105.0,4017.67918,2.352104181698251
+22947,1359,46,VfB Stuttgart,Atakan Karazor,Waldemar Anton,212.0,5967.3281633333345,3.197410881010097
+22947,5420,46,VfB Stuttgart,Atakan Karazor,Borna Sosa,2.0,34.059116666666675,5.284928606976007
+22947,5774,46,VfB Stuttgart,Atakan Karazor,Dan-Axel Zagadou,84.0,3096.8929983333333,2.4411563473676985
+22947,9861,46,VfB Stuttgart,Atakan Karazor,Fabian Bredlow,2.0,803.24952,0.2240897697641948
+22947,27123,46,VfB Stuttgart,Atakan Karazor,Angelo Stiller,231.0,5556.738443333335,3.7414033811403664
+22947,27426,46,VfB Stuttgart,Atakan Karazor,Josha Vagnoman,53.0,2052.859663333333,2.323587961319629
+22947,31448,46,VfB Stuttgart,Atakan Karazor,Leonidas Stergiou,34.0,976.1374283333333,3.134804496969934
+22947,33056,46,VfB Stuttgart,Atakan Karazor,Roberto Massimo,3.0,41.996166666666674,6.429158216821376
+22947,35172,46,VfB Stuttgart,Atakan Karazor,Chris Führich,81.0,5696.390289999999,1.2797578165944106
+22947,41429,46,VfB Stuttgart,Atakan Karazor,Woo-yeong Jeong,42.0,1136.198435,3.3268836530302033
+22947,44929,46,VfB Stuttgart,Atakan Karazor,Deniz Undav,78.0,4194.878716666667,1.6734691213142463
+22947,45518,46,VfB Stuttgart,Atakan Karazor,Silas,28.0,1691.068413333333,1.4901821713012346
+22947,46337,46,VfB Stuttgart,Atakan Karazor,Enzo Millot,144.0,4577.786218333334,2.831062741221331
+22947,50078,46,VfB Stuttgart,Atakan Karazor,Hiroki Ito,164.0,4729.303758333333,3.120966796432127
+22947,51629,46,VfB Stuttgart,Atakan Karazor,Jamie Leweling,57.0,2913.4290733333337,1.7608117001903283
+22947,53526,46,VfB Stuttgart,Atakan Karazor,Anthony Rouault,77.0,1961.1979833333335,3.5335545207024355
+22947,53560,46,VfB Stuttgart,Atakan Karazor,Lilian Egloff,1.0,189.59556666666668,0.47469464387968274
+22947,104926,46,VfB Stuttgart,Atakan Karazor,Luca Raimund,0.0,0.0,0.0
+22947,104927,46,VfB Stuttgart,Atakan Karazor,Samuele Di Benedetto,0.0,0.0,0.0
+22947,114859,46,VfB Stuttgart,Atakan Karazor,Jovan Milosevic,1.0,12.948066666666666,6.950844656345092
+27123,1004,46,VfB Stuttgart,Angelo Stiller,Genki Haraguchi,0.0,0.0,0.0
+27123,1023,46,VfB Stuttgart,Angelo Stiller,Alexander Nübel,49.0,5518.758278333332,0.7990927990656301
+27123,1056,46,VfB Stuttgart,Angelo Stiller,Serhou Guirassy,106.0,4263.2957683333325,2.237705408773342
+27123,1161,46,VfB Stuttgart,Angelo Stiller,Mahmoud Dahoud,31.0,310.5350866666667,8.9844919939589
+27123,1171,46,VfB Stuttgart,Angelo Stiller,Pascal Stenzel,52.0,1932.526975,2.421699702277118
+27123,1297,46,VfB Stuttgart,Angelo Stiller,Maximilian Mittelstädt,245.0,4369.263653333334,5.04661694726935
+27123,1359,46,VfB Stuttgart,Angelo Stiller,Waldemar Anton,244.0,5963.708158333333,3.682272743228455
+27123,5420,46,VfB Stuttgart,Angelo Stiller,Borna Sosa,0.0,0.0,0.0
+27123,5774,46,VfB Stuttgart,Angelo Stiller,Dan-Axel Zagadou,102.0,2801.780695,3.2764877052591728
+27123,9861,46,VfB Stuttgart,Angelo Stiller,Fabian Bredlow,14.0,831.3447666666667,1.515616685784955
+27123,22947,46,VfB Stuttgart,Angelo Stiller,Atakan Karazor,223.0,5556.738443333335,3.611830969672302
+27123,27426,46,VfB Stuttgart,Angelo Stiller,Josha Vagnoman,60.0,2481.934758333333,2.1757219773279632
+27123,31448,46,VfB Stuttgart,Angelo Stiller,Leonidas Stergiou,35.0,1016.7097866666667,3.0982292501849824
+27123,33056,46,VfB Stuttgart,Angelo Stiller,Roberto Massimo,1.0,47.843800000000016,1.8811214828253602
+27123,35172,46,VfB Stuttgart,Angelo Stiller,Chris Führich,216.0,5653.2807016666675,3.4387112591576803
+27123,41429,46,VfB Stuttgart,Angelo Stiller,Woo-yeong Jeong,38.0,782.3963483333333,4.371186045647209
+27123,44929,46,VfB Stuttgart,Angelo Stiller,Deniz Undav,124.0,4582.507764999999,2.4353477554882006
+27123,45518,46,VfB Stuttgart,Angelo Stiller,Silas,23.0,1264.5516633333334,1.6369437959881532
+27123,46337,46,VfB Stuttgart,Angelo Stiller,Enzo Millot,174.0,4733.070671666667,3.308634306634092
+27123,50078,46,VfB Stuttgart,Angelo Stiller,Hiroki Ito,251.0,4644.138426666667,4.864196095079359
+27123,51629,46,VfB Stuttgart,Angelo Stiller,Jamie Leweling,63.0,3162.980536666666,1.7926129909023651
+27123,53526,46,VfB Stuttgart,Angelo Stiller,Anthony Rouault,74.0,2214.3907483333337,3.007599270820953
+27123,53560,46,VfB Stuttgart,Angelo Stiller,Lilian Egloff,0.0,0.0,0.0
+27123,104926,46,VfB Stuttgart,Angelo Stiller,Luca Raimund,5.0,29.639568333333347,15.182407346125872
+27123,104927,46,VfB Stuttgart,Angelo Stiller,Samuele Di Benedetto,0.0,0.0,0.0
+27123,114859,46,VfB Stuttgart,Angelo Stiller,Jovan Milosevic,4.0,23.016153333333325,15.641188811452137
+27426,1004,46,VfB Stuttgart,Josha Vagnoman,Genki Haraguchi,0.0,0.0,0.0
+27426,1023,46,VfB Stuttgart,Josha Vagnoman,Alexander Nübel,15.0,2200.0496350000003,0.6136225194755662
+27426,1056,46,VfB Stuttgart,Josha Vagnoman,Serhou Guirassy,7.0,1615.9265916666664,0.389869195326638
+27426,1161,46,VfB Stuttgart,Josha Vagnoman,Mahmoud Dahoud,4.0,274.66745333333324,1.310675857773029
+27426,1171,46,VfB Stuttgart,Josha Vagnoman,Pascal Stenzel,12.0,232.98218666666668,4.635547530271841
+27426,1297,46,VfB Stuttgart,Josha Vagnoman,Maximilian Mittelstädt,5.0,2065.2127450000003,0.21789522706049344
+27426,1359,46,VfB Stuttgart,Josha Vagnoman,Waldemar Anton,71.0,2263.4357099999997,2.8231418156780785
+27426,5420,46,VfB Stuttgart,Josha Vagnoman,Borna Sosa,0.0,0.0,0.0
+27426,5774,46,VfB Stuttgart,Josha Vagnoman,Dan-Axel Zagadou,8.0,1092.3440066666667,0.6591330163444664
+27426,9861,46,VfB Stuttgart,Josha Vagnoman,Fabian Bredlow,4.0,292.37531666666666,1.2312940918006132
+27426,22947,46,VfB Stuttgart,Josha Vagnoman,Atakan Karazor,50.0,2052.859663333333,2.19206411445248
+27426,27123,46,VfB Stuttgart,Josha Vagnoman,Angelo Stiller,45.0,2481.934758333333,1.6317914829959725
+27426,31448,46,VfB Stuttgart,Josha Vagnoman,Leonidas Stergiou,10.0,241.26701833333328,3.7303068037114158
+27426,33056,46,VfB Stuttgart,Josha Vagnoman,Roberto Massimo,2.0,17.16450166666667,10.486759446652542
+27426,35172,46,VfB Stuttgart,Josha Vagnoman,Chris Führich,9.0,2240.909995,0.3614603004169295
+27426,41429,46,VfB Stuttgart,Josha Vagnoman,Woo-yeong Jeong,12.0,262.0823066666667,4.120842851759598
+27426,44929,46,VfB Stuttgart,Josha Vagnoman,Deniz Undav,16.0,1775.3415216666665,0.8111115424417875
+27426,45518,46,VfB Stuttgart,Josha Vagnoman,Silas,11.0,135.44218666666663,7.3093917365382195
+27426,46337,46,VfB Stuttgart,Josha Vagnoman,Enzo Millot,66.0,2284.8445483333335,2.5997392270440884
+27426,50078,46,VfB Stuttgart,Josha Vagnoman,Hiroki Ito,12.0,1239.7779066666667,0.871123766758956
+27426,51629,46,VfB Stuttgart,Josha Vagnoman,Jamie Leweling,32.0,635.2609083333334,4.533570320824478
+27426,53526,46,VfB Stuttgart,Josha Vagnoman,Anthony Rouault,32.0,984.255555,2.9260693377544618
+27426,53560,46,VfB Stuttgart,Josha Vagnoman,Lilian Egloff,0.0,0.0,0.0
+27426,104926,46,VfB Stuttgart,Josha Vagnoman,Luca Raimund,0.0,0.0,0.0
+27426,104927,46,VfB Stuttgart,Josha Vagnoman,Samuele Di Benedetto,0.0,0.0,0.0
+27426,114859,46,VfB Stuttgart,Josha Vagnoman,Jovan Milosevic,0.0,0.0,0.0
+31448,1004,46,VfB Stuttgart,Leonidas Stergiou,Genki Haraguchi,0.0,0.0,0.0
+31448,1023,46,VfB Stuttgart,Leonidas Stergiou,Alexander Nübel,15.0,982.0431033333334,1.3746850778929318
+31448,1056,46,VfB Stuttgart,Leonidas Stergiou,Serhou Guirassy,10.0,948.4689733333332,0.9488976711984662
+31448,1161,46,VfB Stuttgart,Leonidas Stergiou,Mahmoud Dahoud,3.0,63.03125333333333,4.283589262808038
+31448,1171,46,VfB Stuttgart,Leonidas Stergiou,Pascal Stenzel,0.0,0.0,0.0
+31448,1297,46,VfB Stuttgart,Leonidas Stergiou,Maximilian Mittelstädt,5.0,954.63394,0.4713848744996432
+31448,1359,46,VfB Stuttgart,Leonidas Stergiou,Waldemar Anton,59.0,1145.6884916666668,4.634767686524796
+31448,5420,46,VfB Stuttgart,Leonidas Stergiou,Borna Sosa,0.0,0.0,0.0
+31448,5774,46,VfB Stuttgart,Leonidas Stergiou,Dan-Axel Zagadou,3.0,52.13715166666667,5.178648840009831
+31448,9861,46,VfB Stuttgart,Leonidas Stergiou,Fabian Bredlow,2.0,222.1275333333333,0.8103452881272711
+31448,22947,46,VfB Stuttgart,Leonidas Stergiou,Atakan Karazor,26.0,976.1374283333333,2.397203438859361
+31448,27123,46,VfB Stuttgart,Leonidas Stergiou,Angelo Stiller,26.0,1016.7097866666667,2.3015417287088438
+31448,27426,46,VfB Stuttgart,Leonidas Stergiou,Josha Vagnoman,7.0,241.26701833333328,2.6112147625979913
+31448,33056,46,VfB Stuttgart,Leonidas Stergiou,Roberto Massimo,0.0,0.0,0.0
+31448,35172,46,VfB Stuttgart,Leonidas Stergiou,Chris Führich,6.0,992.1703866666667,0.544261355969517
+31448,41429,46,VfB Stuttgart,Leonidas Stergiou,Woo-yeong Jeong,4.0,110.5013583333333,3.2578785042084335
+31448,44929,46,VfB Stuttgart,Leonidas Stergiou,Deniz Undav,9.0,1111.0463883333334,0.7290424670882291
+31448,45518,46,VfB Stuttgart,Leonidas Stergiou,Silas,5.0,65.62512000000002,6.857130318390272
+31448,46337,46,VfB Stuttgart,Leonidas Stergiou,Enzo Millot,32.0,705.0786366666666,4.0846507754305295
+31448,50078,46,VfB Stuttgart,Leonidas Stergiou,Hiroki Ito,5.0,950.6385583333333,0.473366029660046
+31448,51629,46,VfB Stuttgart,Leonidas Stergiou,Jamie Leweling,47.0,926.1031016666667,4.567526004812485
+31448,53526,46,VfB Stuttgart,Leonidas Stergiou,Anthony Rouault,6.0,439.58968333333337,1.228418273844082
+31448,53560,46,VfB Stuttgart,Leonidas Stergiou,Lilian Egloff,0.0,0.0,0.0
+31448,104926,46,VfB Stuttgart,Leonidas Stergiou,Luca Raimund,3.0,16.5933,16.271627705158107
+31448,104927,46,VfB Stuttgart,Leonidas Stergiou,Samuele Di Benedetto,0.0,0.0,0.0
+31448,114859,46,VfB Stuttgart,Leonidas Stergiou,Jovan Milosevic,0.0,0.0,0.0
+33056,1004,46,VfB Stuttgart,Roberto Massimo,Genki Haraguchi,2.0,22.905033333333357,7.8585347325405825
+33056,1023,46,VfB Stuttgart,Roberto Massimo,Alexander Nübel,1.0,65.63266666666668,1.3712683724568047
+33056,1056,46,VfB Stuttgart,Roberto Massimo,Serhou Guirassy,1.0,31.809818333333318,2.8293151207873932
+33056,1161,46,VfB Stuttgart,Roberto Massimo,Mahmoud Dahoud,0.0,0.0,0.0
+33056,1171,46,VfB Stuttgart,Roberto Massimo,Pascal Stenzel,0.0,0.0,0.0
+33056,1297,46,VfB Stuttgart,Roberto Massimo,Maximilian Mittelstädt,1.0,50.121901666666695,1.7956222131901676
+33056,1359,46,VfB Stuttgart,Roberto Massimo,Waldemar Anton,7.0,77.98918666666665,8.078042956040573
+33056,5420,46,VfB Stuttgart,Roberto Massimo,Borna Sosa,0.0,0.0,0.0
+33056,5774,46,VfB Stuttgart,Roberto Massimo,Dan-Axel Zagadou,0.0,0.0,0.0
+33056,9861,46,VfB Stuttgart,Roberto Massimo,Fabian Bredlow,0.0,0.0,0.0
+33056,22947,46,VfB Stuttgart,Roberto Massimo,Atakan Karazor,4.0,41.996166666666674,8.572210955761834
+33056,27123,46,VfB Stuttgart,Roberto Massimo,Angelo Stiller,0.0,0.0,0.0
+33056,27426,46,VfB Stuttgart,Roberto Massimo,Josha Vagnoman,0.0,0.0,0.0
+33056,31448,46,VfB Stuttgart,Roberto Massimo,Leonidas Stergiou,0.0,0.0,0.0
+33056,35172,46,VfB Stuttgart,Roberto Massimo,Chris Führich,0.0,0.0,0.0
+33056,41429,46,VfB Stuttgart,Roberto Massimo,Woo-yeong Jeong,0.0,0.0,0.0
+33056,44929,46,VfB Stuttgart,Roberto Massimo,Deniz Undav,0.0,0.0,0.0
+33056,45518,46,VfB Stuttgart,Roberto Massimo,Silas,0.0,0.0,0.0
+33056,46337,46,VfB Stuttgart,Roberto Massimo,Enzo Millot,5.0,43.46451833333331,10.353272445098998
+33056,50078,46,VfB Stuttgart,Roberto Massimo,Hiroki Ito,1.0,43.866483333333356,2.051680307174535
+33056,51629,46,VfB Stuttgart,Roberto Massimo,Jamie Leweling,1.0,24.827685000000017,3.6249855755782283
+33056,53526,46,VfB Stuttgart,Roberto Massimo,Anthony Rouault,0.0,0.0,0.0
+33056,53560,46,VfB Stuttgart,Roberto Massimo,Lilian Egloff,0.0,0.0,0.0
+33056,104926,46,VfB Stuttgart,Roberto Massimo,Luca Raimund,0.0,0.0,0.0
+33056,104927,46,VfB Stuttgart,Roberto Massimo,Samuele Di Benedetto,0.0,0.0,0.0
+33056,114859,46,VfB Stuttgart,Roberto Massimo,Jovan Milosevic,0.0,0.0,0.0
+35172,1004,46,VfB Stuttgart,Chris Führich,Genki Haraguchi,0.0,0.0,0.0
+35172,1023,46,VfB Stuttgart,Chris Führich,Alexander Nübel,8.0,5661.612168333333,0.12717225740525315
+35172,1056,46,VfB Stuttgart,Chris Führich,Serhou Guirassy,55.0,4500.6345316666675,1.0998449141274584
+35172,1161,46,VfB Stuttgart,Chris Führich,Mahmoud Dahoud,8.0,251.5854733333334,2.861850449711974
+35172,1171,46,VfB Stuttgart,Chris Führich,Pascal Stenzel,21.0,2383.2344416666665,0.7930398986170522
+35172,1297,46,VfB Stuttgart,Chris Führich,Maximilian Mittelstädt,211.0,4163.621268333333,4.560933566275484
+35172,1359,46,VfB Stuttgart,Chris Führich,Waldemar Anton,42.0,6113.104003333335,0.6183438066715131
+35172,5420,46,VfB Stuttgart,Chris Führich,Borna Sosa,11.0,40.43183333333333,24.485656928740145
+35172,5774,46,VfB Stuttgart,Chris Führich,Dan-Axel Zagadou,27.0,3162.7273116666665,0.7683242216413086
+35172,9861,46,VfB Stuttgart,Chris Führich,Fabian Bredlow,1.0,752.0749000000001,0.11966893191090408
+35172,22947,46,VfB Stuttgart,Chris Führich,Atakan Karazor,72.0,5696.390289999999,1.137562503639476
+35172,27123,46,VfB Stuttgart,Chris Führich,Angelo Stiller,134.0,5653.2807016666675,2.1332745774404125
+35172,27426,46,VfB Stuttgart,Chris Führich,Josha Vagnoman,12.0,2240.909995,0.4819470672225727
+35172,31448,46,VfB Stuttgart,Chris Führich,Leonidas Stergiou,5.0,992.1703866666667,0.4535511299745975
+35172,33056,46,VfB Stuttgart,Chris Führich,Roberto Massimo,0.0,0.0,0.0
+35172,41429,46,VfB Stuttgart,Chris Führich,Woo-yeong Jeong,16.0,977.27686,1.473482140976918
+35172,44929,46,VfB Stuttgart,Chris Führich,Deniz Undav,86.0,4439.532596666667,1.7434267755599817
+35172,45518,46,VfB Stuttgart,Chris Führich,Silas,8.0,1566.6421566666668,0.4595816580934722
+35172,46337,46,VfB Stuttgart,Chris Führich,Enzo Millot,114.0,4982.451888333335,2.05922710945274
+35172,50078,46,VfB Stuttgart,Chris Führich,Hiroki Ito,117.0,4637.683581666667,2.2705300641092427
+35172,51629,46,VfB Stuttgart,Chris Führich,Jamie Leweling,19.0,2968.59013,0.5760310198161307
+35172,53526,46,VfB Stuttgart,Chris Führich,Anthony Rouault,28.0,2026.574196666667,1.243477788350866
+35172,53560,46,VfB Stuttgart,Chris Führich,Lilian Egloff,1.0,203.66063333333332,0.44191161800374124
+35172,104926,46,VfB Stuttgart,Chris Führich,Luca Raimund,2.0,29.65358499999999,6.070092368258343
+35172,104927,46,VfB Stuttgart,Chris Führich,Samuele Di Benedetto,0.0,0.0,0.0
+35172,114859,46,VfB Stuttgart,Chris Führich,Jovan Milosevic,0.0,0.0,0.0
+41429,1004,46,VfB Stuttgart,Woo-yeong Jeong,Genki Haraguchi,1.0,19.50280166666668,4.614721594273503
+41429,1023,46,VfB Stuttgart,Woo-yeong Jeong,Alexander Nübel,0.0,0.0,0.0
+41429,1056,46,VfB Stuttgart,Woo-yeong Jeong,Serhou Guirassy,32.0,946.4847733333332,3.042838174625046
+41429,1161,46,VfB Stuttgart,Woo-yeong Jeong,Mahmoud Dahoud,6.0,83.60824166666664,6.458693416289006
+41429,1171,46,VfB Stuttgart,Woo-yeong Jeong,Pascal Stenzel,7.0,607.9296366666666,1.0363041411409835
+41429,1297,46,VfB Stuttgart,Woo-yeong Jeong,Maximilian Mittelstädt,19.0,179.74800999999997,9.513318116845914
+41429,1359,46,VfB Stuttgart,Woo-yeong Jeong,Waldemar Anton,12.0,1170.0986049999997,0.9229991347609549
+41429,5420,46,VfB Stuttgart,Woo-yeong Jeong,Borna Sosa,1.0,36.44035166666666,2.4697895570071116
+41429,5774,46,VfB Stuttgart,Woo-yeong Jeong,Dan-Axel Zagadou,1.0,843.0530416666668,0.10675484880770401
+41429,9861,46,VfB Stuttgart,Woo-yeong Jeong,Fabian Bredlow,0.0,0.0,0.0
+41429,22947,46,VfB Stuttgart,Woo-yeong Jeong,Atakan Karazor,48.0,1136.198435,3.8021527463202323
+41429,27123,46,VfB Stuttgart,Woo-yeong Jeong,Angelo Stiller,24.0,782.3963483333333,2.7607490814613955
+41429,27426,46,VfB Stuttgart,Woo-yeong Jeong,Josha Vagnoman,11.0,262.0823066666667,3.777439280779631
+41429,31448,46,VfB Stuttgart,Woo-yeong Jeong,Leonidas Stergiou,1.0,110.5013583333333,0.8144696260521084
+41429,33056,46,VfB Stuttgart,Woo-yeong Jeong,Roberto Massimo,0.0,0.0,0.0
+41429,35172,46,VfB Stuttgart,Woo-yeong Jeong,Chris Führich,19.0,977.27686,1.7497600424100903
+41429,44929,46,VfB Stuttgart,Woo-yeong Jeong,Deniz Undav,10.0,321.95887500000003,2.7953880755733165
+41429,45518,46,VfB Stuttgart,Woo-yeong Jeong,Silas,16.0,856.1360933333333,1.681975577496581
+41429,46337,46,VfB Stuttgart,Woo-yeong Jeong,Enzo Millot,19.0,542.0536766666667,3.1546691289238438
+41429,50078,46,VfB Stuttgart,Woo-yeong Jeong,Hiroki Ito,24.0,1166.835185,1.8511611817739282
+41429,51629,46,VfB Stuttgart,Woo-yeong Jeong,Jamie Leweling,5.0,125.92407,3.5735820800582445
+41429,53526,46,VfB Stuttgart,Woo-yeong Jeong,Anthony Rouault,6.0,443.9968766666667,1.216224771791375
+41429,53560,46,VfB Stuttgart,Woo-yeong Jeong,Lilian Egloff,0.0,0.0,0.0
+41429,104926,46,VfB Stuttgart,Woo-yeong Jeong,Luca Raimund,0.0,0.0,0.0
+41429,104927,46,VfB Stuttgart,Woo-yeong Jeong,Samuele Di Benedetto,0.0,0.0,0.0
+41429,114859,46,VfB Stuttgart,Woo-yeong Jeong,Jovan Milosevic,0.0,0.0,0.0
+44929,1004,46,VfB Stuttgart,Deniz Undav,Genki Haraguchi,0.0,0.0,0.0
+44929,1023,46,VfB Stuttgart,Deniz Undav,Alexander Nübel,2.0,4374.520459999999,0.041147367270514504
+44929,1056,46,VfB Stuttgart,Deniz Undav,Serhou Guirassy,63.0,2922.4813133333337,1.9401321658179886
+44929,1161,46,VfB Stuttgart,Deniz Undav,Mahmoud Dahoud,12.0,266.60645500000004,4.050914671214543
+44929,1171,46,VfB Stuttgart,Deniz Undav,Pascal Stenzel,17.0,991.1295449999999,1.543693261610923
+44929,1297,46,VfB Stuttgart,Deniz Undav,Maximilian Mittelstädt,42.0,4108.24655,0.9201005718607613
+44929,1359,46,VfB Stuttgart,Deniz Undav,Waldemar Anton,28.0,4752.373196666667,0.530261386409539
+44929,5420,46,VfB Stuttgart,Deniz Undav,Borna Sosa,0.0,0.0,0.0
+44929,5774,46,VfB Stuttgart,Deniz Undav,Dan-Axel Zagadou,4.0,2244.8340783333333,0.1603681998035598
+44929,9861,46,VfB Stuttgart,Deniz Undav,Fabian Bredlow,1.0,582.2890166666667,0.1545624207635034
+44929,22947,46,VfB Stuttgart,Deniz Undav,Atakan Karazor,59.0,4194.878716666667,1.2658292071479555
+44929,27123,46,VfB Stuttgart,Deniz Undav,Angelo Stiller,86.0,4582.507764999999,1.689031507838591
+44929,27426,46,VfB Stuttgart,Deniz Undav,Josha Vagnoman,24.0,1775.3415216666665,1.2166673136626813
+44929,31448,46,VfB Stuttgart,Deniz Undav,Leonidas Stergiou,8.0,1111.0463883333334,0.6480377485228703
+44929,33056,46,VfB Stuttgart,Deniz Undav,Roberto Massimo,0.0,0.0,0.0
+44929,35172,46,VfB Stuttgart,Deniz Undav,Chris Führich,78.0,4439.532596666667,1.5812475406241695
+44929,41429,46,VfB Stuttgart,Deniz Undav,Woo-yeong Jeong,6.0,321.95887500000003,1.6772328453439898
+44929,45518,46,VfB Stuttgart,Deniz Undav,Silas,21.0,778.30076,2.4283671520505776
+44929,46337,46,VfB Stuttgart,Deniz Undav,Enzo Millot,45.0,3610.5388000000003,1.1217162380307337
+44929,50078,46,VfB Stuttgart,Deniz Undav,Hiroki Ito,14.0,3149.9281499999997,0.40000912401763833
+44929,51629,46,VfB Stuttgart,Deniz Undav,Jamie Leweling,41.0,2903.914096666666,1.2706987456122283
+44929,53526,46,VfB Stuttgart,Deniz Undav,Anthony Rouault,7.0,1317.5981949999998,0.47814273151763087
+44929,53560,46,VfB Stuttgart,Deniz Undav,Lilian Egloff,1.0,21.339069999999992,4.2176158567360265
+44929,104926,46,VfB Stuttgart,Deniz Undav,Luca Raimund,0.0,0.0,0.0
+44929,104927,46,VfB Stuttgart,Deniz Undav,Samuele Di Benedetto,0.0,0.0,0.0
+44929,114859,46,VfB Stuttgart,Deniz Undav,Jovan Milosevic,0.0,0.0,0.0
+45518,1004,46,VfB Stuttgart,Silas,Genki Haraguchi,0.0,0.0,0.0
+45518,1023,46,VfB Stuttgart,Silas,Alexander Nübel,2.0,1776.3569566666663,0.10133098492645869
+45518,1056,46,VfB Stuttgart,Silas,Serhou Guirassy,16.0,1372.563295,1.049131945496182
+45518,1161,46,VfB Stuttgart,Silas,Mahmoud Dahoud,2.0,83.6458166666666,2.1519306902975237
+45518,1171,46,VfB Stuttgart,Silas,Pascal Stenzel,26.0,1337.4528216666665,1.7495944246347392
+45518,1297,46,VfB Stuttgart,Silas,Maximilian Mittelstädt,12.0,462.8428616666666,2.3334053292104175
+45518,1359,46,VfB Stuttgart,Silas,Waldemar Anton,32.0,1780.637898333333,1.6173979014462536
+45518,5420,46,VfB Stuttgart,Silas,Borna Sosa,0.0,0.0,0.0
+45518,5774,46,VfB Stuttgart,Silas,Dan-Axel Zagadou,8.0,1403.59856,0.5129671834374068
+45518,9861,46,VfB Stuttgart,Silas,Fabian Bredlow,0.0,0.0,0.0
+45518,22947,46,VfB Stuttgart,Silas,Atakan Karazor,18.0,1691.068413333333,0.9579742529793651
+45518,27123,46,VfB Stuttgart,Silas,Angelo Stiller,15.0,1264.5516633333334,1.0675720408618392
+45518,27426,46,VfB Stuttgart,Silas,Josha Vagnoman,6.0,135.44218666666663,3.986940947202665
+45518,31448,46,VfB Stuttgart,Silas,Leonidas Stergiou,3.0,65.62512000000002,4.114278191034163
+45518,33056,46,VfB Stuttgart,Silas,Roberto Massimo,0.0,0.0,0.0
+45518,35172,46,VfB Stuttgart,Silas,Chris Führich,8.0,1566.6421566666668,0.4595816580934722
+45518,41429,46,VfB Stuttgart,Silas,Woo-yeong Jeong,12.0,856.1360933333333,1.2614816831224358
+45518,44929,46,VfB Stuttgart,Silas,Deniz Undav,5.0,778.30076,0.5781826552501376
+45518,46337,46,VfB Stuttgart,Silas,Enzo Millot,17.0,1086.8954583333336,1.407679081064642
+45518,50078,46,VfB Stuttgart,Silas,Hiroki Ito,12.0,1543.6360483333328,0.6996467860193328
+45518,51629,46,VfB Stuttgart,Silas,Jamie Leweling,2.0,85.07113666666666,2.115876277817847
+45518,53526,46,VfB Stuttgart,Silas,Anthony Rouault,8.0,511.08214333333336,1.4087754960564296
+45518,53560,46,VfB Stuttgart,Silas,Lilian Egloff,0.0,0.0,0.0
+45518,104926,46,VfB Stuttgart,Silas,Luca Raimund,0.0,0.0,0.0
+45518,104927,46,VfB Stuttgart,Silas,Samuele Di Benedetto,0.0,0.0,0.0
+45518,114859,46,VfB Stuttgart,Silas,Jovan Milosevic,0.0,0.0,0.0
+46337,1004,46,VfB Stuttgart,Enzo Millot,Genki Haraguchi,0.0,0.0,0.0
+46337,1023,46,VfB Stuttgart,Enzo Millot,Alexander Nübel,21.0,4837.222995000001,0.3907200478360414
+46337,1056,46,VfB Stuttgart,Enzo Millot,Serhou Guirassy,63.0,3510.6671716666656,1.615077625632112
+46337,1161,46,VfB Stuttgart,Enzo Millot,Mahmoud Dahoud,12.0,234.0452533333333,4.614492217288578
+46337,1171,46,VfB Stuttgart,Enzo Millot,Pascal Stenzel,51.0,1791.2439900000002,2.5624649827855106
+46337,1297,46,VfB Stuttgart,Enzo Millot,Maximilian Mittelstädt,96.0,3720.9548199999995,2.3219846566156375
+46337,1359,46,VfB Stuttgart,Enzo Millot,Waldemar Anton,110.0,4967.6846583333345,1.9928801203982751
+46337,5420,46,VfB Stuttgart,Enzo Millot,Borna Sosa,0.0,0.0,0.0
+46337,5774,46,VfB Stuttgart,Enzo Millot,Dan-Axel Zagadou,36.0,2478.768751666667,1.3071005505541808
+46337,9861,46,VfB Stuttgart,Enzo Millot,Fabian Bredlow,0.0,0.0,0.0
+46337,22947,46,VfB Stuttgart,Enzo Millot,Atakan Karazor,133.0,4577.786218333334,2.614801004044702
+46337,27123,46,VfB Stuttgart,Enzo Millot,Angelo Stiller,148.0,4733.070671666667,2.814240674608308
+46337,27426,46,VfB Stuttgart,Enzo Millot,Josha Vagnoman,50.0,2284.8445483333335,1.9694994144273397
+46337,31448,46,VfB Stuttgart,Enzo Millot,Leonidas Stergiou,29.0,705.0786366666666,3.701714765233917
+46337,33056,46,VfB Stuttgart,Enzo Millot,Roberto Massimo,4.0,43.46451833333331,8.282617956079198
+46337,35172,46,VfB Stuttgart,Enzo Millot,Chris Führich,120.0,4982.451888333335,2.1676074836344634
+46337,41429,46,VfB Stuttgart,Enzo Millot,Woo-yeong Jeong,15.0,542.0536766666667,2.4905282596767186
+46337,44929,46,VfB Stuttgart,Enzo Millot,Deniz Undav,59.0,3610.5388000000003,1.4706946231958509
+46337,45518,46,VfB Stuttgart,Enzo Millot,Silas,15.0,1086.8954583333336,1.2420697774099783
+46337,50078,46,VfB Stuttgart,Enzo Millot,Hiroki Ito,100.0,3723.4381466666664,2.4171208559103015
+46337,51629,46,VfB Stuttgart,Enzo Millot,Jamie Leweling,51.0,2421.6647799999996,1.8953903273102897
+46337,53526,46,VfB Stuttgart,Enzo Millot,Anthony Rouault,33.0,1698.1994116666672,1.748911217137419
+46337,53560,46,VfB Stuttgart,Enzo Millot,Lilian Egloff,2.0,17.646470000000015,10.200340351356383
+46337,104926,46,VfB Stuttgart,Enzo Millot,Luca Raimund,0.0,0.0,0.0
+46337,104927,46,VfB Stuttgart,Enzo Millot,Samuele Di Benedetto,0.0,0.0,0.0
+46337,114859,46,VfB Stuttgart,Enzo Millot,Jovan Milosevic,0.0,0.0,0.0
+50078,1004,46,VfB Stuttgart,Hiroki Ito,Genki Haraguchi,3.0,23.341199999999997,11.567528661765465
+50078,1023,46,VfB Stuttgart,Hiroki Ito,Alexander Nübel,141.0,4417.28169,2.8728075070983308
+50078,1056,46,VfB Stuttgart,Hiroki Ito,Serhou Guirassy,59.0,4229.834635,1.2553682255240222
+50078,1161,46,VfB Stuttgart,Hiroki Ito,Mahmoud Dahoud,25.0,335.9444616666667,6.697535624898951
+50078,1171,46,VfB Stuttgart,Hiroki Ito,Pascal Stenzel,16.0,2040.0463883333334,0.7058663019797524
+50078,1297,46,VfB Stuttgart,Hiroki Ito,Maximilian Mittelstädt,205.0,3071.1204366666666,6.00757944225244
+50078,1359,46,VfB Stuttgart,Hiroki Ito,Waldemar Anton,210.0,4891.395771666666,3.863927778953802
+50078,5420,46,VfB Stuttgart,Hiroki Ito,Borna Sosa,10.0,36.04731666666667,24.96718433503372
+50078,5774,46,VfB Stuttgart,Hiroki Ito,Dan-Axel Zagadou,93.0,1718.896125,4.8694041939270765
+50078,9861,46,VfB Stuttgart,Hiroki Ito,Fabian Bredlow,43.0,847.7624016666666,4.564958285943959
+50078,22947,46,VfB Stuttgart,Hiroki Ito,Atakan Karazor,176.0,4729.303758333333,3.349330220561307
+50078,27123,46,VfB Stuttgart,Hiroki Ito,Angelo Stiller,276.0,4644.138426666667,5.348677777856188
+50078,27426,46,VfB Stuttgart,Hiroki Ito,Josha Vagnoman,7.0,1239.7779066666667,0.508155530609391
+50078,31448,46,VfB Stuttgart,Hiroki Ito,Leonidas Stergiou,3.0,950.6385583333333,0.2840196177960276
+50078,33056,46,VfB Stuttgart,Hiroki Ito,Roberto Massimo,1.0,43.866483333333356,2.051680307174535
+50078,35172,46,VfB Stuttgart,Hiroki Ito,Chris Führich,169.0,4637.683581666667,3.279654537046684
+50078,41429,46,VfB Stuttgart,Hiroki Ito,Woo-yeong Jeong,39.0,1166.835185,3.008136920382633
+50078,44929,46,VfB Stuttgart,Hiroki Ito,Deniz Undav,28.0,3149.9281499999997,0.8000182480352767
+50078,45518,46,VfB Stuttgart,Hiroki Ito,Silas,8.0,1543.6360483333328,0.46643119067955524
+50078,46337,46,VfB Stuttgart,Hiroki Ito,Enzo Millot,96.0,3723.4381466666664,2.3204360216738893
+50078,51629,46,VfB Stuttgart,Hiroki Ito,Jamie Leweling,11.0,2472.1938816666666,0.4004540288452525
+50078,53526,46,VfB Stuttgart,Hiroki Ito,Anthony Rouault,41.0,1495.9243450000001,2.466702285000917
+50078,53560,46,VfB Stuttgart,Hiroki Ito,Lilian Egloff,4.0,201.71020333333334,1.7847386698881418
+50078,104926,46,VfB Stuttgart,Hiroki Ito,Luca Raimund,0.0,0.0,0.0
+50078,104927,46,VfB Stuttgart,Hiroki Ito,Samuele Di Benedetto,0.0,0.0,0.0
+50078,114859,46,VfB Stuttgart,Hiroki Ito,Jovan Milosevic,0.0,0.0,0.0
+51629,1004,46,VfB Stuttgart,Jamie Leweling,Genki Haraguchi,0.0,0.0,0.0
+51629,1023,46,VfB Stuttgart,Jamie Leweling,Alexander Nübel,1.0,2921.852046666667,0.030802381011274884
+51629,1056,46,VfB Stuttgart,Jamie Leweling,Serhou Guirassy,27.0,2138.178143333333,1.1364815450838575
+51629,1161,46,VfB Stuttgart,Jamie Leweling,Mahmoud Dahoud,2.0,55.523004999999976,3.2418994613133796
+51629,1171,46,VfB Stuttgart,Jamie Leweling,Pascal Stenzel,20.0,846.7871733333335,2.125681702185443
+51629,1297,46,VfB Stuttgart,Jamie Leweling,Maximilian Mittelstädt,14.0,2721.0715516666664,0.4630528731331027
+51629,1359,46,VfB Stuttgart,Jamie Leweling,Waldemar Anton,51.0,3168.2833883333333,1.4487340421951829
+51629,5420,46,VfB Stuttgart,Jamie Leweling,Borna Sosa,1.0,10.972249999999985,8.202510879719302
+51629,5774,46,VfB Stuttgart,Jamie Leweling,Dan-Axel Zagadou,5.0,1313.0992783333331,0.3427006681255418
+51629,9861,46,VfB Stuttgart,Jamie Leweling,Fabian Bredlow,0.0,0.0,0.0
+51629,22947,46,VfB Stuttgart,Jamie Leweling,Atakan Karazor,68.0,2913.4290733333337,2.1006174668937247
+51629,27123,46,VfB Stuttgart,Jamie Leweling,Angelo Stiller,38.0,3162.980536666666,1.0812586294331725
+51629,27426,46,VfB Stuttgart,Jamie Leweling,Josha Vagnoman,21.0,635.2609083333334,2.975155523041064
+51629,31448,46,VfB Stuttgart,Jamie Leweling,Leonidas Stergiou,32.0,926.1031016666667,3.109804939446798
+51629,33056,46,VfB Stuttgart,Jamie Leweling,Roberto Massimo,1.0,24.827685000000017,3.6249855755782283
+51629,35172,46,VfB Stuttgart,Jamie Leweling,Chris Führich,20.0,2968.59013,0.6063484419117166
+51629,41429,46,VfB Stuttgart,Jamie Leweling,Woo-yeong Jeong,9.0,125.92407,6.43244774410484
+51629,44929,46,VfB Stuttgart,Jamie Leweling,Deniz Undav,57.0,2903.914096666666,1.7665811829243174
+51629,45518,46,VfB Stuttgart,Jamie Leweling,Silas,1.0,85.07113666666666,1.0579381389089235
+51629,46337,46,VfB Stuttgart,Jamie Leweling,Enzo Millot,52.0,2421.6647799999996,1.93255484353206
+51629,50078,46,VfB Stuttgart,Jamie Leweling,Hiroki Ito,4.0,2472.1938816666666,0.14561964685281908
+51629,53526,46,VfB Stuttgart,Jamie Leweling,Anthony Rouault,17.0,1061.9356116666668,1.440765318717134
+51629,53560,46,VfB Stuttgart,Jamie Leweling,Lilian Egloff,2.0,26.495051666666676,6.793721418798262
+51629,104926,46,VfB Stuttgart,Jamie Leweling,Luca Raimund,3.0,29.15488499999998,9.260883724974397
+51629,104927,46,VfB Stuttgart,Jamie Leweling,Samuele Di Benedetto,0.0,0.0,0.0
+51629,114859,46,VfB Stuttgart,Jamie Leweling,Jovan Milosevic,2.0,19.21725166666665,9.36658389670879
+53526,1004,46,VfB Stuttgart,Anthony Rouault,Genki Haraguchi,0.0,0.0,0.0
+53526,1023,46,VfB Stuttgart,Anthony Rouault,Alexander Nübel,39.0,2001.3578400000004,1.7538093037874725
+53526,1056,46,VfB Stuttgart,Anthony Rouault,Serhou Guirassy,17.0,1173.3185749999998,1.3039936745227103
+53526,1161,46,VfB Stuttgart,Anthony Rouault,Mahmoud Dahoud,3.0,48.807620000000014,5.531923089058633
+53526,1171,46,VfB Stuttgart,Anthony Rouault,Pascal Stenzel,59.0,640.1605249999999,8.294794497052127
+53526,1297,46,VfB Stuttgart,Anthony Rouault,Maximilian Mittelstädt,20.0,992.14744,1.814246479333757
+53526,1359,46,VfB Stuttgart,Anthony Rouault,Waldemar Anton,142.0,2163.185546666667,5.907953674937028
+53526,5420,46,VfB Stuttgart,Anthony Rouault,Borna Sosa,0.0,0.0,0.0
+53526,5774,46,VfB Stuttgart,Anthony Rouault,Dan-Axel Zagadou,31.0,709.4366716666667,3.932697746573353
+53526,9861,46,VfB Stuttgart,Anthony Rouault,Fabian Bredlow,3.0,211.56756833333336,1.2761880383036968
+53526,22947,46,VfB Stuttgart,Anthony Rouault,Atakan Karazor,92.0,1961.1979833333335,4.22190929746265
+53526,27123,46,VfB Stuttgart,Anthony Rouault,Angelo Stiller,90.0,2214.3907483333337,3.6578910050525106
+53526,27426,46,VfB Stuttgart,Anthony Rouault,Josha Vagnoman,42.0,984.255555,3.8404660058027313
+53526,31448,46,VfB Stuttgart,Anthony Rouault,Leonidas Stergiou,6.0,439.58968333333337,1.228418273844082
+53526,33056,46,VfB Stuttgart,Anthony Rouault,Roberto Massimo,0.0,0.0,0.0
+53526,35172,46,VfB Stuttgart,Anthony Rouault,Chris Führich,32.0,2026.574196666667,1.4211174724009898
+53526,41429,46,VfB Stuttgart,Anthony Rouault,Woo-yeong Jeong,8.0,443.9968766666667,1.6216330290551668
+53526,44929,46,VfB Stuttgart,Anthony Rouault,Deniz Undav,25.0,1317.5981949999998,1.7076526125629674
+53526,45518,46,VfB Stuttgart,Anthony Rouault,Silas,13.0,511.08214333333336,2.289260181091698
+53526,46337,46,VfB Stuttgart,Anthony Rouault,Enzo Millot,60.0,1698.1994116666672,3.179838576613489
+53526,50078,46,VfB Stuttgart,Anthony Rouault,Hiroki Ito,44.0,1495.9243450000001,2.647192696098545
+53526,51629,46,VfB Stuttgart,Anthony Rouault,Jamie Leweling,25.0,1061.9356116666668,2.118772527525197
+53526,53560,46,VfB Stuttgart,Anthony Rouault,Lilian Egloff,0.0,0.0,0.0
+53526,104926,46,VfB Stuttgart,Anthony Rouault,Luca Raimund,1.0,10.667734999999993,8.436655016271033
+53526,104927,46,VfB Stuttgart,Anthony Rouault,Samuele Di Benedetto,0.0,0.0,0.0
+53526,114859,46,VfB Stuttgart,Anthony Rouault,Jovan Milosevic,0.0,0.0,0.0
+53560,1004,46,VfB Stuttgart,Lilian Egloff,Genki Haraguchi,0.0,0.0,0.0
+53560,1023,46,VfB Stuttgart,Lilian Egloff,Alexander Nübel,1.0,210.9803533333333,0.42658000414762165
+53560,1056,46,VfB Stuttgart,Lilian Egloff,Serhou Guirassy,2.0,193.9054183333333,0.9282876236628459
+53560,1161,46,VfB Stuttgart,Lilian Egloff,Mahmoud Dahoud,0.0,0.0,0.0
+53560,1171,46,VfB Stuttgart,Lilian Egloff,Pascal Stenzel,0.0,0.0,0.0
+53560,1297,46,VfB Stuttgart,Lilian Egloff,Maximilian Mittelstädt,1.0,13.136368333333303,6.851208622981938
+53560,1359,46,VfB Stuttgart,Lilian Egloff,Waldemar Anton,4.0,219.87532166666665,1.6372915217186759
+53560,5420,46,VfB Stuttgart,Lilian Egloff,Borna Sosa,1.0,19.19605166666667,4.6884641468371395
+53560,5774,46,VfB Stuttgart,Lilian Egloff,Dan-Axel Zagadou,3.0,219.98153833333333,1.2273757245522794
+53560,9861,46,VfB Stuttgart,Lilian Egloff,Fabian Bredlow,0.0,0.0,0.0
+53560,22947,46,VfB Stuttgart,Lilian Egloff,Atakan Karazor,3.0,189.59556666666668,1.4240839316390483
+53560,27123,46,VfB Stuttgart,Lilian Egloff,Angelo Stiller,0.0,0.0,0.0
+53560,27426,46,VfB Stuttgart,Lilian Egloff,Josha Vagnoman,0.0,0.0,0.0
+53560,31448,46,VfB Stuttgart,Lilian Egloff,Leonidas Stergiou,0.0,0.0,0.0
+53560,33056,46,VfB Stuttgart,Lilian Egloff,Roberto Massimo,0.0,0.0,0.0
+53560,35172,46,VfB Stuttgart,Lilian Egloff,Chris Führich,5.0,203.66063333333332,2.209558090018706
+53560,41429,46,VfB Stuttgart,Lilian Egloff,Woo-yeong Jeong,3.0,204.4824866666667,1.3204064778424545
+53560,44929,46,VfB Stuttgart,Lilian Egloff,Deniz Undav,0.0,0.0,0.0
+53560,45518,46,VfB Stuttgart,Lilian Egloff,Silas,0.0,0.0,0.0
+53560,46337,46,VfB Stuttgart,Lilian Egloff,Enzo Millot,2.0,17.646470000000015,10.200340351356383
+53560,50078,46,VfB Stuttgart,Lilian Egloff,Hiroki Ito,2.0,201.71020333333334,0.8923693349440709
+53560,51629,46,VfB Stuttgart,Lilian Egloff,Jamie Leweling,1.0,26.495051666666676,3.396860709399131
+53560,53526,46,VfB Stuttgart,Lilian Egloff,Anthony Rouault,0.0,0.0,0.0
+53560,104926,46,VfB Stuttgart,Lilian Egloff,Luca Raimund,0.0,0.0,0.0
+53560,104927,46,VfB Stuttgart,Lilian Egloff,Samuele Di Benedetto,0.0,0.0,0.0
+53560,114859,46,VfB Stuttgart,Lilian Egloff,Jovan Milosevic,0.0,0.0,0.0
+104926,1004,46,VfB Stuttgart,Luca Raimund,Genki Haraguchi,0.0,0.0,0.0
+104926,1023,46,VfB Stuttgart,Luca Raimund,Alexander Nübel,0.0,0.0,0.0
+104926,1056,46,VfB Stuttgart,Luca Raimund,Serhou Guirassy,0.0,0.0,0.0
+104926,1161,46,VfB Stuttgart,Luca Raimund,Mahmoud Dahoud,0.0,0.0,0.0
+104926,1171,46,VfB Stuttgart,Luca Raimund,Pascal Stenzel,0.0,0.0,0.0
+104926,1297,46,VfB Stuttgart,Luca Raimund,Maximilian Mittelstädt,0.0,0.0,0.0
+104926,1359,46,VfB Stuttgart,Luca Raimund,Waldemar Anton,7.0,29.65358499999999,21.2453232889042
+104926,5420,46,VfB Stuttgart,Luca Raimund,Borna Sosa,0.0,0.0,0.0
+104926,5774,46,VfB Stuttgart,Luca Raimund,Dan-Axel Zagadou,3.0,29.388885,9.187146773346454
+104926,9861,46,VfB Stuttgart,Luca Raimund,Fabian Bredlow,0.0,0.0,0.0
+104926,22947,46,VfB Stuttgart,Luca Raimund,Atakan Karazor,0.0,0.0,0.0
+104926,27123,46,VfB Stuttgart,Luca Raimund,Angelo Stiller,1.0,29.639568333333347,3.0364814692251745
+104926,27426,46,VfB Stuttgart,Luca Raimund,Josha Vagnoman,0.0,0.0,0.0
+104926,31448,46,VfB Stuttgart,Luca Raimund,Leonidas Stergiou,1.0,16.5933,5.423875901719369
+104926,33056,46,VfB Stuttgart,Luca Raimund,Roberto Massimo,0.0,0.0,0.0
+104926,35172,46,VfB Stuttgart,Luca Raimund,Chris Führich,0.0,0.0,0.0
+104926,41429,46,VfB Stuttgart,Luca Raimund,Woo-yeong Jeong,0.0,0.0,0.0
+104926,44929,46,VfB Stuttgart,Luca Raimund,Deniz Undav,1.0,29.422634999999993,3.058869472431685
+104926,45518,46,VfB Stuttgart,Luca Raimund,Silas,0.0,0.0,0.0
+104926,46337,46,VfB Stuttgart,Luca Raimund,Enzo Millot,0.0,0.0,0.0
+104926,50078,46,VfB Stuttgart,Luca Raimund,Hiroki Ito,0.0,0.0,0.0
+104926,51629,46,VfB Stuttgart,Luca Raimund,Jamie Leweling,2.0,29.15488499999998,6.1739224833162645
+104926,53526,46,VfB Stuttgart,Luca Raimund,Anthony Rouault,0.0,0.0,0.0
+104926,53560,46,VfB Stuttgart,Luca Raimund,Lilian Egloff,0.0,0.0,0.0
+104926,104927,46,VfB Stuttgart,Luca Raimund,Samuele Di Benedetto,0.0,0.0,0.0
+104926,114859,46,VfB Stuttgart,Luca Raimund,Jovan Milosevic,0.0,0.0,0.0
+104927,1004,46,VfB Stuttgart,Samuele Di Benedetto,Genki Haraguchi,0.0,0.0,0.0
+104927,1023,46,VfB Stuttgart,Samuele Di Benedetto,Alexander Nübel,0.0,0.0,0.0
+104927,1056,46,VfB Stuttgart,Samuele Di Benedetto,Serhou Guirassy,0.0,0.0,0.0
+104927,1161,46,VfB Stuttgart,Samuele Di Benedetto,Mahmoud Dahoud,0.0,0.0,0.0
+104927,1171,46,VfB Stuttgart,Samuele Di Benedetto,Pascal Stenzel,0.0,0.0,0.0
+104927,1297,46,VfB Stuttgart,Samuele Di Benedetto,Maximilian Mittelstädt,0.0,0.0,0.0
+104927,1359,46,VfB Stuttgart,Samuele Di Benedetto,Waldemar Anton,0.0,0.0,0.0
+104927,5420,46,VfB Stuttgart,Samuele Di Benedetto,Borna Sosa,0.0,0.0,0.0
+104927,5774,46,VfB Stuttgart,Samuele Di Benedetto,Dan-Axel Zagadou,0.0,0.0,0.0
+104927,9861,46,VfB Stuttgart,Samuele Di Benedetto,Fabian Bredlow,0.0,0.0,0.0
+104927,22947,46,VfB Stuttgart,Samuele Di Benedetto,Atakan Karazor,0.0,0.0,0.0
+104927,27123,46,VfB Stuttgart,Samuele Di Benedetto,Angelo Stiller,0.0,0.0,0.0
+104927,27426,46,VfB Stuttgart,Samuele Di Benedetto,Josha Vagnoman,0.0,0.0,0.0
+104927,31448,46,VfB Stuttgart,Samuele Di Benedetto,Leonidas Stergiou,0.0,0.0,0.0
+104927,33056,46,VfB Stuttgart,Samuele Di Benedetto,Roberto Massimo,0.0,0.0,0.0
+104927,35172,46,VfB Stuttgart,Samuele Di Benedetto,Chris Führich,0.0,0.0,0.0
+104927,41429,46,VfB Stuttgart,Samuele Di Benedetto,Woo-yeong Jeong,0.0,0.0,0.0
+104927,44929,46,VfB Stuttgart,Samuele Di Benedetto,Deniz Undav,0.0,0.0,0.0
+104927,45518,46,VfB Stuttgart,Samuele Di Benedetto,Silas,0.0,0.0,0.0
+104927,46337,46,VfB Stuttgart,Samuele Di Benedetto,Enzo Millot,0.0,0.0,0.0
+104927,50078,46,VfB Stuttgart,Samuele Di Benedetto,Hiroki Ito,0.0,0.0,0.0
+104927,51629,46,VfB Stuttgart,Samuele Di Benedetto,Jamie Leweling,0.0,0.0,0.0
+104927,53526,46,VfB Stuttgart,Samuele Di Benedetto,Anthony Rouault,0.0,0.0,0.0
+104927,53560,46,VfB Stuttgart,Samuele Di Benedetto,Lilian Egloff,0.0,0.0,0.0
+104927,104926,46,VfB Stuttgart,Samuele Di Benedetto,Luca Raimund,0.0,0.0,0.0
+104927,114859,46,VfB Stuttgart,Samuele Di Benedetto,Jovan Milosevic,0.0,0.0,0.0
+114859,1004,46,VfB Stuttgart,Jovan Milosevic,Genki Haraguchi,0.0,0.0,0.0
+114859,1023,46,VfB Stuttgart,Jovan Milosevic,Alexander Nübel,0.0,0.0,0.0
+114859,1056,46,VfB Stuttgart,Jovan Milosevic,Serhou Guirassy,0.0,0.0,0.0
+114859,1161,46,VfB Stuttgart,Jovan Milosevic,Mahmoud Dahoud,0.0,0.0,0.0
+114859,1171,46,VfB Stuttgart,Jovan Milosevic,Pascal Stenzel,0.0,0.0,0.0
+114859,1297,46,VfB Stuttgart,Jovan Milosevic,Maximilian Mittelstädt,1.0,16.630768333333343,5.41165616621641
+114859,1359,46,VfB Stuttgart,Jovan Milosevic,Waldemar Anton,0.0,0.0,0.0
+114859,5420,46,VfB Stuttgart,Jovan Milosevic,Borna Sosa,0.0,0.0,0.0
+114859,5774,46,VfB Stuttgart,Jovan Milosevic,Dan-Axel Zagadou,1.0,22.621201666666668,3.97856848306246
+114859,9861,46,VfB Stuttgart,Jovan Milosevic,Fabian Bredlow,0.0,0.0,0.0
+114859,22947,46,VfB Stuttgart,Jovan Milosevic,Atakan Karazor,2.0,12.948066666666666,13.901689312690184
+114859,27123,46,VfB Stuttgart,Jovan Milosevic,Angelo Stiller,1.0,23.016153333333325,3.9102972028630343
+114859,27426,46,VfB Stuttgart,Jovan Milosevic,Josha Vagnoman,0.0,0.0,0.0
+114859,31448,46,VfB Stuttgart,Jovan Milosevic,Leonidas Stergiou,0.0,0.0,0.0
+114859,33056,46,VfB Stuttgart,Jovan Milosevic,Roberto Massimo,0.0,0.0,0.0
+114859,35172,46,VfB Stuttgart,Jovan Milosevic,Chris Führich,0.0,0.0,0.0
+114859,41429,46,VfB Stuttgart,Jovan Milosevic,Woo-yeong Jeong,0.0,0.0,0.0
+114859,44929,46,VfB Stuttgart,Jovan Milosevic,Deniz Undav,0.0,0.0,0.0
+114859,45518,46,VfB Stuttgart,Jovan Milosevic,Silas,0.0,0.0,0.0
+114859,46337,46,VfB Stuttgart,Jovan Milosevic,Enzo Millot,0.0,0.0,0.0
+114859,50078,46,VfB Stuttgart,Jovan Milosevic,Hiroki Ito,0.0,0.0,0.0
+114859,51629,46,VfB Stuttgart,Jovan Milosevic,Jamie Leweling,0.0,0.0,0.0
+114859,53526,46,VfB Stuttgart,Jovan Milosevic,Anthony Rouault,0.0,0.0,0.0
+114859,53560,46,VfB Stuttgart,Jovan Milosevic,Lilian Egloff,0.0,0.0,0.0
+114859,104926,46,VfB Stuttgart,Jovan Milosevic,Luca Raimund,0.0,0.0,0.0
+114859,104927,46,VfB Stuttgart,Jovan Milosevic,Samuele Di Benedetto,0.0,0.0,0.0

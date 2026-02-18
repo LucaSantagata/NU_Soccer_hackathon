@@ -1,0 +1,530 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Pascal Groß-Pascal Groß-Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Nico Schlotterbeck-Gregor Kobel-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol-Pressure,Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julian Ryerson-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Karim-David Adeyemi-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Emre Can-Emre Can-Emre Can-Serhou Guirassy-Serhou Guirassy-Serhou Guirassy-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Serhou Guirassy-Serhou Guirassy-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Nico Schlotterbeck-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Miscontrol-Pressure,Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Pascal Groß-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Karim-David Adeyemi-Karim-David Adeyemi-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Ball Receipt,Julian Brandt-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past-Pressure,Pascal Groß-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß-Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Pass-Ball Receipt-Pass,Gregor Kobel-Gregor Kobel-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamie Jermaine Bynoe-Gittens-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Julian Brandt-Julian Brandt-Julian Brandt-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Duel,Pascal Groß-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Shot-Ball Receipt,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Pascal Groß-Pascal Groß-Pascal Groß-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Nico Schlotterbeck-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julian Brandt-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Miscontrol,Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Serhou Guirassy-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt,Emre Can-Emre Can-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Emre Can-Emre Can-Emre Can-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Pascal Groß-Julian Brandt-Julian Brandt-Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Serhou Guirassy-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Brandt-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Waldemar Anton-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Dribble,Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Pressure,Emre Can-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Gregor Kobel-Gregor Kobel-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Julian Brandt-Julian Brandt-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Brandt-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Julian Ryerson-Julian Brandt-Julian Brandt-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Julian Brandt-Julian Brandt-Julian Brandt-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Gregor Kobel-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Error-Pass-Ball Receipt,Gregor Kobel-Gregor Kobel-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Serhou Guirassy-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can-Emre Can-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß-Pascal Groß-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Emre Can-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Miscontrol,Emre Can-Pascal Groß-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Dribble,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Gregor Kobel-Emre Can-Emre Can-Emre Can-Julian Brandt-Julian Brandt-Julian Brandt-Waldemar Anton-Waldemar Anton-Waldemar Anton-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamie Jermaine Bynoe-Gittens-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Serhou Guirassy-Serhou Guirassy-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Yan Bueno Couto-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past-Pressure,Julian Brandt-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Waldemar Anton-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Pascal Groß-Pascal Groß-Serhou Guirassy-Serhou Guirassy-Serhou Guirassy-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jamie Jermaine Bynoe-Gittens-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß-Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Duel,Pascal Groß-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Goal Keeper,Waldemar Anton-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Foul Committed,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance-Ball Recovery-Carry,Julian Ryerson-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Jamie Jermaine Bynoe-Gittens-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt-Pass,Serhou Guirassy-Pascal Groß-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Dispossessed,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Emre Can-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Jamie Jermaine Bynoe-Gittens-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Karim-David Adeyemi-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Karim-David Adeyemi-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Jamie Jermaine Bynoe-Gittens-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt,Emre Can-Julian Brandt-Julian Brandt-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Jamie Jermaine Bynoe-Gittens-Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Pascal Groß-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot-Ball Receipt,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson-Serhou Guirassy-Serhou Guirassy-Serhou Guirassy-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Ball Receipt,Yan Bueno Couto-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot-Ball Receipt,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Pascal Groß-Pascal Groß-Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Ball Recovery-Carry,Pascal Groß-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Dribble-Carry,Serhou Guirassy-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Serhou Guirassy-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can-Emre Can-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julian Brandt-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Ball Receipt,Waldemar Anton-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Ball Recovery-Carry,Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Karim-David Adeyemi-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Julian Brandt-Julian Brandt-Julian Brandt-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot-Ball Receipt,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Emre Can-Emre Can-Emre Can-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Julian Brandt-Julian Brandt-Julian Brandt-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Pressure,Yan Bueno Couto-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-50/50,Pascal Groß-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Yan Bueno Couto-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-Carry-Pass,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Committed,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance-Pressure,Waldemar Anton-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Ryerson-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Waldemar Anton-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Carry-Miscontrol,Emre Can-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-Pass-Ball Receipt-Carry,Pascal Groß-Nico Schlotterbeck-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Karim-David Adeyemi-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Miscontrol,Serhou Guirassy-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Pascal Groß-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Jamie Jermaine Bynoe-Gittens-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Serhou Guirassy-Pascal Groß-Pascal Groß-Pascal Groß-Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt,Yan Bueno Couto-Yan Bueno Couto-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Committed,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Serhou Guirassy-Pascal Groß-Pascal Groß-Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Waldemar Anton-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass,Gregor Kobel-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Emre Can-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serhou Guirassy-Serhou Guirassy-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Julian Ryerson-Julian Ryerson-Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jamie Jermaine Bynoe-Gittens-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Miscontrol,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol-Pressure,Serhou Guirassy-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Carry,Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt-Carry-Pass,Nico Schlotterbeck-Nico Schlotterbeck-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Foul Committed,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass,Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Yan Bueno Couto-Julian Ryerson-Julian Ryerson-Julian Ryerson-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Duel,Pascal Groß-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Dribble-Carry,Emre Can-Emre Can-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Committed,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Miscontrol-Pressure-Pressure-Pressure,Serhou Guirassy-Serhou Guirassy-Serhou Guirassy-Pascal Groß-Julian Ryerson-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-Ball Recovery-Carry,Pascal Groß-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol-Pass-Ball Receipt,Julian Ryerson-Nico Schlotterbeck-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß-Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can-Emre Can-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Waldemar Anton-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Emre Can-Emre Can-Emre Can-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Julian Ryerson-Julian Ryerson-Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Karim-David Adeyemi-Pascal Groß-Pascal Groß-Julian Ryerson-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Dribble-Carry,Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Jamie Jermaine Bynoe-Gittens-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Ryerson-Julian Ryerson-Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Yan Bueno Couto-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt,Serhou Guirassy-Serhou Guirassy-Serhou Guirassy-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Waldemar Anton-Julian Brandt-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Shot,Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Waldemar Anton-Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Karim-David Adeyemi-Pascal Groß-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Pascal Groß-Julian Brandt-Julian Brandt-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past-Foul Committed,Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Bad Behaviour,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Waldemar Anton-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass,Pascal Groß-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Emre Can-Pascal Groß-Pascal Groß-Pascal Groß-Gregor Kobel-Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Pascal Groß-Pascal Groß-Waldemar Anton-Waldemar Anton-Waldemar Anton-Julian Brandt-Julian Brandt-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Emre Can-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+50/50,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Julian Brandt-Julian Brandt-Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Pascal Groß-Pascal Groß-Pascal Groß-Emre Can-Emre Can-Emre Can-Julian Ryerson-Julian Ryerson-Julian Ryerson-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Shot,Serhou Guirassy-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pascal Groß-Julian Brandt-Julian Brandt-Julian Brandt-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,Gregor Kobel-Gregor Kobel-Gregor Kobel-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Clearance,Gregor Kobel-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance-Ball Recovery-Carry-Pass,Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry,Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Dribble-Carry,Julian Brandt-Emre Can-Pascal Groß-Pascal Groß-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past-Pressure-Foul Committed,Emre Can-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Injury Stoppage,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Substitution,Jamie Jermaine Bynoe-Gittens,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Gregor Kobel-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emre Can-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson-Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Gregor Kobel-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt,Julien Duranville-Julien Duranville-Julien Duranville-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Carry,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Pressure,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julien Duranville-Julien Duranville-Julien Duranville-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Ball Receipt,Julian Brandt-Julien Duranville-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pascal Groß-Pascal Groß-Pascal Groß-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Karim-David Adeyemi-Emre Can-Emre Can-Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Foul Committed,Julien Duranville-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past-Pressure-Foul Committed,Pascal Groß-Pascal Groß-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Pascal Groß-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol,Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Goal Keeper-50/50,Waldemar Anton-Gregor Kobel-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Ryerson-Julian Ryerson-Julian Ryerson-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt,Serhou Guirassy-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julian Ryerson-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Waldemar Anton-Pascal Groß-Pascal Groß-Emre Can-Emre Can-Emre Can-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Julian Brandt-Julian Brandt,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry,Julian Ryerson-Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Julian Ryerson-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Substitution,Julian Ryerson,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Substitution-Substitution,Julian Brandt-Pascal Groß,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nico Schlotterbeck-Emre Can-Emre Can-Emre Can-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Shot,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass,Nico Schlotterbeck-Ramy Bensebaini-Ramy Bensebaini-Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julien Duranville-Julien Duranville-Julien Duranville-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Serhou Guirassy-Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julien Duranville-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Won-Pass-Ball Receipt,Nico Schlotterbeck-Nico Schlotterbeck-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yan Bueno Couto-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Schlotterbeck-Gregor Kobel-Gregor Kobel-Gregor Kobel-Waldemar Anton-Waldemar Anton-Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Emre Can-Emre Can-Emre Can-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Karim-David Adeyemi-Emre Can-Emre Can-Emre Can-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Committed,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Ramy Bensebaini-Ramy Bensebaini-Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emre Can-Emre Can-Emre Can-Yan Bueno Couto-Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Felix Kalu Nmecha-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery,Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+50/50-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Ramy Bensebaini-Felix Kalu Nmecha-Felix Kalu Nmecha-Felix Kalu Nmecha-Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dispossessed,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Pressure,Maximilian Beier-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Felix Kalu Nmecha-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Karim-David Adeyemi-Felix Kalu Nmecha-Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Felix Kalu Nmecha-Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Substitution,Yan Bueno Couto,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass,Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Felix Kalu Nmecha-Felix Kalu Nmecha-Waldemar Anton-Waldemar Anton-Waldemar Anton-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Emre Can-Serhou Guirassy-Serhou Guirassy-Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Shot,Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Miscontrol,Felix Kalu Nmecha-Serhou Guirassy-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Clearance,Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Emre Can-Emre Can-Emre Can-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Karim-David Adeyemi-Niklas Süle-Niklas Süle-Niklas Süle-Waldemar Anton-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Waldemar Anton-Gregor Kobel-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Emre Can-Emre Can-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Niklas Süle,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Pressure,Felix Kalu Nmecha-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block-Pressure,Karim-David Adeyemi-Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Foul Committed,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt-Foul Committed,Felix Kalu Nmecha-Felix Kalu Nmecha-Felix Kalu Nmecha-Julien Duranville-Julien Duranville-Julien Duranville-Serhou Guirassy-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt,Gregor Kobel-Gregor Kobel-Gregor Kobel-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Felix Kalu Nmecha-Waldemar Anton-Waldemar Anton-Waldemar Anton-Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry,Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Miscontrol-Pressure,Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Waldemar Anton-Niklas Süle-Niklas Süle-Niklas Süle-Emre Can-Emre Can-Emre Can-Niklas Süle-Niklas Süle-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Niklas Süle-Niklas Süle-Felix Kalu Nmecha-Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Felix Kalu Nmecha-Niklas Süle-Niklas Süle-Niklas Süle-Waldemar Anton-Waldemar Anton-Waldemar Anton-Felix Kalu Nmecha-Felix Kalu Nmecha-Felix Kalu Nmecha-Emre Can-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt,Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Waldemar Anton-Emre Can-Emre Can-Niklas Süle-Niklas Süle-Niklas Süle-Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribble-Carry,Maximilian Beier-Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Shot,Maximilian Beier-Ramy Bensebaini-Ramy Bensebaini-Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Dribble-Carry,Ramy Bensebaini-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Nico Schlotterbeck-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Niklas Süle-Niklas Süle-Niklas Süle,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Niklas Süle-Niklas Süle-Niklas Süle-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi-Niklas Süle-Niklas Süle-Maximilian Beier-Maximilian Beier-Emre Can-Emre Can,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry,Emre Can-Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Pressure-Block,Serhou Guirassy-Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure-Pressure,Emre Can-Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Dribbled Past,Felix Kalu Nmecha,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Maximilian Beier-Maximilian Beier-Gregor Kobel-Gregor Kobel-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck-Ramy Bensebaini-Ramy Bensebaini-Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Emre Can-Emre Can-Ramy Bensebaini-Ramy Bensebaini-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Felix Kalu Nmecha-Felix Kalu Nmecha-Felix Kalu Nmecha-Nico Schlotterbeck-Nico Schlotterbeck-Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Gregor Kobel-Niklas Süle-Niklas Süle,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Niklas Süle-Emre Can-Emre Can-Emre Can-Felix Kalu Nmecha-Felix Kalu Nmecha-Ramy Bensebaini-Ramy Bensebaini-Julien Duranville-Julien Duranville-Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Ball Receipt-Shot,Serhou Guirassy-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Julien Duranville,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Block,Maximilian Beier,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass-Ball Receipt-Carry-Dribble,Felix Kalu Nmecha-Ramy Bensebaini-Ramy Bensebaini-Ramy Bensebaini,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pass,Gregor Kobel,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel,Nico Schlotterbeck,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Pressure,Niklas Süle,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Goal Keeper-Pass-Ball Receipt,Gregor Kobel-Gregor Kobel-Serhou Guirassy,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338
+Duel-Ball Recovery-Ball Recovery,Serhou Guirassy-Nico Schlotterbeck-Waldemar Anton,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834923,0.7282394736476338

@@ -1,0 +1,613 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Samuel Emmanuel Essende Mbongu,3949489,Augsburg,Drawn,2,2,First half,0.6286660788470836,0.9136034536282504
+Ball Receipt-Shot,Samuel Emmanuel Essende Mbongu-Samuel Emmanuel Essende Mbongu,3949500,Augsburg,Lost,0,4,First half,1.760180460447342,0.7274954976547425
+Pressure,Marius Wolf,3949509,Augsburg,Won,3,1,First half,2.0852923819592304,0.7040115485249437
+Pass,Samuel Emmanuel Essende Mbongu,3949510,Augsburg,Lost,2,3,First half,1.2038384844027936,0.820093592997807
+Pressure,Kristijan Jakić,3949524,Augsburg,Lost,0,4,First half,1.4226688876828737,0.7613678214960624
+Duel,Keven Schlotterbeck,3949533,Augsburg,Won,2,1,First half,1.252944890826762,0.7701728031139596
+Ball Receipt-Carry,Phillip Tietz-Phillip Tietz,3949538,Augsburg,Lost,1,3,First half,1.5672754599196403,0.7482904777300845
+Foul Won-Shot,Alexis Claude Maurice-Elvis Rexhbeçaj,3949550,Augsburg,Won,2,1,First half,0.6657192084847897,0.8614256419561614
+Pressure,Kristijan Jakić,3949559,Augsburg,Drawn,1,1,First half,1.0884067124021883,0.7905427588013391
+Pressure,Marius Wolf,3949564,Augsburg,Drawn,0,0,First half,1.2918731125612493,0.7554717375309552
+Tactical Shift,Unknown,3949581,Augsburg,Lost,0,3,First half,1.9602238343157816,0.675549053385636
+Offside,Alexis Claude Maurice,3949587,Augsburg,Won,1,0,First half,1.776383379251806,0.7408595906395076
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Keven Schlotterbeck-Keven Schlotterbeck-Keven Schlotterbeck-Phillip Tietz-Phillip Tietz,3949592,Augsburg,Drawn,2,2,First half,1.4485110995903117,0.7222028907323887
+Pass-Ball Receipt-Carry,Frank Onyeka-Samuel Emmanuel Essende Mbongu-Samuel Emmanuel Essende Mbongu,3949602,Augsburg,Lost,0,2,First half,1.2358266206348638,0.7630004473221071
+Substitution-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Samuel Emmanuel Essende Mbongu-Marius Wolf-Chrislain Matsima-Chrislain Matsima-Marius Wolf-Marius Wolf-Henri Koudossou-Henri Koudossou-Dimitris Giannoulis-Dimitris Giannoulis-Dimitris Giannoulis-Maximilian Bauer-Maximilian Bauer-Maximilian Bauer-Chrislain Matsima-Chrislain Matsima-Chrislain Matsima-Marius Wolf-Marius Wolf-Marius Wolf,3949610,Augsburg,Lost,1,5,First half,1.4464027700557691,0.7888235433690496
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alexis Claude Maurice-Alexis Claude Maurice-Alexis Claude Maurice-Chrislain Matsima-Chrislain Matsima-Chrislain Matsima-Robert Gumny-Robert Gumny-Robert Gumny,3949623,Augsburg,Lost,0,1,First half,1.180299798534011,0.7648144698426951
+Pressure,Arne Maier,3949631,Augsburg,Won,2,0,First half,1.8444568983015743,0.7072263056803473
+Pass-Pressure-Ball Receipt,Samuel Emmanuel Essende Mbongu-Arne Maier-Arne Maier,3949641,Augsburg,Won,2,0,First half,1.867268483606202,0.694773877174104
+Pressure,Dimitris Giannoulis,3949647,Augsburg,Won,2,1,First half,1.9730508536784883,0.6949974672303786
+Block,Phillip Tietz,3949660,Augsburg,Drawn,1,1,Second half,1.4762246896957023,0.760899254841529
+Pass-Ball Receipt-Carry,Chrislain Matsima-Keven Schlotterbeck-Keven Schlotterbeck,3949666,Augsburg,Drawn,0,0,Second half,1.253202355508097,0.7457627208541845
+Pressure,Cédric Zesiger,3949677,Augsburg,Drawn,0,0,Second half,1.240689888148872,0.7743673400394061
+Block,Alexis Claude Maurice,3949688,Augsburg,Won,3,0,Second half,0.5796618370428277,0.910223559895598
+Pass-Ball Receipt,Kristijan Jakić-Marius Wolf,3949698,Augsburg,Drawn,0,0,Second half,1.485684754544649,0.7707907635362321
+Ball Receipt,Marius Wolf,3949702,Augsburg,Won,1,0,Second half,1.312932616103761,0.7433912540088508
+Ball Recovery-Carry,Finn Dahmen-Finn Dahmen,3949709,Augsburg,Won,1,0,Second half,1.2263482881988408,0.7902603323717273
+Pass-Ball Receipt-Carry,Cédric Zesiger-Alexis Claude Maurice-Alexis Claude Maurice,3949718,Augsburg,Drawn,1,1,Second half,1.1134580356217194,0.78629750372644
+Pressure,Frank Onyeka,3949731,Augsburg,Lost,1,3,Second half,1.329267241262888,0.7376532328104622
+Pressure,Keven Schlotterbeck,3949735,Augsburg,Won,2,1,Second half,1.7118984877078438,0.7194111319193948
+Ball Receipt-Miscontrol-Pressure-Pressure,Samuel Emmanuel Essende Mbongu-Samuel Emmanuel Essende Mbongu-Samuel Emmanuel Essende Mbongu-Frank Onyeka,3949748,Augsburg,Drawn,0,0,Second half,1.7884770002639567,0.6975852817007772
+Pressure-Pressure,Jeffrey Gouweleeuw-Frank Onyeka,3949759,Augsburg,Lost,0,2,Second half,1.1082432751574922,0.780921647026121
+Ball Recovery-Pressure,Frank Onyeka-Frank Onyeka,3949764,Augsburg,Lost,1,3,Second half,1.3138573619095018,0.7849464478851121
+Ball Recovery-Carry-Dribble-Carry,Alexis Claude Maurice-Alexis Claude Maurice-Alexis Claude Maurice-Alexis Claude Maurice,3949776,Augsburg,Lost,0,4,Second half,1.0121882120841963,0.7780453469681464
+Pass,Mert Kömür,3949782,Augsburg,Lost,1,2,Second half,1.859360975450564,0.7115860560906577
+Pass-Ball Receipt,Jonathan Tah-Jonas Hofmann,3949483,Bayer Leverkusen,Won,3,2,First half,1.0236356430160087,0.7973849265281484
+Pass-Ball Receipt-Pass,Florian Wirtz-Granit Xhaka-Granit Xhaka,3949493,Bayer Leverkusen,Lost,2,3,First half,0.863768544577792,0.8533822801201938
+Pressure,Florian Wirtz,3949506,Bayer Leverkusen,Won,4,1,First half,1.2379950669496105,0.7947649367672556
+Substitution,Amine Adli,3949517,Bayer Leverkusen,Won,4,3,First half,1.4068699148191182,0.7777692345329205
+Pressure,Piero Martín Hincapié Reyna,3949525,Bayer Leverkusen,Drawn,1,1,First half,1.7015673690867492,0.700554814311037
+Pass-Ball Receipt-Pass,Granit Xhaka-Alejandro Grimaldo García-Alejandro Grimaldo García,3949529,Bayer Leverkusen,Drawn,2,2,First half,1.407620578281243,0.7902279415205262
+Foul Committed,Jeremie Frimpong,3949542,Bayer Leverkusen,Won,2,1,First half,1.6117397666568305,0.7641269608348005
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Florian Wirtz-Florian Wirtz-Granit Xhaka-Granit Xhaka-Granit Xhaka-Robert Andrich-Robert Andrich-Robert Andrich-Granit Xhaka-Granit Xhaka-Granit Xhaka-Alejandro Grimaldo García-Alejandro Grimaldo García-Alejandro Grimaldo García-Granit Xhaka-Granit Xhaka-Granit Xhaka-Alejandro Grimaldo García-Alejandro Grimaldo García,3949549,Bayer Leverkusen,Drawn,2,2,First half,1.3881542132947695,0.7598215345925337
+Pressure,Robert Andrich,3949562,Bayer Leverkusen,Drawn,0,0,First half,1.578339290525625,0.7215853033690048
+Pass-Ball Receipt-Carry,Edmond Fayçal Tapsoba-Jonas Hofmann-Jonas Hofmann,3949567,Bayer Leverkusen,Drawn,1,1,First half,1.7448876052261288,0.7545818663881095
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jonathan Tah-Granit Xhaka-Granit Xhaka-Piero Martín Hincapié Reyna-Piero Martín Hincapié Reyna-Piero Martín Hincapié Reyna-Aleix García Serrano-Aleix García Serrano-Alejandro Grimaldo García-Alejandro Grimaldo García-Alejandro Grimaldo García-Aleix García Serrano-Aleix García Serrano-Aleix García Serrano-Granit Xhaka-Granit Xhaka-Granit Xhaka-Alejandro Grimaldo García,3949579,Bayer Leverkusen,Won,5,2,First half,1.4375592941635138,0.7902638330976011
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jeremie Frimpong-Jeremie Frimpong-Jeremie Frimpong-Patrik Schick-Patrik Schick-Granit Xhaka-Granit Xhaka,3949589,Bayer Leverkusen,Won,2,1,First half,1.7264788314242598,0.7530076127090711
+Block-Pressure,Jeremie Frimpong-Jeremie Frimpong,3949598,Bayer Leverkusen,Won,2,1,First half,1.3885426542324273,0.7650469746736689
+Pressure-Pressure,Florian Wirtz-Martin Terrier,3949602,Bayer Leverkusen,Won,2,0,First half,1.4300835367725189,0.7550503935465639
+Pressure-Foul Committed,Alejandro Grimaldo García-Alejandro Grimaldo García,3949616,Bayer Leverkusen,Won,5,1,First half,1.7881290601753284,0.7525115345505634
+Pressure,Nordi Mukiele Mulere,3949619,Bayer Leverkusen,Won,3,2,First half,0.7727097959010782,0.8186355489779076
+Pressure,Aleix García Serrano,3949635,Bayer Leverkusen,Won,1,0,First half,1.3677460686592664,0.8119570393323081
+Ball Receipt-Pass-Ball Receipt,Alejandro Grimaldo García-Alejandro Grimaldo García-Robert Andrich,3949637,Bayer Leverkusen,Won,3,1,First half,1.4161670429079127,0.7454217755456197
+Interception-Clearance,Granit Xhaka-Arthur Augusto de Matos Soares,3949652,Bayer Leverkusen,Drawn,2,2,First half,1.04880810092303,0.7873408338646704
+Ball Receipt-Carry,Emiliano Buendía-Emiliano Buendía,3949661,Bayer Leverkusen,Won,3,1,Second half,1.2705607491607085,0.7747183683739134
+Pressure,Florian Wirtz,3949665,Bayer Leverkusen,Drawn,0,0,Second half,1.1295698789601318,0.7948717692710542
+Pass,Alejandro Grimaldo García,3949678,Bayer Leverkusen,Drawn,0,0,Second half,0.9266455824833424,0.8037448478375949
+Pass-Ball Receipt-Carry,Amine Adli-Jeremie Frimpong-Jeremie Frimpong,3949687,Bayer Leverkusen,Won,2,0,Second half,1.5530610251380417,0.7312782102353234
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Aleix García Serrano-Aleix García Serrano-Aleix García Serrano-Florian Wirtz-Florian Wirtz-Florian Wirtz-Amine Adli-Amine Adli-Florian Wirtz-Florian Wirtz-Florian Wirtz,3949691,Bayer Leverkusen,Won,4,1,Second half,1.364138272742744,0.7646650494654744
+Ball Receipt-Carry-Pass,Nordi Mukiele Mulere-Nordi Mukiele Mulere-Nordi Mukiele Mulere,3949700,Bayer Leverkusen,Lost,0,2,Second half,1.323760298854713,0.7960697776677107
+Goal Keeper-Pass,Lukáš Hrádecký-Lukáš Hrádecký,3949714,Bayer Leverkusen,Won,4,3,Second half,1.4101886450312566,0.7077342069513652
+Pass,Aleix García Serrano,3949723,Bayer Leverkusen,Won,3,1,Second half,1.7471535295771816,0.7242485251543881
+Pass-Pressure-Ball Receipt,Jonathan Tah-Jeremie Frimpong-Jeremie Frimpong,3949726,Bayer Leverkusen,Won,1,0,Second half,1.2099629565659893,0.7575101225355317
+Duel,Florian Wirtz,3949738,Bayer Leverkusen,Drawn,0,0,Second half,1.0858982940991002,0.8419484935692594
+Pass-Ball Receipt,Piero Martín Hincapié Reyna-Nathan Tella,3949745,Bayer Leverkusen,Drawn,1,1,Second half,1.0668324018954718,0.7991197308862623
+Pressure,Emiliano Buendía,3949759,Bayer Leverkusen,Won,2,0,Second half,0.9782110397376564,0.8333252531528812
+Duel-Ball Recovery-Carry,Amine Adli-Granit Xhaka-Granit Xhaka,3949765,Bayer Leverkusen,Drawn,2,2,Second half,1.284236348032123,0.8103750483880245
+Tactical Shift-Pass,Unknown-Jeremie Frimpong,3949777,Bayer Leverkusen,Lost,2,4,Second half,1.1990512076772504,0.7951641356945758
+Pass-Ball Receipt-Carry,Florian Wirtz-Piero Martín Hincapié Reyna-Piero Martín Hincapié Reyna,3949781,Bayer Leverkusen,Drawn,2,2,Second half,1.6273321822353373,0.732287254491684
+Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Manuel Neuer-Manuel Neuer-Manuel Neuer,3949490,Bayern Munich,Won,3,2,First half,1.9380087128087573,0.6861512141412991
+Block,Aleksandar Pavlović,3949499,Bayern Munich,Won,2,0,First half,1.5675780381999112,0.7501618471787463
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,João Maria Lobo Alves Palhinha Gonçalves-João Maria Lobo Alves Palhinha Gonçalves-João Maria Lobo Alves Palhinha Gonçalves-Joshua Kimmich-Joshua Kimmich,3949504,Bayern Munich,Won,6,1,First half,1.442835018698355,0.7816676560293587
+Foul Committed,Michael Olise,3949514,Bayern Munich,Won,5,0,First half,1.8168556379362923,0.7659323479914086
+Pass,Michael Olise,3949525,Bayern Munich,Drawn,1,1,First half,1.37601822392074,0.7751448806458026
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949531,Bayern Munich,Drawn,3,3,First half,1.4844204204753375,0.7945573258916243
+Pressure,Min Jae Kim,3949541,Bayern Munich,Won,4,0,First half,1.2335580213709796,0.8033294759680372
+Ball Receipt-Carry-Pass-Ball Receipt,Leon Goretzka-Leon Goretzka-Leon Goretzka-Thomas Müller,3949553,Bayern Munich,Won,5,0,First half,1.860564729366537,0.7502352624038636
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,João Maria Lobo Alves Palhinha Gonçalves-João Maria Lobo Alves Palhinha Gonçalves-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Harry Kane-Harry Kane,3949563,Bayern Munich,Won,3,0,First half,1.5735648083480605,0.7755675457005275
+Pass,Kingsley Coman,3949568,Bayern Munich,Won,1,0,First half,2.0157248083848995,0.7034675976156759
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala,3949581,Bayern Munich,Won,3,0,First half,1.6787342435427972,0.7579396436677852
+Pressure,Jamal Musiala,3949584,Bayern Munich,Drawn,1,1,First half,1.1799557753360306,0.7710186805030507
+Duel-Ball Recovery-Carry,Sacha Boey-Michael Olise-Michael Olise,3949591,Bayern Munich,Won,4,2,First half,1.753191028113002,0.7481381753127605
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Daniel Peretz-Daniel Peretz-Min Jae Kim-Min Jae Kim,3949603,Bayern Munich,Lost,1,2,First half,1.1026173653298554,0.8010571888905504
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Substitution-Tactical Shift-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Thomas Müller-Unknown-Eric Dier-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka,3949625,Bayern Munich,Won,1,0,First half,1.6362173686109167,0.7419948081579272
+Shot,Alphonso Davies,3949634,Bayern Munich,Won,5,0,First half,1.6183772650820014,0.7403797477754629
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Manuel Neuer-Manuel Neuer,3949636,Bayern Munich,Won,3,2,First half,2.039051087217812,0.6915960660314444
+Block,Harry Kane,3949646,Bayern Munich,Won,2,1,First half,1.6791554120466226,0.764619855665454
+Pass-Ball Receipt-Carry,Jamal Musiala-Thomas Müller-Thomas Müller,3949662,Bayern Munich,Won,4,3,Second half,1.4949193263879377,0.7580065627812027
+Pressure,Michael Olise,3949670,Bayern Munich,Won,3,0,Second half,1.6182271536313293,0.7556659656980944
+Pass-Ball Receipt-Carry,Min Jae Kim-Hiroki Ito-Hiroki Ito,3949678,Bayern Munich,Drawn,0,0,Second half,1.5430040955547433,0.7006916203780647
+Pressure,Michael Olise,3949683,Bayern Munich,Won,4,0,Second half,0.9578713763054876,0.82194971433559
+Pass,Eric Dier,3949697,Bayern Munich,Won,3,1,Second half,1.6315956729332994,0.7051389130667708
+Dispossessed,Jamal Musiala,3949701,Bayern Munich,Lost,2,3,Second half,1.636843204112599,0.7691582479196667
+Pressure,Harry Kane,3949711,Bayern Munich,Drawn,1,1,Second half,1.7521222154866485,0.7322082360097046
+Pressure,Harry Kane,3949724,Bayern Munich,Won,3,2,Second half,1.5612859099380056,0.7631398482993742
+Pressure,Thomas Müller,3949731,Bayern Munich,Won,3,1,Second half,1.630864595034576,0.7156870356144738
+Ball Receipt-Carry-Dispossessed,Eric Dier-Eric Dier-Eric Dier,3949742,Bayern Munich,Drawn,2,2,Second half,1.178301063169717,0.8055025502526557
+Pass-Ball Receipt-Pass,Michael Olise-Joshua Kimmich-Joshua Kimmich,3949751,Bayern Munich,Won,4,0,Second half,1.5580869661657188,0.719416761136411
+Pressure,Josip Stanišić,3949757,Bayern Munich,Won,3,0,Second half,1.230837135525629,0.7696974601106749
+Pressure,Serge Gnabry,3949768,Bayern Munich,Drawn,3,3,Second half,1.0893948314268196,0.8048597717552327
+Shot,Michael Olise,3949775,Bayern Munich,Won,2,0,Second half,1.4145672628384565,0.7539476579213296
+Duel,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Moritz Broschinski-Lukas Daschner-Lukas Daschner,3949485,Bochum,Lost,0,1,First half,0.750498077776708,0.8229361325852914
+Duel-Carry-Pass,Aliou Badara Balde-Aliou Badara Balde-Aliou Badara Balde,3949495,Bochum,Lost,0,2,First half,1.5450887397864277,0.7398477098584901
+Pass-Ball Receipt-Carry,Dani de Wit-Koji Miyoshi-Koji Miyoshi,3949502,Bochum,Lost,1,2,First half,0.9361251667867264,0.8072795986431339
+Tactical Shift-Foul Committed,Unknown-Anthony Losilla,3949512,Bochum,Drawn,2,2,First half,1.4224168623988525,0.7606086994177583
+Duel-Carry-Pass,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949519,Bochum,Lost,2,4,First half,0.9606480943239396,0.7972513179801494
+Substitution-Substitution-Tactical Shift-Pass-Ball Receipt-Pass,Dani de Wit-Anthony Losilla-Unknown-Matúš Bero-Ivan Ordets-Ivan Ordets,3949535,Bochum,Lost,1,3,First half,1.3171763594032289,0.7586248251027244
+Foul Won-Pass-Ball Receipt,Maximilian Wittek-Maximilian Wittek-Ivan Ordets,3949544,Bochum,Lost,1,3,First half,1.8392465657733428,0.6995641538705333
+Ball Receipt-Pass-Ball Receipt,Moritz Broschinski-Moritz Broschinski-Ibrahima Sissoko,3949553,Bochum,Lost,0,5,First half,0.9225528759771078,0.8072865002869107
+Pass-Ball Receipt-Carry-Pass,Ibrahima Sissoko-Felix Passlack-Felix Passlack-Felix Passlack,3949556,Bochum,Lost,2,7,First half,1.6898731718855429,0.7456174037419545
+Pressure,Anthony Losilla,3949567,Bochum,Drawn,1,1,First half,1.4554184533572934,0.7271202276072226
+Ball Recovery-Carry-Pass-Ball Receipt,Tim Oermann-Tim Oermann-Tim Oermann-Philipp Hofmann,3949578,Bochum,Lost,0,2,First half,1.224660633452842,0.7509205517240727
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patrick Drewes-Patrick Drewes-Patrick Drewes-Bernardo Fernandes da Silva Junior-Bernardo Fernandes da Silva Junior-Bernardo Fernandes da Silva Junior-Philipp Hofmann-Philipp Hofmann,3949587,Bochum,Lost,0,1,First half,1.3068300921798863,0.7534339536599463
+Ball Recovery-Carry-Pass,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949596,Bochum,Lost,0,1,First half,1.0519119360943328,0.8061154921042649
+Pass-Ball Receipt-Carry,Matúš Bero-Moritz Broschinski-Moritz Broschinski,3949605,Bochum,Drawn,1,1,First half,2.4169947872630946,0.6339815544402791
+Pressure-Pressure,Philipp Hofmann-Anthony Losilla,3949611,Bochum,Won,2,0,First half,1.3924324843899594,0.7241809898539704
+Foul Won-Pass,Gerrit Holtmann-Patrick Drewes,3949624,Bochum,Lost,0,2,First half,1.388433771049189,0.7475815400046745
+Pass,Patrick Drewes,3949632,Bochum,Won,1,0,First half,1.7565979483273864,0.7123211418195874
+Pressure,Gerrit Holtmann,3949643,Bochum,Drawn,3,3,First half,0.9338222941928848,0.7884035011921859
+Clearance,Jakov Medić,3949650,Bochum,Lost,0,3,First half,1.43121358341505,0.7355607667371643
+Clearance,Bernardo Fernandes da Silva Junior,3949659,Bochum,Lost,0,1,Second half,1.8278565780032816,0.7011522716173914
+Pass-Ball Receipt,Matúš Bero-Ivan Ordets,3949668,Bochum,Drawn,2,2,Second half,1.9360829896988867,0.680476990863859
+Pressure,Philipp Hofmann,3949674,Bochum,Won,2,0,Second half,1.6522609222058964,0.6926800310757023
+Pressure-Pressure,Tom Krauß-Ibrahima Sissoko,3949681,Bochum,Drawn,1,1,Second half,1.068174846622963,0.7980393490488034
+Pass-Ball Receipt-Duel,Matúš Bero-Bernardo Fernandes da Silva Junior-Bernardo Fernandes da Silva Junior,3949694,Bochum,Lost,0,1,Second half,1.939662155353682,0.7015220882455474
+Shield,Ibrahima Sissoko,3949701,Bochum,Won,3,2,Second half,0.6811939143463364,0.837349015159734
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Ivan Ordets,3949723,Bochum,Lost,1,3,Second half,1.0450155228839906,0.7766203319216933
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Tim Oermann-Tim Oermann-Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Erhan Mašović-Erhan Mašović-Erhan Mašović-Tom Krauß-Tom Krauß-Tom Krauß-Erhan Mašović-Erhan Mašović-Erhan Mašović-Tom Krauß-Tom Krauß-Tom Krauß-Erhan Mašović-Erhan Mašović,3949727,Bochum,Lost,0,4,Second half,1.448124971906799,0.7342835692807603
+Ball Receipt,Giorgos Masouras,3949735,Bochum,Lost,1,2,Second half,0.7462365567724359,0.8648696630036927
+Pass-Ball Receipt-Carry-Miscontrol,Ibrahima Sissoko-Philipp Hofmann-Philipp Hofmann-Philipp Hofmann,3949750,Bochum,Lost,0,1,Second half,1.5653874772422525,0.7419133128879533
+Goal Keeper-Carry-Pass-Pressure-Ball Receipt,Timo Horn-Timo Horn-Timo Horn-Myron Boadu-Myron Boadu,3949761,Bochum,Drawn,1,1,Second half,1.6016769773658024,0.758522291413489
+Pressure,Matúš Bero,3949766,Bochum,Drawn,0,0,Second half,1.69348437333011,0.7218573882561937
+Pass-Ball Receipt,Gerrit Holtmann-Myron Boadu,3949778,Bochum,Lost,1,4,Second half,1.4295159313880443,0.7356352464613115
+Injury Stoppage-Substitution,Ibrahima Sissoko-Ibrahima Sissoko,3949788,Bochum,Won,2,0,Second half,0.922389379448512,0.8109554746647059
+Clearance,Waldemar Anton,3949488,Borussia Dortmund,Won,2,0,First half,0.7732470373863652,0.8839149702766863
+Pressure,Julian Ryerson,3949496,Borussia Dortmund,Drawn,0,0,First half,1.0710907553560616,0.813280655678595
+Pass-Ball Receipt-Carry,Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949501,Borussia Dortmund,Won,4,2,First half,1.4419172530002422,0.7840882336806029
+Pressure,Serhou Guirassy,3949518,Borussia Dortmund,Lost,1,5,First half,1.2450768713417903,0.7878419870493352
+Pass-Ball Receipt,Emre Can-Karim-David Adeyemi,3949519,Borussia Dortmund,Won,4,2,First half,1.8080684767834925,0.7282394736476338
+Shot,Julian Ryerson,3949534,Borussia Dortmund,Lost,1,2,First half,1.1963030165174655,0.7873683388805824
+Pass-Ball Receipt-Pass,Waldemar Anton-Nico Schlotterbeck-Nico Schlotterbeck,3949543,Borussia Dortmund,Won,2,1,First half,1.1815191393286002,0.8352492189974206
+Pressure,Emre Can,3949550,Borussia Dortmund,Lost,1,2,First half,1.201703827746348,0.806975596180291
+Pressure,Julian Brandt,3949555,Borussia Dortmund,Won,2,1,First half,1.2582916805317266,0.7775467450797129
+Goal Keeper,Alexander Meyer,3949565,Borussia Dortmund,Lost,1,3,First half,1.2950455395653655,0.7676828431945649
+Pressure,Julian Brandt,3949576,Borussia Dortmund,Won,4,0,First half,1.0778266694735767,0.7950281440306591
+Pressure,Felix Kalu Nmecha,3949584,Borussia Dortmund,Drawn,1,1,First half,1.0773520044320457,0.7562007417621894
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Gregor Kobel-Julian Ryerson-Julian Ryerson-Julian Ryerson-Donyell Malen-Donyell Malen,3949595,Borussia Dortmund,Drawn,1,1,First half,1.5176550763010368,0.7340284218854143
+Pressure,Felix Kalu Nmecha,3949600,Borussia Dortmund,Drawn,1,1,First half,1.5716322136175602,0.7034348645662613
+Pass-Ball Receipt-Carry-Pass,Waldemar Anton-Julian Brandt-Julian Brandt-Julian Brandt,3949612,Borussia Dortmund,Won,3,1,First half,1.6805325894915764,0.7174650219844546
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gregor Kobel-Gregor Kobel-Felix Kalu Nmecha-Felix Kalu Nmecha-Yan Bueno Couto-Yan Bueno Couto-Yan Bueno Couto-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949619,Borussia Dortmund,Lost,2,3,First half,2.05397928086695,0.694089390425667
+Ball Receipt-Carry-Miscontrol,Giovanni Reyna-Giovanni Reyna-Giovanni Reyna,3949633,Borussia Dortmund,Lost,2,4,First half,1.8717091873160585,0.7111261020302309
+Dribbled Past-Ball Recovery-Carry,Julian Ryerson-Jamie Jermaine Bynoe-Gittens-Jamie Jermaine Bynoe-Gittens,3949639,Borussia Dortmund,Lost,0,2,First half,1.445435175206126,0.7527052237441952
+Dribble-Carry,Karim-David Adeyemi-Karim-David Adeyemi,3949653,Borussia Dortmund,Drawn,2,2,First half,1.9604615136216568,0.7026069480593735
+Block-Pass-Ball Receipt-Carry-Dispossessed,Waldemar Anton-Marcel Sabitzer-Julian Ryerson-Julian Ryerson-Julian Ryerson,3949656,Borussia Dortmund,Won,2,1,Second half,2.0238488335987967,0.6999679428827196
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Julian Brandt-Julian Brandt-Marcel Sabitzer-Marcel Sabitzer-Marcel Sabitzer-Julian Ryerson-Julian Ryerson-Julian Ryerson-Karim-David Adeyemi-Karim-David Adeyemi-Karim-David Adeyemi,3949671,Borussia Dortmund,Lost,1,2,Second half,1.3575244300292832,0.7699448425439483
+Ball Receipt-Pass-Ball Receipt-Carry,Julian Brandt-Julian Brandt-Karim-David Adeyemi-Karim-David Adeyemi,3949674,Borussia Dortmund,Lost,0,2,Second half,1.1296010038031128,0.8008175134887455
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pascal Groß-Maximilian Beier-Maximilian Beier-Maximilian Beier-Pascal Groß,3949685,Borussia Dortmund,Won,6,0,Second half,1.7279277790855625,0.7342380691382963
+Pass-Ball Receipt-Foul Committed,Nico Schlotterbeck-Serhou Guirassy-Serhou Guirassy,3949693,Borussia Dortmund,Won,2,0,Second half,1.3889463195372236,0.7580448100944666
+Pass,Pascal Groß,3949702,Borussia Dortmund,Lost,0,1,Second half,1.3560200706280403,0.7635796180426315
+Pass,Serhou Guirassy,3949715,Borussia Dortmund,Lost,0,2,Second half,1.536654589610044,0.7590300523547001
+Pressure,Julian Ryerson,3949717,Borussia Dortmund,Won,3,1,Second half,1.4634488821934406,0.7439227791159909
+Pressure,Pascal Groß,3949730,Borussia Dortmund,Won,4,1,Second half,1.4970200672939025,0.7510692179899847
+Ball Receipt-Miscontrol,Serhou Guirassy-Serhou Guirassy,3949742,Borussia Dortmund,Drawn,2,2,Second half,1.7503286343737092,0.7131069717646005
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Julian Ryerson-Pascal Groß-Pascal Groß-Pascal Groß-Felix Kalu Nmecha-Felix Kalu Nmecha-Felix Kalu Nmecha,3949744,Borussia Dortmund,Won,3,2,Second half,1.9095716516411043,0.7134077408404021
+Pressure,Waldemar Anton,3949755,Borussia Dortmund,Won,3,2,Second half,1.8875157386730808,0.7129018215033747
+Pressure,Daniel Svensson,3949767,Borussia Dortmund,Won,4,0,Second half,1.9527801966479896,0.6932900466028261
+Ball Receipt-Carry-Pass,Pascal Groß-Pascal Groß-Pascal Groß,3949777,Borussia Dortmund,Won,4,2,Second half,1.2572454667668216,0.7725610343537526
+Ball Recovery-Shot,Julian Ryerson-Julian Ryerson,3949784,Borussia Dortmund,Won,3,0,Second half,1.5008195124113142,0.7792882670901954
+Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Ko Itakura-Ko Itakura-Ko Itakura,3949483,Borussia Mönchengladbach,Lost,2,3,First half,1.8773249196349733,0.7156856037559698
+Dispossessed,Kevin Stöger,3949495,Borussia Mönchengladbach,Won,2,0,First half,1.1207526980365456,0.8219613517658234
+Block-Goal Keeper,Nico Elvedi-Jonas Omlin,3949505,Borussia Mönchengladbach,Lost,1,3,First half,1.7002218282428132,0.7063928955451311
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Robin Hack-Robin Hack-Robin Hack-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Kevin Stöger-Kevin Stöger-Kevin Stöger-Joseph Scally,3949511,Borussia Mönchengladbach,Lost,0,2,First half,1.5048624932974446,0.7532855070972027
+Pass-Ball Receipt-Carry,Julian Weigl-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949523,Borussia Mönchengladbach,Won,1,0,First half,1.6683396110989774,0.7219215579821416
+Pass,Rocco Reitz,3949533,Borussia Mönchengladbach,Lost,1,2,First half,2.203632150208741,0.7130849731628534
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Moritz Nicolas-Moritz Nicolas-Moritz Nicolas-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich-Rocco Reitz-Rocco Reitz-Rocco Reitz-Ko Itakura-Ko Itakura,3949537,Borussia Mönchengladbach,Won,3,2,First half,1.8240660841734444,0.7164394214929976
+Pressure,Kevin Stöger,3949551,Borussia Mönchengladbach,Drawn,1,1,First half,1.3540296210136833,0.7772477183291461
+Dribbled Past,Robin Hack,3949561,Borussia Mönchengladbach,Won,4,1,First half,1.419198046076481,0.7577784199027421
+Pass-Ball Receipt-Carry-Miscontrol,Julian Weigl-Franck Honorat-Franck Honorat-Franck Honorat,3949570,Borussia Mönchengladbach,Drawn,0,0,First half,2.135228184411115,0.6774244756701704
+Interception,Franck Honorat,3949580,Borussia Mönchengladbach,Won,2,0,First half,1.1878741180745405,0.8059859608458037
+Pressure,Stefan Lainer,3949586,Borussia Mönchengladbach,Lost,1,3,First half,1.193437623950517,0.7922647513394261
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Kevin Stöger-Kevin Stöger-Kevin Stöger-Lukas Ullrich-Lukas Ullrich,3949595,Borussia Mönchengladbach,Drawn,1,1,First half,1.7321419928950563,0.7020829261255774
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Ullrich-Philipp Sander-Philipp Sander-Nico Elvedi-Nico Elvedi-Rocco Reitz-Rocco Reitz-Rocco Reitz-Ko Itakura-Ko Itakura-Ko Itakura-Moritz Nicolas-Moritz Nicolas,3949604,Borussia Mönchengladbach,Won,4,1,First half,1.9893773631498035,0.6852127710522744
+Pressure,Nico Elvedi,3949614,Borussia Mönchengladbach,Won,2,1,First half,1.441868997174248,0.7355676741626943
+Pressure,Julian Weigl,3949625,Borussia Mönchengladbach,Lost,0,1,First half,0.8499750746225533,0.8211326389967161
+Pressure,Robin Hack,3949630,Borussia Mönchengladbach,Lost,1,5,First half,1.3802916878448024,0.7696604631113095
+Pressure,Rocco Reitz,3949637,Borussia Mönchengladbach,Lost,1,3,First half,0.9569876040889378,0.7983732506238167
+Pass-Ball Receipt,Kevin Stöger-Tomáš Čvančara,3949650,Borussia Mönchengladbach,Won,3,0,First half,1.3001655849069775,0.7963736416230647
+Ball Recovery-Carry,Joseph Scally-Joseph Scally,3949654,Borussia Mönchengladbach,Won,2,1,Second half,1.6629223010189276,0.711524638950506
+Pass-Duel,Kevin Stöger-Marvin Friedrich,3949667,Borussia Mönchengladbach,Drawn,1,1,Second half,1.3455757272250202,0.7415409329584504
+Pressure,Lukas Ullrich,3949675,Borussia Mönchengladbach,Won,2,1,Second half,1.3066176213291902,0.7760317552475106
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949692,Borussia Mönchengladbach,Won,3,0,Second half,1.951171643045869,0.6874373350898898
+Pressure,Alassane Pléa,3949699,Borussia Mönchengladbach,Lost,1,3,Second half,1.218522537887665,0.7785603949117966
+Pressure,Joseph Scally,3949708,Borussia Mönchengladbach,Won,4,2,Second half,1.6619781454546787,0.7395120634148648
+Dispossessed,Joseph Scally,3949721,Borussia Mönchengladbach,Won,1,0,Second half,1.716354537677805,0.7090233035938057
+Duel-Pass-Ball Receipt-Carry,Luca Netz-Alassane Pléa-Robin Hack-Robin Hack,3949728,Borussia Mönchengladbach,Drawn,1,1,Second half,1.591242207765006,0.7390581095417903
+Pass,Tim Kleindienst,3949743,Borussia Mönchengladbach,Lost,1,2,Second half,1.4117622223919373,0.7513374483867122
+Pass-Ball Receipt-Carry,Julian Weigl-Alassane Pléa-Alassane Pléa,3949744,Borussia Mönchengladbach,Lost,2,3,Second half,1.2047575926054233,0.7404758368659009
+Pass-Ball Receipt-Carry-Shot,Tomáš Čvančara-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949760,Borussia Mönchengladbach,Lost,3,4,Second half,1.2408899964508793,0.7825367509705626
+Dribbled Past-Pressure,Rocco Reitz-Tim Kleindienst,3949762,Borussia Mönchengladbach,Drawn,4,4,Second half,1.335117815475377,0.7540841544559507
+Ball Receipt-Pass-Pressure,Tim Kleindienst-Tim Kleindienst-Franck Honorat,3949775,Borussia Mönchengladbach,Lost,0,2,Second half,1.3605590362664148,0.7641359669563438
+Block-Ball Recovery-Carry,Robin Hack-Ko Itakura-Ko Itakura,3949780,Borussia Mönchengladbach,Lost,0,1,Second half,1.5371784151278267,0.7452307006032481
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Hugo Ekitike-Lucas Silva Melo-Lucas Silva Melo-Lucas Silva Melo-Omar Marmoush,3949488,Eintracht Frankfurt,Lost,0,2,First half,1.7420009716143363,0.7104002102764444
+Pressure,Ellyes Joris Skhiri,3949497,Eintracht Frankfurt,Won,3,1,First half,1.288397372007794,0.7820213514727413
+Dispossessed,Arthur Theate,3949507,Eintracht Frankfurt,Won,2,1,First half,1.2174170811231273,0.7623544836444494
+Pressure,Hugo Larsson,3949511,Eintracht Frankfurt,Won,2,0,First half,1.209047177209979,0.8007461899827207
+Pass,Eric Junior Dina Ebimbe,3949526,Eintracht Frankfurt,Won,4,2,First half,1.0734611626037356,0.8145587437142261
+Pressure,Hugo Larsson,3949531,Eintracht Frankfurt,Drawn,3,3,First half,1.48949323882463,0.7243303980828532
+Dispossessed,Omar Marmoush,3949542,Eintracht Frankfurt,Lost,1,2,First half,1.269267016196816,0.8095543543208652
+Pass-Ball Receipt,Hugo Larsson-Hugo Ekitike,3949552,Eintracht Frankfurt,Drawn,1,1,First half,1.1790711329085812,0.8047950990618283
+Interception,Ellyes Joris Skhiri,3949556,Eintracht Frankfurt,Won,7,2,First half,1.1240485535179026,0.8077316516276267
+Pressure,Lucas Silva Melo,3949569,Eintracht Frankfurt,Won,3,2,First half,1.0365357091167886,0.7919321728929581
+Pass-Ball Receipt,Arthur Theate-Ellyes Joris Skhiri,3949575,Eintracht Frankfurt,Won,1,0,First half,1.2907978851913495,0.7612044807047328
+Foul Committed,Robin Koch,3949582,Eintracht Frankfurt,Won,4,0,First half,1.8282868559547505,0.7011213969158553
+Pressure,Fares Chaïbi,3949592,Eintracht Frankfurt,Drawn,2,2,First half,1.541016935751287,0.7695679959802605
+Pressure,Hugo Ekitike,3949607,Eintracht Frankfurt,Lost,1,2,First half,1.5457461604373453,0.7534851798551601
+Pressure-Pressure,Can Yılmaz Uzun-Ansgar Knauff,3949615,Eintracht Frankfurt,Lost,1,3,First half,1.4402504932616895,0.7592166719316243
+Clearance-Pressure,Rasmus Nissen Kristensen-Hugo Ekitike,3949626,Eintracht Frankfurt,Won,1,0,First half,1.493406366767845,0.7500551998184716
+Ball Recovery,Pharell Nnamdi Collins,3949628,Eintracht Frankfurt,Won,4,1,First half,1.2442965314069794,0.7820820951386404
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mario Götze-Mario Götze-Mario Götze-Rasmus Nissen Kristensen-Rasmus Nissen Kristensen,3949639,Eintracht Frankfurt,Won,2,0,First half,1.206090246728602,0.7602679255159154
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Ansgar Knauff-Ellyes Joris Skhiri-Ellyes Joris Skhiri-Ellyes Joris Skhiri-Arthur Theate-Arthur Theate-Lucas Silva Melo-Lucas Silva Melo-Fares Chaïbi-Fares Chaïbi-Fares Chaïbi-Ellyes Joris Skhiri-Ellyes Joris Skhiri-Ellyes Joris Skhiri-Ansgar Knauff-Ansgar Knauff-Ansgar Knauff-Hugo Ekitike-Hugo Ekitike-Fares Chaïbi-Fares Chaïbi,3949645,Eintracht Frankfurt,Drawn,2,2,First half,1.6580164433316773,0.756398253662903
+Dispossessed,Pharell Nnamdi Collins,3949655,Eintracht Frankfurt,Drawn,1,1,Second half,1.325623458024989,0.7729291839060416
+Pressure,Ansgar Knauff,3949667,Eintracht Frankfurt,Drawn,1,1,Second half,0.9693704244058928,0.8163908896377678
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Rasmus Nissen Kristensen-Rasmus Nissen Kristensen-Rasmus Nissen Kristensen-Arthur Theate-Arthur Theate,3949672,Eintracht Frankfurt,Won,3,1,Second half,1.6704626863394183,0.7157993855982632
+Ball Receipt-Carry,Ansgar Knauff-Ansgar Knauff,3949683,Eintracht Frankfurt,Lost,0,4,Second half,0.9092620484276628,0.8192062373854395
+Pressure,Ellyes Joris Skhiri,3949691,Eintracht Frankfurt,Lost,1,4,Second half,1.2995900265491147,0.7336109184992944
+Foul Committed,Hugo Larsson,3949703,Eintracht Frankfurt,Lost,1,2,Second half,1.2040153230467676,0.8101516934066958
+Pressure,Ellyes Joris Skhiri,3949712,Eintracht Frankfurt,Won,3,1,Second half,1.3263828101336372,0.7477201375850339
+Duel,Lucas Silva Melo,3949725,Eintracht Frankfurt,Won,1,0,Second half,0.7381936037043315,0.8692967444818316
+Pressure,Arthur Theate,3949729,Eintracht Frankfurt,Lost,0,2,Second half,1.6499044846438538,0.7116950866967336
+Ball Recovery,Hugo Ekitike,3949740,Eintracht Frankfurt,Won,3,0,Second half,0.8782987899175175,0.8427312557254983
+Pass,Robin Koch,3949748,Eintracht Frankfurt,Drawn,0,0,Second half,1.5324909374436309,0.7193581762923562
+Goal Keeper-Pass,Kevin Trapp-Kevin Trapp,3949756,Eintracht Frankfurt,Won,4,0,Second half,1.2904990392268498,0.7560606903652082
+Pressure,Jean-Mattéo Bahoya Négoce,3949763,Eintracht Frankfurt,Drawn,1,1,Second half,1.8528433681887648,0.6736070549365883
+Pressure-Pressure,Nathaniel Brown-Arthur Theate,3949774,Eintracht Frankfurt,Drawn,2,2,Second half,1.3989161928255651,0.7963748410235483
+Pass-Ball Receipt-Carry,Rasmus Nissen Kristensen-Pharell Nnamdi Collins-Pharell Nnamdi Collins,3949783,Eintracht Frankfurt,Won,3,1,Second half,1.1066587960730003,0.7881872487693831
+Pass,Lennard Maloney,3949491,FC Heidenheim,Won,2,0,First half,1.5439620804974588,0.7108382868773968
+Goal Keeper-Pass-Ball Receipt,Kevin Müller-Kevin Müller-Patrick Mainka,3949500,FC Heidenheim,Won,4,0,First half,1.499166179102976,0.7309975818093791
+Pressure,Sirlord Calvin Conteh,3949501,FC Heidenheim,Lost,2,4,First half,1.3931538035623203,0.7694340153039722
+Clearance,Maximilian Breunig,3949515,FC Heidenheim,Lost,0,3,First half,0.9895283421006392,0.8019407148758353
+Shot-Ball Receipt,Benedikt Gimber-Benedikt Gimber,3949522,FC Heidenheim,Won,2,0,First half,1.9231700002981864,0.670533112721545
+Pressure,Mikkel Kaufmann,3949528,FC Heidenheim,Lost,0,1,First half,1.2225625048194837,0.7723631917841283
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Marnon Busch-Marnon Busch-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949537,FC Heidenheim,Lost,2,3,First half,0.7439254454848608,0.8384876365926044
+Dispossessed,Marvin Pieringer,3949548,FC Heidenheim,Drawn,0,0,First half,2.1127278902019,0.6580368728694089
+Clearance-Pressure,Patrick Mainka-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364764,0.8305325479579616
+Ball Receipt,Marvin Pieringer,3949571,FC Heidenheim,Lost,1,3,First half,1.4442059293940388,0.7768145425469436
+Ball Receipt-Pass-Pressure,Jonas Föhrenbach-Jonas Föhrenbach-Patrick Mainka,3949579,FC Heidenheim,Lost,2,5,First half,1.1941233656435828,0.7606256014641988
+Ball Receipt-Carry,Mikkel Kaufmann-Mikkel Kaufmann,3949582,FC Heidenheim,Lost,0,4,First half,1.6317052504110188,0.7171349291997248
+Pressure,Jan Schöppner,3949591,FC Heidenheim,Lost,2,4,First half,0.9142029440466002,0.7833373330767162
+Pressure,Marvin Pieringer,3949608,FC Heidenheim,Lost,1,3,First half,0.7496520289088714,0.8133024902821856
+Foul Won,Niklas Dorsch,3949611,FC Heidenheim,Lost,0,2,First half,0.8139880354736002,0.8434421561886016
+Duel-Foul Committed,Benedikt Gimber-Benedikt Gimber,3949621,FC Heidenheim,Won,2,0,First half,1.2677583018053342,0.7710971654849209
+Pressure,Patrick Mainka,3949629,FC Heidenheim,Drawn,3,3,First half,1.03223523722037,0.8074244951225183
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adrian Beck-Adrian Beck-Adrian Beck-Frans Krätzig-Frans Krätzig-Budu Zivzivadze-Budu Zivzivadze-Budu Zivzivadze-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Marnon Busch-Marnon Busch,3949640,FC Heidenheim,Lost,0,2,First half,1.2732426412454478,0.7738269885528942
+Substitution-Substitution-Pass,Luca Kerber-Adrian Beck-Omar Haktab Traorè,3949647,FC Heidenheim,Lost,1,2,First half,1.28899478604881,0.7592465299953713
+Duel-Carry,Benedikt Gimber-Benedikt Gimber,3949656,FC Heidenheim,Lost,1,2,Second half,1.1006355099410063,0.752433698362282
+Pass-Ball Receipt-Pass,Patrick Mainka-Paul Wanner-Paul Wanner,3949664,FC Heidenheim,Lost,0,1,Second half,1.0948115020828078,0.8049231746896376
+Pass-Ball Receipt-Carry,Patrick Mainka-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949680,FC Heidenheim,Lost,0,2,Second half,1.381135406323662,0.7505841296799
+Goal Keeper-Pass-Ball Receipt-Foul Committed,Kevin Müller-Marvin Pieringer-Luca Kerber-Luca Kerber,3949684,FC Heidenheim,Drawn,2,2,Second half,1.0797607642037137,0.7790178106420881
+Pressure-Pressure,Mathias Honsak-Benedikt Gimber,3949692,FC Heidenheim,Lost,0,3,Second half,1.0836199375907472,0.7845309744704253
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Adrian Beck-Adrian Beck-Adrian Beck-Kevin Müller-Kevin Müller-Kevin Müller-Marnon Busch-Marnon Busch-Marnon Busch-Patrick Mainka-Patrick Mainka-Patrick Mainka-Kevin Müller-Kevin Müller-Kevin Müller-Marvin Pieringer-Marvin Pieringer,3949704,FC Heidenheim,Drawn,1,1,Second half,0.8225897199715482,0.826578546230694
+Ball Recovery-Shot,Adrian Beck-Adrian Beck,3949716,FC Heidenheim,Won,3,1,Second half,1.820907916881456,0.6907439446392595
+Pass-Ball Receipt,Tim Siersleben-Marvin Pieringer,3949722,FC Heidenheim,Won,1,0,Second half,2.123964962405492,0.6705276604242816
+Pressure,Niklas Dorsch,3949726,FC Heidenheim,Lost,0,1,Second half,1.0930839416540588,0.7779589975410993
+Pass,Jan Schöppner,3949740,FC Heidenheim,Lost,0,3,Second half,1.251908755119178,0.7788084888248953
+Pass,Patrick Mainka,3949751,FC Heidenheim,Lost,0,4,Second half,1.1843862892642094,0.7404222917594632
+Pressure,Niklas Dorsch,3949758,FC Heidenheim,Won,1,0,Second half,1.2528937756405252,0.7639420879235498
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Adrian Beck-Adrian Beck,3949766,FC Heidenheim,Drawn,0,0,Second half,1.6278849120857608,0.7218384362070959
+Block-Block-Pass,Benedikt Gimber-Patrick Mainka-Niklas Dorsch,3949779,FC Heidenheim,Won,3,0,Second half,0.8937705500047057,0.8009384596507251
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Kevin Müller-Tim Siersleben-Tim Siersleben-Tim Siersleben-Mathias Honsak-Mathias Honsak-Mathias Honsak-Tim Siersleben-Tim Siersleben-Tim Siersleben-Patrick Mainka-Patrick Mainka,3949786,FC Heidenheim,Lost,1,4,Second half,1.8396639704417168,0.7169476609836737
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Nadiem Amiri-Nadiem Amiri-Anthony Caci-Anthony Caci-Anthony Caci-Jonathan Burkardt-Jonathan Burkardt,3949484,FSV Mainz 05,Drawn,1,1,First half,1.5366844327012308,0.7452412233849559
+Clearance,Dominik Kohr,3949498,FSV Mainz 05,Drawn,3,3,First half,1.0955293222752944,0.8121893034931198
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Anthony Caci-Dominik Kohr-Dominik Kohr-Dominik Kohr-Kaishu Sano-Kaishu Sano-Dominik Kohr-Dominik Kohr-Dominik Kohr-Moritz Jenz-Moritz Jenz-Moritz Jenz-Maxim Leitsch-Maxim Leitsch-Maxim Leitsch-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949508,FSV Mainz 05,Lost,1,2,First half,1.4182838967646867,0.7661350668938234
+Clearance,Dominik Kohr,3949510,FSV Mainz 05,Won,3,2,First half,1.2192239119681867,0.7731975955861483
+Goal Keeper-Clearance,Robin Zentner-Stefan Bell,3949522,FSV Mainz 05,Lost,0,2,First half,1.4073027385706465,0.7160461575430003
+Clearance,Dominik Kohr,3949536,FSV Mainz 05,Won,3,0,First half,1.2550662338526604,0.7787950461031262
+Pressure,Paul Nebel,3949540,FSV Mainz 05,Lost,0,2,First half,1.3949315821574628,0.7747401879723809
+Ball Recovery-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci,3949551,FSV Mainz 05,Drawn,1,1,First half,1.3369123657244446,0.7802942382932779
+Pressure,Dominik Kohr,3949558,FSV Mainz 05,Drawn,0,0,First half,1.0583435722856671,0.8161837320794728
+Pass,Paul Nebel,3949565,FSV Mainz 05,Won,3,1,First half,1.3364780255529949,0.7653752217329695
+Dribbled Past-Pressure,Stefan Bell-Danny Vieira da Costa,3949573,FSV Mainz 05,Won,3,0,First half,1.113045242910391,0.8171087887014591
+Pressure,Kaishu Sano,3949588,FSV Mainz 05,Won,2,0,First half,1.4924608067656329,0.7201574355177083
+Pass,Jonathan Burkardt,3949594,FSV Mainz 05,Lost,3,4,First half,1.1152451826561922,0.7941384074560441
+Pass-Ball Receipt-Carry-Miscontrol,Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel,3949603,FSV Mainz 05,Won,2,1,First half,1.5106875095913166,0.7295647271390628
+50/50-Block,Nikolas Konrad Veratschnig-Paul Nebel,3949615,FSV Mainz 05,Won,3,1,First half,1.363879546765827,0.7352823538648295
+Ball Recovery-Carry-Pass-Ball Receipt,Philipp Mwene-Philipp Mwene-Philipp Mwene-Jonathan Burkardt,3949624,FSV Mainz 05,Won,2,0,First half,1.359327078429615,0.7619400019861924
+Pressure-Pressure,Paul Nebel-Dominik Kohr,3949635,FSV Mainz 05,Lost,0,1,First half,1.3955770066941342,0.743084677308191
+Duel,Andreas Hanche-Olsen,3949642,FSV Mainz 05,Lost,1,2,First half,1.1214208926543558,0.8017810597077194
+Interception,Nadiem Amiri,3949649,FSV Mainz 05,Won,2,0,First half,1.6733483893132617,0.7304984994476753
+Ball Recovery-Carry,Maxim Leitsch-Maxim Leitsch,3949657,FSV Mainz 05,Lost,0,1,Second half,1.177707066728313,0.8053097203476146
+Dribbled Past-Pressure,Danny Vieira da Costa-Nadiem Amiri,3949666,FSV Mainz 05,Drawn,0,0,Second half,1.326352258950903,0.779790248128242
+Ball Recovery-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949680,FSV Mainz 05,Won,2,0,Second half,1.515768645214184,0.7255986558654854
+Ball Receipt-Carry,Paul Nebel-Paul Nebel,3949689,FSV Mainz 05,Won,2,0,Second half,1.691129903879152,0.706270432930219
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.901463947013248,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Nadiem Amiri-Nadiem Amiri,3949699,FSV Mainz 05,Won,3,1,Second half,1.4575825777574345,0.7383442440329476
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Paul Nebel-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel-Jonathan Burkardt,3949710,FSV Mainz 05,Drawn,2,2,Second half,1.694137456861088,0.7349283012333108
+Pass-Ball Receipt,Silvan Widmer-Jonathan Burkardt,3949717,FSV Mainz 05,Lost,1,3,Second half,1.1477359231506523,0.7964246271832444
+Pressure,Kaishu Sano,3949732,FSV Mainz 05,Drawn,1,1,Second half,1.386662021873338,0.7501237918789434
+Shot,Anthony Caci,3949737,FSV Mainz 05,Lost,0,2,Second half,1.5758360550360384,0.7411958258221997
+Dribble-Carry,Nadiem Amiri-Nadiem Amiri,3949747,FSV Mainz 05,Drawn,2,2,Second half,1.4850542811121588,0.742015093221478
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nikolas Konrad Veratschnig-Nikolas Konrad Veratschnig-Jonathan Burkardt,3949757,FSV Mainz 05,Lost,0,3,Second half,1.7844023055118898,0.7007256392490254
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Stefan Bell-Stefan Bell-Stefan Bell-Silvan Widmer-Silvan Widmer,3949763,FSV Mainz 05,Drawn,1,1,Second half,1.3924196729081053,0.7525271497833833
+Pass-Ball Receipt,Jae-Sung Lee-Jonathan Burkardt,3949778,FSV Mainz 05,Won,4,1,Second half,1.3233477086967698,0.7747028764518809
+Pass,Nadiem Amiri,3949781,FSV Mainz 05,Drawn,2,2,Second half,1.5240672328032958,0.7273910169128718
+Pressure,Junior Chukwubuike Adamu,3949486,Freiburg,Won,3,1,First half,0.3577823444874604,0.973053752356723
+Dribble,Patrick Osterhage,3949499,Freiburg,Lost,0,2,First half,1.40066807542737,0.7231454661727337
+Pressure,Nicolas Höfler,3949502,Freiburg,Won,2,1,First half,1.1631926887704072,0.7901475797206395
+Pass-Ball Receipt-Carry-Miscontrol,Maximilian Eggestein-Ritsu Doan-Ritsu Doan-Ritsu Doan,3949515,Freiburg,Won,3,0,First half,1.4845030508626935,0.7311975851333515
+Pressure,Patrick Osterhage,3949521,Freiburg,Lost,0,3,First half,1.5790798839084192,0.7520437294626904
+Pressure,Matthias Ginter,3949532,Freiburg,Won,1,0,First half,1.552708534539342,0.7357848189469015
+Pressure,Vincenzo Grifo,3949538,Freiburg,Won,3,1,First half,1.4810019127647993,0.767727388535543
+Pressure,Junior Chukwubuike Adamu,3949546,Freiburg,Lost,1,3,First half,1.457933940066951,0.7602784331970054
+Shot,Vincenzo Grifo,3949558,Freiburg,Drawn,0,0,First half,0.9436621789301528,0.8285043415490861
+Pressure,Eren Sami Dinkçi,3949566,Freiburg,Drawn,0,0,First half,1.541823801843488,0.7380513603601879
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ritsu Doan-Maximilian Eggestein-Maximilian Eggestein-Maximilian Eggestein-Vincenzo Grifo-Vincenzo Grifo-Vincenzo Grifo-Christian Günter-Christian Günter-Christian Günter-Nicolas Höfler-Nicolas Höfler,3949576,Freiburg,Lost,0,4,First half,0.7911370713007301,0.8240365476362782
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Vincenzo Grifo-Maximilian Eggestein-Maximilian Eggestein-Maximilian Eggestein-Christian Günter-Christian Günter-Christian Günter-Lucas Höler-Lucas Höler-Lucas Höler-Michael Gregoritsch,3949586,Freiburg,Won,3,1,First half,1.496385375439499,0.7556844786491745
+Ball Recovery-Carry-Pass,Lukas Kübler-Lukas Kübler-Lukas Kübler,3949593,Freiburg,Drawn,1,1,First half,1.5658121179103308,0.7510517138201919
+Pressure,Maximilian Rosenfelder,3949601,Freiburg,Won,3,2,First half,1.2775046106105783,0.7706513878946567
+Dribbled Past-Clearance,Lukas Kübler-Matthias Ginter,3949616,Freiburg,Lost,1,5,First half,1.17283925858312,0.7798023616058215
+Ball Recovery-Carry-Dribble-Carry,Ritsu Doan-Ritsu Doan-Ritsu Doan-Ritsu Doan,3949622,Freiburg,Won,3,2,First half,1.2098487060642995,0.7868401902335482
+Pass,Vincenzo Grifo,3949628,Freiburg,Lost,1,4,First half,1.5356431273737248,0.7270417369328331
+Pressure-Ball Receipt,Merlin Röhl-Merlin Röhl,3949638,Freiburg,Lost,0,4,First half,1.7788728382865455,0.7158849512548292
+Pressure,Ritsu Doan,3949646,Freiburg,Lost,1,2,First half,0.8196267052728625,0.8486536725820744
+Pass-Ball Receipt-Pass-Duel,Kiliann Sildillia-Lucas Höler-Lucas Höler-Nicolas Höfler,3949659,Freiburg,Won,1,0,Second half,1.977746835351447,0.6794962425568177
+Pass-Ball Receipt-Carry-Pass,Ritsu Doan-Junior Chukwubuike Adamu-Junior Chukwubuike Adamu-Junior Chukwubuike Adamu,3949664,Freiburg,Won,1,0,Second half,1.4012957634274308,0.7671419093466146
+Pressure,Kiliann Sildillia,3949676,Freiburg,Won,1,0,Second half,1.3196214564736692,0.739432901004101
+Duel-Pressure,Maximilian Eggestein-Ritsu Doan,3949682,Freiburg,Won,5,0,Second half,0.8105170430028201,0.8224739290335481
+Substitution-Pass-Ball Receipt-Duel,Vincenzo Grifo-Kiliann Sildillia-Lucas Höler-Lucas Höler,3949698,Freiburg,Drawn,0,0,Second half,1.2956676670472445,0.7801869261885102
+Pass,Ritsu Doan,3949705,Freiburg,Drawn,0,0,Second half,1.5284283566005634,0.7448548645921376
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Höler-Vincenzo Grifo-Vincenzo Grifo-Vincenzo Grifo-Ritsu Doan-Ritsu Doan-Ritsu Doan-Michael Gregoritsch-Michael Gregoritsch-Michael Gregoritsch-Patrick Osterhage-Patrick Osterhage-Patrick Osterhage-Kiliann Sildillia-Kiliann Sildillia-Kiliann Sildillia,3949710,Freiburg,Drawn,2,2,Second half,1.6660783770106875,0.7298815269851265
+Duel,Ritsu Doan,3949719,Freiburg,Lost,1,2,Second half,1.1948904989177795,0.7963433754134973
+Pass,Vincenzo Grifo,3949730,Freiburg,Lost,1,4,Second half,1.177243734355728,0.7681366892433288
+Ball Recovery-Block-Ball Recovery-Shot,Jan-Niklas Beste-Philipp Lienhart-Jan-Niklas Beste-Jan-Niklas Beste,3949743,Freiburg,Won,2,1,Second half,1.300329382347769,0.7842391340831074
+Pressure,Jordy Makengo Basambundu,3949749,Freiburg,Won,3,2,Second half,1.9954056925635053,0.6968948795618397
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Philipp Lienhart-Patrick Osterhage-Patrick Osterhage-Patrick Osterhage-Ritsu Doan-Ritsu Doan-Ritsu Doan-Michael Gregoritsch,3949753,Freiburg,Won,1,0,Second half,1.1845299608294653,0.8006892651040634
+Dispossessed,Ritsu Doan,3949765,Freiburg,Drawn,2,2,Second half,1.521147470991224,0.7107893551653066
+Dribbled Past-Pressure,Lucas Höler-Ritsu Doan,3949771,Freiburg,Won,2,1,Second half,1.7661399106145872,0.7263582834524763
+Pass-Ball Receipt,Philipp Lienhart-Junior Chukwubuike Adamu,3949783,Freiburg,Lost,1,3,Second half,1.7270283198162713,0.7176631403949414
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Andrej Kramarić-Anton Stach-Anton Stach-Anton Stach-Kevin Akpoguma-Kevin Akpoguma,3949487,Hoffenheim,Won,3,2,First half,1.6420418757313016,0.7492384598508839
+Ball Recovery-Carry,Andrej Kramarić-Andrej Kramarić,3949497,Hoffenheim,Lost,1,3,First half,1.4065888369620627,0.7653603312232617
+Duel-Carry-Pass-Ball Receipt-Carry,Dennis Geiger-Dennis Geiger-Dennis Geiger-Andrej Kramarić-Andrej Kramarić,3949506,Hoffenheim,Lost,1,4,First half,1.406304253693178,0.7409838249283817
+Block,Umut Tohumcu,3949513,Hoffenheim,Lost,1,2,First half,1.743058188537673,0.7035398445064935
+Pass-Ball Receipt,Pavel Kadeřábek-Marius Bülter,3949527,Hoffenheim,Lost,3,4,First half,1.1696386323275827,0.8093715563822065
+Block-Goal Keeper,Florian Grillitsch-Oliver Baumann,3949530,Hoffenheim,Drawn,1,1,First half,2.049349442771546,0.6768661547108012
+Block,Andrej Kramarić,3949544,Hoffenheim,Won,3,1,First half,0.8487022507483433,0.8176863028011049
+Pressure,Tom Bischof,3949548,Hoffenheim,Drawn,0,0,First half,1.3983573690435789,0.74711041220789
+Ball Recovery-Carry,Anton Stach-Anton Stach,3949557,Hoffenheim,Lost,0,2,First half,1.413691012066827,0.7424115973709812
+Ball Receipt-Carry-Dribble,Adam Hložek-Adam Hložek-Adam Hložek,3949564,Hoffenheim,Drawn,0,0,First half,1.131986699370795,0.794401966214542
+Pass,Anton Stach,3949574,Hoffenheim,Won,4,3,First half,1.6661913469840417,0.7470122824638618
+Pressure,Anton Stach,3949588,Hoffenheim,Lost,0,2,First half,1.9591881176489,0.6761132369757711
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adam Hložek-Andrej Kramarić-Andrej Kramarić-Anton Stach-Anton Stach-Andrej Kramarić-Andrej Kramarić-Andrej Kramarić-Anton Stach-Anton Stach-Anton Stach-Stanley Nsoki-Stanley Nsoki-Stanley Nsoki-Alexander Prass-Alexander Prass,3949593,Hoffenheim,Drawn,1,1,First half,1.1097060353016837,0.8056108950695685
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Stanley Nsoki-Stanley Nsoki-Stanley Nsoki-Alexander Prass-Alexander Prass-Alexander Prass-Andrej Kramarić-Andrej Kramarić,3949600,Hoffenheim,Drawn,1,1,First half,0.9108861053916032,0.8111736941911779
+Pass-Ball Receipt-Carry,Diadie Samassekou-Tom Bischof-Tom Bischof,3949614,Hoffenheim,Lost,1,2,First half,1.228349851888926,0.7966871229883697
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Valentin Gendrey-Tom Bischof-Tom Bischof-Tom Bischof-Erencan Yardımcı-Erencan Yardımcı,3949620,Hoffenheim,Lost,0,1,First half,1.770473002452776,0.7369999124001948
+Pressure,Tom Bischof,3949634,Hoffenheim,Lost,0,5,First half,1.1623942727410084,0.7931157720883661
+Pressure-Pressure,Erencan Yardımcı-Max Moerstedt,3949644,Hoffenheim,Won,3,1,First half,1.8099723415465248,0.69662889388998
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Luca Philipp-David Jurásek-David Jurásek-Andrej Kramarić-Andrej Kramarić,3949645,Hoffenheim,Drawn,2,2,First half,0.8161205698186695,0.8616643816593778
+Pressure,Tom Bischof,3949661,Hoffenheim,Lost,1,3,Second half,0.4822936786764268,0.9404536648100648
+Pressure,Leo Skiri Østigård,3949669,Hoffenheim,Lost,0,4,Second half,1.2950862494233686,0.7954300748444683
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Luca Philipp-Stanley Nsoki-Stanley Nsoki-Stanley Nsoki-Andrej Kramarić,3949673,Hoffenheim,Won,3,1,Second half,0.9250967817758484,0.8221732795660865
+Foul Committed,Arthur Largura Chaves,3949686,Hoffenheim,Drawn,1,1,Second half,1.3705829807750458,0.7497441474658619
+Pressure,Leo Skiri Østigård,3949694,Hoffenheim,Won,1,0,Second half,1.7424718924342246,0.7143553743983513
+Referee Ball-Drop,Unknown,3949704,Hoffenheim,Drawn,1,1,Second half,1.2773694776922149,0.7650396005178716
+Shot-Ball Receipt,Haris Tabaković-Haris Tabaković,3949713,Hoffenheim,Lost,0,1,Second half,1.4949497712617985,0.7390843776037238
+Pass-Ball Receipt-Carry,Leo Skiri Østigård-Anton Stach-Anton Stach,3949718,Hoffenheim,Drawn,1,1,Second half,1.6033214463616503,0.7315189254857861
+Goal Keeper-Pass-Ball Receipt,Oliver Baumann-Oliver Baumann-Haris Tabaković,3949734,Hoffenheim,Lost,1,3,Second half,1.7252290043571037,0.722117139742092
+Pressure,Stanley Nsoki,3949737,Hoffenheim,Won,2,0,Second half,1.6259646817912945,0.7187111589121516
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pavel Kadeřábek-Arthur Largura Chaves-Arthur Largura Chaves-Arthur Largura Chaves-Anton Stach-Anton Stach-Anton Stach-Kevin Akpoguma-Kevin Akpoguma-Kevin Akpoguma-Anton Stach-Anton Stach-Anton Stach-Arthur Largura Chaves-Arthur Largura Chaves-Arthur Largura Chaves-Pavel Kadeřábek-Pavel Kadeřábek,3949749,Hoffenheim,Lost,2,3,Second half,1.4757744551047145,0.7579990299290174
+Ball Recovery-Carry,Dennis Geiger-Dennis Geiger,3949755,Hoffenheim,Lost,2,3,Second half,0.8339727176251001,0.8296014893413859
+Pass,Andrej Kramarić,3949762,Hoffenheim,Drawn,4,4,Second half,1.2319408346512797,0.7775860176928733
+Pass-Ball Receipt-Duel,Tom Bischof-Leo Skiri Østigård-Leo Skiri Østigård,3949772,Hoffenheim,Drawn,2,2,Second half,1.903194252099812,0.6960694399133995
+Ball Recovery-Carry-Pass,Arthur Largura Chaves-Arthur Largura Chaves-Arthur Largura Chaves,3949785,Hoffenheim,Lost,0,4,Second half,1.5485433326994265,0.7019658464808225
+Clearance,Marco Komenda,3949487,Holstein Kiel,Lost,2,3,First half,1.885038271183429,0.7126256656194976
+Goal Keeper,Timon Weiner,3949494,Holstein Kiel,Lost,0,2,First half,0.9472114951653814,0.8186462542707983
+Pressure,Benedikt Pichler,3949504,Holstein Kiel,Lost,1,6,First half,1.0401520709074483,0.8077022401759036
+Pass,Benedikt Pichler,3949512,Holstein Kiel,Drawn,2,2,First half,1.3657799781907776,0.7624375019226278
+Pass-Ball Receipt-Carry,Magnus Knudsen-Timo Becker-Timo Becker,3949526,Holstein Kiel,Lost,2,4,First half,1.270281080166858,0.7567708882551596
+Pressure,Lewis Harry Holtby,3949529,Holstein Kiel,Drawn,2,2,First half,1.2226763546215478,0.7728879950977826
+Pass,Finn-Dominik Porath,3949545,Holstein Kiel,Lost,0,2,First half,1.3383304042583537,0.7804237971151023
+Ball Recovery-Shot,Marvin Schulz-Marvin Schulz,3949547,Holstein Kiel,Lost,1,2,First half,1.2851333055880516,0.7533179137885672
+Pass-Ball Receipt,Magnus Knudsen-Steven Skrzybski,3949560,Holstein Kiel,Won,1,0,First half,1.6769005307563676,0.7269019480811113
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Harres-Tymoteusz Puchacz-Max Geschwill-Max Geschwill-Patrick Erras-Patrick Erras-Patrick Erras-Magnus Knudsen-Magnus Knudsen,3949572,Holstein Kiel,Lost,1,2,First half,1.3572257472907754,0.7536607439431054
+Shot,Phil Harres,3949573,Holstein Kiel,Lost,0,3,First half,1.1057005544135123,0.8026178806823051
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Max Geschwill-Max Geschwill-Max Geschwill-Timon Weiner-Timon Weiner-Timon Weiner-Patrick Erras-Patrick Erras-Patrick Erras-Marko Ivezić-Marko Ivezić,3949590,Holstein Kiel,Lost,1,3,First half,1.309145571441608,0.7679338517688841
+Pressure,Marvin Schulz,3949597,Holstein Kiel,Lost,0,2,First half,0.5603614895618096,0.9122394408667752
+Pass,Finn-Dominik Porath,3949604,Holstein Kiel,Lost,1,4,First half,0.8836671702531932,0.8357865121132437
+Pass,Nicolai Remberg,3949610,Holstein Kiel,Won,5,1,First half,1.0884765388494255,0.8190524975889563
+Pressure,Andu Yobel Kelati,3949622,Holstein Kiel,Lost,2,3,First half,1.160340334849534,0.7757903248435053
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Komenda-Shuto Machino-Shuto Machino-Shuto Machino-Alexander Bernhardsson-Alexander Bernhardsson,3949633,Holstein Kiel,Won,4,2,First half,0.4481184451380678,0.9357534359585128
+Pass,Nicolai Remberg,3949644,Holstein Kiel,Lost,1,3,First half,1.0483636383903805,0.7696178544242593
+Pass-Foul Committed,Dominik Javorček-David Zec,3949648,Holstein Kiel,Drawn,2,2,First half,1.8552023936411444,0.6854096397798671
+Pressure,Marco Komenda,3949662,Holstein Kiel,Lost,3,4,Second half,0.6391445554983541,0.8680139003552674
+Pressure,Marko Ivezić,3949668,Holstein Kiel,Drawn,2,2,Second half,2.0545951072345745,0.6756491914318705
+Dispossessed,Jann-Fiete Arp,3949672,Holstein Kiel,Lost,1,3,Second half,1.3147152514254865,0.7519658664222211
+Duel,Marco Komenda,3949687,Holstein Kiel,Lost,0,2,Second half,0.99467285082679,0.7742929837473771
+Foul Won-Pass,Lewis Harry Holtby-Magnus Knudsen,3949695,Holstein Kiel,Won,1,0,Second half,1.1134322364283755,0.8004773339649638
+Pressure,Marko Ivezić,3949707,Holstein Kiel,Drawn,2,2,Second half,1.0982248558136152,0.763870320620478
+Goal Keeper-Pressure,Timon Weiner-Alexander Bernhardsson,3949716,Holstein Kiel,Lost,1,3,Second half,1.607208495338592,0.7580278361304483
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Thomas Dähne-Lewis Harry Holtby-Magnus Knudsen-Magnus Knudsen-Steven Skrzybski-Steven Skrzybski-Nicolai Remberg-Nicolai Remberg,3949720,Holstein Kiel,Lost,0,3,Second half,1.1929134000466266,0.7913320790791447
+Pass-Ball Receipt,Thomas Dähne-Lasse Rosenboom,3949732,Holstein Kiel,Drawn,1,1,Second half,1.068204448994229,0.7954254751902903
+Goal Keeper,Thomas Dähne,3949736,Holstein Kiel,Lost,1,2,Second half,1.0925910021251517,0.8109878502237486
+Pressure,John Tolkin,3949752,Holstein Kiel,Drawn,1,1,Second half,1.4209330704467786,0.738781974752553
+Pressure,Lasse Rosenboom,3949760,Holstein Kiel,Won,4,3,Second half,1.5045189322789123,0.7110078209349605
+Block,Carl Johansson,3949764,Holstein Kiel,Won,3,1,Second half,1.5731485094857165,0.7032459962990093
+Pass,David Zec,3949771,Holstein Kiel,Lost,1,2,Second half,1.2142915995310013,0.7937350417076787
+Goal Keeper-Pass-Ball Receipt-Duel,Thomas Dähne-Thomas Dähne-Nicolai Remberg-Nicolai Remberg,3949784,Holstein Kiel,Lost,0,3,Second half,1.133800730408152,0.7909468127345791
+Pressure,Ikoma Loïs Openda,3949485,RB Leipzig,Won,1,0,First half,1.0845488420727352,0.784292593583754
+Pressure,Xavi Simons,3949493,RB Leipzig,Won,3,2,First half,1.2628457239181583,0.7898881004337603
+Pass-Ball Receipt-Carry,Kevin Kampl-Junior Castello Lukeba-Junior Castello Lukeba,3949503,RB Leipzig,Drawn,0,0,First half,2.631863549448941,0.6516085761008291
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Klostermann-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum,3949516,RB Leipzig,Drawn,0,0,First half,1.369134040836386,0.753410630226528
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda,3949524,RB Leipzig,Won,4,0,First half,1.3612744135156658,0.7623184404624411
+Pressure,Benjamin Šeško,3949528,RB Leipzig,Won,1,0,First half,1.5019940948664725,0.7199481743759198
+Goal Keeper,Péter Gulácsi,3949540,RB Leipzig,Won,2,0,First half,1.4428694523206005,0.7687387135535073
+Pressure,Christoph Baumgartner,3949546,RB Leipzig,Won,3,1,First half,1.154489804395331,0.7829426774104439
+Substitution-Substitution,Amadou Haïdara-Christoph Baumgartner,3949555,RB Leipzig,Lost,1,2,First half,1.5337794341485236,0.7259343952894434
+Pressure,Benjamin Henrichs,3949570,RB Leipzig,Drawn,0,0,First half,1.3269672760130269,0.7553988440082879
+Pass,Willi Orban,3949574,RB Leipzig,Lost,3,4,First half,0.9767594896576844,0.8171847613050851
+Duel-Injury Stoppage,Kevin Kampl-Christoph Baumgartner,3949583,RB Leipzig,Lost,1,5,First half,1.288583356981593,0.8029379203432169
+Ball Receipt-Carry-Miscontrol,André Miguel Valente Silva-André Miguel Valente Silva-André Miguel Valente Silva,3949597,RB Leipzig,Won,2,0,First half,1.8408378503667029,0.7145784748774593
+Pass-Ball Receipt-Carry,Benjamin Henrichs-Xaver Schlager-Xaver Schlager,3949607,RB Leipzig,Won,2,1,First half,0.8313620993355817,0.8463678972031
+Pass-Ball Receipt-Carry,Benjamin Henrichs-Benjamin Šeško-Benjamin Šeško,3949617,RB Leipzig,Lost,1,5,First half,1.9240557387096515,0.6740901542825383
+Pressure,David Raum,3949618,RB Leipzig,Won,4,2,First half,1.8388814198391548,0.6759927692970192
+Pressure,Ikoma Loïs Openda,3949627,RB Leipzig,Lost,1,2,First half,1.677161241242722,0.6988914306679087
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann,3949643,RB Leipzig,Drawn,3,3,First half,1.603966036249037,0.7267413810948224
+Pressure,David Raum,3949652,RB Leipzig,Drawn,2,2,First half,0.980494461552917,0.8364003665386318
+Pressure-Pressure,Antonio Nusa-Nicolas Seiwald,3949658,RB Leipzig,Drawn,0,0,Second half,1.1760076685950154,0.7829921313589051
+Duel-Carry-Dispossessed,Antonio Nusa-Antonio Nusa-Antonio Nusa,3949663,RB Leipzig,Won,2,0,Second half,1.6513953476666647,0.7358971372841255
+Block-Ball Recovery-Carry,Benjamin Šeško-Ikoma Loïs Openda-Ikoma Loïs Openda,3949677,RB Leipzig,Drawn,0,0,Second half,2.094494688819052,0.7157485052039637
+Pass-Ball Receipt-Carry,Kevin Kampl-Arthur Vermeeren-Arthur Vermeeren,3949684,RB Leipzig,Drawn,2,2,Second half,1.6224347094323297,0.7548621279420883
+Pressure,David Raum,3949696,RB Leipzig,Lost,1,2,Second half,1.7255828262923358,0.7250110629603497
+Goal Keeper-Pass,Péter Gulácsi-Péter Gulácsi,3949705,RB Leipzig,Drawn,0,0,Second half,1.5997227445997682,0.7173540838146557
+Clearance-Bad Behaviour,Nicolas Seiwald-David Raum,3949715,RB Leipzig,Won,2,0,Second half,1.47103198960946,0.7369851710252759
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Willi Orban-Willi Orban-Willi Orban-El Chadaille Bitshiabu-El Chadaille Bitshiabu-El Chadaille Bitshiabu,3949721,RB Leipzig,Lost,0,1,Second half,0.8609309518380104,0.8346012997294252
+Ball Receipt-Carry-Miscontrol-Pressure,Xavi Simons-Xavi Simons-Xavi Simons-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949741,RB Leipzig,Won,3,2,Second half,1.6454810152794654,0.7039688452647357
+Ball Receipt-Pass,Amadou Haïdara-Amadou Haïdara,3949752,RB Leipzig,Drawn,1,1,Second half,1.5102832578408898,0.7243938475140603
+Pressure,Ikoma Loïs Openda,3949756,RB Leipzig,Lost,0,4,Second half,0.7232862126634935,0.881824606114885
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Maarten Vandevoordt-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949768,RB Leipzig,Drawn,3,3,Second half,1.2645964851281457,0.7340519850042825
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-El Chadaille Bitshiabu-El Chadaille Bitshiabu-El Chadaille Bitshiabu-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons,3949773,RB Leipzig,Drawn,0,0,Second half,1.3272263971609448,0.7664233928955139
+Block,Ridle Bote Baku,3949787,RB Leipzig,Lost,2,3,Second half,1.5599224022846887,0.6931558616454025
+Pass-Ball Receipt-Carry-Pass,Robert Wagner-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith,3949491,St. Pauli,Lost,0,2,First half,1.2959696250479846,0.7739848819851289
+Pass,Jackson Irvine,3949492,St. Pauli,Lost,0,1,First half,1.324713974095758,0.7680656275237288
+Ball Recovery-Carry,Elias Saad-Elias Saad,3949509,St. Pauli,Lost,1,3,First half,1.1433436903666436,0.8018349506943013
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-Karol Mets-Karol Mets-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Hauke Wahl-Hauke Wahl,3949521,St. Pauli,Won,3,0,First half,1.3733090309766254,0.7508040941773675
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Karol Mets-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Robert Wagner-Robert Wagner-Elias Saad-Elias Saad-Elias Saad-Elias Saad,3949536,St. Pauli,Lost,0,3,First half,1.437170433606255,0.7780175532403509
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol-Pressure,Morgan Guilavogui-Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein-Johannes Eggestein-Jackson Irvine-Jackson Irvine-Jackson Irvine,3949543,St. Pauli,Lost,1,2,First half,0.8910262579251981,0.8493076496108632
+Pass-Ball Receipt-Carry,Karol Mets-Nikola Vasilj-Nikola Vasilj,3949554,St. Pauli,Drawn,0,0,First half,1.6031136339452692,0.7491528178415409
+Pressure,Morgan Guilavogui,3949557,St. Pauli,Won,2,0,First half,1.3000596262498405,0.7798995039375533
+Ball Recovery-Carry,Johannes Eggestein-Johannes Eggestein,3949568,St. Pauli,Lost,0,1,First half,1.483187080314651,0.7336662810786676
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-David Nemeth-David Nemeth-David Nemeth-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa,3949580,St. Pauli,Lost,0,2,First half,1.6599715050733472,0.7622898223716301
+Pressure,Morgan Guilavogui,3949590,St. Pauli,Won,3,1,First half,2.004457659025349,0.6968066978484503
+Duel,Carlo Boukhalfa,3949598,St. Pauli,Lost,1,2,First half,1.2431747677232845,0.7292726221103113
+Pressure-Foul Committed,Danel Sinani-Danel Sinani,3949606,St. Pauli,Lost,0,2,First half,1.6890711004724437,0.7259527594591664
+Pressure,Johannes Eggestein,3949609,St. Pauli,Won,1,0,First half,2.127176632134316,0.6505983104607171
+Pressure,Jackson Irvine,3949626,St. Pauli,Lost,0,1,First half,1.0373357379420824,0.7669581157119324
+Pressure,Hauke Wahl,3949632,St. Pauli,Lost,0,1,First half,1.610715065962759,0.7002680072151816
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949651,St. Pauli,Won,3,0,First half,1.1262969136864849,0.7781289710440654
+Pressure,Oladapo Afolayan,3949660,St. Pauli,Drawn,1,1,Second half,1.44258138325084,0.7675284413225488
+Pass-Ball Receipt-Pass,Elias Saad-David Nemeth-David Nemeth,3949663,St. Pauli,Lost,0,2,Second half,1.2297045381525138,0.7486408754541408
+Pressure,Noah Weißhaupt,3949676,St. Pauli,Lost,0,1,Second half,1.6526825322887904,0.7420569382509937
+Ball Receipt,Philipp Treu,3949689,St. Pauli,Lost,0,2,Second half,1.186374936385169,0.7620225342942262
+Foul Won-Pass-Ball Receipt-Carry,David Nemeth-Hauke Wahl-Eric Anders Smith-Eric Anders Smith,3949693,St. Pauli,Lost,0,2,Second half,0.8903038539581132,0.7928378116966155
+Pass,Philipp Treu,3949706,St. Pauli,Drawn,1,1,Second half,0.9729415537152354,0.7934444705508986
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Philipp Treu-Philipp Treu-Philipp Treu-Elias Saad-Elias Saad,3949713,St. Pauli,Won,1,0,Second half,1.4774321874139262,0.7370319022879298
+Pass,Philipp Treu,3949724,St. Pauli,Lost,2,3,Second half,1.2859469645420356,0.7621510932448718
+Pressure,Elias Saad,3949728,St. Pauli,Drawn,1,1,Second half,0.963163568008506,0.8464041789193906
+Foul Won-Substitution-Pass,Danel Sinani-Oladapo Afolayan-Danel Sinani,3949736,St. Pauli,Won,2,1,Second half,1.032743238881845,0.8231711242372282
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Hauke Wahl-Hauke Wahl-Hauke Wahl-Danel Sinani-Danel Sinani-Eric Anders Smith-Eric Anders Smith,3949745,St. Pauli,Drawn,1,1,Second half,1.682188494533996,0.7068750728532481
+Substitution-Tactical Shift-Pass-Ball Receipt-Duel,Noah Weißhaupt-Unknown-Manolis Saliakas-Danel Sinani-Danel Sinani,3949754,St. Pauli,Drawn,0,0,Second half,1.8530515694798264,0.6996170369249203
+Pressure,Manolis Saliakas,3949769,St. Pauli,Lost,0,1,Second half,0.9903973121080236,0.7695963876981502
+Pass-Ball Receipt-Carry,Oladapo Afolayan-Eric Anders Smith-Eric Anders Smith,3949774,St. Pauli,Drawn,2,2,Second half,1.2293975550593714,0.7765970975526414
+Injury Stoppage,Carlo Boukhalfa,3949788,St. Pauli,Lost,0,2,Second half,1.4901687827918102,0.7625370867190044
+Pressure,Danilho Doekhi,3949484,Union Berlin,Drawn,1,1,First half,1.311151848075368,0.7691689082813125
+Pressure,Rani Khedira,3949492,Union Berlin,Won,1,0,First half,1.7028354378872816,0.6909700660202438
+Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol,Kevin Vogt-Kevin Vogt-Theoson Jordan Siebatcheu-Theoson Jordan Siebatcheu-Theoson Jordan Siebatcheu,3949503,Union Berlin,Drawn,0,0,First half,0.6852878568947228,0.8428747296173357
+Pass-Ball Receipt-Carry,Janik Haberer-Woo-Yeong Jeong-Woo-Yeong Jeong,3949513,Union Berlin,Won,2,1,First half,1.205130141168104,0.7929222260820364
+Player On,Diogo Filipe Monteiro Pinto Leite,3949523,Union Berlin,Lost,0,1,First half,1.418384855994317,0.7399471414336249
+Pressure,Rani Khedira,3949534,Union Berlin,Won,2,1,First half,1.2787147186044567,0.7433862312922822
+Interception,Christopher Trimmel,3949545,Union Berlin,Won,2,0,First half,1.4888723773068893,0.771413542205551
+Pass-Ball Receipt-Carry,Christopher Trimmel-Yorbe Vertessen-Yorbe Vertessen,3949552,Union Berlin,Drawn,1,1,First half,1.171141099187837,0.7742928873383987
+Pressure,Danilho Doekhi,3949563,Union Berlin,Lost,0,3,First half,1.2558020201237805,0.7467525886239941
+Pass-Ball Receipt-Carry,Diogo Filipe Monteiro Pinto Leite-Robert Skov-Robert Skov,3949566,Union Berlin,Drawn,0,0,First half,1.4729430935908172,0.7231680703784796
+Block,Leopold Querfeld,3949577,Union Berlin,Lost,0,1,First half,0.8965385626706137,0.7852454090202712
+Dispossessed,Tom Alexander Rothe,3949589,Union Berlin,Lost,1,2,First half,0.8399481610439571,0.8467060993542971
+Duel-Pressure,András Schäfer-Diogo Filipe Monteiro Pinto Leite,3949599,Union Berlin,Lost,2,3,First half,1.7823337618135693,0.685367726746217
+Duel-Carry,Kevin Vogt-Kevin Vogt,3949605,Union Berlin,Drawn,1,1,First half,1.2595709225012155,0.7896609888112956
+Block-Ball Recovery-Carry,András Schäfer-Benedict Hollerbach-Benedict Hollerbach,3949613,Union Berlin,Lost,1,4,First half,1.1064756733638568,0.7691792569282091
+Pressure,Christopher Trimmel,3949621,Union Berlin,Lost,0,2,First half,1.381497212895406,0.7511683827337203
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Skarke-Theoson Jordan Siebatcheu-Theoson Jordan Siebatcheu-Theoson Jordan Siebatcheu-Benedict Hollerbach-Benedict Hollerbach,3949631,Union Berlin,Lost,0,2,First half,1.414757639049299,0.7472757262183057
+Pass,Alexander Schwolow,3949642,Union Berlin,Won,2,1,First half,1.7952014946178247,0.6997178651371984
+Pass,Robert Skov,3949651,Union Berlin,Lost,0,3,First half,1.2417502265972284,0.7776600292986118
+Shot,László Bénes,3949658,Union Berlin,Drawn,0,0,Second half,1.3982575087541909,0.760099083524346
+Pass,Diogo Filipe Monteiro Pinto Leite,3949669,Union Berlin,Won,4,0,Second half,1.3221672250216108,0.7564068022079953
+Pressure,Josip Juranović,3949675,Union Berlin,Lost,1,2,Second half,1.410316852384216,0.7463044461666579
+Ball Recovery,Janik Haberer,3949685,Union Berlin,Lost,0,6,Second half,2.075954586721452,0.6656220535539429
+Pressure-Foul Committed,Diogo Filipe Monteiro Pinto Leite-Diogo Filipe Monteiro Pinto Leite,3949695,Union Berlin,Lost,0,1,Second half,2.15798288784801,0.6815303001077757
+Pressure,Leopold Querfeld,3949703,Union Berlin,Won,2,1,Second half,1.570942072802307,0.6991887940194842
+Tactical Shift,Unknown,3949711,Union Berlin,Drawn,1,1,Second half,0.9704500155910076,0.7958129233627099
+Pressure,Josip Juranović,3949719,Union Berlin,Won,2,1,Second half,1.4742771744760943,0.7362382209583715
+Pressure,Rani Khedira,3949733,Union Berlin,Won,1,0,Second half,2.1936057271934173,0.6767109412191895
+Pass,Benedict Hollerbach,3949738,Union Berlin,Drawn,0,0,Second half,1.1477737206546428,0.78182803463002
+Pressure,Andrej Ilić,3949746,Union Berlin,Drawn,4,4,Second half,1.1185478376995053,0.7695806924669117
+Clearance-Pass,Leopold Querfeld-Janik Haberer,3949761,Union Berlin,Drawn,1,1,Second half,1.5935257545117971,0.7196019189007034
+Pass,Tom Alexander Rothe,3949770,Union Berlin,Drawn,2,2,Second half,1.297333331055378,0.7807949530736541
+Pressure-Foul Committed,Marin Ljubičić-Marin Ljubičić,3949779,Union Berlin,Lost,0,3,Second half,0.8202455940993053,0.8304983531449507
+Pressure,Benedict Hollerbach,3949782,Union Berlin,Won,2,1,Second half,1.0801644464261673,0.7833032560819785
+Pass-Ball Receipt-Carry,Enzo Millot-Julian Chabot-Julian Chabot,3949486,VfB Stuttgart,Lost,1,3,First half,1.127838156737175,0.8137046144810292
+Ball Recovery-Carry-Pass,Enzo Millot-Enzo Millot-Enzo Millot,3949498,VfB Stuttgart,Drawn,3,3,First half,1.8057036528150487,0.7467008820539299
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anrie Chase-Anrie Chase-Anrie Chase-Jamie Leweling-Jamie Leweling-Jamie Leweling-Atakan Karazor-Atakan Karazor,3949505,VfB Stuttgart,Won,3,1,First half,1.0692796796758055,0.8016490756854545
+Pressure,Anthony Rouault,3949518,VfB Stuttgart,Won,5,1,First half,1.3990060651482323,0.7646601552371762
+Dribbled Past,Jamie Leweling,3949520,VfB Stuttgart,Drawn,2,2,First half,1.682969859203897,0.7405808911487693
+Ball Receipt-Carry,Jamie Leweling-Jamie Leweling,3949530,VfB Stuttgart,Drawn,1,1,First half,0.9183486866190752,0.8232128860389515
+Interception,Ermedin Demirović,3949541,VfB Stuttgart,Lost,0,4,First half,1.1584875997768875,0.7688288174397528
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enzo Millot-Enzo Millot-Enzo Millot-Jamie Leweling-Jamie Leweling,3949547,VfB Stuttgart,Won,2,1,First half,1.597114550395971,0.7577139374153602
+Interception,Anthony Rouault,3949562,VfB Stuttgart,Drawn,0,0,First half,1.1812544846128663,0.7971288406497916
+Miscontrol,El Bilal Toure,3949569,VfB Stuttgart,Lost,2,3,First half,1.5140754374234502,0.7426050164556333
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Atakan Karazor-Anthony Rouault-Anthony Rouault-Anthony Rouault-Leonidas Stergiou-Leonidas Stergiou-Leonidas Stergiou-Anthony Rouault-Anthony Rouault-Anthony Rouault-Angelo Stiller-Angelo Stiller,3949578,VfB Stuttgart,Won,2,0,First half,1.588393346178931,0.7471561041461372
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Angelo Stiller-Angelo Stiller-Angelo Stiller-Fabian Rieder-Fabian Rieder,3949585,VfB Stuttgart,Drawn,2,2,First half,1.2442092286921995,0.791424047493861
+Dispossessed,Nick Woltemade,3949599,VfB Stuttgart,Won,3,2,First half,1.5356838011137506,0.7527452081481282
+Pressure,Julian Chabot,3949608,VfB Stuttgart,Won,3,1,First half,1.5174228249836303,0.7412337614758083
+Pass,Anrie Chase,3949609,VfB Stuttgart,Lost,0,1,First half,0.865423764162016,0.8493822029074458
+Pressure,Josha Mamadou Karaboue Vagnoman,3949623,VfB Stuttgart,Won,1,0,First half,1.6477762827909967,0.7328687423056974
+Ball Receipt-Carry-Pass,Alexander Nübel-Alexander Nübel-Alexander Nübel,3949627,VfB Stuttgart,Won,2,1,First half,1.7830989497302991,0.7063248751473443
+Block,Jacob Bruun Larsen,3949638,VfB Stuttgart,Won,4,0,First half,2.169578334023279,0.6666901287693043
+Pass,Josha Mamadou Karaboue Vagnoman,3949649,VfB Stuttgart,Lost,0,2,First half,1.88595260926882,0.7053049977737195
+Pressure,Ermedin Demirović,3949654,VfB Stuttgart,Lost,1,2,Second half,1.1095799445011612,0.7827874489387742
+Block,Maximilian Mittelstädt,3949671,VfB Stuttgart,Won,2,1,Second half,1.4026589163276353,0.7369693895868058
+Ball Receipt-Shot,Deniz Undav-Deniz Undav,3949679,VfB Stuttgart,Lost,1,2,Second half,0.8863659454281566,0.8480635993442378
+50/50,Jamie Leweling,3949686,VfB Stuttgart,Drawn,1,1,Second half,1.6611521871973212,0.7448129694253028
+Pressure,Julian Chabot,3949697,VfB Stuttgart,Lost,1,3,Second half,0.9976193594548428,0.8128275159669256
+Duel,Angelo Stiller,3949707,VfB Stuttgart,Drawn,2,2,Second half,1.4970547216373324,0.7422385954698316
+Shot,Jamie Leweling,3949714,VfB Stuttgart,Lost,3,4,Second half,1.5687559373093125,0.7079475707550508
+Block-Goal Keeper,Finn Jeltsch-Alexander Nübel,3949725,VfB Stuttgart,Lost,0,1,Second half,1.2642894728342635,0.7640845109159842
+Pressure,Ramon Hendriks,3949727,VfB Stuttgart,Won,4,0,Second half,1.561715296646878,0.7192397654623526
+Dribbled Past,Chris Führich,3949739,VfB Stuttgart,Lost,1,2,Second half,1.8421223513336045,0.7098080017265456
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Julian Chabot-Julian Chabot-Julian Chabot-Finn Jeltsch-Finn Jeltsch,3949746,VfB Stuttgart,Drawn,4,4,Second half,1.3292463917641837,0.7970103773521249
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Finn Jeltsch-Julian Chabot-Julian Chabot-Julian Chabot-Maximilian Mittelstädt-Maximilian Mittelstädt-Maximilian Mittelstädt-Chris Führich-Chris Führich-Chris Führich-Angelo Stiller-Angelo Stiller-Chris Führich-Chris Führich,3949758,VfB Stuttgart,Lost,0,1,Second half,1.4101161824641413,0.7918204466085393
+Pass-Ball Receipt-Carry,Maximilian Mittelstädt-Chris Führich-Chris Führich,3949769,VfB Stuttgart,Won,1,0,Second half,1.5152790638595484,0.7483806820985595
+Dribbled Past,Enzo Millot,3949776,VfB Stuttgart,Won,4,0,Second half,1.3754625050004707,0.7824769526623858
+Substitution,Jamie Leweling,3949787,VfB Stuttgart,Won,3,2,Second half,1.6080282550353209,0.7431957073023219
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Keke Maximilian Topp-Senne Lynen-Senne Lynen-Senne Lynen-Milos Veljkovic-Milos Veljkovic,3949489,Werder Bremen,Drawn,2,2,First half,1.2517393165406303,0.7873591637631989
+Duel,Felix Agu,3949496,Werder Bremen,Drawn,0,0,First half,1.0554584527568072,0.8102901497821804
+Pressure,Marco Friedl,3949508,Werder Bremen,Won,2,1,First half,1.1014968457537115,0.7932285086788246
+Ball Recovery-Ball Recovery-Carry,Jens Stage-Senne Lynen-Senne Lynen,3949514,Werder Bremen,Lost,0,5,First half,0.9216016435343424,0.8302216207240978
+Block,Derrick Arthur Köhn,3949527,Werder Bremen,Won,4,3,First half,1.2641298700072086,0.8057213298617956
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Michael Zetterer-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477176,0.8368554971132194
+Pressure,Mitchell Weiser,3949539,Werder Bremen,Won,4,2,First half,1.455625823255874,0.7765832400230587
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Michael Zetterer-Senne Lynen-Senne Lynen-Julián Malatini-Julián Malatini-Michael Zetterer-Michael Zetterer,3949549,Werder Bremen,Drawn,2,2,First half,1.8949758439689703,0.7117513136762134
+Block-Pressure,Marco Friedl-Marco Friedl,3949561,Werder Bremen,Lost,1,4,First half,1.252689901406817,0.774374455527153
+Ball Receipt-Carry-Dispossessed,Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt,3949572,Werder Bremen,Won,2,1,First half,1.2512056830462774,0.7794374130067029
+Dribbled Past,Marco Grüll,3949575,Werder Bremen,Lost,0,1,First half,1.7537525025309555,0.7097003887336241
+Pass-Ball Receipt,Romano Schmid-Mitchell Weiser,3949585,Werder Bremen,Drawn,2,2,First half,1.651048345634842,0.7123157595789785
+Duel,Marco Friedl,3949596,Werder Bremen,Won,1,0,First half,1.694884787317169,0.7079127032581674
+Pressure,Jens Stage,3949606,Werder Bremen,Won,2,0,First half,1.2860386395984595,0.7865355998705338
+Duel-Carry,Jens Stage-Jens Stage,3949613,Werder Bremen,Won,4,1,First half,1.7939457879648473,0.7130381580810221
+Dribbled Past,Milos Veljkovic,3949618,Werder Bremen,Lost,2,4,First half,1.889887065718068,0.6720621457838958
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marco Grüll-Milos Veljkovic-Niklas Stark-Niklas Stark-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Niklas Stark-Niklas Stark-Niklas Stark-Milos Veljkovic-Milos Veljkovic-Milos Veljkovic-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949629,Werder Bremen,Drawn,3,3,First half,1.6433451517930122,0.710022827249219
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Michael Zetterer-Michael Zetterer-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid-Romano Schmid-Marco Friedl-Marco Friedl-Marco Friedl-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Niklas Stark-Niklas Stark-Niklas Stark-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949641,Werder Bremen,Lost,0,2,First half,1.359929182640952,0.7703810024511203
+Ball Receipt-Carry-Dispossessed,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949653,Werder Bremen,Drawn,2,2,First half,1.3289602321413725,0.7413263620976381
+Dribbled Past-Ball Recovery-Carry-Pass,Marco Friedl-Senne Lynen-Senne Lynen-Senne Lynen,3949657,Werder Bremen,Won,1,0,Second half,1.9560031551347592,0.6999189762534719
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Senne Lynen-Senne Lynen-Senne Lynen-Anthony Jung-Anthony Jung-Milos Veljkovic-Milos Veljkovic-Milos Veljkovic-Senne Lynen-Senne Lynen,3949670,Werder Bremen,Lost,0,3,Second half,1.710458904340868,0.7102265025917255
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marco Grüll-Niklas Stark-Niklas Stark-Niklas Stark-Anthony Jung-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Mitchell Weiser-Mitchell Weiser-Amos Pieper-Amos Pieper-Amos Pieper-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid,3949673,Werder Bremen,Lost,1,3,Second half,1.5185286797638136,0.7137111599860476
+Duel-Block-Pass-Ball Receipt-Carry,Anthony Jung-Felix Agu-Anthony Jung-Senne Lynen-Senne Lynen,3949682,Werder Bremen,Lost,0,5,Second half,1.4806000231178609,0.7591920458485885
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Amos Pieper-Amos Pieper-Amos Pieper-Jens Stage-Jens Stage-Jens Stage-Amos Pieper-Amos Pieper,3949690,Werder Bremen,Lost,1,2,Second half,1.4262428051824263,0.7846807012468983
+Shot,André Miguel Valente Silva,3949700,Werder Bremen,Won,2,0,Second half,0.7062949488555398,0.8320705485011679
+Pass-Ball Receipt,Senne Lynen-Issa Kabore,3949708,Werder Bremen,Lost,2,4,Second half,1.0375465826190062,0.8020662925114337
+Pressure,Jens Stage,3949720,Werder Bremen,Won,3,0,Second half,0.9602873551470672,0.8165503713180886
+Pressure,Marco Friedl,3949729,Werder Bremen,Won,2,0,Second half,1.5025819995855572,0.6911097535667058
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Oliver Burke-Oliver Burke-Oliver Burke-Romano Schmid-Romano Schmid,3949739,Werder Bremen,Won,2,1,Second half,1.8206720191884656,0.6916964007317278
+Pressure,Niklas Stark,3949750,Werder Bremen,Won,1,0,Second half,1.2048442147374372,0.7757691580257688
+Ball Receipt-Carry,Felix Agu-Felix Agu,3949754,Werder Bremen,Drawn,0,0,Second half,1.2245016258403116,0.8003200870826593
+Interception,Mitchell Weiser,3949770,Werder Bremen,Drawn,2,2,Second half,2.005922186375531,0.7119270559547144
+Clearance,Amos Pieper,3949773,Werder Bremen,Drawn,0,0,Second half,1.5423417982300118,0.766932335352744
+Pressure,Amos Pieper,3949786,Werder Bremen,Won,4,1,Second half,1.0149328137009328,0.82183297377455
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,Cédric Zesiger-Lovro Majer-Lovro Majer-Lovro Majer-Mattias Svanberg,3949490,Wolfsburg,Lost,2,3,First half,1.010616814513209,0.7743190565324857
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Arnold-Maximilian Arnold-Maximilian Arnold-Jakub Kamiński-Jakub Kamiński-Jakub Kamiński-Patrick Wimmer-Patrick Wimmer,3949494,Wolfsburg,Won,2,0,First half,1.653189816830596,0.7281969216828434
+Duel,Ridle Bote Baku,3949507,Wolfsburg,Lost,1,2,First half,1.6713265599741722,0.7278244833143488
+Pressure,Kilian Fischer,3949517,Wolfsburg,Lost,3,4,First half,1.0340043819257836,0.7835215538744874
+Pass,Mohamed El Amine Amoura,3949520,Wolfsburg,Drawn,2,2,First half,1.5707269001210395,0.6905260547671277
+Pass,Denis Vavro,3949535,Wolfsburg,Won,3,1,First half,1.3784991953101755,0.7411465974533638
+Pressure-Pass-Ball Receipt-Carry,Sebastiaan Bornauw-Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949539,Wolfsburg,Lost,2,4,First half,1.1978487283677557,0.7912926801615089
+Clearance-Error,Denis Vavro-Denis Vavro,3949554,Wolfsburg,Drawn,0,0,First half,1.681977397333704,0.721897099219967
+Ball Recovery-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949559,Wolfsburg,Drawn,1,1,First half,1.8889708472378384,0.7256295077581857
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Kamil Grabara-Mohamed El Amine Amoura-Kamil Grabara-Kamil Grabara-Patrick Wimmer-Patrick Wimmer,3949571,Wolfsburg,Won,3,1,First half,2.186516924221769,0.6724533467193067
+Pass-Ball Receipt,Mohamed El Amine Amoura-Lukas Nmecha,3949577,Wolfsburg,Won,1,0,First half,1.2987830458072411,0.7774794159976922
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Denis Vavro-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949583,Wolfsburg,Won,5,1,First half,1.2429898777053778,0.8022697085286749
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bence Dárdai-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Tiago Barreiros de Melo Tomás,3949594,Wolfsburg,Won,4,3,First half,1.88067751521878,0.6852157328697652
+Ball Recovery-Carry,Joakim Mæhle-Joakim Mæhle,3949601,Wolfsburg,Lost,2,3,First half,1.3209885769914167,0.7551313820284126
+Pass,Maximilian Arnold,3949612,Wolfsburg,Lost,1,3,First half,1.422752779285186,0.7514439012140416
+Dribbled Past,Joakim Mæhle,3949620,Wolfsburg,Won,1,0,First half,1.6327583740103542,0.7597893691675819
+Pass,Joakim Mæhle,3949630,Wolfsburg,Won,5,1,First half,1.3632270882134156,0.7479311324703557
+Pressure,Denis Vavro,3949636,Wolfsburg,Lost,2,3,First half,1.0673004599226177,0.7729875773146584
+Ball Recovery,Jonas Older Wind,3949648,Wolfsburg,Drawn,2,2,First half,1.5722665586211102,0.7691850883274746
+Goal Keeper-Pass-Ball Receipt-Pass,Kamil Grabara-Kamil Grabara-Jonas Older Wind-Jonas Older Wind,3949655,Wolfsburg,Drawn,1,1,Second half,1.425708447727356,0.7457553932919548
+Pass-Ball Receipt-Carry,Kilian Fischer-Mattias Svanberg-Mattias Svanberg,3949665,Wolfsburg,Drawn,0,0,Second half,1.556453305191393,0.7139488189750747
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507923,0.7590730827941088
+Block,Sebastiaan Bornauw,3949681,Wolfsburg,Drawn,1,1,Second half,1.5368250984447722,0.7571660458995785
+Pass-Ball Receipt-Duel,Marius Müller-Patrick Wimmer-Patrick Wimmer,3949690,Wolfsburg,Won,2,1,Second half,1.6517456595677684,0.7588573804244265
+Pass,Maximilian Arnold,3949706,Wolfsburg,Drawn,1,1,Second half,1.4340430723958917,0.7659681198932928
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Kilian Fischer-Kilian Fischer-Kilian Fischer-Andreas Skov Olsen-Andreas Skov Olsen,3949709,Wolfsburg,Lost,0,1,Second half,1.600651980126425,0.7322203922577231
+Pressure,Joakim Mæhle,3949722,Wolfsburg,Lost,0,1,Second half,1.2235707231043305,0.7930433915871863
+Clearance,Yannick Gerhardt,3949733,Wolfsburg,Lost,0,1,Second half,1.2788258381390394,0.8000381028414162
+Pressure,Mohamed El Amine Amoura,3949741,Wolfsburg,Lost,2,3,Second half,1.59461551903839,0.703173916579726
+Dribbled Past-Foul Committed,Maximilian Arnold-Maximilian Arnold,3949747,Wolfsburg,Drawn,2,2,Second half,1.6122323786770798,0.7312817479826389
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kamil Grabara-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949753,Wolfsburg,Lost,0,1,Second half,1.111470584478786,0.7791512465920865
+Pass,Andreas Skov Olsen,3949767,Wolfsburg,Lost,0,4,Second half,1.7099822728787304,0.7140523423230146
+Pressure,Jonas Older Wind,3949772,Wolfsburg,Drawn,2,2,Second half,1.720684785559174,0.7303850692008913
+Block,Yannick Gerhardt,3949780,Wolfsburg,Won,1,0,Second half,2.1574943109344606,0.6643905452555352

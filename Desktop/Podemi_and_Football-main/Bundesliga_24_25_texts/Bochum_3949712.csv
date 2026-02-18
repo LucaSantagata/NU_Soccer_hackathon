@@ -1,0 +1,591 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Tom Krauß-Timo Horn-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Pressure-Pressure-Pressure,Matúš Bero-Ibrahima Sissoko-Ibrahima Sissoko-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure-Pressure,Felix Passlack-Matúš Bero-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Ball Recovery-Carry,Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Tim Oermann-Felix Passlack-Felix Passlack-Felix Passlack-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Duel,Matúš Bero-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Maximilian Wittek-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Miscontrol,Felix Passlack-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol-Pressure,Giorgos Masouras-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Dispossessed,Matúš Bero-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Matúš Bero-Ivan Ordets-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Ball Recovery-Pass-Injury Stoppage,Tom Krauß-Timo Horn-Timo Horn-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Giorgos Masouras-Giorgos Masouras-Giorgos Masouras-Tom Krauß-Tom Krauß-Tom Krauß-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Matúš Bero-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot-Ball Receipt,Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt,Ivan Ordets-Matúš Bero-Matúš Bero-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Miscontrol,Ivan Ordets-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Timo Horn-Timo Horn-Matúš Bero-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Matúš Bero-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Wittek-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Tom Krauß-Tom Krauß-Tom Krauß-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahima Sissoko-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Tom Krauß-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Tom Krauß-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tom Krauß-Tom Krauß-Tom Krauß-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Ivan Ordets-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Felix Passlack-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Shot,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Matúš Bero-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Ivan Ordets-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Tom Krauß-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Tom Krauß-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Pass,Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Tim Oermann-Timo Horn-Timo Horn-Timo Horn-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Maximilian Wittek-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Maximilian Wittek-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Tom Krauß-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure,Timo Horn-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matúš Bero-Matúš Bero-Matúš Bero-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn-Timo Horn-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50-Ball Recovery,Felix Passlack-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Philipp Hofmann-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Shot,Matúš Bero-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Offside,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Ball Recovery-Carry,Maximilian Wittek-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass,Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Tim Oermann-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Tom Krauß-Tom Krauß-Tom Krauß-Jakov Medić-Jakov Medić-Jakov Medić-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Giorgos Masouras-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Philipp Hofmann-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Ibrahima Sissoko-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Ivan Ordets-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Ball Recovery-Carry,Ivan Ordets-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Ibrahima Sissoko-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Dispossessed,Felix Passlack-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Tim Oermann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Maximilian Wittek-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Ball Recovery-Carry,Maximilian Wittek-Tom Krauß-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tom Krauß-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Jakov Medić-Jakov Medić-Jakov Medić-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Tim Oermann-Ivan Ordets-Ivan Ordets-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past-Pressure,Tom Krauß-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Committed,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Ball Recovery-Carry-Pass,Timo Horn-Timo Horn-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shield,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Maximilian Wittek-Maximilian Wittek-Timo Horn-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass,Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt,Ivan Ordets-Ivan Ordets-Ivan Ordets-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper,Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Timo Horn-Tom Krauß-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Maximilian Wittek-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Duel,Matúš Bero-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol-Ball Recovery-Carry,Philipp Hofmann-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Shot,Ibrahima Sissoko-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Matúš Bero-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure-Ball Receipt,Ivan Ordets-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Duel,Jakov Medić-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Ivan Ordets-Tom Krauß-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-50/50,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Timo Horn-Tom Krauß-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Matúš Bero-Tom Krauß-Tom Krauß-Tom Krauß-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper-Pressure,Tim Oermann-Timo Horn-Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dispossessed,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Giorgos Masouras-Felix Passlack-Felix Passlack-Felix Passlack-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt,Timo Horn-Timo Horn-Timo Horn-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Tim Oermann-Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Tom Krauß-Tom Krauß-Tom Krauß-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt,Jakov Medić-Jakov Medić-Jakov Medić-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure-Foul Committed,Matúš Bero-Felix Passlack-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Player Off,Tom Krauß,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Giorgos Masouras-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol-Pressure,Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Player On-Pass-Substitution-Ball Receipt-Pass,Timo Horn-Tom Krauß-Timo Horn-Tom Krauß-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timo Horn-Timo Horn-Timo Horn-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Dani de Wit-Dani de Wit-Dani de Wit-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Felix Passlack-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Duel,Matúš Bero-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Tim Oermann-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure-Pressure-Foul Committed,Jakov Medić-Ibrahima Sissoko-Jakov Medić-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Jakov Medić-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Jakov Medić-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dani de Wit-Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit-Dani de Wit-Dani de Wit-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Ivan Ordets-Ivan Ordets-Ivan Ordets-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Dani de Wit-Dani de Wit-Dani de Wit-Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Giorgos Masouras-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dani de Wit-Jakov Medić-Jakov Medić-Jakov Medić-Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Giorgos Masouras-Jakov Medić-Jakov Medić-Jakov Medić-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Tim Oermann-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dispossessed,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Tim Oermann-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Felix Passlack-Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Dani de Wit-Jakov Medić-Jakov Medić-Jakov Medić-Matúš Bero-Matúš Bero-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt,Ibrahima Sissoko-Dani de Wit-Dani de Wit-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Felix Passlack-Ibrahima Sissoko-Ibrahima Sissoko-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Matúš Bero-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt,Felix Passlack-Felix Passlack-Felix Passlack-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass,Dani de Wit-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Foul Committed,Dani de Wit-Felix Passlack-Felix Passlack-Felix Passlack-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Duel,Maximilian Wittek-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Ibrahima Sissoko-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Maximilian Wittek-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Carry-Pass-Ball Receipt-Carry,Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Dani de Wit-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure-Ball Receipt,Ibrahima Sissoko-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Dani de Wit-Dani de Wit-Dani de Wit-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Dani de Wit-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Dani de Wit-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Giorgos Masouras-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Giorgos Masouras-Jakov Medić-Jakov Medić-Jakov Medić-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Giorgos Masouras-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jakov Medić-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Duel,Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past-Ball Recovery-Carry,Ibrahima Sissoko-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Tim Oermann-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass-Ball Receipt,Maximilian Wittek-Maximilian Wittek-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Matúš Bero-Jakov Medić-Jakov Medić-Matúš Bero-Matúš Bero-Matúš Bero-Jakov Medić-Jakov Medić-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Matúš Bero-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Dispossessed,Felix Passlack-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Carry,Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Miscontrol,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass,Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass-Ball Receipt-Pass,Matúš Bero-Matúš Bero-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Maximilian Wittek-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ivan Ordets-Ivan Ordets-Ivan Ordets-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dispossessed,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Dribble-Carry,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Ibrahima Sissoko-Felix Passlack-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Tim Oermann-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Giorgos Masouras-Dani de Wit-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass,Felix Passlack-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry,Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt,Philipp Hofmann-Dani de Wit-Dani de Wit-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matúš Bero-Matúš Bero-Matúš Bero-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Philipp Hofmann-Philipp Hofmann-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Dani de Wit-Dani de Wit-Dani de Wit-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Miscontrol,Matúš Bero-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass-Ball Receipt,Maximilian Wittek-Timo Horn-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass,Philipp Hofmann-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Matúš Bero-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Committed,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Jakov Medić-Jakov Medić-Jakov Medić-Dani de Wit-Dani de Wit-Dani de Wit-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Dani de Wit-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Maximilian Wittek-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Dribble,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception-Clearance,Jakov Medić-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Felix Passlack-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Ball Receipt,Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Maximilian Wittek-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Ball Recovery-Carry,Tim Oermann-Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Felix Passlack-Matúš Bero-Matúš Bero-Matúš Bero-Dani de Wit-Dani de Wit-Dani de Wit-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance-Pressure,Maximilian Wittek-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Pressure,Felix Passlack-Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Felix Passlack-Giorgos Masouras-Giorgos Masouras-Giorgos Masouras-Matúš Bero-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Philipp Hofmann-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Felix Passlack-Felix Passlack-Felix Passlack-Giorgos Masouras-Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Giorgos Masouras,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Duel,Matúš Bero-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Felix Passlack,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Carry,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass-Ball Receipt-Substitution-Substitution-Tactical Shift,Tim Oermann-Matúš Bero-Giorgos Masouras-Felix Passlack-Giorgos Masouras-Unknown,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Ibrahima Sissoko-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Ball Recovery-Carry,Dani de Wit-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ivan Ordets-Timo Horn-Timo Horn-Timo Horn-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Myron Boadu-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Matúš Bero-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Matúš Bero-Matúš Bero-Matúš Bero-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Jakov Medić-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Matúš Bero-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot-Block,Ivan Ordets-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Maximilian Wittek-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure,Ivan Ordets-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper,Tim Oermann-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper-Clearance-Ball Recovery-Pressure,Ibrahima Sissoko-Timo Horn-Matúš Bero-Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Pass-Ball Receipt,Timo Horn-Timo Horn-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Philipp Hofmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50-Ball Recovery-Carry-Pass,Gerrit Holtmann-Dani de Wit-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Pass,Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Ball Recovery-Carry,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble-Carry,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Matúš Bero-Matúš Bero-Matúš Bero-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ibrahima Sissoko-Matúš Bero-Matúš Bero-Matúš Bero-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Foul Committed,Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception-Ball Recovery,Maximilian Wittek-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Maximilian Wittek-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahima Sissoko-Jakov Medić-Jakov Medić-Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Jakov Medić-Jakov Medić-Jakov Medić-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ivan Ordets-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt,Timo Horn-Myron Boadu-Myron Boadu-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ivan Ordets-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure,Maximilian Wittek-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt,Dani de Wit-Dani de Wit-Dani de Wit-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Tactical Shift-Pass,Timo Horn-Unknown-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ivan Ordets-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Dani de Wit-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper,Matúš Bero-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Block,Timo Horn-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance-Ball Recovery-Carry,Ivan Ordets-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ivan Ordets-Myron Boadu-Myron Boadu-Myron Boadu-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Myron Boadu-Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dispossessed,Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timo Horn-Timo Horn-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Dani de Wit-Dani de Wit-Dani de Wit-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gerrit Holtmann-Jakov Medić-Jakov Medić-Jakov Medić-Tim Oermann-Tim Oermann-Tim Oermann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Committed,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt,Dani de Wit-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Carry-Pass-Ball Receipt-Pass,Timo Horn-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Carry-Pass,Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry,Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Foul Won-Pass-Ball Receipt-Carry,Matúš Bero-Matúš Bero-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Miscontrol,Gerrit Holtmann-Ivan Ordets-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ibrahima Sissoko-Gerrit Holtmann-Gerrit Holtmann-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matúš Bero-Tim Oermann-Tim Oermann-Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahima Sissoko-Ivan Ordets-Ivan Ordets-Ivan Ordets-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tim Oermann-Tim Oermann-Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann-Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Philipp Hofmann-Philipp Hofmann-Dani de Wit-Dani de Wit-Dani de Wit-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gerrit Holtmann-Jakov Medić-Jakov Medić-Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Ivan Ordets-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Ivan Ordets-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper,Tim Oermann-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Tim Oermann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+50/50-Carry-Pass-Ball Receipt-Carry-Pass,Matúš Bero-Matúš Bero-Matúš Bero-Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Maximilian Wittek-Jakov Medić-Jakov Medić-Timo Horn-Timo Horn-Timo Horn-Ivan Ordets-Ivan Ordets-Ivan Ordets-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass-Ball Receipt,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Error,Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Timo Horn-Ivan Ordets-Ivan Ordets-Ivan Ordets-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Hofmann-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Matúš Bero-Maximilian Wittek-Maximilian Wittek-Tim Oermann-Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Shot,Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Tim Oermann-Tim Oermann-Tim Oermann-Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Timo Horn-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gerrit Holtmann-Tim Oermann-Tim Oermann-Tim Oermann-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Dani de Wit-Dani de Wit-Dani de Wit-Tim Oermann-Tim Oermann-Tim Oermann-Ivan Ordets-Ivan Ordets-Ivan Ordets-Jakov Medić-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek-Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble,Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Foul Committed,Matúš Bero-Matúš Bero,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Substitution-Substitution,Matúš Bero-Ivan Ordets,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Tactical Shift-Block-Goal Keeper,Unknown-Moritz Broschinski-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Tim Oermann-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block-Goal Keeper-Block,Ibrahima Sissoko-Timo Horn-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Maximilian Wittek-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Timo Horn-Tim Oermann-Tim Oermann-Tim Oermann-Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna-Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann-Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna-Tim Oermann-Tim Oermann-Tim Oermann-Timo Horn-Timo Horn-Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Cristian Gamboa Luna-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Maximilian Wittek-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Jakov Medić-Cristian Gamboa Luna-Cristian Gamboa Luna,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Cristian Gamboa Luna,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko-Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Miscontrol,Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry-Pass,Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Maximilian Wittek-Cristian Gamboa Luna,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Cristian Gamboa Luna-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Philipp Hofmann-Jakov Medić-Jakov Medić-Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble-Carry,Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribble-Carry,Maximilian Wittek-Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Pass,Maximilian Wittek-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry,Ibrahima Sissoko-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Shot,Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt,Jakov Medić-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Gerrit Holtmann-Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Pressure,Philipp Hofmann-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Ibrahima Sissoko-Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Shot,Moritz Broschinski-Dani de Wit-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Shot,Moritz Broschinski-Moritz Broschinski,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Moritz Broschinski,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Moritz Broschinski,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Gerrit Holtmann-Cristian Gamboa Luna-Cristian Gamboa Luna-Cristian Gamboa Luna,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Carry,Tim Oermann-Tim Oermann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Tim Oermann-Timo Horn-Timo Horn-Timo Horn-Myron Boadu-Myron Boadu,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Receipt-Duel,Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Block,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Tim Oermann-Timo Horn-Timo Horn-Timo Horn-Philipp Hofmann-Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Moritz Broschinski,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery,Philipp Hofmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Foul Committed,Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Cristian Gamboa Luna-Dani de Wit,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Interception-Ball Recovery-Carry-Dribble,Cristian Gamboa Luna-Ibrahima Sissoko-Ibrahima Sissoko-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel-Ball Recovery-Carry,Jakov Medić-Jakov Medić-Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass-Ball Receipt-Carry-Pass,Jakov Medić-Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Ball Recovery-Carry-Pass,Gerrit Holtmann-Gerrit Holtmann-Gerrit Holtmann,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Moritz Broschinski-Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pass,Ibrahima Sissoko,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure-Pressure,Maximilian Wittek-Moritz Broschinski,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Duel,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Pressure,Maximilian Wittek,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Dribbled Past,Jakov Medić,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199
+Goal Keeper,Timo Horn,3949712,Bochum,Lost,1,3,Second half,1.805687680961087,0.689721512499199

@@ -1,0 +1,526 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Joško Gvardiol-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Joško Gvardiol-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,İlkay Gündoğan-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Phil Foden-Phil Foden-Phil Foden-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Matheus Luiz Nunes-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Error-Ball Receipt,Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Mateo Kovačić-Ederson Santana de Moraes-Ederson Santana de Moraes-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past-Pressure-Foul Committed,Mateo Kovačić-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt,Ederson Santana de Moraes-Ederson Santana de Moraes-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-Phil Foden-Phil Foden-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Phil Foden-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Matheus Luiz Nunes-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Joško Gvardiol-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Dispossessed,Omar Marmoush-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Goal Keeper,Abdukodir Khusanov-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-Phil Foden-Phil Foden-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Joško Gvardiol-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Abdukodir Khusanov-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Phil Foden-Phil Foden-Phil Foden-Erling Håland-Erling Håland-Erling Håland-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shot,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden-Phil Foden-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass,Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shield,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Mateo Kovačić-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Omar Marmoush-Omar Marmoush-Omar Marmoush-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure-Pressure,Bernardo Mota Veiga de Carvalho e Silva-Omar Marmoush-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Mateo Kovačić-Mateo Kovačić-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry,Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Mateo Kovačić-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Erling Håland-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Omar Marmoush-Omar Marmoush-Omar Marmoush-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Phil Foden-Phil Foden-Phil Foden-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-50/50,Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry,Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Shot,Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Shot,Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Phil Foden-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Miscontrol,Bernardo Mota Veiga de Carvalho e Silva-Phil Foden-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+50/50-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Phil Foden-İlkay Gündoğan-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Erling Håland-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shot,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Ball Recovery,Joško Gvardiol-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Committed,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Ball Recovery-Carry,Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Omar Marmoush-Omar Marmoush-Omar Marmoush-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper,Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,İlkay Gündoğan-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,İlkay Gündoğan-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt-Duel,Ederson Santana de Moraes-Ederson Santana de Moraes-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Block-Ball Recovery-Pass-Ball Receipt,Ederson Santana de Moraes-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Omar Marmoush-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Pressure-Ball Receipt,Mateo Kovačić-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Shot,Omar Marmoush-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Matheus Luiz Nunes-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure-Foul Committed,Phil Foden-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt,Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Erling Håland-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Omar Marmoush-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Shot,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Shot,Erling Håland-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Shot-Ball Receipt,Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Offside,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Dribble-Carry,Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Miscontrol,Omar Marmoush-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Omar Marmoush-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt-Carry,Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Phil Foden-Phil Foden-Phil Foden-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Omar Marmoush-Omar Marmoush-Omar Marmoush-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden-Phil Foden-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shot,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Omar Marmoush-Omar Marmoush-Omar Marmoush-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,İlkay Gündoğan-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Shot,Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Ball Recovery-Shot,Matheus Luiz Nunes-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt,Abdukodir Khusanov-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Ederson Santana de Moraes-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Miscontrol,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-Phil Foden-Phil Foden-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Omar Marmoush-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Ederson Santana de Moraes-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Abdukodir Khusanov-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Dispossessed,Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shield,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt,Erling Håland-Erling Håland-Erling Håland-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Omar Marmoush-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Joško Gvardiol-Ederson Santana de Moraes-İlkay Gündoğan-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Pass-Ball Receipt,Erling Håland-Erling Håland-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Phil Foden-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Omar Marmoush-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Omar Marmoush-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Matheus Luiz Nunes-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt,Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt,Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Ederson Santana de Moraes-Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Abdukodir Khusanov-Abdukodir Khusanov-Abdukodir Khusanov-Phil Foden-Phil Foden-Phil Foden-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Clearance-Error,Abdukodir Khusanov-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Phil Foden-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Goal Keeper-Ball Recovery-Carry,Matheus Luiz Nunes-Ederson Santana de Moraes-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Phil Foden-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Shot,Erling Håland-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Abdukodir Khusanov-Manuel Obafemi Akanji-Erling Håland-Erling Håland-Erling Håland-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Foul Committed,İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Abdukodir Khusanov-Ederson Santana de Moraes-Ederson Santana de Moraes-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Foul Committed,Erling Håland-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Injury Stoppage,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Substitution,Abdukodir Khusanov,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt,Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Erling Håland-Erling Håland-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Mateo Kovačić-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Duel,Ederson Santana de Moraes-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Committed,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Manuel Obafemi Akanji-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Manuel Obafemi Akanji-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Miscontrol,Manuel Obafemi Akanji-Omar Marmoush-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Mateo Kovačić-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+50/50-Carry,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dispossessed,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Mateo Kovačić-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block-Pressure,Omar Marmoush-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt,Ederson Santana de Moraes-Ederson Santana de Moraes-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt,Omar Marmoush-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Manuel Obafemi Akanji-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass,Bernardo Mota Veiga de Carvalho e Silva-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Phil Foden-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Phil Foden-Phil Foden-Phil Foden-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden-Phil Foden-John Stones-John Stones-John Stones-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-John Stones-John Stones-John Stones-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-John Stones-John Stones-John Stones-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Omar Marmoush-Omar Marmoush-Omar Marmoush-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Erling Håland-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Omar Marmoush-Omar Marmoush-Omar Marmoush-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Omar Marmoush-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,İlkay Gündoğan-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Block,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Joško Gvardiol-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry,İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,İlkay Gündoğan-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Phil Foden-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Ederson Santana de Moraes-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Shot,Erling Håland-Omar Marmoush-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-John Stones-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass,John Stones-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Shot,Erling Håland-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt,Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Pressure,Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Miscontrol-Pressure,Omar Marmoush-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt,İlkay Gündoğan-İlkay Gündoğan-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass-Ball Receipt,Ederson Santana de Moraes-Ederson Santana de Moraes-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,John Stones-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Ederson Santana de Moraes-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Manuel Obafemi Akanji-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Substitution-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Omar Marmoush-Joško Gvardiol-Manuel Obafemi Akanji-Manuel Obafemi Akanji-John Stones-John Stones-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-John Stones-John Stones-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-John Stones-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,John Stones-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Miscontrol,Phil Foden-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dispossessed,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Matheus Luiz Nunes-John Stones-John Stones-John Stones-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Erling Håland-Erling Håland-Phil Foden-Phil Foden-Phil Foden-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Erling Håland-Erling Håland-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Phil Foden-Phil Foden-Phil Foden-Mateo Kovačić-Mateo Kovačić-John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Ederson Santana de Moraes-İlkay Gündoğan-İlkay Gündoğan-John Stones-John Stones-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joško Gvardiol-Joško Gvardiol-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-Phil Foden-Phil Foden-Phil Foden-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-John Stones-John Stones-John Stones-Kevin De Bruyne-Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin De Bruyne-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-Matheus Luiz Nunes-Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-Matheus Luiz Nunes-Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Mateo Kovačić-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-John Stones-John Stones-John Stones-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Phil Foden-John Stones-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,İlkay Gündoğan-John Stones-John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,John Stones-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-John Stones-John Stones-John Stones-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past-Pressure-Foul Committed,Phil Foden-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Pressure,Kevin De Bruyne-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-50/50,Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel-Carry-Pass,Mateo Kovačić-Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Mateo Kovačić-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry,Matheus Luiz Nunes-Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dispossessed,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,İlkay Gündoğan-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure-Foul Committed,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,Joško Gvardiol-Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Joško Gvardiol-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Foul Won-Pass-Ball Receipt-Duel,İlkay Gündoğan-Ederson Santana de Moraes-Kevin De Bruyne-Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry-Pass-Ball Receipt,İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Duel,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance,John Stones,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry-Dribble-Carry,Phil Foden-Phil Foden-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Phil Foden-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-John Stones-John Stones-John Stones-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Ederson Santana de Moraes-Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Erling Håland-Erling Håland-Erling Håland-Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Shot,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past-Foul Committed,Mateo Kovačić-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Bernardo Mota Veiga de Carvalho e Silva,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception-Carry,Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribble-Carry,Phil Foden-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Phil Foden-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Matheus Luiz Nunes-Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Receipt-Carry-Pass-Ball Receipt,Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Duel,Joško Gvardiol-Erling Håland-Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Ball Recovery-Carry,İlkay Gündoğan-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dispossessed,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt-Carry,Erling Håland-Kevin De Bruyne-Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dispossessed,Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass,Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance-Pass-Ball Receipt,Mateo Kovačić-John Stones-Kevin De Bruyne,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Erling Håland,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pass-Ball Receipt,Matheus Luiz Nunes-Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Manuel Obafemi Akanji,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Dribbled Past-Pressure-Pressure-Pressure,Joško Gvardiol-Manuel Obafemi Akanji-Joško Gvardiol-İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Interception,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Injury Stoppage,İlkay Gündoğan,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Referee Ball-Drop,Unknown,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Phil Foden,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Block,Matheus Luiz Nunes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Clearance-Duel,Erling Håland-Mateo Kovačić,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Pressure,Joško Gvardiol,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+Goal Keeper-Pass,Ederson Santana de Moraes-Ederson Santana de Moraes,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185

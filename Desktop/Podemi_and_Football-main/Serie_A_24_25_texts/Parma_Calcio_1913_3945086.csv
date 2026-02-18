@@ -1,0 +1,529 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Woyo Coulibaly-Woyo Coulibaly-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Woyo Coulibaly-Dennis Man-Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Adrian Benedyczak-Adrian Benedyczak-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Nahuel Estévez-Nahuel Estévez-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass,Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Dispossessed,Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt,Emanuele Valeri-Ange-Yoan Bonny-Ange-Yoan Bonny-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Foul Committed,Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Miscontrol-Pressure,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Pressure,Nahuel Estévez-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Zion Suzuki-Ange-Yoan Bonny-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass,Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Simon Sohm-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry,Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Nahuel Estévez-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Botond Balogh-Botond Balogh-Botond Balogh-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Shot,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Injury Stoppage,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Referee Ball-Drop,Unknown,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Dribble-Carry,Emanuele Valeri-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ange-Yoan Bonny-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Dispossessed,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Foul Committed,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Injury Stoppage-Pass-Ball Receipt,Enrico Del Prato-Zion Suzuki-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Pressure,Ange-Yoan Bonny-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Zion Suzuki-Zion Suzuki-Zion Suzuki-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribbled Past,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt,Emanuele Valeri-Adrian Benedyczak-Adrian Benedyczak-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Pressure,Enrico Del Prato-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Dennis Man-Dennis Man-Dennis Man-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt,Adrian Benedyczak-Adrian Benedyczak-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Emanuele Valeri-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Pressure-Ball Receipt,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Pressure,Nahuel Estévez-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Ball Recovery-Carry,Nahuel Estévez-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Matteo Cancellieri-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Nahuel Estévez-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Nahuel Estévez-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emanuele Valeri-Dennis Man-Dennis Man-Dennis Man-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Adrian Benedyczak-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Emanuele Valeri-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Goal Keeper,Botond Balogh-Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance-Clearance,Enrico Del Prato-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Tactical Shift-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Zion Suzuki-Unknown-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Dennis Man-Dennis Man-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Miscontrol,Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+50/50,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Zion Suzuki-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Dennis Man-Dennis Man-Dennis Man-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Zion Suzuki-Woyo Coulibaly-Woyo Coulibaly-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry-Pass-Ball Receipt,Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Botond Balogh-Botond Balogh-Botond Balogh-Dennis Man-Dennis Man-Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Dennis Man-Dennis Man-Dennis Man-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Adrian Benedyczak-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Dispossessed,Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Matteo Cancellieri-Matteo Cancellieri-Ange-Yoan Bonny-Ange-Yoan Bonny-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Woyo Coulibaly-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Simon Sohm-Simon Sohm-Simon Sohm-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Botond Balogh-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Woyo Coulibaly-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass,Ange-Yoan Bonny-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emanuele Valeri-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Dennis Man-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Woyo Coulibaly-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+50/50,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nahuel Estévez-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Clearance,Zion Suzuki-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Matteo Cancellieri-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Adrian Benedyczak-Adrian Benedyczak-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Goal Keeper,Enrico Del Prato-Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt,Ange-Yoan Bonny-Ange-Yoan Bonny-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dennis Man-Dennis Man-Dennis Man-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Dennis Man-Dennis Man-Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Botond Balogh-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Foul Committed,Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Ange-Yoan Bonny-Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry,Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Enrico Del Prato-Adrian Benedyczak-Adrian Benedyczak-Adrian Benedyczak-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Dispossessed,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribbled Past,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Goal Keeper,Emanuele Valeri-Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel-Ball Recovery-Carry,Matteo Cancellieri-Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enrico Del Prato-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt-Pass,Dennis Man-Woyo Coulibaly-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Ange-Yoan Bonny-Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enrico Del Prato-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Botond Balogh-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance-Pressure,Simon Sohm-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Zion Suzuki-Ange-Yoan Bonny-Zion Suzuki-Zion Suzuki-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Simon Sohm-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Pressure-Ball Receipt,Enrico Del Prato-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Goal Keeper-Ball Recovery-Carry-Pass,Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper,Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper,Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper,Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny-Adrian Benedyczak-Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Committed,Adrian Benedyczak,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Botond Balogh-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Pass-Ball Receipt,Adrian Benedyczak-Adrian Benedyczak-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Enrico Del Prato-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Emanuele Valeri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Shot,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Shot,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Shot,Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Committed,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ange-Yoan Bonny-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Substitution-Tactical Shift-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Adrian Benedyczak-Unknown-Ange-Yoan Bonny-Zion Suzuki-Zion Suzuki-Zion Suzuki-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Botond Balogh-Botond Balogh-Botond Balogh-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matteo Cancellieri-Dennis Man-Dennis Man-Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Woyo Coulibaly-Botond Balogh-Botond Balogh-Botond Balogh-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Dispossessed,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel-Pass,Enrico Del Prato-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Miscontrol,Enrico Del Prato-Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Simon Sohm-Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Emanuele Valeri-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ange-Yoan Bonny-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Simon Sohm-Botond Balogh-Botond Balogh-Botond Balogh-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Dribble-Carry,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Shot,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Botond Balogh-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Nahuel Estévez-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Dennis Man-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Woyo Coulibaly-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Simon Sohm-Simon Sohm-Simon Sohm-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Valentin Mihai Mihăilă-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Foul Committed,Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass-Ball Receipt,Botond Balogh-Zion Suzuki-Zion Suzuki-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Zion Suzuki-Zion Suzuki-Simon Sohm-Simon Sohm-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Injury Stoppage,Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Botond Balogh-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Matteo Cancellieri-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Woyo Coulibaly-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Botond Balogh-Botond Balogh-Botond Balogh-Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Nahuel Estévez-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Ball Recovery-Carry,Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Injury Stoppage,Dennis Man-Dennis Man-Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Botond Balogh-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Referee Ball-Drop,Unknown,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Botond Balogh-Botond Balogh-Botond Balogh-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Emanuele Valeri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Shot-Block,Nahuel Estévez-Nahuel Estévez-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Shot,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Nahuel Estévez-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt,Matteo Cancellieri-Nahuel Estévez-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Valentin Mihai Mihăilă-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Nahuel Estévez-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Nahuel Estévez-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Miscontrol,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry,Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Botond Balogh-Botond Balogh-Botond Balogh-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass,Valentin Mihai Mihăilă-Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Committed,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass,Dennis Man-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Simon Sohm-Simon Sohm-Simon Sohm-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Injury Stoppage,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Simon Sohm-Simon Sohm-Simon Sohm-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Emanuele Valeri-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Referee Ball-Drop-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Unknown-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Dennis Man-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Miscontrol,Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dennis Man-Dennis Man-Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Simon Sohm-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Simon Sohm-Simon Sohm-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Ange-Yoan Bonny-Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Dispossessed,Nahuel Estévez-Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Simon Sohm-Simon Sohm-Simon Sohm-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Dennis Man-Dennis Man-Dennis Man-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry,Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Emanuele Valeri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribbled Past,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Block,Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Ange-Yoan Bonny,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Clearance,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Miscontrol,Zion Suzuki-Zion Suzuki-Zion Suzuki-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Injury Stoppage,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Player Off,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Player On,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass,Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Woyo Coulibaly-Woyo Coulibaly,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Woyo Coulibaly-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dennis Man-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Nahuel Estévez-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Matteo Cancellieri-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Zion Suzuki-Zion Suzuki-Zion Suzuki-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt-Foul Committed,Nahuel Estévez-Matteo Cancellieri-Ange-Yoan Bonny-Ange-Yoan Bonny-Ange-Yoan Bonny-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Simon Sohm-Simon Sohm-Simon Sohm-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Nahuel Estévez-Nahuel Estévez-Nahuel Estévez-Botond Balogh-Botond Balogh-Botond Balogh-Woyo Coulibaly-Woyo Coulibaly-Woyo Coulibaly-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Substitution-Substitution-Substitution-Tactical Shift,Woyo Coulibaly-Ange-Yoan Bonny-Nahuel Estévez-Unknown,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass,Zion Suzuki-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry,Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Pontus Almqvist-Pontus Almqvist-Antoine Hainaut-Antoine Hainaut-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Simon Sohm-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass,Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pontus Almqvist-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Dennis Man-Dennis Man-Dennis Man-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure-Pressure,Valentin Mihai Mihăilă-Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Botond Balogh-Botond Balogh-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Hainaut-Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribbled Past,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Goal Keeper-Pass-Ball Receipt,Zion Suzuki-Matteo Cancellieri-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mohamed Anas Haj-Botond Balogh-Botond Balogh-Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Zion Suzuki-Zion Suzuki-Zion Suzuki-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass,Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel-Carry-Pass-Ball Receipt-Carry,Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Matteo Cancellieri-Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Matteo Cancellieri-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Zion Suzuki-Zion Suzuki-Zion Suzuki-Simon Sohm-Simon Sohm-Simon Sohm-Dennis Man-Dennis Man-Dennis Man-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Botond Balogh-Botond Balogh-Botond Balogh-Simon Sohm-Simon Sohm-Simon Sohm-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Matteo Cancellieri-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Pass,Botond Balogh-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohamed Anas Haj-Dennis Man-Dennis Man-Dennis Man-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt,Matteo Cancellieri-Matteo Cancellieri-Matteo Cancellieri-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Duel,Simon Sohm-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Botond Balogh-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Substitution,Matteo Cancellieri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Tactical Shift,Unknown,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Enrico Del Prato-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Duel,Emanuele Valeri-Gabriel Charpentier-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Dribble-Carry,Gabriel Charpentier-Gabriel Charpentier-Gabriel Charpentier-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Emanuele Valeri-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt,Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception-Carry-Pass-Ball Receipt,Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Simon Sohm-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gabriel Charpentier-Pontus Almqvist-Pontus Almqvist-Pontus Almqvist-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Miscontrol,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Pontus Almqvist-Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt,Botond Balogh-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Enrico Del Prato-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pontus Almqvist-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Simon Sohm-Simon Sohm-Simon Sohm-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Dennis Man-Dennis Man-Dennis Man-Enrico Del Prato-Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Interception,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble-Carry,Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Hainaut-Simon Sohm-Simon Sohm-Simon Sohm-Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt,Pontus Almqvist-Pontus Almqvist-Pontus Almqvist-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Enrico Del Prato,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Enrico Del Prato-Zion Suzuki-Simon Sohm-Simon Sohm-Simon Sohm-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Pontus Almqvist-Botond Balogh-Enrico Del Prato-Enrico Del Prato-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Shot,Valentin Mihai Mihăilă-Valentin Mihai Mihăilă,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dispossessed,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Duel,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Botond Balogh-Zion Suzuki-Zion Suzuki-Zion Suzuki-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj-Enrico Del Prato-Enrico Del Prato-Enrico Del Prato-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Dribble,Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Simon Sohm,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pressure,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block-Ball Recovery-Carry,Antoine Hainaut-Dennis Man-Dennis Man,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry,Dennis Man-Botond Balogh-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Miscontrol-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Botond Balogh-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Simon Sohm-Simon Sohm-Simon Sohm-Mohamed Anas Haj-Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mohamed Anas Haj-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut-Gabriel Charpentier,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry,Emanuele Valeri-Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Shot,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Emanuele Valeri,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohamed Anas Haj-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Simon Sohm-Simon Sohm-Simon Sohm-Mohamed Anas Haj-Mohamed Anas Haj-Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pontus Almqvist-Pontus Almqvist-Pontus Almqvist-Zion Suzuki-Zion Suzuki-Zion Suzuki-Botond Balogh,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Recovery-Carry-Pass-Ball Receipt,Gabriel Charpentier-Gabriel Charpentier-Gabriel Charpentier-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass,Mohamed Anas Haj,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohamed Anas Haj-Mohamed Anas Haj-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Valentin Mihai Mihăilă-Antoine Hainaut-Antoine Hainaut-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Ball Receipt-Carry-Miscontrol,Pontus Almqvist-Pontus Almqvist-Pontus Almqvist,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Block,Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Enrico Del Prato-Dennis Man-Dennis Man-Dennis Man-Simon Sohm-Simon Sohm-Simon Sohm-Emanuele Valeri-Emanuele Valeri-Emanuele Valeri-Pontus Almqvist-Pontus Almqvist-Pontus Almqvist-Antoine Hainaut,3945086,Parma Calcio 1913,Lost,1,3,First half,0.9189304555695607,0.825246786661765

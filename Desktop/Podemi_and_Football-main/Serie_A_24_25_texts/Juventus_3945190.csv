@@ -1,0 +1,609 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Randal Kolo Muani-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Renato De Palma Veiga-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass-Ball Receipt,Manuel Locatelli-Kenan Yildiz-Kenan Yildiz-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Nicolò Savona-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Randal Kolo Muani-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Weston McKennie-Weston McKennie-Weston McKennie-Timothy Weah-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Committed,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Weston McKennie-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Pressure-Pressure,Renato De Palma Veiga-Nicolò Savona-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Block-Clearance,Nicolò Savona-Federico Gatti-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Nicolò Savona-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Clearance,Weston McKennie-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pass-Ball Receipt-Carry,Michele Di Gregorio-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure,Michele Di Gregorio-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Weston McKennie-Nicolò Savona-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Miscontrol,Weston McKennie-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper,Timothy Weah-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Ball Recovery-Carry,Timothy Weah-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure-Ball Receipt,Teun Koopmeiners-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Randal Kolo Muani-Weston McKennie-Weston McKennie-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Teun Koopmeiners-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Nicolò Savona-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manuel Locatelli-Nicolò Savona-Nicolò Savona-Nicolò Savona-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Manuel Locatelli-Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Federico Gatti-Federico Gatti-Federico Gatti-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Manuel Locatelli-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Renato De Palma Veiga-Nicolò Savona-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Nicolò Savona-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Pass-Pressure-Ball Receipt,Teun Koopmeiners-Teun Koopmeiners-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past-Pressure-Pressure,Nicolò Savona-Nicolò Savona-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Carry,Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Teun Koopmeiners-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Locatelli-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol-50/50,Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper,Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Nicolò Savona-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kenan Yildiz-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Weston McKennie-Weston McKennie-Weston McKennie-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Weston McKennie-Weston McKennie-Weston McKennie-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass,Federico Gatti-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Miscontrol-Pressure,Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Federico Gatti-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Manuel Locatelli-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Miscontrol-Pressure,Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-50/50,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper,Renato De Palma Veiga-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper,Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Teun Koopmeiners-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Timothy Weah-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Kenan Yildiz-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Renato De Palma Veiga-Nicolò Savona-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Weston McKennie-Weston McKennie-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kenan Yildiz-Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Federico Gatti-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Weston McKennie-Weston McKennie-Weston McKennie-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Weston McKennie-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Federico Gatti-Federico Gatti-Federico Gatti-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Timothy Weah-Timothy Weah-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Teun Koopmeiners-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt,Nicolás Iván González-Manuel Locatelli-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Timothy Weah-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Foul Committed,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolò Savona-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolò Savona-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Duel,Michele Di Gregorio-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Randal Kolo Muani-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Miscontrol,Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past-Pressure-Pressure,Randal Kolo Muani-Teun Koopmeiners-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Dispossessed,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+50/50,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper,Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Pressure,Manuel Locatelli-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nicolò Savona-Nicolò Savona-Nicolò Savona-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure-Ball Receipt,Manuel Locatelli-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Timothy Weah-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Shot,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Duel,Manuel Locatelli-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper-Clearance,Renato De Palma Veiga-Michele Di Gregorio-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kenan Yildiz-Renato De Palma Veiga-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Pass-Ball Receipt-Carry,Weston McKennie-Randal Kolo Muani-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Shot,Weston McKennie-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Nicolò Savona-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass,Weston McKennie-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Miscontrol,Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Ball Recovery-Carry,Randal Kolo Muani-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolás Iván González-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Teun Koopmeiners-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Federico Gatti-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Weston McKennie-Nicolò Savona-Nicolò Savona-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Weston McKennie-Weston McKennie-Weston McKennie-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Timothy Weah-Timothy Weah-Timothy Weah-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Dispossessed,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Pressure,Teun Koopmeiners-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Pressure,Weston McKennie-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Timothy Weah-Timothy Weah-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Nicolás Iván González-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Shot,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Miscontrol-Foul Committed,Nicolò Savona-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass,Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Carry,Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Kenan Yildiz-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Federico Gatti-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Pressure,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Nicolò Savona-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Randal Kolo Muani-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-50/50,Randal Kolo Muani-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Weston McKennie-Weston McKennie-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Federico Gatti-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Nicolò Savona-Nicolò Savona-Nicolò Savona-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Duel,Michele Di Gregorio-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass,Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Nicolás Iván González-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pass-Ball Receipt,Michele Di Gregorio-Michele Di Gregorio-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Dispossessed,Weston McKennie-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure-Ball Receipt,Teun Koopmeiners-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Committed,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Clearance,Michele Di Gregorio-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Dispossessed,Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Error,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Substitution,Michele Di Gregorio-Nicolò Savona,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+50/50-Ball Recovery-Carry,Kenan Yildiz-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol-Pressure,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-Error,Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper,Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Timothy Weah-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance-50/50,Timothy Weah-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Federico Gatti-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Lloyd Kelly-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass,Nicolás Iván González-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Timothy Weah-Timothy Weah-Timothy Weah-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Federico Gatti-Federico Gatti-Federico Gatti-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Weston McKennie-Manuel Locatelli-Renato De Palma Veiga-Renato De Palma Veiga-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Timothy Weah-Manuel Locatelli-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Lloyd Kelly-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Ball Recovery-Pass-Ball Receipt,Lloyd Kelly-Michele Di Gregorio-Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pressure,Michele Di Gregorio-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper-Clearance,Teun Koopmeiners-Michele Di Gregorio-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Goal Keeper,Manuel Locatelli-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pass-Ball Receipt-Carry,Michele Di Gregorio-Michele Di Gregorio-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Renato De Palma Veiga-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lloyd Kelly-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Weston McKennie-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Weston McKennie-Weston McKennie-Weston McKennie-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Pass-Ball Receipt,Nicolás Iván González-Nicolás Iván González-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past-Pressure,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Kenan Yildiz-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Timothy Weah-Teun Koopmeiners-Teun Koopmeiners-Teun Koopmeiners-Federico Gatti-Federico Gatti-Federico Gatti-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-50/50,Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Ball Recovery-Carry,Weston McKennie-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass,Kenan Yildiz-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Timothy Weah-Timothy Weah-Timothy Weah-Teun Koopmeiners,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pass-Ball Receipt-Carry,Michele Di Gregorio-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Nicolás Iván González-Randal Kolo Muani-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure-Ball Receipt,Timothy Weah-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Weston McKennie-Weston McKennie-Weston McKennie-Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Weston McKennie-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pass-Ball Receipt-Carry,Nicolás Iván González-Timothy Weah-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Timothy Weah-Timothy Weah-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Locatelli-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Manuel Locatelli-Manuel Locatelli-Manuel Locatelli-Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Weston McKennie-Weston McKennie-Timothy Weah-Timothy Weah-Timothy Weah-Manuel Locatelli-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Locatelli-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Renato De Palma Veiga-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Committed,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Substitution-Substitution,Teun Koopmeiners-Manuel Locatelli,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Federico Gatti-Federico Gatti-Federico Gatti-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Federico Gatti-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Nicolás Iván González-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Kenan Yildiz-Kenan Yildiz-Kenan Yildiz-Weston McKennie-Weston McKennie-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lloyd Kelly-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah-Timothy Weah-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Dispossessed,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Kenan Yildiz-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Timothy Weah-Timothy Weah-Timothy Weah-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Substitution,Nicolás Iván González-Kenan Yildiz-Kenan Yildiz,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception-Pass-Ball Receipt,Renato De Palma Veiga-Douglas Luiz Soares de Paulo-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception-Pressure,Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt,Weston McKennie-Weston McKennie-Weston McKennie-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Lloyd Kelly-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass,Lloyd Kelly-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass,Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Weston McKennie-Weston McKennie-Weston McKennie-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Miscontrol,Timothy Weah-Nicolás Iván González-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Weston McKennie-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Timothy Weah-Timothy Weah-Timothy Weah-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lloyd Kelly-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Timothy Weah-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Khéphren Thuram-Ulien-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Douglas Luiz Soares de Paulo-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Block-Ball Recovery-Carry,Timothy Weah-Timothy Weah-Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+50/50-Clearance,Timothy Weah-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past-Pressure,Federico Gatti-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass,Michele Di Gregorio-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass,Lloyd Kelly-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Lloyd Kelly-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Samuel-Germain Kinduelu Mbangula Tshifunda-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Duel,Weston McKennie-Douglas Luiz Soares de Paulo-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Shot,Nicolás Iván González-Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Substitution,Nicolás Iván González,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Federico Gatti-Federico Gatti-Federico Gatti-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Timothy Weah-Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Weston McKennie-Weston McKennie-Weston McKennie-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien-Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Miscontrol,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Federico Gatti-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribbled Past,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Pass-Ball Receipt,Timothy Weah-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Timothy Weah-Federico Gatti-Federico Gatti-Federico Gatti-Renato De Palma Veiga-Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Renato De Palma Veiga-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry,Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry,Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda-Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Khéphren Thuram-Ulien-Weston McKennie-Weston McKennie-Weston McKennie-Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Lloyd Kelly-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Khéphren Thuram-Ulien-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Pressure,Renato De Palma Veiga-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Renato De Palma Veiga-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Samuel-Germain Kinduelu Mbangula Tshifunda-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Samuel-Germain Kinduelu Mbangula Tshifunda-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo-Timothy Weah-Timothy Weah-Timothy Weah-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Pass-Ball Receipt,Weston McKennie-Weston McKennie-Weston McKennie-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Shot,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Shot,Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Weston McKennie-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Interception,Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry-Dribble-Carry,Timothy Weah-Timothy Weah-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Timothy Weah-Renato De Palma Veiga-Renato De Palma Veiga-Renato De Palma Veiga-Lloyd Kelly-Lloyd Kelly-Lloyd Kelly-Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Foul Committed,Lloyd Kelly-Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Carry-Pass,Michele Di Gregorio-Michele Di Gregorio-Michele Di Gregorio,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Receipt-Carry,Khéphren Thuram-Ulien-Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt-Carry,Khéphren Thuram-Ulien-Douglas Luiz Soares de Paulo-Federico Gatti-Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won,Federico Gatti,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Shot,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Goal Keeper-Pass-Foul Committed,Michele Di Gregorio-Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Foul Won-Pass-Ball Receipt,Timothy Weah-Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Pass-Ball Receipt-Carry,Randal Kolo Muani-Douglas Luiz Soares de Paulo-Timothy Weah-Timothy Weah,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Timothy Weah-Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Francisco Fernandes Conceição-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure-Ball Recovery-Carry,Douglas Luiz Soares de Paulo-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Francisco Fernandes Conceição-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Timothy Weah-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+50/50-Ball Recovery-Carry,Weston McKennie-Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Timothy Weah-Timothy Weah-Timothy Weah-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Francisco Fernandes Conceição-Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block-Pass-Ball Receipt-Carry,Francisco Fernandes Conceição-Khéphren Thuram-Ulien-Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dribble-Carry,Randal Kolo Muani-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Francisco Fernandes Conceição,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pressure,Lloyd Kelly,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Clearance,Renato De Palma Veiga,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Block,Khéphren Thuram-Ulien,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt,Michele Di Gregorio-Randal Kolo Muani,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Duel-Pass-Ball Receipt-Carry,Randal Kolo Muani-Douglas Luiz Soares de Paulo-Weston McKennie-Weston McKennie,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Ball Receipt-Carry,Weston McKennie-Douglas Luiz Soares de Paulo-Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Dispossessed,Douglas Luiz Soares de Paulo,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348
+Pass-Pressure-Ball Receipt,Weston McKennie-Samuel-Germain Kinduelu Mbangula Tshifunda-Samuel-Germain Kinduelu Mbangula Tshifunda,3945190,Juventus,Won,2,1,Second half,1.5298104412389626,0.7089645402708348

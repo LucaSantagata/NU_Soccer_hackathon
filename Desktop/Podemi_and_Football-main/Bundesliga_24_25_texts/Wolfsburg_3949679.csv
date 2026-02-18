@@ -1,0 +1,542 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Konstantinos Koulierakis-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Pressure,Denis Vavro-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Kilian Fischer-Kilian Fischer-Kilian Fischer-Aster Vranckx-Aster Vranckx-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattias Svanberg-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Marius Müller-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Aster Vranckx-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Block-Pass-Duel,Kilian Fischer-Kilian Fischer-Tiago Barreiros de Melo Tomás-Aster Vranckx-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Kilian Fischer-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass,Jonas Older Wind-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Marius Müller-Marius Müller-Marius Müller-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Pressure,Jonas Older Wind-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Duel,Mattias Svanberg-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass,Mattias Svanberg-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller-Marius Müller-Denis Vavro-Denis Vavro-Denis Vavro-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Aster Vranckx-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Carry-Pass,Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Konstantinos Koulierakis-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Marius Müller-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Foul Committed,Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Patrick Wimmer-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Aster Vranckx-Aster Vranckx-Aster Vranckx-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Tiago Barreiros de Melo Tomás-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Clearance-Pressure,Marius Müller-Tiago Barreiros de Melo Tomás-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Kilian Fischer-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception-Carry-Pass-Ball Receipt-Carry,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patrick Wimmer-Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass,Jonas Older Wind-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Miscontrol-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Mohamed El Amine Amoura-Aster Vranckx-Aster Vranckx-Aster Vranckx-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Marius Müller-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller-Marius Müller-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Kilian Fischer-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Foul Committed,Jonas Older Wind-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Aster Vranckx-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Pass-Ball Receipt,Marius Müller-Marius Müller-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Dribble,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Pass-Ball Receipt-Carry-Pass,Aster Vranckx-Aster Vranckx-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Kilian Fischer-Kilian Fischer-Kilian Fischer-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass,Aster Vranckx-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt,Aster Vranckx-Mattias Svanberg-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shot,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Foul Committed,Mattias Svanberg-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Injury Stoppage,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Player Off,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Player On,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass,Denis Vavro-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Miscontrol-Ball Recovery,Aster Vranckx-Aster Vranckx-Aster Vranckx-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50-Ball Recovery-Carry-Pass-Ball Receipt,Aster Vranckx-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50-Carry-Pass,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass,Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Mattias Svanberg-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Injury Stoppage-Player Off,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Player On,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Clearance,Denis Vavro-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Kilian Fischer-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohamed El Amine Amoura-Patrick Wimmer-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Aster Vranckx-Aster Vranckx-Aster Vranckx-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Goal Keeper-Ball Recovery-Carry-Pass,Yannick Gerhardt-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Tiago Barreiros de Melo Tomás-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass-Ball Receipt-Pass,Marius Müller-Marius Müller-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass-Ball Receipt-Miscontrol-Pass,Marius Müller-Marius Müller-Jonas Older Wind-Jonas Older Wind-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Patrick Wimmer-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mattias Svanberg-Mattias Svanberg-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Dispossessed,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Duel,Denis Vavro-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Carry-Dribble-Carry,Aster Vranckx-Aster Vranckx-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Miscontrol-Pressure,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past-Pressure,Patrick Wimmer-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Goal Keeper,Mattias Svanberg-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Injury Stoppage,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Referee Ball-Drop,Unknown,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Duel,Konstantinos Koulierakis-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Pass,Yannick Gerhardt-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Aster Vranckx-Aster Vranckx-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Aster Vranckx-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass,Aster Vranckx-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper,Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass,Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Pass-Duel,Konstantinos Koulierakis-Yannick Gerhardt-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception-Carry,Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass,Jonas Older Wind-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Denis Vavro-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Aster Vranckx-Aster Vranckx-Aster Vranckx-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Kilian Fischer-Denis Vavro-Denis Vavro-Denis Vavro-Mattias Svanberg-Mattias Svanberg-Denis Vavro-Denis Vavro-Denis Vavro-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Denis Vavro-Denis Vavro-Denis Vavro-Kilian Fischer-Kilian Fischer-Kilian Fischer-Marius Müller-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Pass,Mohamed El Amine Amoura-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Miscontrol-Ball Recovery-Carry-Pass,Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Shot,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Kilian Fischer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Pressure,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Denis Vavro-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Substitution-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Patrick Wimmer-Kilian Fischer-Mohamed El Amine Amoura-Marius Müller-Marius Müller-Marius Müller-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Dispossessed,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Pass-Ball Receipt,Denis Vavro-Denis Vavro-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Jonas Older Wind-Jonas Older Wind-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mohamed El Amine Amoura-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Patrick Wimmer-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Aster Vranckx-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mattias Svanberg-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller-Marius Müller-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Marius Müller-Marius Müller-Marius Müller-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Duel,Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konstantinos Koulierakis-Mads Roerslev-Mads Roerslev-Mads Roerslev-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mads Roerslev-Mads Roerslev-Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past-Pressure,Konstantinos Koulierakis-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Pressure,Yannick Gerhardt-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50-Ball Recovery-Carry,Yannick Gerhardt-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tiago Barreiros de Melo Tomás-Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shield-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mads Roerslev-Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Aster Vranckx-Aster Vranckx-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mads Roerslev-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Yannick Gerhardt-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass,Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper,Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mads Roerslev-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller-Marius Müller-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Pressure,Mads Roerslev-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Aster Vranckx-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Marius Müller-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Duel,Mattias Svanberg-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Mattias Svanberg-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,Jonas Older Wind-Mads Roerslev-Mads Roerslev-Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Dispossessed,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception-Block-Clearance-Pass-Ball Receipt-Carry-Miscontrol,Aster Vranckx-Denis Vavro-Aster Vranckx-Mads Roerslev-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Pressure-Ball Receipt,Jonas Older Wind-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Mads Roerslev-Mads Roerslev-Mads Roerslev-Denis Vavro-Denis Vavro-Denis Vavro-Mads Roerslev-Mads Roerslev-Mads Roerslev-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Mohamed El Amine Amoura-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Pressure,Mohamed El Amine Amoura-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Clearance-Duel,Denis Vavro-Yannick Gerhardt-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass-Ball Receipt-Carry,Marius Müller-Konstantinos Koulierakis-Marius Müller-Marius Müller,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Duel,Marius Müller-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block-Pass-Ball Receipt,Jonas Older Wind-Mohamed El Amine Amoura-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Konstantinos Koulierakis-Marius Müller-Marius Müller-Marius Müller-Mads Roerslev-Mads Roerslev-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Pressure-Ball Receipt,Jonas Older Wind-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure-Pressure,Yannick Gerhardt-Mattias Svanberg-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt,Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance-Pass-Ball Receipt,Konstantinos Koulierakis-Tiago Barreiros de Melo Tomás-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass-Ball Receipt-Duel,Marius Müller-Marius Müller-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Denis Vavro-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt,Marius Müller-Marius Müller-Marius Müller-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol,Mads Roerslev-Denis Vavro-Denis Vavro-Mattias Svanberg-Mattias Svanberg-Denis Vavro-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Denis Vavro-Denis Vavro-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Marius Müller-Marius Müller-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mads Roerslev-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass,Mads Roerslev-Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Jonas Older Wind-Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Miscontrol-Pressure,Jonas Older Wind-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Jonas Older Wind,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Marius Müller-Marius Müller-Marius Müller-Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Mattias Svanberg-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Patrick Wimmer-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Yannick Gerhardt-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Jonas Older Wind-Jonas Older Wind-Jonas Older Wind-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Substitution-Tactical Shift,Jonas Older Wind-Unknown,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Andreas Skov Olsen-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Andreas Skov Olsen-Aster Vranckx-Aster Vranckx-Aster Vranckx-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Konstantinos Koulierakis-Yannick Gerhardt-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Duel,Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dispossessed,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past-Pressure-Pressure,Denis Vavro-Konstantinos Koulierakis-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Marius Müller-Mattias Svanberg-Marius Müller-Marius Müller-Marius Müller-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry,Denis Vavro-Andreas Skov Olsen-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mads Roerslev-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shield-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mads Roerslev-Andreas Skov Olsen-Andreas Skov Olsen-Mads Roerslev-Mads Roerslev-Mads Roerslev-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Konstantinos Koulierakis-Denis Vavro-Konstantinos Koulierakis-Konstantinos Koulierakis-Denis Vavro-Denis Vavro-Denis Vavro-Mads Roerslev-Mads Roerslev-Mads Roerslev-Mattias Svanberg-Mattias Svanberg-Mattias Svanberg-Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Denis Vavro-Denis Vavro-Denis Vavro-Andreas Skov Olsen-Andreas Skov Olsen-Andreas Skov Olsen-Mads Roerslev-Mads Roerslev-Mads Roerslev-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aster Vranckx-Andreas Skov Olsen-Andreas Skov Olsen-Andreas Skov Olsen-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past-Pressure,Andreas Skov Olsen-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mattias Svanberg-Aster Vranckx-Aster Vranckx-Aster Vranckx-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Shot,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Foul Committed,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Block,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure,Tiago Barreiros de Melo Tomás-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribbled Past-Pass-Ball Receipt-Miscontrol,Mattias Svanberg-Yannick Gerhardt-Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Dribble,Patrick Wimmer-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt,Yannick Gerhardt-Konstantinos Koulierakis-Konstantinos Koulierakis-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Pressure,Patrick Wimmer-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry-Pass-Injury Stoppage-Player Off,Andreas Skov Olsen-Andreas Skov Olsen-Andreas Skov Olsen-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Player On-Pass-Ball Receipt-Pass-Ball Receipt,Aster Vranckx-Marius Müller-Aster Vranckx-Aster Vranckx-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-50/50,Tiago Barreiros de Melo Tomás-Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mattias Svanberg-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Mohamed El Amine Amoura-Aster Vranckx-Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aster Vranckx-Mads Roerslev-Mads Roerslev-Mads Roerslev-Andreas Skov Olsen-Andreas Skov Olsen-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt,Mads Roerslev-Mads Roerslev-Mads Roerslev-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Ball Recovery,Mattias Svanberg-Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Shot,Denis Vavro-Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Injury Stoppage,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shot,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Andreas Skov Olsen-Andreas Skov Olsen-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Mads Roerslev-Mads Roerslev-Mads Roerslev-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Marius Müller-Marius Müller-Marius Müller-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Denis Vavro,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pass,Konstantinos Koulierakis-Konstantinos Koulierakis-Konstantinos Koulierakis-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shot,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Shot,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mads Roerslev-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Tiago Barreiros de Melo Tomás-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mads Roerslev-Denis Vavro-Denis Vavro-Marius Müller-Marius Müller-Marius Müller-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt,Mattias Svanberg-Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure-Pressure-Pressure,Mattias Svanberg-Aster Vranckx-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Duel,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+50/50,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Interception-Carry,Konstantinos Koulierakis-Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Konstantinos Koulierakis,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Andreas Skov Olsen,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Tiago Barreiros de Melo Tomás,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Substitution-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Tiago Barreiros de Melo Tomás-Yannick Gerhardt-Patrick Wimmer-Patrick Wimmer-Kevin Behrens-Kevin Behrens,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Goal Keeper-Carry-Pass-Ball Receipt,Marius Müller-Marius Müller-Marius Müller-Kevin Behrens,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Kevin Behrens,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Bad Behaviour-Substitution,Kevin Behrens-Mohamed El Amine Amoura,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Tactical Shift,Unknown,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Duel,Konstantinos Koulierakis-Marius Müller-Mads Roerslev-Mads Roerslev,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Committed,Aster Vranckx,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Kevin Behrens,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pressure,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Recovery-Carry,Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Foul Won-Pass-Ball Receipt-Duel,Patrick Wimmer-Marius Müller-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mattias Svanberg-Patrick Wimmer-Patrick Wimmer-Patrick Wimmer-Mattias Svanberg-Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Patrick Wimmer-Patrick Wimmer-Yannick Gerhardt-Yannick Gerhardt-Yannick Gerhardt-Kevin Behrens,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Pass,Yannick Gerhardt,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Behrens-Kevin Behrens-Kevin Behrens-Patrick Wimmer-Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Dribble,Patrick Wimmer,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088
+Clearance,Mattias Svanberg,3949679,Wolfsburg,Won,2,1,Second half,1.3908681109507925,0.7590730827941088

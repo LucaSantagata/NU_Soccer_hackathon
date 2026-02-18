@@ -1,0 +1,703 @@
+from_id,to_id,team_id,team,from,to,passes,shared_minutes,passes_per90_shared
+183,568,32,Borussia Mönchengladbach,Julian Weigl,Nico Elvedi,143.0,5219.039633333334,2.4659709264901855
+183,810,32,Borussia Mönchengladbach,Julian Weigl,Christoph Kramer,9.0,284.2303766666667,2.849800958994378
+183,1046,32,Borussia Mönchengladbach,Julian Weigl,Patrick Herrmann,1.0,63.85318833333331,1.4094832591627575
+183,1185,32,Borussia Mönchengladbach,Julian Weigl,Moritz Nicolas,22.0,5026.901295000001,0.3938808191776918
+183,1190,32,Borussia Mönchengladbach,Julian Weigl,Tony Jantschke,1.0,34.846273333333315,2.5827726006473015
+183,1249,32,Borussia Mönchengladbach,Julian Weigl,Marvin Friedrich,84.0,2836.4420816666666,2.6653109008867246
+183,1902,32,Borussia Mönchengladbach,Julian Weigl,Alassane Pléa,69.0,3941.886585,1.575387791122864
+183,4168,32,Borussia Mönchengladbach,Julian Weigl,Robin Hack,41.0,2698.236705,1.3675597819725014
+183,9293,32,Borussia Mönchengladbach,Julian Weigl,Stefan Lainer,45.0,1362.8797800000002,2.971648753934848
+183,9447,32,Borussia Mönchengladbach,Julian Weigl,Maximilian Wöber,145.0,4926.60034,2.648885458405177
+183,10460,32,Borussia Mönchengladbach,Julian Weigl,Florian Neuhaus,73.0,2638.4092316666665,2.490136829854015
+183,16142,32,Borussia Mönchengladbach,Julian Weigl,Ko Itakura,76.0,3512.004068333333,1.9476059443308134
+183,21832,32,Borussia Mönchengladbach,Julian Weigl,Franck Honorat,84.0,5184.526616666667,1.4581852035819265
+183,31223,32,Borussia Mönchengladbach,Julian Weigl,Rocco Reitz,77.0,4386.049565,1.580009504520955
+183,32176,32,Borussia Mönchengladbach,Julian Weigl,Tomas Cvancara,20.0,1459.6958849999999,1.2331335715178782
+183,33328,32,Borussia Mönchengladbach,Julian Weigl,Jonas Omlin,12.0,1444.9947666666667,0.7474075511646028
+183,45493,32,Borussia Mönchengladbach,Julian Weigl,Jordan,14.0,2920.726033333333,0.4313995854523889
+183,47830,32,Borussia Mönchengladbach,Julian Weigl,Nathan Ngoumou,31.0,2593.6068899999996,1.0757220034991504
+183,48270,32,Borussia Mönchengladbach,Julian Weigl,Manu Koné,61.0,3276.698296666667,1.6754670411935362
+183,48597,32,Borussia Mönchengladbach,Julian Weigl,Joe Scally,88.0,4447.603421666666,1.780734307698709
+183,49344,32,Borussia Mönchengladbach,Julian Weigl,Luca Netz,81.0,4625.499238333334,1.5760460924055286
+183,90010,32,Borussia Mönchengladbach,Julian Weigl,Grant-Leon Ranos,5.0,33.30410499999998,13.51184786379938
+183,99755,32,Borussia Mönchengladbach,Julian Weigl,Yvandro Borges Sanches,1.0,19.632433333333303,4.584250890957657
+183,106573,32,Borussia Mönchengladbach,Julian Weigl,Lukas Ullrich,0.0,0.0,0.0
+183,106696,32,Borussia Mönchengladbach,Julian Weigl,Fabio Chiarodia,2.0,21.518068333333336,8.3650631279558
+183,158837,32,Borussia Mönchengladbach,Julian Weigl,Shio Fukuda,0.0,0.0,0.0
+568,183,32,Borussia Mönchengladbach,Nico Elvedi,Julian Weigl,101.0,5219.039633333334,1.741699745283278
+568,810,32,Borussia Mönchengladbach,Nico Elvedi,Christoph Kramer,9.0,308.1521583333334,2.6285715614680503
+568,1046,32,Borussia Mönchengladbach,Nico Elvedi,Patrick Herrmann,6.0,70.53525166666662,7.6557464138912525
+568,1185,32,Borussia Mönchengladbach,Nico Elvedi,Moritz Nicolas,135.0,5037.089819999998,2.4121070765420662
+568,1190,32,Borussia Mönchengladbach,Nico Elvedi,Tony Jantschke,0.0,0.0,0.0
+568,1249,32,Borussia Mönchengladbach,Nico Elvedi,Marvin Friedrich,115.0,2530.217943333333,4.090556715586647
+568,1902,32,Borussia Mönchengladbach,Nico Elvedi,Alassane Pléa,28.0,3711.3089316666665,0.6790057218083227
+568,4168,32,Borussia Mönchengladbach,Nico Elvedi,Robin Hack,31.0,2905.746101666667,0.9601664778625091
+568,9293,32,Borussia Mönchengladbach,Nico Elvedi,Stefan Lainer,29.0,1139.0840933333334,2.2913145879882184
+568,9447,32,Borussia Mönchengladbach,Nico Elvedi,Maximilian Wöber,155.0,3923.825696666667,3.555203793035628
+568,10460,32,Borussia Mönchengladbach,Nico Elvedi,Florian Neuhaus,54.0,2068.924043333333,2.34904708834542
+568,16142,32,Borussia Mönchengladbach,Nico Elvedi,Ko Itakura,132.0,2732.880745,4.347061254588334
+568,21832,32,Borussia Mönchengladbach,Nico Elvedi,Franck Honorat,79.0,4978.241366666667,1.42821520218107
+568,31223,32,Borussia Mönchengladbach,Nico Elvedi,Rocco Reitz,80.0,4173.23155,1.7252816944700804
+568,32176,32,Borussia Mönchengladbach,Nico Elvedi,Tomas Cvancara,10.0,1025.5821266666667,0.8775503946477383
+568,33328,32,Borussia Mönchengladbach,Nico Elvedi,Jonas Omlin,20.0,815.297735,2.207782412151556
+568,45493,32,Borussia Mönchengladbach,Nico Elvedi,Jordan,15.0,2566.6324166666664,0.5259810447470582
+568,47830,32,Borussia Mönchengladbach,Nico Elvedi,Nathan Ngoumou,25.0,1807.4582116666668,1.244842058022057
+568,48270,32,Borussia Mönchengladbach,Nico Elvedi,Manu Koné,69.0,3259.082955,1.9054439809434063
+568,48597,32,Borussia Mönchengladbach,Nico Elvedi,Joe Scally,189.0,4181.566813333335,4.067853213719305
+568,49344,32,Borussia Mönchengladbach,Nico Elvedi,Luca Netz,88.0,4611.829213333334,1.7173229175751694
+568,90010,32,Borussia Mönchengladbach,Nico Elvedi,Grant-Leon Ranos,1.0,18.701568333333306,4.812430615222029
+568,99755,32,Borussia Mönchengladbach,Nico Elvedi,Yvandro Borges Sanches,0.0,0.0,0.0
+568,106573,32,Borussia Mönchengladbach,Nico Elvedi,Lukas Ullrich,0.0,0.0,0.0
+568,106696,32,Borussia Mönchengladbach,Nico Elvedi,Fabio Chiarodia,21.0,207.34077,9.115428673289871
+568,158837,32,Borussia Mönchengladbach,Nico Elvedi,Shio Fukuda,0.0,0.0,0.0
+810,183,32,Borussia Mönchengladbach,Christoph Kramer,Julian Weigl,7.0,284.2303766666667,2.216511856995627
+810,568,32,Borussia Mönchengladbach,Christoph Kramer,Nico Elvedi,8.0,308.1521583333334,2.336508054638267
+810,1046,32,Borussia Mönchengladbach,Christoph Kramer,Patrick Herrmann,2.0,28.442016666666678,6.328665161460067
+810,1185,32,Borussia Mönchengladbach,Christoph Kramer,Moritz Nicolas,1.0,375.3730866666668,0.23976146185440422
+810,1190,32,Borussia Mönchengladbach,Christoph Kramer,Tony Jantschke,0.0,0.0,0.0
+810,1249,32,Borussia Mönchengladbach,Christoph Kramer,Marvin Friedrich,3.0,112.54625833333333,2.399013561164591
+810,1902,32,Borussia Mönchengladbach,Christoph Kramer,Alassane Pléa,6.0,250.17462500000005,2.158492293133246
+810,4168,32,Borussia Mönchengladbach,Christoph Kramer,Robin Hack,8.0,75.62552,9.520595693094078
+810,9293,32,Borussia Mönchengladbach,Christoph Kramer,Stefan Lainer,4.0,25.118801666666666,14.33189388479984
+810,9447,32,Borussia Mönchengladbach,Christoph Kramer,Maximilian Wöber,6.0,265.2988566666667,2.0354403587893333
+810,10460,32,Borussia Mönchengladbach,Christoph Kramer,Florian Neuhaus,4.0,57.28335499999997,6.284548103022251
+810,16142,32,Borussia Mönchengladbach,Christoph Kramer,Ko Itakura,1.0,30.81680333333334,2.9204846144003036
+810,21832,32,Borussia Mönchengladbach,Christoph Kramer,Franck Honorat,12.0,281.87585166666673,3.831474011037873
+810,31223,32,Borussia Mönchengladbach,Christoph Kramer,Rocco Reitz,4.0,246.1022716666667,1.4628064891965002
+810,32176,32,Borussia Mönchengladbach,Christoph Kramer,Tomas Cvancara,8.0,235.19224999999997,3.061325362549149
+810,33328,32,Borussia Mönchengladbach,Christoph Kramer,Jonas Omlin,0.0,0.0,0.0
+810,45493,32,Borussia Mönchengladbach,Christoph Kramer,Jordan,3.0,52.680418333333336,5.125244038336699
+810,47830,32,Borussia Mönchengladbach,Christoph Kramer,Nathan Ngoumou,13.0,86.34494000000002,13.550301847450468
+810,48270,32,Borussia Mönchengladbach,Christoph Kramer,Manu Koné,1.0,72.58753333333334,1.2398823305746716
+810,48597,32,Borussia Mönchengladbach,Christoph Kramer,Joe Scally,13.0,352.64462333333347,3.31778771767653
+810,49344,32,Borussia Mönchengladbach,Christoph Kramer,Luca Netz,14.0,335.65898833333335,3.753809800405911
+810,90010,32,Borussia Mönchengladbach,Christoph Kramer,Grant-Leon Ranos,0.0,0.0,0.0
+810,99755,32,Borussia Mönchengladbach,Christoph Kramer,Yvandro Borges Sanches,0.0,0.0,0.0
+810,106573,32,Borussia Mönchengladbach,Christoph Kramer,Lukas Ullrich,0.0,0.0,0.0
+810,106696,32,Borussia Mönchengladbach,Christoph Kramer,Fabio Chiarodia,2.0,31.74968666666667,5.669347288046727
+810,158837,32,Borussia Mönchengladbach,Christoph Kramer,Shio Fukuda,1.0,10.537751666666676,8.540721289218707
+1046,183,32,Borussia Mönchengladbach,Patrick Herrmann,Julian Weigl,0.0,0.0,0.0
+1046,568,32,Borussia Mönchengladbach,Patrick Herrmann,Nico Elvedi,1.0,70.53525166666662,1.275957735648542
+1046,810,32,Borussia Mönchengladbach,Patrick Herrmann,Christoph Kramer,1.0,28.442016666666678,3.1643325807300333
+1046,1185,32,Borussia Mönchengladbach,Patrick Herrmann,Moritz Nicolas,0.0,0.0,0.0
+1046,1190,32,Borussia Mönchengladbach,Patrick Herrmann,Tony Jantschke,0.0,0.0,0.0
+1046,1249,32,Borussia Mönchengladbach,Patrick Herrmann,Marvin Friedrich,2.0,45.728216666666626,3.936300453439948
+1046,1902,32,Borussia Mönchengladbach,Patrick Herrmann,Alassane Pléa,1.0,50.386468333333326,1.7861938527741628
+1046,4168,32,Borussia Mönchengladbach,Patrick Herrmann,Robin Hack,3.0,36.75255000000001,7.34642902329226
+1046,9293,32,Borussia Mönchengladbach,Patrick Herrmann,Stefan Lainer,0.0,0.0,0.0
+1046,9447,32,Borussia Mönchengladbach,Patrick Herrmann,Maximilian Wöber,0.0,0.0,0.0
+1046,10460,32,Borussia Mönchengladbach,Patrick Herrmann,Florian Neuhaus,1.0,22.92321833333332,3.926150276600924
+1046,16142,32,Borussia Mönchengladbach,Patrick Herrmann,Ko Itakura,0.0,0.0,0.0
+1046,21832,32,Borussia Mönchengladbach,Patrick Herrmann,Franck Honorat,8.0,34.682533333333325,20.759729200865763
+1046,31223,32,Borussia Mönchengladbach,Patrick Herrmann,Rocco Reitz,1.0,54.02378499999996,1.6659328849320731
+1046,32176,32,Borussia Mönchengladbach,Patrick Herrmann,Tomas Cvancara,2.0,22.698303333333296,7.930108138772794
+1046,33328,32,Borussia Mönchengladbach,Patrick Herrmann,Jonas Omlin,0.0,0.0,0.0
+1046,45493,32,Borussia Mönchengladbach,Patrick Herrmann,Jordan,0.0,0.0,0.0
+1046,47830,32,Borussia Mönchengladbach,Patrick Herrmann,Nathan Ngoumou,1.0,39.736966666666646,2.2648935625853017
+1046,48270,32,Borussia Mönchengladbach,Patrick Herrmann,Manu Koné,2.0,23.079266666666655,7.799207947104042
+1046,48597,32,Borussia Mönchengladbach,Patrick Herrmann,Joe Scally,4.0,40.1022683333333,8.977048305787864
+1046,49344,32,Borussia Mönchengladbach,Patrick Herrmann,Luca Netz,0.0,0.0,0.0
+1046,90010,32,Borussia Mönchengladbach,Patrick Herrmann,Grant-Leon Ranos,0.0,0.0,0.0
+1046,99755,32,Borussia Mönchengladbach,Patrick Herrmann,Yvandro Borges Sanches,0.0,0.0,0.0
+1046,106573,32,Borussia Mönchengladbach,Patrick Herrmann,Lukas Ullrich,0.0,0.0,0.0
+1046,106696,32,Borussia Mönchengladbach,Patrick Herrmann,Fabio Chiarodia,0.0,0.0,0.0
+1046,158837,32,Borussia Mönchengladbach,Patrick Herrmann,Shio Fukuda,0.0,0.0,0.0
+1185,183,32,Borussia Mönchengladbach,Moritz Nicolas,Julian Weigl,41.0,5026.901295000001,0.7340506175584256
+1185,568,32,Borussia Mönchengladbach,Moritz Nicolas,Nico Elvedi,140.0,5037.089819999998,2.501444375673254
+1185,810,32,Borussia Mönchengladbach,Moritz Nicolas,Christoph Kramer,0.0,0.0,0.0
+1185,1046,32,Borussia Mönchengladbach,Moritz Nicolas,Patrick Herrmann,1.0,57.918000000000006,1.5539210608101106
+1185,1190,32,Borussia Mönchengladbach,Moritz Nicolas,Tony Jantschke,0.0,0.0,0.0
+1185,1249,32,Borussia Mönchengladbach,Moritz Nicolas,Marvin Friedrich,58.0,2413.2443766666665,2.163063156997888
+1185,1902,32,Borussia Mönchengladbach,Moritz Nicolas,Alassane Pléa,7.0,3367.2023,0.1870989456142864
+1185,4168,32,Borussia Mönchengladbach,Moritz Nicolas,Robin Hack,10.0,2661.9739133333337,0.33809497361791074
+1185,9293,32,Borussia Mönchengladbach,Moritz Nicolas,Stefan Lainer,7.0,946.0827583333332,0.6659036901907393
+1185,9447,32,Borussia Mönchengladbach,Moritz Nicolas,Maximilian Wöber,107.0,4100.094925,2.348726109066853
+1185,10460,32,Borussia Mönchengladbach,Moritz Nicolas,Florian Neuhaus,5.0,2287.247445,0.19674303319639297
+1185,16142,32,Borussia Mönchengladbach,Moritz Nicolas,Ko Itakura,38.0,2320.8326200000006,1.4736090705240084
+1185,21832,32,Borussia Mönchengladbach,Moritz Nicolas,Franck Honorat,10.0,4422.099621666667,0.2035232303655779
+1185,31223,32,Borussia Mönchengladbach,Moritz Nicolas,Rocco Reitz,19.0,4171.065523333333,0.40996718714537067
+1185,32176,32,Borussia Mönchengladbach,Moritz Nicolas,Tomas Cvancara,4.0,1156.4669716666667,0.3112929368671709
+1185,33328,32,Borussia Mönchengladbach,Moritz Nicolas,Jonas Omlin,0.0,0.0,0.0
+1185,45493,32,Borussia Mönchengladbach,Moritz Nicolas,Jordan,15.0,2763.865663333333,0.4884463155752099
+1185,47830,32,Borussia Mönchengladbach,Moritz Nicolas,Nathan Ngoumou,4.0,1898.0102916666667,0.18967231188397798
+1185,48270,32,Borussia Mönchengladbach,Moritz Nicolas,Manu Koné,13.0,3274.988065,0.3572532103258214
+1185,48597,32,Borussia Mönchengladbach,Moritz Nicolas,Joe Scally,46.0,4268.284205,0.969944783702612
+1185,49344,32,Borussia Mönchengladbach,Moritz Nicolas,Luca Netz,24.0,4040.752875,0.5345538484582529
+1185,90010,32,Borussia Mönchengladbach,Moritz Nicolas,Grant-Leon Ranos,0.0,0.0,0.0
+1185,99755,32,Borussia Mönchengladbach,Moritz Nicolas,Yvandro Borges Sanches,0.0,0.0,0.0
+1185,106573,32,Borussia Mönchengladbach,Moritz Nicolas,Lukas Ullrich,0.0,0.0,0.0
+1185,106696,32,Borussia Mönchengladbach,Moritz Nicolas,Fabio Chiarodia,11.0,239.6441683333333,4.131124937799273
+1185,158837,32,Borussia Mönchengladbach,Moritz Nicolas,Shio Fukuda,1.0,17.63896666666666,5.10233970621862
+1190,183,32,Borussia Mönchengladbach,Tony Jantschke,Julian Weigl,2.0,34.846273333333315,5.165545201294603
+1190,568,32,Borussia Mönchengladbach,Tony Jantschke,Nico Elvedi,0.0,0.0,0.0
+1190,810,32,Borussia Mönchengladbach,Tony Jantschke,Christoph Kramer,0.0,0.0,0.0
+1190,1046,32,Borussia Mönchengladbach,Tony Jantschke,Patrick Herrmann,0.0,0.0,0.0
+1190,1185,32,Borussia Mönchengladbach,Tony Jantschke,Moritz Nicolas,1.0,22.632548333333308,3.9765738561330113
+1190,1249,32,Borussia Mönchengladbach,Tony Jantschke,Marvin Friedrich,0.0,0.0,0.0
+1190,1902,32,Borussia Mönchengladbach,Tony Jantschke,Alassane Pléa,0.0,0.0,0.0
+1190,4168,32,Borussia Mönchengladbach,Tony Jantschke,Robin Hack,0.0,0.0,0.0
+1190,9293,32,Borussia Mönchengladbach,Tony Jantschke,Stefan Lainer,0.0,0.0,0.0
+1190,9447,32,Borussia Mönchengladbach,Tony Jantschke,Maximilian Wöber,0.0,0.0,0.0
+1190,10460,32,Borussia Mönchengladbach,Tony Jantschke,Florian Neuhaus,1.0,19.68610166666664,4.571753286857798
+1190,16142,32,Borussia Mönchengladbach,Tony Jantschke,Ko Itakura,1.0,25.05353499999998,3.5923074328632696
+1190,21832,32,Borussia Mönchengladbach,Tony Jantschke,Franck Honorat,0.0,0.0,0.0
+1190,31223,32,Borussia Mönchengladbach,Tony Jantschke,Rocco Reitz,0.0,0.0,0.0
+1190,32176,32,Borussia Mönchengladbach,Tony Jantschke,Tomas Cvancara,0.0,0.0,0.0
+1190,33328,32,Borussia Mönchengladbach,Tony Jantschke,Jonas Omlin,0.0,0.0,0.0
+1190,45493,32,Borussia Mönchengladbach,Tony Jantschke,Jordan,0.0,0.0,0.0
+1190,47830,32,Borussia Mönchengladbach,Tony Jantschke,Nathan Ngoumou,0.0,0.0,0.0
+1190,48270,32,Borussia Mönchengladbach,Tony Jantschke,Manu Koné,0.0,0.0,0.0
+1190,48597,32,Borussia Mönchengladbach,Tony Jantschke,Joe Scally,0.0,0.0,0.0
+1190,49344,32,Borussia Mönchengladbach,Tony Jantschke,Luca Netz,0.0,0.0,0.0
+1190,90010,32,Borussia Mönchengladbach,Tony Jantschke,Grant-Leon Ranos,0.0,0.0,0.0
+1190,99755,32,Borussia Mönchengladbach,Tony Jantschke,Yvandro Borges Sanches,0.0,0.0,0.0
+1190,106573,32,Borussia Mönchengladbach,Tony Jantschke,Lukas Ullrich,2.0,19.68610166666664,9.143506573715596
+1190,106696,32,Borussia Mönchengladbach,Tony Jantschke,Fabio Chiarodia,0.0,0.0,0.0
+1190,158837,32,Borussia Mönchengladbach,Tony Jantschke,Shio Fukuda,0.0,0.0,0.0
+1249,183,32,Borussia Mönchengladbach,Marvin Friedrich,Julian Weigl,74.0,2836.4420816666666,2.3480119841144953
+1249,568,32,Borussia Mönchengladbach,Marvin Friedrich,Nico Elvedi,110.0,2530.217943333333,3.912706423604619
+1249,810,32,Borussia Mönchengladbach,Marvin Friedrich,Christoph Kramer,2.0,112.54625833333333,1.5993423741097272
+1249,1046,32,Borussia Mönchengladbach,Marvin Friedrich,Patrick Herrmann,1.0,45.728216666666626,1.968150226719974
+1249,1185,32,Borussia Mönchengladbach,Marvin Friedrich,Moritz Nicolas,60.0,2413.2443766666665,2.237651541721953
+1249,1190,32,Borussia Mönchengladbach,Marvin Friedrich,Tony Jantschke,0.0,0.0,0.0
+1249,1902,32,Borussia Mönchengladbach,Marvin Friedrich,Alassane Pléa,20.0,2466.502211666667,0.7297783847449715
+1249,4168,32,Borussia Mönchengladbach,Marvin Friedrich,Robin Hack,10.0,1706.5989766666664,0.5273646663950792
+1249,9293,32,Borussia Mönchengladbach,Marvin Friedrich,Stefan Lainer,86.0,1259.6832066666666,6.144401988561347
+1249,9447,32,Borussia Mönchengladbach,Marvin Friedrich,Maximilian Wöber,16.0,1527.0573450000002,0.9429901271978753
+1249,10460,32,Borussia Mönchengladbach,Marvin Friedrich,Florian Neuhaus,13.0,1227.9320766666667,0.9528214322538681
+1249,16142,32,Borussia Mönchengladbach,Marvin Friedrich,Ko Itakura,40.0,1898.0791233333337,1.8966543363470636
+1249,21832,32,Borussia Mönchengladbach,Marvin Friedrich,Franck Honorat,46.0,2287.5831283333328,1.8097702980596315
+1249,31223,32,Borussia Mönchengladbach,Marvin Friedrich,Rocco Reitz,38.0,2168.3042916666664,1.5772693957872574
+1249,32176,32,Borussia Mönchengladbach,Marvin Friedrich,Tomas Cvancara,5.0,889.6336433333333,0.5058261941555096
+1249,33328,32,Borussia Mönchengladbach,Marvin Friedrich,Jonas Omlin,24.0,1068.4424516666666,2.021634386232604
+1249,45493,32,Borussia Mönchengladbach,Marvin Friedrich,Jordan,7.0,1113.7530416666666,0.565655020844874
+1249,47830,32,Borussia Mönchengladbach,Marvin Friedrich,Nathan Ngoumou,17.0,1674.2893333333332,0.9138205503310062
+1249,48270,32,Borussia Mönchengladbach,Marvin Friedrich,Manu Koné,17.0,1861.2561883333335,0.8220254737581516
+1249,48597,32,Borussia Mönchengladbach,Marvin Friedrich,Joe Scally,109.0,2449.6330566666666,4.004681424959597
+1249,49344,32,Borussia Mönchengladbach,Marvin Friedrich,Luca Netz,7.0,1989.355995,0.31668540049313804
+1249,90010,32,Borussia Mönchengladbach,Marvin Friedrich,Grant-Leon Ranos,1.0,36.56008666666667,2.461700947827804
+1249,99755,32,Borussia Mönchengladbach,Marvin Friedrich,Yvandro Borges Sanches,0.0,0.0,0.0
+1249,106573,32,Borussia Mönchengladbach,Marvin Friedrich,Lukas Ullrich,0.0,0.0,0.0
+1249,106696,32,Borussia Mönchengladbach,Marvin Friedrich,Fabio Chiarodia,4.0,241.61481833333335,1.489974838808693
+1249,158837,32,Borussia Mönchengladbach,Marvin Friedrich,Shio Fukuda,0.0,0.0,0.0
+1902,183,32,Borussia Mönchengladbach,Alassane Pléa,Julian Weigl,24.0,3941.886585,0.547960970825344
+1902,568,32,Borussia Mönchengladbach,Alassane Pléa,Nico Elvedi,10.0,3711.3089316666665,0.24250204350297241
+1902,810,32,Borussia Mönchengladbach,Alassane Pléa,Christoph Kramer,2.0,250.17462500000005,0.7194974310444153
+1902,1046,32,Borussia Mönchengladbach,Alassane Pléa,Patrick Herrmann,1.0,50.386468333333326,1.7861938527741628
+1902,1185,32,Borussia Mönchengladbach,Alassane Pléa,Moritz Nicolas,1.0,3367.2023,0.026728420802040912
+1902,1190,32,Borussia Mönchengladbach,Alassane Pléa,Tony Jantschke,0.0,0.0,0.0
+1902,1249,32,Borussia Mönchengladbach,Alassane Pléa,Marvin Friedrich,2.0,2466.502211666667,0.07297783847449715
+1902,4168,32,Borussia Mönchengladbach,Alassane Pléa,Robin Hack,43.0,1695.1095750000002,2.283038251376758
+1902,9293,32,Borussia Mönchengladbach,Alassane Pléa,Stefan Lainer,16.0,969.651535,1.4850695822391495
+1902,9447,32,Borussia Mönchengladbach,Alassane Pléa,Maximilian Wöber,23.0,3334.051896666667,0.6208661605026465
+1902,10460,32,Borussia Mönchengladbach,Alassane Pléa,Florian Neuhaus,19.0,1347.9748283333333,1.2685696825023676
+1902,16142,32,Borussia Mönchengladbach,Alassane Pléa,Ko Itakura,13.0,2423.6041483333333,0.4827521032279908
+1902,21832,32,Borussia Mönchengladbach,Alassane Pléa,Franck Honorat,91.0,3689.0716150000003,2.220070753492271
+1902,31223,32,Borussia Mönchengladbach,Alassane Pléa,Rocco Reitz,48.0,3292.390948333333,1.3121163518527048
+1902,32176,32,Borussia Mönchengladbach,Alassane Pléa,Tomas Cvancara,20.0,1393.1423616666666,1.292043117436035
+1902,33328,32,Borussia Mönchengladbach,Alassane Pléa,Jonas Omlin,0.0,0.0,0.0
+1902,45493,32,Borussia Mönchengladbach,Alassane Pléa,Jordan,14.0,1059.122655,1.1896639110226568
+1902,47830,32,Borussia Mönchengladbach,Alassane Pléa,Nathan Ngoumou,37.0,1918.6960666666664,1.7355536699385532
+1902,48270,32,Borussia Mönchengladbach,Alassane Pléa,Manu Koné,35.0,2079.7274933333333,1.5146215117593418
+1902,48597,32,Borussia Mönchengladbach,Alassane Pléa,Joe Scally,35.0,3077.6274816666664,1.0235156849763183
+1902,49344,32,Borussia Mönchengladbach,Alassane Pléa,Luca Netz,53.0,3523.601235,1.353728666178084
+1902,90010,32,Borussia Mönchengladbach,Alassane Pléa,Grant-Leon Ranos,2.0,24.448354999999992,7.362458537598953
+1902,99755,32,Borussia Mönchengladbach,Alassane Pléa,Yvandro Borges Sanches,1.0,11.253633333333315,7.997417130467507
+1902,106573,32,Borussia Mönchengladbach,Alassane Pléa,Lukas Ullrich,0.0,0.0,0.0
+1902,106696,32,Borussia Mönchengladbach,Alassane Pléa,Fabio Chiarodia,0.0,0.0,0.0
+1902,158837,32,Borussia Mönchengladbach,Alassane Pléa,Shio Fukuda,0.0,0.0,0.0
+4168,183,32,Borussia Mönchengladbach,Robin Hack,Julian Weigl,27.0,2698.236705,0.9005881491038423
+4168,568,32,Borussia Mönchengladbach,Robin Hack,Nico Elvedi,18.0,2905.746101666667,0.5575160194040375
+4168,810,32,Borussia Mönchengladbach,Robin Hack,Christoph Kramer,8.0,75.62552,9.520595693094078
+4168,1046,32,Borussia Mönchengladbach,Robin Hack,Patrick Herrmann,3.0,36.75255000000001,7.34642902329226
+4168,1185,32,Borussia Mönchengladbach,Robin Hack,Moritz Nicolas,2.0,2661.9739133333337,0.06761899472358214
+4168,1190,32,Borussia Mönchengladbach,Robin Hack,Tony Jantschke,0.0,0.0,0.0
+4168,1249,32,Borussia Mönchengladbach,Robin Hack,Marvin Friedrich,10.0,1706.5989766666664,0.5273646663950792
+4168,1902,32,Borussia Mönchengladbach,Robin Hack,Alassane Pléa,22.0,1695.1095750000002,1.1680660820997368
+4168,9293,32,Borussia Mönchengladbach,Robin Hack,Stefan Lainer,6.0,843.63161,0.6400898136095208
+4168,9447,32,Borussia Mönchengladbach,Robin Hack,Maximilian Wöber,25.0,1673.973135,1.3441075922643169
+4168,10460,32,Borussia Mönchengladbach,Robin Hack,Florian Neuhaus,34.0,1018.8516066666666,3.0033814345263403
+4168,16142,32,Borussia Mönchengladbach,Robin Hack,Ko Itakura,16.0,1517.64914,0.9488359081467276
+4168,21832,32,Borussia Mönchengladbach,Robin Hack,Franck Honorat,31.0,2152.67683,1.2960607747146142
+4168,31223,32,Borussia Mönchengladbach,Robin Hack,Rocco Reitz,24.0,2314.37478,0.9332974152094761
+4168,32176,32,Borussia Mönchengladbach,Robin Hack,Tomas Cvancara,7.0,423.5746716666667,1.4873410572948051
+4168,33328,32,Borussia Mönchengladbach,Robin Hack,Jonas Omlin,0.0,0.0,0.0
+4168,45493,32,Borussia Mönchengladbach,Robin Hack,Jordan,4.0,1288.5691683333334,0.27937964747801064
+4168,47830,32,Borussia Mönchengladbach,Robin Hack,Nathan Ngoumou,4.0,470.03281000000004,0.7659039801923615
+4168,48270,32,Borussia Mönchengladbach,Robin Hack,Manu Koné,34.0,1962.502641666667,1.5592335699488673
+4168,48597,32,Borussia Mönchengladbach,Robin Hack,Joe Scally,39.0,2659.9079833333335,1.3195945205598245
+4168,49344,32,Borussia Mönchengladbach,Robin Hack,Luca Netz,55.0,2068.650768333334,2.392864023146887
+4168,90010,32,Borussia Mönchengladbach,Robin Hack,Grant-Leon Ranos,0.0,0.0,0.0
+4168,99755,32,Borussia Mönchengladbach,Robin Hack,Yvandro Borges Sanches,1.0,18.529616666666637,4.857089146474525
+4168,106573,32,Borussia Mönchengladbach,Robin Hack,Lukas Ullrich,0.0,0.0,0.0
+4168,106696,32,Borussia Mönchengladbach,Robin Hack,Fabio Chiarodia,2.0,209.11188499999997,0.8607832118198352
+4168,158837,32,Borussia Mönchengladbach,Robin Hack,Shio Fukuda,0.0,0.0,0.0
+9293,183,32,Borussia Mönchengladbach,Stefan Lainer,Julian Weigl,42.0,1362.8797800000002,2.773538837005858
+9293,568,32,Borussia Mönchengladbach,Stefan Lainer,Nico Elvedi,14.0,1139.0840933333334,1.1061518700632778
+9293,810,32,Borussia Mönchengladbach,Stefan Lainer,Christoph Kramer,2.0,25.118801666666666,7.16594694239992
+9293,1046,32,Borussia Mönchengladbach,Stefan Lainer,Patrick Herrmann,0.0,0.0,0.0
+9293,1185,32,Borussia Mönchengladbach,Stefan Lainer,Moritz Nicolas,7.0,946.0827583333332,0.6659036901907393
+9293,1190,32,Borussia Mönchengladbach,Stefan Lainer,Tony Jantschke,0.0,0.0,0.0
+9293,1249,32,Borussia Mönchengladbach,Stefan Lainer,Marvin Friedrich,46.0,1259.6832066666666,3.2865405985328136
+9293,1902,32,Borussia Mönchengladbach,Stefan Lainer,Alassane Pléa,18.0,969.651535,1.6707032800190433
+9293,4168,32,Borussia Mönchengladbach,Stefan Lainer,Robin Hack,9.0,843.63161,0.9601347204142813
+9293,9447,32,Borussia Mönchengladbach,Stefan Lainer,Maximilian Wöber,5.0,1031.9364733333332,0.4360733549289349
+9293,10460,32,Borussia Mönchengladbach,Stefan Lainer,Florian Neuhaus,7.0,478.46543833333334,1.3167095249230873
+9293,16142,32,Borussia Mönchengladbach,Stefan Lainer,Ko Itakura,13.0,1044.224675,1.1204485279951846
+9293,21832,32,Borussia Mönchengladbach,Stefan Lainer,Franck Honorat,31.0,725.2983533333334,3.8466928639472164
+9293,31223,32,Borussia Mönchengladbach,Stefan Lainer,Rocco Reitz,35.0,914.4989299999999,3.444509224302756
+9293,32176,32,Borussia Mönchengladbach,Stefan Lainer,Tomas Cvancara,11.0,245.01207000000002,4.040617264284164
+9293,33328,32,Borussia Mönchengladbach,Stefan Lainer,Jonas Omlin,9.0,611.6873683333333,1.3242058638663896
+9293,45493,32,Borussia Mönchengladbach,Stefan Lainer,Jordan,8.0,729.7861316666667,0.9865904115712403
+9293,47830,32,Borussia Mönchengladbach,Stefan Lainer,Nathan Ngoumou,24.0,885.3733266666667,2.439648829417713
+9293,48270,32,Borussia Mönchengladbach,Stefan Lainer,Manu Koné,20.0,519.7662700000001,3.4630950561682265
+9293,48597,32,Borussia Mönchengladbach,Stefan Lainer,Joe Scally,4.0,694.678175,0.5182255797801623
+9293,49344,32,Borussia Mönchengladbach,Stefan Lainer,Luca Netz,1.0,826.4177216666666,0.10890376336375475
+9293,90010,32,Borussia Mönchengladbach,Stefan Lainer,Grant-Leon Ranos,0.0,0.0,0.0
+9293,99755,32,Borussia Mönchengladbach,Stefan Lainer,Yvandro Borges Sanches,0.0,0.0,0.0
+9293,106573,32,Borussia Mönchengladbach,Stefan Lainer,Lukas Ullrich,0.0,0.0,0.0
+9293,106696,32,Borussia Mönchengladbach,Stefan Lainer,Fabio Chiarodia,0.0,0.0,0.0
+9293,158837,32,Borussia Mönchengladbach,Stefan Lainer,Shio Fukuda,1.0,13.356835000000016,6.738123215567152
+9447,183,32,Borussia Mönchengladbach,Maximilian Wöber,Julian Weigl,103.0,4926.60034,1.881622084246436
+9447,568,32,Borussia Mönchengladbach,Maximilian Wöber,Nico Elvedi,125.0,3923.825696666667,2.8670998330932482
+9447,810,32,Borussia Mönchengladbach,Maximilian Wöber,Christoph Kramer,11.0,265.2988566666667,3.731640657780444
+9447,1046,32,Borussia Mönchengladbach,Maximilian Wöber,Patrick Herrmann,1.0,45.71270333333335,1.9688181498199142
+9447,1185,32,Borussia Mönchengladbach,Maximilian Wöber,Moritz Nicolas,110.0,4100.094925,2.4145782429659235
+9447,1190,32,Borussia Mönchengladbach,Maximilian Wöber,Tony Jantschke,0.0,0.0,0.0
+9447,1249,32,Borussia Mönchengladbach,Maximilian Wöber,Marvin Friedrich,20.0,1527.0573450000002,1.1787376589973442
+9447,1902,32,Borussia Mönchengladbach,Maximilian Wöber,Alassane Pléa,48.0,3334.051896666667,1.2957206827881318
+9447,4168,32,Borussia Mönchengladbach,Maximilian Wöber,Robin Hack,46.0,1673.973135,2.473157969766343
+9447,9293,32,Borussia Mönchengladbach,Maximilian Wöber,Stefan Lainer,3.0,1031.9364733333332,0.26164401295736095
+9447,10460,32,Borussia Mönchengladbach,Maximilian Wöber,Florian Neuhaus,42.0,2035.1781133333334,1.8573312946103255
+9447,16142,32,Borussia Mönchengladbach,Maximilian Wöber,Ko Itakura,94.0,2622.1902333333333,3.226310544695162
+9447,21832,32,Borussia Mönchengladbach,Maximilian Wöber,Franck Honorat,21.0,4000.248795,0.4724706129184647
+9447,31223,32,Borussia Mönchengladbach,Maximilian Wöber,Rocco Reitz,38.0,3043.0598816666675,1.1238687810924326
+9447,32176,32,Borussia Mönchengladbach,Maximilian Wöber,Tomas Cvancara,17.0,1353.0728433333334,1.1307595208479697
+9447,33328,32,Borussia Mönchengladbach,Maximilian Wöber,Jonas Omlin,15.0,837.34772,1.6122334458616547
+9447,45493,32,Borussia Mönchengladbach,Maximilian Wöber,Jordan,16.0,2068.1625616666665,0.6962702191260777
+9447,47830,32,Borussia Mönchengladbach,Maximilian Wöber,Nathan Ngoumou,62.0,2150.0698116666667,2.5952645675605104
+9447,48270,32,Borussia Mönchengladbach,Maximilian Wöber,Manu Koné,45.0,2217.612688333333,1.8262882519146362
+9447,48597,32,Borussia Mönchengladbach,Maximilian Wöber,Joe Scally,47.0,3166.7382616666664,1.3357592735730974
+9447,49344,32,Borussia Mönchengladbach,Maximilian Wöber,Luca Netz,212.0,3561.15195,5.35781687158842
+9447,90010,32,Borussia Mönchengladbach,Maximilian Wöber,Grant-Leon Ranos,1.0,29.24458666666666,3.077492632254677
+9447,99755,32,Borussia Mönchengladbach,Maximilian Wöber,Yvandro Borges Sanches,2.0,17.708249999999982,10.16475371648809
+9447,106573,32,Borussia Mönchengladbach,Maximilian Wöber,Lukas Ullrich,0.0,0.0,0.0
+9447,106696,32,Borussia Mönchengladbach,Maximilian Wöber,Fabio Chiarodia,0.0,0.0,0.0
+9447,158837,32,Borussia Mönchengladbach,Maximilian Wöber,Shio Fukuda,0.0,0.0,0.0
+10460,183,32,Borussia Mönchengladbach,Florian Neuhaus,Julian Weigl,58.0,2638.4092316666665,1.9784648785141488
+10460,568,32,Borussia Mönchengladbach,Florian Neuhaus,Nico Elvedi,40.0,2068.924043333333,1.7400348802558667
+10460,810,32,Borussia Mönchengladbach,Florian Neuhaus,Christoph Kramer,4.0,57.28335499999997,6.284548103022251
+10460,1046,32,Borussia Mönchengladbach,Florian Neuhaus,Patrick Herrmann,0.0,0.0,0.0
+10460,1185,32,Borussia Mönchengladbach,Florian Neuhaus,Moritz Nicolas,6.0,2287.247445,0.23609163983567158
+10460,1190,32,Borussia Mönchengladbach,Florian Neuhaus,Tony Jantschke,0.0,0.0,0.0
+10460,1249,32,Borussia Mönchengladbach,Florian Neuhaus,Marvin Friedrich,16.0,1227.9320766666667,1.17270330123553
+10460,1902,32,Borussia Mönchengladbach,Florian Neuhaus,Alassane Pléa,23.0,1347.9748283333333,1.5356369840818134
+10460,4168,32,Borussia Mönchengladbach,Florian Neuhaus,Robin Hack,38.0,1018.8516066666666,3.356720426823557
+10460,9293,32,Borussia Mönchengladbach,Florian Neuhaus,Stefan Lainer,6.0,478.46543833333334,1.1286081642197892
+10460,9447,32,Borussia Mönchengladbach,Florian Neuhaus,Maximilian Wöber,32.0,2035.1781133333334,1.4151095577983432
+10460,16142,32,Borussia Mönchengladbach,Florian Neuhaus,Ko Itakura,20.0,1623.2148266666668,1.1089105215335966
+10460,21832,32,Borussia Mönchengladbach,Florian Neuhaus,Franck Honorat,40.0,2388.7140600000002,1.5070870391243059
+10460,31223,32,Borussia Mönchengladbach,Florian Neuhaus,Rocco Reitz,19.0,1358.2654716666666,1.2589586024753583
+10460,32176,32,Borussia Mönchengladbach,Florian Neuhaus,Tomas Cvancara,12.0,681.7452533333334,1.5841694455802002
+10460,33328,32,Borussia Mönchengladbach,Florian Neuhaus,Jonas Omlin,3.0,572.0986,0.471946618991901
+10460,45493,32,Borussia Mönchengladbach,Florian Neuhaus,Jordan,31.0,1834.2038766666667,1.521095901874507
+10460,47830,32,Borussia Mönchengladbach,Florian Neuhaus,Nathan Ngoumou,24.0,1599.7135466666666,1.35024173827921
+10460,48270,32,Borussia Mönchengladbach,Florian Neuhaus,Manu Koné,13.0,1189.2475233333332,0.983815376567374
+10460,48597,32,Borussia Mönchengladbach,Florian Neuhaus,Joe Scally,22.0,1962.2275083333334,1.0090573043091022
+10460,49344,32,Borussia Mönchengladbach,Florian Neuhaus,Luca Netz,33.0,1825.758733333333,1.626720960319657
+10460,90010,32,Borussia Mönchengladbach,Florian Neuhaus,Grant-Leon Ranos,0.0,0.0,0.0
+10460,99755,32,Borussia Mönchengladbach,Florian Neuhaus,Yvandro Borges Sanches,0.0,0.0,0.0
+10460,106573,32,Borussia Mönchengladbach,Florian Neuhaus,Lukas Ullrich,3.0,21.430218333333354,12.59903169441965
+10460,106696,32,Borussia Mönchengladbach,Florian Neuhaus,Fabio Chiarodia,0.0,0.0,0.0
+10460,158837,32,Borussia Mönchengladbach,Florian Neuhaus,Shio Fukuda,0.0,0.0,0.0
+16142,183,32,Borussia Mönchengladbach,Ko Itakura,Julian Weigl,64.0,3512.004068333333,1.6400892162785796
+16142,568,32,Borussia Mönchengladbach,Ko Itakura,Nico Elvedi,133.0,2732.880745,4.379993536820064
+16142,810,32,Borussia Mönchengladbach,Ko Itakura,Christoph Kramer,1.0,30.81680333333334,2.9204846144003036
+16142,1046,32,Borussia Mönchengladbach,Ko Itakura,Patrick Herrmann,1.0,35.436083333333315,2.539784071320901
+16142,1185,32,Borussia Mönchengladbach,Ko Itakura,Moritz Nicolas,47.0,2320.8326200000006,1.8226217451217999
+16142,1190,32,Borussia Mönchengladbach,Ko Itakura,Tony Jantschke,2.0,25.05353499999998,7.184614865726539
+16142,1249,32,Borussia Mönchengladbach,Ko Itakura,Marvin Friedrich,64.0,1898.0791233333337,3.034646938155302
+16142,1902,32,Borussia Mönchengladbach,Ko Itakura,Alassane Pléa,32.0,2423.6041483333333,1.1883128694842848
+16142,4168,32,Borussia Mönchengladbach,Ko Itakura,Robin Hack,26.0,1517.64914,1.5418583507384322
+16142,9293,32,Borussia Mönchengladbach,Ko Itakura,Stefan Lainer,16.0,1044.224675,1.3790135729171504
+16142,9447,32,Borussia Mönchengladbach,Ko Itakura,Maximilian Wöber,116.0,2622.1902333333333,3.9814045019642426
+16142,10460,32,Borussia Mönchengladbach,Ko Itakura,Florian Neuhaus,30.0,1623.2148266666668,1.663365782300395
+16142,21832,32,Borussia Mönchengladbach,Ko Itakura,Franck Honorat,18.0,2598.5617666666667,0.6234217792244641
+16142,31223,32,Borussia Mönchengladbach,Ko Itakura,Rocco Reitz,49.0,2498.3019733333335,1.765198941950161
+16142,32176,32,Borussia Mönchengladbach,Ko Itakura,Tomas Cvancara,3.0,998.3641933333336,0.2704423914669108
+16142,33328,32,Borussia Mönchengladbach,Ko Itakura,Jonas Omlin,25.0,1416.5192366666665,1.5884005961646304
+16142,45493,32,Borussia Mönchengladbach,Ko Itakura,Jordan,8.0,1637.7987416666665,0.43961445425663803
+16142,47830,32,Borussia Mönchengladbach,Ko Itakura,Nathan Ngoumou,9.0,1543.2062783333336,0.5248812238340567
+16142,48270,32,Borussia Mönchengladbach,Ko Itakura,Manu Koné,34.0,1445.6165183333335,2.116743936716984
+16142,48597,32,Borussia Mönchengladbach,Ko Itakura,Joe Scally,32.0,1915.2629266666668,1.5037099919290804
+16142,49344,32,Borussia Mönchengladbach,Ko Itakura,Luca Netz,41.0,2378.9519999999993,1.5511031748433768
+16142,90010,32,Borussia Mönchengladbach,Ko Itakura,Grant-Leon Ranos,0.0,0.0,0.0
+16142,99755,32,Borussia Mönchengladbach,Ko Itakura,Yvandro Borges Sanches,0.0,0.0,0.0
+16142,106573,32,Borussia Mönchengladbach,Ko Itakura,Lukas Ullrich,3.0,38.14650166666667,7.077975389704804
+16142,106696,32,Borussia Mönchengladbach,Ko Itakura,Fabio Chiarodia,4.0,200.68124999999998,1.7938895636737366
+16142,158837,32,Borussia Mönchengladbach,Ko Itakura,Shio Fukuda,0.0,0.0,0.0
+21832,183,32,Borussia Mönchengladbach,Franck Honorat,Julian Weigl,54.0,5184.526616666667,0.9374047737312384
+21832,568,32,Borussia Mönchengladbach,Franck Honorat,Nico Elvedi,38.0,4978.241366666667,0.68698959092254
+21832,810,32,Borussia Mönchengladbach,Franck Honorat,Christoph Kramer,10.0,281.87585166666673,3.192895009198227
+21832,1046,32,Borussia Mönchengladbach,Franck Honorat,Patrick Herrmann,6.0,34.682533333333325,15.569796900649322
+21832,1185,32,Borussia Mönchengladbach,Franck Honorat,Moritz Nicolas,7.0,4422.099621666667,0.14246626125590453
+21832,1190,32,Borussia Mönchengladbach,Franck Honorat,Tony Jantschke,0.0,0.0,0.0
+21832,1249,32,Borussia Mönchengladbach,Franck Honorat,Marvin Friedrich,31.0,2287.5831283333328,1.2196278095619255
+21832,1902,32,Borussia Mönchengladbach,Franck Honorat,Alassane Pléa,83.0,3689.0716150000003,2.024899698240203
+21832,4168,32,Borussia Mönchengladbach,Franck Honorat,Robin Hack,16.0,2152.67683,0.6689345934010913
+21832,9293,32,Borussia Mönchengladbach,Franck Honorat,Stefan Lainer,24.0,725.2983533333334,2.978084797894619
+21832,9447,32,Borussia Mönchengladbach,Franck Honorat,Maximilian Wöber,5.0,4000.248795,0.11249300307582494
+21832,10460,32,Borussia Mönchengladbach,Franck Honorat,Florian Neuhaus,28.0,2388.7140600000002,1.0549609273870142
+21832,16142,32,Borussia Mönchengladbach,Franck Honorat,Ko Itakura,13.0,2598.5617666666667,0.4502490627732241
+21832,31223,32,Borussia Mönchengladbach,Franck Honorat,Rocco Reitz,121.0,3653.6826000000005,2.9805544685244407
+21832,32176,32,Borussia Mönchengladbach,Franck Honorat,Tomas Cvancara,26.0,1184.9246233333336,1.9748091599424296
+21832,33328,32,Borussia Mönchengladbach,Franck Honorat,Jonas Omlin,2.0,1201.47127,0.1498163164567389
+21832,45493,32,Borussia Mönchengladbach,Franck Honorat,Jordan,27.0,2473.627415,0.9823629804814401
+21832,47830,32,Borussia Mönchengladbach,Franck Honorat,Nathan Ngoumou,24.0,2117.5515733333336,1.0200459942516755
+21832,48270,32,Borussia Mönchengladbach,Franck Honorat,Manu Koné,43.0,2967.4676916666663,1.3041422526243007
+21832,48597,32,Borussia Mönchengladbach,Franck Honorat,Joe Scally,96.0,4039.2051316666666,2.1390347155839895
+21832,49344,32,Borussia Mönchengladbach,Franck Honorat,Luca Netz,12.0,4273.477344999999,0.252721592466989
+21832,90010,32,Borussia Mönchengladbach,Franck Honorat,Grant-Leon Ranos,2.0,16.236268333333314,11.086291277316302
+21832,99755,32,Borussia Mönchengladbach,Franck Honorat,Yvandro Borges Sanches,0.0,0.0,0.0
+21832,106573,32,Borussia Mönchengladbach,Franck Honorat,Lukas Ullrich,0.0,0.0,0.0
+21832,106696,32,Borussia Mönchengladbach,Franck Honorat,Fabio Chiarodia,1.0,25.798268333333333,3.488606244308
+21832,158837,32,Borussia Mönchengladbach,Franck Honorat,Shio Fukuda,0.0,0.0,0.0
+31223,183,32,Borussia Mönchengladbach,Rocco Reitz,Julian Weigl,64.0,4386.049565,1.3132546531083262
+31223,568,32,Borussia Mönchengladbach,Rocco Reitz,Nico Elvedi,56.0,4173.23155,1.2076971861290562
+31223,810,32,Borussia Mönchengladbach,Rocco Reitz,Christoph Kramer,3.0,246.1022716666667,1.097104866897375
+31223,1046,32,Borussia Mönchengladbach,Rocco Reitz,Patrick Herrmann,1.0,54.02378499999996,1.6659328849320731
+31223,1185,32,Borussia Mönchengladbach,Rocco Reitz,Moritz Nicolas,24.0,4171.065523333333,0.5178532890257314
+31223,1190,32,Borussia Mönchengladbach,Rocco Reitz,Tony Jantschke,0.0,0.0,0.0
+31223,1249,32,Borussia Mönchengladbach,Rocco Reitz,Marvin Friedrich,45.0,2168.3042916666664,1.8678190213270154
+31223,1902,32,Borussia Mönchengladbach,Rocco Reitz,Alassane Pléa,76.0,3292.390948333333,2.0775175571001157
+31223,4168,32,Borussia Mönchengladbach,Rocco Reitz,Robin Hack,29.0,2314.37478,1.1277343767114503
+31223,9293,32,Borussia Mönchengladbach,Rocco Reitz,Stefan Lainer,37.0,914.4989299999999,3.641338322834342
+31223,9447,32,Borussia Mönchengladbach,Rocco Reitz,Maximilian Wöber,28.0,3043.0598816666675,0.8281138386996871
+31223,10460,32,Borussia Mönchengladbach,Rocco Reitz,Florian Neuhaus,21.0,1358.2654716666666,1.3914805606306593
+31223,16142,32,Borussia Mönchengladbach,Rocco Reitz,Ko Itakura,38.0,2498.3019733333335,1.3689297917164513
+31223,21832,32,Borussia Mönchengladbach,Rocco Reitz,Franck Honorat,120.0,3653.6826000000005,2.9559217869663876
+31223,32176,32,Borussia Mönchengladbach,Rocco Reitz,Tomas Cvancara,19.0,952.0377066666667,1.7961473458726311
+31223,33328,32,Borussia Mönchengladbach,Rocco Reitz,Jonas Omlin,6.0,688.4671683333333,0.7843511278936538
+31223,45493,32,Borussia Mönchengladbach,Rocco Reitz,Jordan,28.0,2133.659961666667,1.1810691700056792
+31223,47830,32,Borussia Mönchengladbach,Rocco Reitz,Nathan Ngoumou,17.0,1346.2312583333332,1.1365060724367497
+31223,48270,32,Borussia Mönchengladbach,Rocco Reitz,Manu Koné,20.0,2359.01164,0.7630314193786683
+31223,48597,32,Borussia Mönchengladbach,Rocco Reitz,Joe Scally,79.0,3848.670661666667,1.8473911189171521
+31223,49344,32,Borussia Mönchengladbach,Rocco Reitz,Luca Netz,14.0,3563.7120283333325,0.3535639215465099
+31223,90010,32,Borussia Mönchengladbach,Rocco Reitz,Grant-Leon Ranos,1.0,15.642901666666631,5.753408281775528
+31223,99755,32,Borussia Mönchengladbach,Rocco Reitz,Yvandro Borges Sanches,0.0,0.0,0.0
+31223,106573,32,Borussia Mönchengladbach,Rocco Reitz,Lukas Ullrich,1.0,38.40665333333337,2.3433439831084804
+31223,106696,32,Borussia Mönchengladbach,Rocco Reitz,Fabio Chiarodia,4.0,241.3922533333333,1.4913486038960988
+31223,158837,32,Borussia Mönchengladbach,Rocco Reitz,Shio Fukuda,2.0,20.228853333333305,8.898181079962363
+32176,183,32,Borussia Mönchengladbach,Tomas Cvancara,Julian Weigl,3.0,1459.6958849999999,0.18497003572768173
+32176,568,32,Borussia Mönchengladbach,Tomas Cvancara,Nico Elvedi,3.0,1025.5821266666667,0.2632651183943215
+32176,810,32,Borussia Mönchengladbach,Tomas Cvancara,Christoph Kramer,3.0,235.19224999999997,1.147997010955931
+32176,1046,32,Borussia Mönchengladbach,Tomas Cvancara,Patrick Herrmann,2.0,22.698303333333296,7.930108138772794
+32176,1185,32,Borussia Mönchengladbach,Tomas Cvancara,Moritz Nicolas,0.0,0.0,0.0
+32176,1190,32,Borussia Mönchengladbach,Tomas Cvancara,Tony Jantschke,0.0,0.0,0.0
+32176,1249,32,Borussia Mönchengladbach,Tomas Cvancara,Marvin Friedrich,5.0,889.6336433333333,0.5058261941555096
+32176,1902,32,Borussia Mönchengladbach,Tomas Cvancara,Alassane Pléa,20.0,1393.1423616666666,1.292043117436035
+32176,4168,32,Borussia Mönchengladbach,Tomas Cvancara,Robin Hack,8.0,423.5746716666667,1.699818351194063
+32176,9293,32,Borussia Mönchengladbach,Tomas Cvancara,Stefan Lainer,8.0,245.01207000000002,2.9386307376612097
+32176,9447,32,Borussia Mönchengladbach,Tomas Cvancara,Maximilian Wöber,4.0,1353.0728433333334,0.26606106372893407
+32176,10460,32,Borussia Mönchengladbach,Tomas Cvancara,Florian Neuhaus,10.0,681.7452533333334,1.3201412046501668
+32176,16142,32,Borussia Mönchengladbach,Tomas Cvancara,Ko Itakura,1.0,998.3641933333336,0.0901474638223036
+32176,21832,32,Borussia Mönchengladbach,Tomas Cvancara,Franck Honorat,18.0,1184.9246233333336,1.3671755722678358
+32176,31223,32,Borussia Mönchengladbach,Tomas Cvancara,Rocco Reitz,9.0,952.0377066666667,0.8508066375186147
+32176,33328,32,Borussia Mönchengladbach,Tomas Cvancara,Jonas Omlin,0.0,0.0,0.0
+32176,45493,32,Borussia Mönchengladbach,Tomas Cvancara,Jordan,2.0,67.03115166666666,2.6853186246165994
+32176,47830,32,Borussia Mönchengladbach,Tomas Cvancara,Nathan Ngoumou,4.0,695.9724066666666,0.5172618864650199
+32176,48270,32,Borussia Mönchengladbach,Tomas Cvancara,Manu Koné,4.0,521.96567,0.689700531454492
+32176,48597,32,Borussia Mönchengladbach,Tomas Cvancara,Joe Scally,10.0,1379.563075,0.6523804647351844
+32176,49344,32,Borussia Mönchengladbach,Tomas Cvancara,Luca Netz,5.0,884.2784416666668,0.5088894841220496
+32176,90010,32,Borussia Mönchengladbach,Tomas Cvancara,Grant-Leon Ranos,0.0,0.0,0.0
+32176,99755,32,Borussia Mönchengladbach,Tomas Cvancara,Yvandro Borges Sanches,0.0,0.0,0.0
+32176,106573,32,Borussia Mönchengladbach,Tomas Cvancara,Lukas Ullrich,0.0,0.0,0.0
+32176,106696,32,Borussia Mönchengladbach,Tomas Cvancara,Fabio Chiarodia,1.0,204.7400033333333,0.43958190160558275
+32176,158837,32,Borussia Mönchengladbach,Tomas Cvancara,Shio Fukuda,0.0,0.0,0.0
+33328,183,32,Borussia Mönchengladbach,Jonas Omlin,Julian Weigl,6.0,1444.9947666666667,0.3737037755823014
+33328,568,32,Borussia Mönchengladbach,Jonas Omlin,Nico Elvedi,15.0,815.297735,1.655836809113667
+33328,810,32,Borussia Mönchengladbach,Jonas Omlin,Christoph Kramer,0.0,0.0,0.0
+33328,1046,32,Borussia Mönchengladbach,Jonas Omlin,Patrick Herrmann,1.0,16.140266666666655,5.576116049301131
+33328,1185,32,Borussia Mönchengladbach,Jonas Omlin,Moritz Nicolas,0.0,0.0,0.0
+33328,1190,32,Borussia Mönchengladbach,Jonas Omlin,Tony Jantschke,0.0,0.0,0.0
+33328,1249,32,Borussia Mönchengladbach,Jonas Omlin,Marvin Friedrich,26.0,1068.4424516666666,2.190103918418654
+33328,1902,32,Borussia Mönchengladbach,Jonas Omlin,Alassane Pléa,0.0,0.0,0.0
+33328,4168,32,Borussia Mönchengladbach,Jonas Omlin,Robin Hack,0.0,0.0,0.0
+33328,9293,32,Borussia Mönchengladbach,Jonas Omlin,Stefan Lainer,6.0,611.6873683333333,0.8828039092442597
+33328,9447,32,Borussia Mönchengladbach,Jonas Omlin,Maximilian Wöber,12.0,837.34772,1.2897867566893237
+33328,10460,32,Borussia Mönchengladbach,Jonas Omlin,Florian Neuhaus,1.0,572.0986,0.157315539663967
+33328,16142,32,Borussia Mönchengladbach,Jonas Omlin,Ko Itakura,29.0,1416.5192366666665,1.8425446915509711
+33328,21832,32,Borussia Mönchengladbach,Jonas Omlin,Franck Honorat,5.0,1201.47127,0.3745407911418473
+33328,31223,32,Borussia Mönchengladbach,Jonas Omlin,Rocco Reitz,4.0,688.4671683333333,0.5229007519291026
+33328,32176,32,Borussia Mönchengladbach,Jonas Omlin,Tomas Cvancara,1.0,530.4137516666667,0.16967885865930493
+33328,45493,32,Borussia Mönchengladbach,Jonas Omlin,Jordan,1.0,371.2671183333333,0.242413064760547
+33328,47830,32,Borussia Mönchengladbach,Jonas Omlin,Nathan Ngoumou,3.0,960.2295566666667,0.28118276314809126
+33328,48270,32,Borussia Mönchengladbach,Jonas Omlin,Manu Koné,3.0,402.35245,0.6710534507743149
+33328,48597,32,Borussia Mönchengladbach,Jonas Omlin,Joe Scally,17.0,832.1340833333334,1.838645995452055
+33328,49344,32,Borussia Mönchengladbach,Jonas Omlin,Luca Netz,9.0,1055.7145516666667,0.7672528513708987
+33328,90010,32,Borussia Mönchengladbach,Jonas Omlin,Grant-Leon Ranos,0.0,0.0,0.0
+33328,99755,32,Borussia Mönchengladbach,Jonas Omlin,Yvandro Borges Sanches,0.0,0.0,0.0
+33328,106573,32,Borussia Mönchengladbach,Jonas Omlin,Lukas Ullrich,0.0,0.0,0.0
+33328,106696,32,Borussia Mönchengladbach,Jonas Omlin,Fabio Chiarodia,0.0,0.0,0.0
+33328,158837,32,Borussia Mönchengladbach,Jonas Omlin,Shio Fukuda,0.0,0.0,0.0
+45493,183,32,Borussia Mönchengladbach,Jordan,Julian Weigl,13.0,2920.726033333333,0.40058532934864677
+45493,568,32,Borussia Mönchengladbach,Jordan,Nico Elvedi,3.0,2566.6324166666664,0.10519620894941165
+45493,810,32,Borussia Mönchengladbach,Jordan,Christoph Kramer,2.0,52.680418333333336,3.4168293588911323
+45493,1046,32,Borussia Mönchengladbach,Jordan,Patrick Herrmann,0.0,0.0,0.0
+45493,1185,32,Borussia Mönchengladbach,Jordan,Moritz Nicolas,2.0,2763.865663333333,0.06512617541002799
+45493,1190,32,Borussia Mönchengladbach,Jordan,Tony Jantschke,0.0,0.0,0.0
+45493,1249,32,Borussia Mönchengladbach,Jordan,Marvin Friedrich,0.0,0.0,0.0
+45493,1902,32,Borussia Mönchengladbach,Jordan,Alassane Pléa,15.0,1059.122655,1.2746399046671324
+45493,4168,32,Borussia Mönchengladbach,Jordan,Robin Hack,13.0,1288.5691683333334,0.9079838543035345
+45493,9293,32,Borussia Mönchengladbach,Jordan,Stefan Lainer,10.0,729.7861316666667,1.2332380144640502
+45493,9447,32,Borussia Mönchengladbach,Jordan,Maximilian Wöber,2.0,2068.1625616666665,0.08703377739075971
+45493,10460,32,Borussia Mönchengladbach,Jordan,Florian Neuhaus,18.0,1834.2038766666667,0.8832169752819717
+45493,16142,32,Borussia Mönchengladbach,Jordan,Ko Itakura,5.0,1637.7987416666665,0.27475903391039874
+45493,21832,32,Borussia Mönchengladbach,Jordan,Franck Honorat,36.0,2473.627415,1.3098173073085868
+45493,31223,32,Borussia Mönchengladbach,Jordan,Rocco Reitz,20.0,2133.659961666667,0.8436208357183423
+45493,32176,32,Borussia Mönchengladbach,Jordan,Tomas Cvancara,3.0,67.03115166666666,4.027977936924899
+45493,33328,32,Borussia Mönchengladbach,Jordan,Jonas Omlin,0.0,0.0,0.0
+45493,47830,32,Borussia Mönchengladbach,Jordan,Nathan Ngoumou,10.0,1286.7077066666666,0.6994595550620676
+45493,48270,32,Borussia Mönchengladbach,Jordan,Manu Koné,15.0,1679.3766583333334,0.8038696937349259
+45493,48597,32,Borussia Mönchengladbach,Jordan,Joe Scally,17.0,2118.777511666666,0.7221145172512597
+45493,49344,32,Borussia Mönchengladbach,Jordan,Luca Netz,14.0,2289.0783783333336,0.5504398678202533
+45493,90010,32,Borussia Mönchengladbach,Jordan,Grant-Leon Ranos,0.0,0.0,0.0
+45493,99755,32,Borussia Mönchengladbach,Jordan,Yvandro Borges Sanches,0.0,0.0,0.0
+45493,106573,32,Borussia Mönchengladbach,Jordan,Lukas Ullrich,0.0,0.0,0.0
+45493,106696,32,Borussia Mönchengladbach,Jordan,Fabio Chiarodia,0.0,0.0,0.0
+45493,158837,32,Borussia Mönchengladbach,Jordan,Shio Fukuda,0.0,0.0,0.0
+47830,183,32,Borussia Mönchengladbach,Nathan Ngoumou,Julian Weigl,27.0,2593.6068899999996,0.9369191643379696
+47830,568,32,Borussia Mönchengladbach,Nathan Ngoumou,Nico Elvedi,6.0,1807.4582116666668,0.2987620939252937
+47830,810,32,Borussia Mönchengladbach,Nathan Ngoumou,Christoph Kramer,9.0,86.34494000000002,9.380978202081092
+47830,1046,32,Borussia Mönchengladbach,Nathan Ngoumou,Patrick Herrmann,3.0,39.736966666666646,6.794680687755905
+47830,1185,32,Borussia Mönchengladbach,Nathan Ngoumou,Moritz Nicolas,0.0,0.0,0.0
+47830,1190,32,Borussia Mönchengladbach,Nathan Ngoumou,Tony Jantschke,0.0,0.0,0.0
+47830,1249,32,Borussia Mönchengladbach,Nathan Ngoumou,Marvin Friedrich,6.0,1674.2893333333332,0.3225249001168257
+47830,1902,32,Borussia Mönchengladbach,Nathan Ngoumou,Alassane Pléa,31.0,1918.6960666666664,1.454112534272842
+47830,4168,32,Borussia Mönchengladbach,Nathan Ngoumou,Robin Hack,5.0,470.03281000000004,0.9573799752404518
+47830,9293,32,Borussia Mönchengladbach,Nathan Ngoumou,Stefan Lainer,20.0,885.3733266666667,2.033040691181428
+47830,9447,32,Borussia Mönchengladbach,Nathan Ngoumou,Maximilian Wöber,27.0,2150.0698116666667,1.130195860066674
+47830,10460,32,Borussia Mönchengladbach,Nathan Ngoumou,Florian Neuhaus,15.0,1599.7135466666666,0.8439010864245062
+47830,16142,32,Borussia Mönchengladbach,Nathan Ngoumou,Ko Itakura,4.0,1543.2062783333336,0.2332805439262474
+47830,21832,32,Borussia Mönchengladbach,Nathan Ngoumou,Franck Honorat,13.0,2117.5515733333336,0.5525249135529909
+47830,31223,32,Borussia Mönchengladbach,Nathan Ngoumou,Rocco Reitz,20.0,1346.2312583333332,1.3370659675726466
+47830,32176,32,Borussia Mönchengladbach,Nathan Ngoumou,Tomas Cvancara,7.0,695.9724066666666,0.9052083013137848
+47830,33328,32,Borussia Mönchengladbach,Nathan Ngoumou,Jonas Omlin,2.0,960.2295566666667,0.18745517543206083
+47830,45493,32,Borussia Mönchengladbach,Nathan Ngoumou,Jordan,7.0,1286.7077066666666,0.4896216885434473
+47830,48270,32,Borussia Mönchengladbach,Nathan Ngoumou,Manu Koné,23.0,1158.53687,1.7867364031323407
+47830,48597,32,Borussia Mönchengladbach,Nathan Ngoumou,Joe Scally,17.0,2000.3185666666661,0.764878167655862
+47830,49344,32,Borussia Mönchengladbach,Nathan Ngoumou,Luca Netz,56.0,1989.2449649999996,2.5336246106823754
+47830,90010,32,Borussia Mönchengladbach,Nathan Ngoumou,Grant-Leon Ranos,0.0,0.0,0.0
+47830,99755,32,Borussia Mönchengladbach,Nathan Ngoumou,Yvandro Borges Sanches,0.0,0.0,0.0
+47830,106573,32,Borussia Mönchengladbach,Nathan Ngoumou,Lukas Ullrich,0.0,0.0,0.0
+47830,106696,32,Borussia Mönchengladbach,Nathan Ngoumou,Fabio Chiarodia,0.0,0.0,0.0
+47830,158837,32,Borussia Mönchengladbach,Nathan Ngoumou,Shio Fukuda,0.0,0.0,0.0
+48270,183,32,Borussia Mönchengladbach,Manu Koné,Julian Weigl,81.0,3276.698296666667,2.2248004973225646
+48270,568,32,Borussia Mönchengladbach,Manu Koné,Nico Elvedi,55.0,3259.082955,1.518832158723005
+48270,810,32,Borussia Mönchengladbach,Manu Koné,Christoph Kramer,2.0,72.58753333333334,2.479764661149343
+48270,1046,32,Borussia Mönchengladbach,Manu Koné,Patrick Herrmann,2.0,23.079266666666655,7.799207947104042
+48270,1185,32,Borussia Mönchengladbach,Manu Koné,Moritz Nicolas,4.0,3274.988065,0.10992406471563736
+48270,1190,32,Borussia Mönchengladbach,Manu Koné,Tony Jantschke,0.0,0.0,0.0
+48270,1249,32,Borussia Mönchengladbach,Manu Koné,Marvin Friedrich,17.0,1861.2561883333335,0.8220254737581516
+48270,1902,32,Borussia Mönchengladbach,Manu Koné,Alassane Pléa,47.0,2079.7274933333333,2.033920315791116
+48270,4168,32,Borussia Mönchengladbach,Manu Koné,Robin Hack,29.0,1962.502641666667,1.3299345155446223
+48270,9293,32,Borussia Mönchengladbach,Manu Koné,Stefan Lainer,12.0,519.7662700000001,2.077857033700936
+48270,9447,32,Borussia Mönchengladbach,Manu Koné,Maximilian Wöber,45.0,2217.612688333333,1.8262882519146362
+48270,10460,32,Borussia Mönchengladbach,Manu Koné,Florian Neuhaus,21.0,1189.2475233333332,1.589240223685758
+48270,16142,32,Borussia Mönchengladbach,Manu Koné,Ko Itakura,16.0,1445.6165183333335,0.9961147937491689
+48270,21832,32,Borussia Mönchengladbach,Manu Koné,Franck Honorat,39.0,2967.4676916666663,1.1828266942406447
+48270,31223,32,Borussia Mönchengladbach,Manu Koné,Rocco Reitz,28.0,2359.01164,1.0682439871301355
+48270,32176,32,Borussia Mönchengladbach,Manu Koné,Tomas Cvancara,7.0,521.96567,1.2069759300453609
+48270,33328,32,Borussia Mönchengladbach,Manu Koné,Jonas Omlin,0.0,0.0,0.0
+48270,45493,32,Borussia Mönchengladbach,Manu Koné,Jordan,7.0,1679.3766583333334,0.3751391904096321
+48270,47830,32,Borussia Mönchengladbach,Manu Koné,Nathan Ngoumou,34.0,1158.53687,2.641262508978243
+48270,48597,32,Borussia Mönchengladbach,Manu Koné,Joe Scally,43.0,2872.6289033333333,1.3471980301769366
+48270,49344,32,Borussia Mönchengladbach,Manu Koné,Luca Netz,68.0,2756.8607899999997,2.2199162258026095
+48270,90010,32,Borussia Mönchengladbach,Manu Koné,Grant-Leon Ranos,0.0,0.0,0.0
+48270,99755,32,Borussia Mönchengladbach,Manu Koné,Yvandro Borges Sanches,0.0,0.0,0.0
+48270,106573,32,Borussia Mönchengladbach,Manu Koné,Lukas Ullrich,0.0,0.0,0.0
+48270,106696,32,Borussia Mönchengladbach,Manu Koné,Fabio Chiarodia,0.0,0.0,0.0
+48270,158837,32,Borussia Mönchengladbach,Manu Koné,Shio Fukuda,0.0,0.0,0.0
+48597,183,32,Borussia Mönchengladbach,Joe Scally,Julian Weigl,102.0,4447.603421666666,2.064032947559867
+48597,568,32,Borussia Mönchengladbach,Joe Scally,Nico Elvedi,105.0,4181.566813333335,2.2599184520662807
+48597,810,32,Borussia Mönchengladbach,Joe Scally,Christoph Kramer,10.0,352.64462333333347,2.552144398212715
+48597,1046,32,Borussia Mönchengladbach,Joe Scally,Patrick Herrmann,2.0,40.1022683333333,4.488524152893932
+48597,1185,32,Borussia Mönchengladbach,Joe Scally,Moritz Nicolas,42.0,4268.284205,0.8856017590328196
+48597,1190,32,Borussia Mönchengladbach,Joe Scally,Tony Jantschke,0.0,0.0,0.0
+48597,1249,32,Borussia Mönchengladbach,Joe Scally,Marvin Friedrich,50.0,2449.6330566666666,1.837009827963118
+48597,1902,32,Borussia Mönchengladbach,Joe Scally,Alassane Pléa,41.0,3077.6274816666664,1.1989755166865443
+48597,4168,32,Borussia Mönchengladbach,Joe Scally,Robin Hack,40.0,2659.9079833333335,1.353430277497256
+48597,9293,32,Borussia Mönchengladbach,Joe Scally,Stefan Lainer,3.0,694.678175,0.3886691848351217
+48597,9447,32,Borussia Mönchengladbach,Joe Scally,Maximilian Wöber,35.0,3166.7382616666664,0.9947143526608172
+48597,10460,32,Borussia Mönchengladbach,Joe Scally,Florian Neuhaus,31.0,1962.2275083333334,1.421853474253735
+48597,16142,32,Borussia Mönchengladbach,Joe Scally,Ko Itakura,25.0,1915.2629266666668,1.174773431194594
+48597,21832,32,Borussia Mönchengladbach,Joe Scally,Franck Honorat,129.0,4039.2051316666666,2.874327899065986
+48597,31223,32,Borussia Mönchengladbach,Joe Scally,Rocco Reitz,102.0,3848.670661666667,2.3852391661968295
+48597,32176,32,Borussia Mönchengladbach,Joe Scally,Tomas Cvancara,16.0,1379.563075,1.043808743576295
+48597,33328,32,Borussia Mönchengladbach,Joe Scally,Jonas Omlin,5.0,832.1340833333334,0.5407782339564867
+48597,45493,32,Borussia Mönchengladbach,Joe Scally,Jordan,24.0,2118.777511666666,1.019455789060602
+48597,47830,32,Borussia Mönchengladbach,Joe Scally,Nathan Ngoumou,25.0,2000.3185666666661,1.1248208347880324
+48597,48270,32,Borussia Mönchengladbach,Joe Scally,Manu Koné,37.0,2872.6289033333333,1.1592169096871314
+48597,49344,32,Borussia Mönchengladbach,Joe Scally,Luca Netz,7.0,3516.5868416666667,0.1791509859888502
+48597,90010,32,Borussia Mönchengladbach,Joe Scally,Grant-Leon Ranos,3.0,31.481518333333348,8.576460548731472
+48597,99755,32,Borussia Mönchengladbach,Joe Scally,Yvandro Borges Sanches,1.0,18.529616666666637,4.857089146474525
+48597,106573,32,Borussia Mönchengladbach,Joe Scally,Lukas Ullrich,0.0,0.0,0.0
+48597,106696,32,Borussia Mönchengladbach,Joe Scally,Fabio Chiarodia,2.0,239.57060166666662,0.7513442749141989
+48597,158837,32,Borussia Mönchengladbach,Joe Scally,Shio Fukuda,0.0,0.0,0.0
+49344,183,32,Borussia Mönchengladbach,Luca Netz,Julian Weigl,74.0,4625.499238333334,1.4398445782470262
+49344,568,32,Borussia Mönchengladbach,Luca Netz,Nico Elvedi,42.0,4611.829213333334,0.8196313924790581
+49344,810,32,Borussia Mönchengladbach,Luca Netz,Christoph Kramer,11.0,335.65898833333335,2.9494219860332156
+49344,1046,32,Borussia Mönchengladbach,Luca Netz,Patrick Herrmann,0.0,0.0,0.0
+49344,1185,32,Borussia Mönchengladbach,Luca Netz,Moritz Nicolas,23.0,4040.752875,0.5122807714391591
+49344,1190,32,Borussia Mönchengladbach,Luca Netz,Tony Jantschke,0.0,0.0,0.0
+49344,1249,32,Borussia Mönchengladbach,Luca Netz,Marvin Friedrich,6.0,1989.355995,0.2714446289941183
+49344,1902,32,Borussia Mönchengladbach,Luca Netz,Alassane Pléa,68.0,3523.601235,1.7368594207567871
+49344,4168,32,Borussia Mönchengladbach,Luca Netz,Robin Hack,85.0,2068.650768333334,3.698062581227007
+49344,9293,32,Borussia Mönchengladbach,Luca Netz,Stefan Lainer,2.0,826.4177216666666,0.2178075267275095
+49344,9447,32,Borussia Mönchengladbach,Luca Netz,Maximilian Wöber,145.0,3561.15195,3.6645445583977403
+49344,10460,32,Borussia Mönchengladbach,Luca Netz,Florian Neuhaus,37.0,1825.758733333333,1.8238992585402214
+49344,16142,32,Borussia Mönchengladbach,Luca Netz,Ko Itakura,32.0,2378.9519999999993,1.2106171120728795
+49344,21832,32,Borussia Mönchengladbach,Luca Netz,Franck Honorat,17.0,4273.477344999999,0.3580222559949011
+49344,31223,32,Borussia Mönchengladbach,Luca Netz,Rocco Reitz,18.0,3563.7120283333325,0.4545821848455127
+49344,32176,32,Borussia Mönchengladbach,Luca Netz,Tomas Cvancara,10.0,884.2784416666668,1.0177789682440992
+49344,33328,32,Borussia Mönchengladbach,Luca Netz,Jonas Omlin,8.0,1055.7145516666667,0.68200253455191
+49344,45493,32,Borussia Mönchengladbach,Luca Netz,Jordan,13.0,2289.0783783333336,0.5111227344045209
+49344,47830,32,Borussia Mönchengladbach,Luca Netz,Nathan Ngoumou,63.0,1989.2449649999996,2.8503276870176726
+49344,48270,32,Borussia Mönchengladbach,Luca Netz,Manu Koné,82.0,2756.8607899999997,2.676957801703147
+49344,48597,32,Borussia Mönchengladbach,Luca Netz,Joe Scally,10.0,3516.5868416666667,0.25592997998407174
+49344,90010,32,Borussia Mönchengladbach,Luca Netz,Grant-Leon Ranos,0.0,0.0,0.0
+49344,99755,32,Borussia Mönchengladbach,Luca Netz,Yvandro Borges Sanches,0.0,0.0,0.0
+49344,106573,32,Borussia Mönchengladbach,Luca Netz,Lukas Ullrich,0.0,0.0,0.0
+49344,106696,32,Borussia Mönchengladbach,Luca Netz,Fabio Chiarodia,3.0,41.914603333333346,6.441668977582275
+49344,158837,32,Borussia Mönchengladbach,Luca Netz,Shio Fukuda,0.0,0.0,0.0
+90010,183,32,Borussia Mönchengladbach,Grant-Leon Ranos,Julian Weigl,1.0,33.30410499999998,2.702369572759876
+90010,568,32,Borussia Mönchengladbach,Grant-Leon Ranos,Nico Elvedi,0.0,0.0,0.0
+90010,810,32,Borussia Mönchengladbach,Grant-Leon Ranos,Christoph Kramer,0.0,0.0,0.0
+90010,1046,32,Borussia Mönchengladbach,Grant-Leon Ranos,Patrick Herrmann,0.0,0.0,0.0
+90010,1185,32,Borussia Mönchengladbach,Grant-Leon Ranos,Moritz Nicolas,0.0,0.0,0.0
+90010,1190,32,Borussia Mönchengladbach,Grant-Leon Ranos,Tony Jantschke,0.0,0.0,0.0
+90010,1249,32,Borussia Mönchengladbach,Grant-Leon Ranos,Marvin Friedrich,3.0,36.56008666666667,7.385102843483412
+90010,1902,32,Borussia Mönchengladbach,Grant-Leon Ranos,Alassane Pléa,3.0,24.448354999999992,11.04368780639843
+90010,4168,32,Borussia Mönchengladbach,Grant-Leon Ranos,Robin Hack,1.0,24.478019999999987,3.6767679738802426
+90010,9293,32,Borussia Mönchengladbach,Grant-Leon Ranos,Stefan Lainer,0.0,0.0,0.0
+90010,9447,32,Borussia Mönchengladbach,Grant-Leon Ranos,Maximilian Wöber,0.0,0.0,0.0
+90010,10460,32,Borussia Mönchengladbach,Grant-Leon Ranos,Florian Neuhaus,0.0,0.0,0.0
+90010,16142,32,Borussia Mönchengladbach,Grant-Leon Ranos,Ko Itakura,0.0,0.0,0.0
+90010,21832,32,Borussia Mönchengladbach,Grant-Leon Ranos,Franck Honorat,0.0,0.0,0.0
+90010,31223,32,Borussia Mönchengladbach,Grant-Leon Ranos,Rocco Reitz,2.0,15.642901666666631,11.506816563551055
+90010,32176,32,Borussia Mönchengladbach,Grant-Leon Ranos,Tomas Cvancara,0.0,0.0,0.0
+90010,33328,32,Borussia Mönchengladbach,Grant-Leon Ranos,Jonas Omlin,0.0,0.0,0.0
+90010,45493,32,Borussia Mönchengladbach,Grant-Leon Ranos,Jordan,0.0,0.0,0.0
+90010,47830,32,Borussia Mönchengladbach,Grant-Leon Ranos,Nathan Ngoumou,1.0,12.755488333333323,7.055786313159583
+90010,48270,32,Borussia Mönchengladbach,Grant-Leon Ranos,Manu Koné,0.0,0.0,0.0
+90010,48597,32,Borussia Mönchengladbach,Grant-Leon Ranos,Joe Scally,4.0,31.481518333333348,11.435280731641962
+90010,49344,32,Borussia Mönchengladbach,Grant-Leon Ranos,Luca Netz,0.0,0.0,0.0
+90010,99755,32,Borussia Mönchengladbach,Grant-Leon Ranos,Yvandro Borges Sanches,1.0,18.92690166666662,4.755136449961315
+90010,106573,32,Borussia Mönchengladbach,Grant-Leon Ranos,Lukas Ullrich,0.0,0.0,0.0
+90010,106696,32,Borussia Mönchengladbach,Grant-Leon Ranos,Fabio Chiarodia,0.0,0.0,0.0
+90010,158837,32,Borussia Mönchengladbach,Grant-Leon Ranos,Shio Fukuda,0.0,0.0,0.0
+99755,183,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Julian Weigl,0.0,0.0,0.0
+99755,568,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Nico Elvedi,0.0,0.0,0.0
+99755,810,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Christoph Kramer,0.0,0.0,0.0
+99755,1046,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Patrick Herrmann,0.0,0.0,0.0
+99755,1185,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Moritz Nicolas,0.0,0.0,0.0
+99755,1190,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Tony Jantschke,0.0,0.0,0.0
+99755,1249,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Marvin Friedrich,1.0,18.36939999999998,4.899452350103982
+99755,1902,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Alassane Pléa,1.0,11.253633333333315,7.997417130467507
+99755,4168,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Robin Hack,1.0,18.529616666666637,4.857089146474525
+99755,9293,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Stefan Lainer,0.0,0.0,0.0
+99755,9447,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Maximilian Wöber,1.0,17.708249999999982,5.082376858244045
+99755,10460,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Florian Neuhaus,0.0,0.0,0.0
+99755,16142,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Ko Itakura,0.0,0.0,0.0
+99755,21832,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Franck Honorat,0.0,0.0,0.0
+99755,31223,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Rocco Reitz,0.0,0.0,0.0
+99755,32176,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Tomas Cvancara,0.0,0.0,0.0
+99755,33328,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Jonas Omlin,0.0,0.0,0.0
+99755,45493,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Jordan,0.0,0.0,0.0
+99755,47830,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Nathan Ngoumou,0.0,0.0,0.0
+99755,48270,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Manu Koné,0.0,0.0,0.0
+99755,48597,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Joe Scally,0.0,0.0,0.0
+99755,49344,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Luca Netz,0.0,0.0,0.0
+99755,90010,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Grant-Leon Ranos,1.0,18.92690166666662,4.755136449961315
+99755,106573,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Lukas Ullrich,0.0,0.0,0.0
+99755,106696,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Fabio Chiarodia,0.0,0.0,0.0
+99755,158837,32,Borussia Mönchengladbach,Yvandro Borges Sanches,Shio Fukuda,0.0,0.0,0.0
+106573,183,32,Borussia Mönchengladbach,Lukas Ullrich,Julian Weigl,2.0,40.36055000000003,4.459800473482146
+106573,568,32,Borussia Mönchengladbach,Lukas Ullrich,Nico Elvedi,0.0,0.0,0.0
+106573,810,32,Borussia Mönchengladbach,Lukas Ullrich,Christoph Kramer,0.0,0.0,0.0
+106573,1046,32,Borussia Mönchengladbach,Lukas Ullrich,Patrick Herrmann,0.0,0.0,0.0
+106573,1185,32,Borussia Mönchengladbach,Lukas Ullrich,Moritz Nicolas,0.0,0.0,0.0
+106573,1190,32,Borussia Mönchengladbach,Lukas Ullrich,Tony Jantschke,0.0,0.0,0.0
+106573,1249,32,Borussia Mönchengladbach,Lukas Ullrich,Marvin Friedrich,0.0,0.0,0.0
+106573,1902,32,Borussia Mönchengladbach,Lukas Ullrich,Alassane Pléa,0.0,0.0,0.0
+106573,4168,32,Borussia Mönchengladbach,Lukas Ullrich,Robin Hack,0.0,0.0,0.0
+106573,9293,32,Borussia Mönchengladbach,Lukas Ullrich,Stefan Lainer,0.0,0.0,0.0
+106573,9447,32,Borussia Mönchengladbach,Lukas Ullrich,Maximilian Wöber,0.0,0.0,0.0
+106573,10460,32,Borussia Mönchengladbach,Lukas Ullrich,Florian Neuhaus,0.0,0.0,0.0
+106573,16142,32,Borussia Mönchengladbach,Lukas Ullrich,Ko Itakura,1.0,38.14650166666667,2.359325129901601
+106573,21832,32,Borussia Mönchengladbach,Lukas Ullrich,Franck Honorat,0.0,0.0,0.0
+106573,31223,32,Borussia Mönchengladbach,Lukas Ullrich,Rocco Reitz,1.0,38.40665333333337,2.3433439831084804
+106573,32176,32,Borussia Mönchengladbach,Lukas Ullrich,Tomas Cvancara,0.0,0.0,0.0
+106573,33328,32,Borussia Mönchengladbach,Lukas Ullrich,Jonas Omlin,0.0,0.0,0.0
+106573,45493,32,Borussia Mönchengladbach,Lukas Ullrich,Jordan,0.0,0.0,0.0
+106573,47830,32,Borussia Mönchengladbach,Lukas Ullrich,Nathan Ngoumou,0.0,0.0,0.0
+106573,48270,32,Borussia Mönchengladbach,Lukas Ullrich,Manu Koné,0.0,0.0,0.0
+106573,48597,32,Borussia Mönchengladbach,Lukas Ullrich,Joe Scally,0.0,0.0,0.0
+106573,49344,32,Borussia Mönchengladbach,Lukas Ullrich,Luca Netz,0.0,0.0,0.0
+106573,90010,32,Borussia Mönchengladbach,Lukas Ullrich,Grant-Leon Ranos,0.0,0.0,0.0
+106573,99755,32,Borussia Mönchengladbach,Lukas Ullrich,Yvandro Borges Sanches,0.0,0.0,0.0
+106573,106696,32,Borussia Mönchengladbach,Lukas Ullrich,Fabio Chiarodia,0.0,0.0,0.0
+106573,158837,32,Borussia Mönchengladbach,Lukas Ullrich,Shio Fukuda,0.0,0.0,0.0
+106696,183,32,Borussia Mönchengladbach,Fabio Chiarodia,Julian Weigl,2.0,21.518068333333336,8.3650631279558
+106696,568,32,Borussia Mönchengladbach,Fabio Chiarodia,Nico Elvedi,22.0,207.34077,9.549496705351293
+106696,810,32,Borussia Mönchengladbach,Fabio Chiarodia,Christoph Kramer,2.0,31.74968666666667,5.669347288046727
+106696,1046,32,Borussia Mönchengladbach,Fabio Chiarodia,Patrick Herrmann,0.0,0.0,0.0
+106696,1185,32,Borussia Mönchengladbach,Fabio Chiarodia,Moritz Nicolas,10.0,239.6441683333333,3.755568125272066
+106696,1190,32,Borussia Mönchengladbach,Fabio Chiarodia,Tony Jantschke,0.0,0.0,0.0
+106696,1249,32,Borussia Mönchengladbach,Fabio Chiarodia,Marvin Friedrich,4.0,241.61481833333335,1.489974838808693
+106696,1902,32,Borussia Mönchengladbach,Fabio Chiarodia,Alassane Pléa,6.0,216.45285166666665,2.494769626928223
+106696,4168,32,Borussia Mönchengladbach,Fabio Chiarodia,Robin Hack,3.0,209.11188499999997,1.2911748177297528
+106696,9293,32,Borussia Mönchengladbach,Fabio Chiarodia,Stefan Lainer,0.0,0.0,0.0
+106696,9447,32,Borussia Mönchengladbach,Fabio Chiarodia,Maximilian Wöber,0.0,0.0,0.0
+106696,10460,32,Borussia Mönchengladbach,Fabio Chiarodia,Florian Neuhaus,0.0,0.0,0.0
+106696,16142,32,Borussia Mönchengladbach,Fabio Chiarodia,Ko Itakura,5.0,200.68124999999998,2.242361954592171
+106696,21832,32,Borussia Mönchengladbach,Fabio Chiarodia,Franck Honorat,1.0,25.798268333333333,3.488606244308
+106696,31223,32,Borussia Mönchengladbach,Fabio Chiarodia,Rocco Reitz,1.0,241.3922533333333,0.3728371509740247
+106696,32176,32,Borussia Mönchengladbach,Fabio Chiarodia,Tomas Cvancara,3.0,204.7400033333333,1.3187457048167481
+106696,33328,32,Borussia Mönchengladbach,Fabio Chiarodia,Jonas Omlin,0.0,0.0,0.0
+106696,45493,32,Borussia Mönchengladbach,Fabio Chiarodia,Jordan,0.0,0.0,0.0
+106696,47830,32,Borussia Mönchengladbach,Fabio Chiarodia,Nathan Ngoumou,0.0,0.0,0.0
+106696,48270,32,Borussia Mönchengladbach,Fabio Chiarodia,Manu Koné,2.0,28.296716666666665,6.3611620429460904
+106696,48597,32,Borussia Mönchengladbach,Fabio Chiarodia,Joe Scally,6.0,239.57060166666662,2.254032824742597
+106696,49344,32,Borussia Mönchengladbach,Fabio Chiarodia,Luca Netz,4.0,41.914603333333346,8.5888919701097
+106696,90010,32,Borussia Mönchengladbach,Fabio Chiarodia,Grant-Leon Ranos,0.0,0.0,0.0
+106696,99755,32,Borussia Mönchengladbach,Fabio Chiarodia,Yvandro Borges Sanches,0.0,0.0,0.0
+106696,106573,32,Borussia Mönchengladbach,Fabio Chiarodia,Lukas Ullrich,0.0,0.0,0.0
+106696,158837,32,Borussia Mönchengladbach,Fabio Chiarodia,Shio Fukuda,0.0,0.0,0.0
+158837,183,32,Borussia Mönchengladbach,Shio Fukuda,Julian Weigl,0.0,0.0,0.0
+158837,568,32,Borussia Mönchengladbach,Shio Fukuda,Nico Elvedi,0.0,0.0,0.0
+158837,810,32,Borussia Mönchengladbach,Shio Fukuda,Christoph Kramer,0.0,0.0,0.0
+158837,1046,32,Borussia Mönchengladbach,Shio Fukuda,Patrick Herrmann,0.0,0.0,0.0
+158837,1185,32,Borussia Mönchengladbach,Shio Fukuda,Moritz Nicolas,0.0,0.0,0.0
+158837,1190,32,Borussia Mönchengladbach,Shio Fukuda,Tony Jantschke,0.0,0.0,0.0
+158837,1249,32,Borussia Mönchengladbach,Shio Fukuda,Marvin Friedrich,0.0,0.0,0.0
+158837,1902,32,Borussia Mönchengladbach,Shio Fukuda,Alassane Pléa,0.0,0.0,0.0
+158837,4168,32,Borussia Mönchengladbach,Shio Fukuda,Robin Hack,0.0,0.0,0.0
+158837,9293,32,Borussia Mönchengladbach,Shio Fukuda,Stefan Lainer,0.0,0.0,0.0
+158837,9447,32,Borussia Mönchengladbach,Shio Fukuda,Maximilian Wöber,0.0,0.0,0.0
+158837,10460,32,Borussia Mönchengladbach,Shio Fukuda,Florian Neuhaus,0.0,0.0,0.0
+158837,16142,32,Borussia Mönchengladbach,Shio Fukuda,Ko Itakura,0.0,0.0,0.0
+158837,21832,32,Borussia Mönchengladbach,Shio Fukuda,Franck Honorat,0.0,0.0,0.0
+158837,31223,32,Borussia Mönchengladbach,Shio Fukuda,Rocco Reitz,0.0,0.0,0.0
+158837,32176,32,Borussia Mönchengladbach,Shio Fukuda,Tomas Cvancara,0.0,0.0,0.0
+158837,33328,32,Borussia Mönchengladbach,Shio Fukuda,Jonas Omlin,0.0,0.0,0.0
+158837,45493,32,Borussia Mönchengladbach,Shio Fukuda,Jordan,0.0,0.0,0.0
+158837,47830,32,Borussia Mönchengladbach,Shio Fukuda,Nathan Ngoumou,0.0,0.0,0.0
+158837,48270,32,Borussia Mönchengladbach,Shio Fukuda,Manu Koné,0.0,0.0,0.0
+158837,48597,32,Borussia Mönchengladbach,Shio Fukuda,Joe Scally,0.0,0.0,0.0
+158837,49344,32,Borussia Mönchengladbach,Shio Fukuda,Luca Netz,0.0,0.0,0.0
+158837,90010,32,Borussia Mönchengladbach,Shio Fukuda,Grant-Leon Ranos,0.0,0.0,0.0
+158837,99755,32,Borussia Mönchengladbach,Shio Fukuda,Yvandro Borges Sanches,0.0,0.0,0.0
+158837,106573,32,Borussia Mönchengladbach,Shio Fukuda,Lukas Ullrich,0.0,0.0,0.0
+158837,106696,32,Borussia Mönchengladbach,Shio Fukuda,Fabio Chiarodia,0.0,0.0,0.0

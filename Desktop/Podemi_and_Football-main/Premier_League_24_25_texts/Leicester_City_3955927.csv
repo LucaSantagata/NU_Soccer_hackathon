@@ -1,0 +1,553 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry,Jamie Vardy-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Duel,Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass,Conor Coady-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Ball Receipt-Carry-Ball Receipt-Pass,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Wout Faes-Wout Faes-Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Miscontrol-Pressure,James Justin-James Justin-James Justin-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pass,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Onyinye Wilfred Ndidi-Luke Thomas-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Luke Thomas-Luke Thomas-Luke Thomas-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Dispossessed,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Wout Faes-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Mads Hermansen-Jamie Vardy-Mads Hermansen-Mads Hermansen-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Duel,Luke Thomas-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Pressure,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Miscontrol-Pressure,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luke Thomas-Conor Coady-Conor Coady-Conor Coady-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,James Justin-Wout Faes-Wout Faes-Wout Faes-Boubakary Soumaré-Boubakary Soumaré-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen-Boubakary Soumaré-Boubakary Soumaré-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Dispossessed,Mads Hermansen-Luke Thomas-Luke Thomas-Luke Thomas-Bilal El Khannous-Bilal El Khannous-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boubakary Soumaré-Luke Thomas-Luke Thomas-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Luke Thomas-Luke Thomas-Wout Faes-Wout Faes-Wout Faes-James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Luke Thomas-Luke Thomas-Luke Thomas-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-James Justin-James Justin-James Justin-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Foul Committed,Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Bilal El Khannous-Patson Daka-Patson Daka-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Patson Daka-Patson Daka-Patson Daka-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Pressure-Ball Receipt,Boubakary Soumaré-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Dribble,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-James Justin-James Justin-James Justin-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Conor Coady-Conor Coady-Conor Coady-Patson Daka-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt,Luke Thomas-Luke Thomas-Luke Thomas-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+50/50-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Boubakary Soumaré-Boubakary Soumaré-Jamie Vardy-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boubakary Soumaré-Conor Coady-Luke Thomas-Luke Thomas-Luke Thomas-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luke Thomas-Mads Hermansen-Mads Hermansen-Mads Hermansen-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mads Hermansen-Luke Thomas-Luke Thomas-Luke Thomas-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry,Bilal El Khannous-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Victor Bernth Kristansen-Victor Bernth Kristansen-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Dispossessed,Luke Thomas-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Luke Thomas-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Carry,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry,Bilal El Khannous-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Boubakary Soumaré-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Mads Hermansen-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass,Luke Thomas-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dispossessed,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Bilal El Khannous-Victor Bernth Kristansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Victor Bernth Kristansen-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception-Pressure,Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass,Onyinye Wilfred Ndidi-Jamie Vardy-Jamie Vardy-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,James Justin-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Carry,Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Wout Faes-Wout Faes-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Conor Coady-Conor Coady-Conor Coady-Patson Daka-Patson Daka-Patson Daka-James Justin-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Miscontrol,Patson Daka-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Jamie Vardy-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Carry-Miscontrol-Pressure,Jamie Vardy-Jamie Vardy-Jamie Vardy-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribble-Carry,Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Pressure,Mads Hermansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Dribble-Carry,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dispossessed,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Onyinye Wilfred Ndidi-Conor Coady-Mads Hermansen-Mads Hermansen-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen-Mads Hermansen-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Luke Thomas-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-James Justin-James Justin-James Justin-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dispossessed,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,James Justin-Boubakary Soumaré-Boubakary Soumaré-James Justin-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance-Ball Recovery-Carry,Wout Faes-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass,Patson Daka-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Carry-Miscontrol-Error-Pressure,Mads Hermansen-Mads Hermansen-Mads Hermansen-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Mads Hermansen-Jamie Vardy-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Conor Coady-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Boubakary Soumaré-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Duel,Mads Hermansen-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Conor Coady-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Mads Hermansen-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Onyinye Wilfred Ndidi-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper-Ball Recovery-Carry-Pass,Wout Faes-Mads Hermansen-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Pressure,Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Jamie Vardy-Jamie Vardy-Jamie Vardy-Victor Bernth Kristansen-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Foul Committed,Jamie Vardy-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper-Pressure,James Justin-Mads Hermansen-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper,Onyinye Wilfred Ndidi-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Block,Jamie Vardy-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pressure,Mads Hermansen-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Victor Bernth Kristansen-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mads Hermansen-Mads Hermansen-Mads Hermansen-Conor Coady-Conor Coady-Conor Coady-Wout Faes-Wout Faes-Wout Faes-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Pressure,Mads Hermansen-Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper-Pressure,James Justin-Mads Hermansen-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Duel,Mads Hermansen-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jamie Vardy,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pass,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Dispossessed,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Luke Thomas-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Wout Faes-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper,Wout Faes-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Mads Hermansen-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Bilal El Khannous-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Dribble,Patson Daka-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Luke Thomas-Luke Thomas-Luke Thomas-Conor Coady-Conor Coady-Conor Coady-Wout Faes-Wout Faes-Wout Faes-James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-James Justin-James Justin-James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Luke Thomas-Luke Thomas-Luke Thomas-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Luke Thomas-Luke Thomas-Luke Thomas-Patson Daka-Patson Daka-Patson Daka-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Boubakary Soumaré-Boubakary Soumaré-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bilal El Khannous-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Luke Thomas-Luke Thomas-Luke Thomas-Conor Coady-Conor Coady-Conor Coady-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception-Carry,Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Pass,Wout Faes-Mads Hermansen-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Duel,Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass,Patson Daka-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Patson Daka-Patson Daka-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Substitution-Tactical Shift,Jamie Vardy-Unknown,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure-Pressure,James Justin-Onyinye Wilfred Ndidi-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Bilal El Khannous-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Bilal El Khannous-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt,Mads Hermansen-Bilal El Khannous-Bilal El Khannous-James Justin-James Justin-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Mads Hermansen-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Foul Committed,Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pass-Ball Receipt-Carry-Pass,Luke Thomas-Wout Faes-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bilal El Khannous-Bilal El Khannous-Bilal El Khannous-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Conor Coady-Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Oliver Skipp-Oliver Skipp-Oliver Skipp-Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Dispossessed,Bilal El Khannous-Bilal El Khannous-Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper-Clearance-Ball Recovery,Luke Thomas-Mads Hermansen-James Justin-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Carry,Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper,Conor Coady-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-50/50,Victor Bernth Kristansen-Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Bilal El Khannous,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Victor Bernth Kristansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Victor Bernth Kristansen-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Substitution-Substitution-Pass-Tactical Shift-Ball Receipt-Carry,Mads Hermansen-Victor Bernth Kristansen-Bilal El Khannous-Conor Coady-Unknown-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt,Mads Hermansen-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass,James Justin-James Justin-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Onyinye Wilfred Ndidi-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Luke Thomas-Luke Thomas-Luke Thomas-Oliver Skipp-Oliver Skipp-Oliver Skipp-Wout Faes-Wout Faes-Wout Faes-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Luke Thomas-Luke Thomas-Luke Thomas-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Conor Coady-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mads Hermansen-Mads Hermansen-Mads Hermansen-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Miscontrol,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Committed,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Pass-Ball Receipt,Wout Faes-Conor Coady-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Miscontrol,Mads Hermansen-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass,Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,James Justin-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Luke Thomas-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Boubakary Soumaré-Memeh Caleb Okoli-Oliver Skipp-Oliver Skipp-Memeh Caleb Okoli-Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt,Mads Hermansen-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dispossessed,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Committed,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass,Conor Coady-Mads Hermansen-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Committed,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception-Pressure,Memeh Caleb Okoli-Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mads Hermansen-Mads Hermansen-Mads Hermansen-Wout Faes-Wout Faes-Wout Faes-Boubakary Soumaré-Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Boubakary Soumaré-Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Justin-James Justin-James Justin-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Ball Receipt,Conor Coady-Mads Hermansen-Mads Hermansen-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Foul Committed,James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Boubakary Soumaré,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Pressure,Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Onyinye Wilfred Ndidi-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Facundo Valentín Buonanotte-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Luke Thomas-Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Shield-Substitution-Tactical Shift-Pass-Ball Receipt,Memeh Caleb Okoli-Boubakary Soumaré-Unknown-Conor Coady-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Duel,Mads Hermansen-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Pass,Luke Thomas-Luke Thomas-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure,Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Foul Committed,Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass,Oliver Skipp-Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Pressure,Oliver Skipp-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Conor Coady-Conor Coady-Conor Coady-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patson Daka-Patson Daka-Patson Daka-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass,Conor Coady-Patson Daka-Patson Daka-Patson Daka,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Wout Faes-Wout Faes-Wout Faes-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Wout Faes-Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry,Patson Daka-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribble-Carry,Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Substitution-Pass,Ricardo Domingos Barbosa Pereira-Patson Daka-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Miscontrol-Ball Receipt,James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luke Thomas-Mads Hermansen-Mads Hermansen-Luke Thomas-Luke Thomas-Luke Thomas-Wout Faes-Wout Faes-Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass,Jordan Ayew-Jordan Ayew-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Wout Faes-Wout Faes-Conor Coady-Conor Coady,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Pressure,Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Pressure,Onyinye Wilfred Ndidi-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Pressure,Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception-Pressure,James Justin-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past-Pressure-Foul Committed,Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mads Hermansen-Mads Hermansen-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Luke Thomas-Luke Thomas-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Pressure,James Justin-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,James Justin-Wout Faes-Wout Faes-Wout Faes-Conor Coady-Conor Coady-Conor Coady-Wout Faes-Wout Faes-Wout Faes-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Recovery-Carry,Jordan Ayew-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jordan Ayew-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Luke Thomas-Luke Thomas-Luke Thomas-Memeh Caleb Okoli-Memeh Caleb Okoli-Memeh Caleb Okoli-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry,Onyinye Wilfred Ndidi-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ricardo Domingos Barbosa Pereira-Wout Faes-Wout Faes-Wout Faes-James Justin-James Justin,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Justin-Wout Faes-Jordan Ayew-Jordan Ayew-Jordan Ayew-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Dispossessed,Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Offside,Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel-Pass-Ball Receipt-Carry-Pass,Facundo Valentín Buonanotte-Jordan Ayew-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jordan Ayew-Jordan Ayew-Jordan Ayew-Luke Thomas-Luke Thomas-Luke Thomas-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Shot,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure-Foul Committed,Oliver Skipp-Oliver Skipp,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Block-Goal Keeper-Pressure,Onyinye Wilfred Ndidi-Mads Hermansen-Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Goal Keeper,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Mads Hermansen,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Shield,Memeh Caleb Okoli,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Luke Thomas,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry,Jordan Ayew-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribble-Carry,Jordan Ayew-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dispossessed,Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Duel,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Facundo Valentín Buonanotte,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Interception,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Clearance-Pressure,Wout Faes-Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Dribbled Past,Jordan Ayew,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pressure,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Wout Faes,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Ball Receipt-Carry-Dribble-Carry,Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521
+Pass,Ricardo Domingos Barbosa Pereira,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445805,0.6599979886267521

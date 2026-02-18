@@ -1,0 +1,533 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Block-Pressure,Aihen Muñoz Capellán-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Takefusa Kubo-Brais Méndez Portela-Brais Méndez Portela-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Shot,Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Foul Committed,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Ball Recovery-Carry,Nayef Aguerd-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Brais Méndez Portela-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Jon Mikel Aramburu Mejías-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt,Sergio Gómez Martín-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pass,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass,Luka Sučić-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Ball Recovery-Carry,Martín Zubimendi Ibáñez-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Takefusa Kubo-Brais Méndez Portela-Brais Méndez Portela-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Shot,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Nayef Aguerd-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Brais Méndez Portela-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-50/50,Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past-Pressure,Nayef Aguerd-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Block-Clearance,Aritz Elustondo Irribaria-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass,Nayef Aguerd-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Pressure,Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Martín Zubimendi Ibáñez-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Luka Sučić-Luka Sučić-Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Duel,Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry,Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass-Ball Receipt,Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Dribble,Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass,Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Jon Mikel Aramburu Mejías-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Luka Sučić-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Takefusa Kubo-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Dribble,Luka Sučić-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Takefusa Kubo-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Luka Sučić-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Block,Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+50/50,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past-Pressure,Aihen Muñoz Capellán-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Carry-Pass-Ball Receipt,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Takefusa Kubo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Mikel Oyarzabal Ugarte-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Shot,Takefusa Kubo-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Luka Sučić-Luka Sučić-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Luka Sučić-Luka Sučić-Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Nayef Aguerd-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alejandro Remiro Gargallo-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Takefusa Kubo-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Pressure,Aihen Muñoz Capellán-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pressure,Aihen Muñoz Capellán-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Clearance-Pressure,Jon Mikel Aramburu Mejías-Martín Zubimendi Ibáñez-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass,Alejandro Remiro Gargallo-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Miscontrol,Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pressure,Nayef Aguerd-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper,Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pressure,Takefusa Kubo-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Martín Zubimendi Ibáñez-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Interception-Carry-Pass,Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass,Luka Sučić-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Luka Sučić-Luka Sučić-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Luka Sučić-Luka Sučić-Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić-Luka Sučić-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Luka Sučić-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt,Brais Méndez Portela-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Block,Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić-Luka Sučić-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić-Luka Sučić-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass,Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Aihen Muñoz Capellán-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Luka Sučić-Luka Sučić-Luka Sučić-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić-Luka Sučić-Luka Sučić-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Takefusa Kubo-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Takefusa Kubo-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Luka Sučić-Luka Sučić-Luka Sučić-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Martín Zubimendi Ibáñez-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić-Luka Sučić-Luka Sučić-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Sergio Gómez Martín-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Luka Sučić-Luka Sučić-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Luka Sučić-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Dribble,Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Takefusa Kubo-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past-Pressure,Brais Méndez Portela-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Luka Sučić-Luka Sučić-Luka Sučić-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Brais Méndez Portela-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Foul Committed,Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alejandro Remiro Gargallo-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Shield-Pass-Duel,Luka Sučić-Aihen Muñoz Capellán-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Pressure-Foul Committed,Martín Zubimendi Ibáñez-Sergio Gómez Martín-Sergio Gómez Martín-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jon Mikel Aramburu Mejías-Mikel Oyarzabal Ugarte-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Luka Sučić-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Pressure,Brais Méndez Portela-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pressure,Alejandro Remiro Gargallo-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Luka Sučić-Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Sergio Gómez Martín-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić-Luka Sučić-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Aritz Elustondo Irribaria-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt,Alejandro Remiro Gargallo-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Ball Recovery,Sergio Gómez Martín-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pressure,Jon Mikel Aramburu Mejías-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Jon Mikel Aramburu Mejías-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pass,Martín Zubimendi Ibáñez-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Shot,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass,Alejandro Remiro Gargallo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aritz Elustondo Irribaria-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt,Aritz Elustondo Irribaria-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Brais Méndez Portela-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass,Luka Sučić-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Aihen Muñoz Capellán-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Luka Sučić-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Luka Sučić-Luka Sučić-Luka Sučić-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper,Nayef Aguerd-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt,Sergio Gómez Martín-Sergio Gómez Martín-Sergio Gómez Martín-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Sergio Gómez Martín-Sergio Gómez Martín-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Luka Sučić-Luka Sučić-Luka Sučić-Nayef Aguerd-Nayef Aguerd-Nayef Aguerd-Luka Sučić-Luka Sučić-Luka Sučić-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nayef Aguerd-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Jon Mikel Aramburu Mejías-Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Pressure,Alejandro Remiro Gargallo-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Mikel Oyarzabal Ugarte-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt,Nayef Aguerd-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry,Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aritz Elustondo Irribaria,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Duel,Brais Méndez Portela-Sergio Gómez Martín,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Substitution-Pass,Sergio Gómez Martín-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Dribble,Aihen Muñoz Capellán-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Pressure,Mikel Oyarzabal Ugarte-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble-Carry,Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Pass-Duel,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Nayef Aguerd-Nayef Aguerd-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Pressure,Mikel Oyarzabal Ugarte-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Ball Recovery-Carry-Pass,Ander Barrenetxea Muguruza-Brais Méndez Portela-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Pass-Player Off-Foul Committed,Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo-Martín Zubimendi Ibáñez-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Player On,Ander Barrenetxea Muguruza-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass,Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ander Barrenetxea Muguruza-Luka Sučić-Luka Sučić-Luka Sučić-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Shot,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Offside,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Brais Méndez Portela-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol,Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Foul Committed,Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Pressure-Foul Committed,Luka Sučić-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Miscontrol-Substitution-Substitution,Alejandro Remiro Gargallo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Aritz Elustondo Irribaria-Brais Méndez Portela,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Duel,Jon Pacheco Dozagarat-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Duel,Jon Mikel Aramburu Mejías-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Tactical Shift,Takefusa Kubo-Unknown,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Dribble,Takefusa Kubo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper-Ball Recovery-Carry,Aihen Muñoz Capellán-Alejandro Remiro Gargallo-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Jon Pacheco Dozagarat,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Ander Barrenetxea Muguruza-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Clearance,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel-Pass-Pressure,Martín Zubimendi Ibáñez-Jon Ander Olasagasti Imizcoz-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Interception-Carry,Jon Pacheco Dozagarat-Jon Pacheco Dozagarat,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Jon Pacheco Dozagarat,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Foul Committed,Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper-Ball Recovery-Carry,Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Takefusa Kubo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Mikel Oyarzabal Ugarte-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+50/50-Carry,Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Mikel Oyarzabal Ugarte-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Luka Sučić-Takefusa Kubo-Takefusa Kubo-Takefusa Kubo-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Duel,Alejandro Remiro Gargallo-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Jon Ander Olasagasti Imizcoz-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ander Barrenetxea Muguruza-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Luka Sučić-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aihen Muñoz Capellán-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Ander Barrenetxea Muguruza-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jon Ander Olasagasti Imizcoz-Takefusa Kubo-Takefusa Kubo-Mikel Oyarzabal Ugarte-Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Mikel Oyarzabal Ugarte,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luka Sučić-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Aihen Muñoz Capellán-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Ander Barrenetxea Muguruza-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ander Barrenetxea Muguruza-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Pacheco Dozagarat-Jon Pacheco Dozagarat-Jon Pacheco Dozagarat-Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Nayef Aguerd-Martín Zubimendi Ibáñez-Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Martín Zubimendi Ibáñez-Alejandro Remiro Gargallo-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Substitution-Substitution-Pass-Ball Receipt-Pass,Mikel Oyarzabal Ugarte-Takefusa Kubo-Aihen Muñoz Capellán-Luka Sučić-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Nayef Aguerd-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Luka Sučić-Luka Sučić-Luka Sučić-Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Miscontrol-Pressure,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Interception,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry,Pablo Marín Tejada-Pablo Marín Tejada-Pablo Marín Tejada-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass,Jon Ander Olasagasti Imizcoz-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ander Barrenetxea Muguruza-Jon Pacheco Dozagarat-Jon Pacheco Dozagarat-Jon Pacheco Dozagarat-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Miscontrol,Pablo Marín Tejada-Pablo Marín Tejada-Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Foul Committed,Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Receipt-Carry-Miscontrol,Pablo Marín Tejada-Pablo Marín Tejada-Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry,Nayef Aguerd-Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribble,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper-Clearance-Clearance,Nayef Aguerd-Alejandro Remiro Gargallo-Jon Ander Olasagasti Imizcoz-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Pablo Marín Tejada-Pablo Marín Tejada-Orri Steinn Óskarsson-Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dispossessed,Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jon Ander Olasagasti Imizcoz-Luka Sučić-Luka Sučić-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Pacheco Dozagarat,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Pass,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Pass,Jon Ander Olasagasti Imizcoz-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Bad Behaviour,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pass-Ball Receipt-Carry,Pablo Marín Tejada-Orri Steinn Óskarsson-Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Shot,Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Ball Recovery-Carry-Pass-Ball Receipt,Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Jon Mikel Aramburu Mejías-Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past-Foul Committed,Aihen Muñoz Capellán-Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Jon Pacheco Dozagarat,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Block-Goal Keeper,Jon Mikel Aramburu Mejías-Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pressure,Jon Mikel Aramburu Mejías-Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Nayef Aguerd,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Duel,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Jon Ander Olasagasti Imizcoz-Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure-Pressure,Jon Ander Olasagasti Imizcoz-Ander Barrenetxea Muguruza,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past,Jon Ander Olasagasti Imizcoz,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Interception,Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Clearance-Pressure,Jon Mikel Aramburu Mejías-Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Duel,Aihen Muñoz Capellán,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Alejandro Remiro Gargallo-Alejandro Remiro Gargallo-Pablo Marín Tejada-Pablo Marín Tejada-Pablo Marín Tejada-Pablo Marín Tejada,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Luka Sučić,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Dribbled Past-Pressure,Luka Sučić-Orri Steinn Óskarsson,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Jon Mikel Aramburu Mejías,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Pressure,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Foul Committed,Martín Zubimendi Ibáñez,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907
+Goal Keeper,Alejandro Remiro Gargallo,3946577,Real Sociedad,Won,1,0,First half,1.044300605946587,0.7886158057809907

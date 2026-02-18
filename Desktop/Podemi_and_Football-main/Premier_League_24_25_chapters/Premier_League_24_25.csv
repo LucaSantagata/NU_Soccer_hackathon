@@ -1,0 +1,761 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Pass-Ball Receipt,Marcus Tavernier-Dean Donny Huijsen-Dean Donny Huijsen-Dango Aboubacar Faissal Ouattara,3955632,AFC Bournemouth,Drawn,1,1,First half,0.8703153205701016,0.8207819762734057
+Pressure,Justin Kluivert,3955649,AFC Bournemouth,Drawn,1,1,First half,1.2520415978432768,0.7686164275680718
+Tactical Shift-Pressure,Unknown-Marcus Tavernier,3955653,AFC Bournemouth,Won,3,2,First half,1.3647365189779677,0.7524717725819726
+Block-Goal Keeper,Ryan Christie-Mark Travers,3955661,AFC Bournemouth,Lost,0,1,First half,1.274864885126455,0.7400620293695283
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lewis Cook-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Ryan Christie-Ryan Christie-Ryan Christie-Julian Vincente Araujo-Julian Vincente Araujo-Julian Vincente Araujo-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Julian Vincente Araujo-Julian Vincente Araujo-Julian Vincente Araujo-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo,3955671,AFC Bournemouth,Lost,0,3,First half,1.0361968967758584,0.7869428580855603
+Block-Clearance,Marcus Tavernier-Lewis Cook,3955690,AFC Bournemouth,Won,3,1,First half,1.1109577598468816,0.7734474022450485
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marcos Senesi-Lewis Cook-Lewis Cook-Lewis Cook-Ryan Christie-Ryan Christie-Ryan Christie-Lewis Cook-Lewis Cook-Lewis Cook-Ryan Christie-Ryan Christie-Ryan Christie-Lewis Cook-Lewis Cook-Lewis Cook-Marcos Senesi-Marcos Senesi-Marcos Senesi-Lewis Cook-Lewis Cook-Lewis Cook-Marcos Senesi-Marcos Senesi-Marcos Senesi,3955696,AFC Bournemouth,Lost,0,1,First half,1.9652000492748485,0.6741999001778443
+Pressure,Alex Scott,3955702,AFC Bournemouth,Won,2,0,First half,1.31056140579011,0.7591951783373738
+Pressure,Justin Kluivert,3955719,AFC Bournemouth,Drawn,1,1,First half,0.486745672952133,0.9165413331021016
+Pressure,Lewis Cook,3955722,AFC Bournemouth,Won,2,1,First half,1.152088966248591,0.7595388527726826
+Pressure,Milos Kerkez,3955731,AFC Bournemouth,Lost,2,3,First half,1.1418437110888395,0.7996990211508922
+Pressure-Foul Committed,Lewis Cook-Lewis Cook,3955741,AFC Bournemouth,Lost,1,2,First half,0.8803656714207465,0.8256494381357635
+Pressure,Marcus Tavernier,3955760,AFC Bournemouth,Won,4,2,First half,1.4951921652816789,0.7233736146402786
+Pass,Adam Smith,3955761,AFC Bournemouth,Won,1,0,First half,1.5251428362861197,0.7147370754986949
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen,3955776,AFC Bournemouth,Won,2,1,First half,0.8221155054160943,0.8423113503410534
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Antoine Semenyo-Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Justin Kluivert,3955781,AFC Bournemouth,Drawn,1,1,First half,1.438911682993708,0.7503981321287161
+Block-Pass-Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo-Francisco Evanilson de Lima Barbosa-Francisco Evanilson de Lima Barbosa,3955798,AFC Bournemouth,Won,3,0,First half,1.693102888298741,0.7073683065225551
+Ball Receipt-Carry-Pass,Justin Kluivert-Justin Kluivert-Justin Kluivert,3955801,AFC Bournemouth,Drawn,0,0,First half,0.8231046701781461,0.8431820385838519
+Ball Receipt-Carry-Pass-Ball Receipt,Philip Billing-Philip Billing-Philip Billing-Illia Zabarnyi,3955815,AFC Bournemouth,Drawn,2,2,First half,1.028028897778022,0.799861918556038
+Pass,Ryan Christie,3955821,AFC Bournemouth,Won,1,0,Second half,1.5078598707520714,0.7468559632035244
+Dribbled Past,Ryan Christie,3955838,AFC Bournemouth,Drawn,2,2,Second half,1.593433686986148,0.7280441561492755
+Pass-Ball Receipt-Carry,David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shield,Milos Kerkez,3955851,AFC Bournemouth,Won,5,0,Second half,1.6266305776331706,0.7341631997038984
+Block,Milos Kerkez,3955861,AFC Bournemouth,Lost,0,2,Second half,1.75108481048214,0.7012001721018625
+Block,Illia Zabarnyi,3955878,AFC Bournemouth,Won,3,1,Second half,1.5018069831904306,0.7357325105888667
+Pressure,David Brooks,3955881,AFC Bournemouth,Lost,0,1,Second half,2.027109436595557,0.6830820726252568
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Justin Kluivert,3955892,AFC Bournemouth,Lost,1,2,Second half,1.6403097988459054,0.7112949016261574
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Justin Kluivert-Marcus Tavernier-Marcus Tavernier-Ryan Christie-Ryan Christie,3955908,AFC Bournemouth,Drawn,2,2,Second half,1.3941683430932756,0.7145718512019602
+Pass,Justin Kluivert,3955911,AFC Bournemouth,Lost,1,2,Second half,1.7522184843508213,0.7133254115588872
+Ball Recovery-Carry-Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Antoine Semenyo,3955921,AFC Bournemouth,Lost,1,2,Second half,1.5470655496729966,0.7348286347541815
+Pressure,Adam Smith,3955940,AFC Bournemouth,Drawn,2,2,Second half,1.1088097265720465,0.7655102209897179
+Pressure,Antoine Semenyo,3955941,AFC Bournemouth,Won,1,0,Second half,1.3984259663154692,0.7428289226771623
+Clearance,Dango Aboubacar Faissal Ouattara,3955953,AFC Bournemouth,Drawn,0,0,Second half,1.4899847345307813,0.7312865744727368
+Goal Keeper,Kepa Arrizabalaga Revuelta,3955961,AFC Bournemouth,Drawn,1,1,Second half,1.0558585712840842,0.7971146106547399
+Clearance,Dango Aboubacar Faissal Ouattara,3955971,AFC Bournemouth,Won,2,1,Second half,1.6414848405825333,0.7116283130699071
+Dispossessed,Adam Smith,3955981,AFC Bournemouth,Lost,0,1,Second half,1.1181707040537088,0.8279326188830087
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Julian Vincente Araujo-Julian Vincente Araujo-Julian Vincente Araujo-Tyler Adams-Tyler Adams,3955999,AFC Bournemouth,Lost,1,3,Second half,1.1302411078407315,0.7786934700252947
+Pass,Adam Smith,3956001,AFC Bournemouth,Won,2,0,Second half,2.1673667972034907,0.6879675655393016
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Thomas Teye Partey-David Raya Martin-David Raya Martin-David Raya Martin-Declan Rice,3955633,Arsenal,Won,2,0,First half,1.1347035463577342,0.7888145783433128
+Dispossessed,Bukayo Saka,3955643,Arsenal,Won,2,0,First half,1.121583021970275,0.8260860074944425
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jurriën David Norman Timber-Gabriel dos Santos Magalhães-Gabriel dos Santos Magalhães-William Saliba-William Saliba-Gabriel dos Santos Magalhães-Gabriel dos Santos Magalhães,3955651,Arsenal,Drawn,1,1,First half,1.6788084129386471,0.7106130682797768
+Pass-Ball Receipt,Leandro Trossard-Thomas Teye Partey,3955669,Arsenal,Won,1,0,First half,1.5928371246923372,0.7051987460897764
+Pressure,Ben White,3955680,Arsenal,Drawn,2,2,First half,1.7037910574893094,0.7049869329559808
+Duel-Pass-Ball Receipt-Carry,Thomas Teye Partey-Riccardo Calafiori-Gabriel dos Santos Magalhães-Gabriel dos Santos Magalhães,3955687,Arsenal,Won,4,2,First half,1.4376987668322123,0.7646322292121159
+Shot,Kai Havertz,3955700,Arsenal,Won,3,1,First half,1.1722299419552165,0.8060502049642874
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Declan Rice-Mikel Merino Zazón-Mikel Merino Zazón-Mikel Merino Zazón-Declan Rice-Declan Rice-Declan Rice-Riccardo Calafiori-Riccardo Calafiori-Riccardo Calafiori-Gabriel dos Santos Magalhães-Gabriel dos Santos Magalhães-Gabriel dos Santos Magalhães-Thomas Teye Partey-Thomas Teye Partey,3955702,Arsenal,Lost,0,2,First half,1.0231819079919344,0.8054259761794271
+Pass-Ball Receipt-Carry,Ben White-Thomas Teye Partey-Thomas Teye Partey,3955720,Arsenal,Drawn,2,2,First half,1.135281614434856,0.773512157616801
+Pressure-Pressure,Bukayo Saka-William Saliba,3955727,Arsenal,Lost,0,1,First half,1.2323596302389397,0.7665698400617875
+Pass,Bukayo Saka,3955733,Arsenal,Drawn,1,1,First half,1.6903729618663004,0.7165998001209041
+Pass-Ball Receipt,Martin Ødegaard-Leandro Trossard,3955742,Arsenal,Won,3,0,First half,1.5001900348472006,0.7632815196558573
+Shot,Bukayo Saka,3955759,Arsenal,Won,5,2,First half,1.6811373805198484,0.7183091047800739
+Pass-Ball Receipt-Shot,Martin Ødegaard-Bukayo Saka-Bukayo Saka,3955762,Arsenal,Won,2,0,First half,0.8323841624833459,0.8317423568040777
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jorge Luiz Frello Filho-Thomas Teye Partey-Thomas Teye Partey-Thomas Teye Partey-Martin Ødegaard-Martin Ødegaard,3955775,Arsenal,Drawn,1,1,First half,1.6305940636556864,0.7222362670824751
+Pressure,Bukayo Saka,3955782,Arsenal,Drawn,0,0,First half,1.425953773789619,0.7732134976257233
+Duel-Carry-Pass,Riccardo Calafiori-Riccardo Calafiori-Riccardo Calafiori,3955793,Arsenal,Won,5,1,First half,1.3991956227101725,0.7782988231930956
+Interception-Pressure,Kai Havertz-Kai Havertz,3955802,Arsenal,Won,1,0,First half,1.5303076678303489,0.7678319944106962
+Pass,William Saliba,3955812,Arsenal,Won,3,1,First half,1.5263560468409147,0.7754051579539469
+Pass,Gabriel Teodoro Martinelli Silva,3955823,Arsenal,Drawn,1,1,Second half,1.4995660354620777,0.7212546741079839
+Miscontrol,Leandro Trossard,3955831,Arsenal,Won,2,1,Second half,1.6320847983046618,0.7115882781856226
+Pressure,Gabriel dos Santos Magalhães,3955841,Arsenal,Drawn,2,2,Second half,1.1255114908336965,0.7944925094795398
+Ball Recovery-Pass,Jurriën David Norman Timber-Jurriën David Norman Timber,3955860,Arsenal,Won,1,0,Second half,1.7120982488428234,0.726266153273047
+Pressure,Martin Ødegaard,3955862,Arsenal,Won,5,1,Second half,0.8856577183314696,0.8417142243002996
+Pass-Ball Receipt-Carry-Pass,Thomas Teye Partey-Raheem Sterling-Raheem Sterling-Raheem Sterling,3955875,Arsenal,Won,2,0,Second half,1.8379227308066937,0.66773498277321
+Shot,Mikel Merino Zazón,3955882,Arsenal,Lost,0,1,Second half,1.243455195609478,0.7628158788794565
+Goal Keeper-Carry,David Raya Martin-David Raya Martin,3955893,Arsenal,Drawn,0,0,Second half,0.9416870730714338,0.8277478111130474
+Dribble-Carry,Ethan Chidiebere Nwaneri-Ethan Chidiebere Nwaneri,3955906,Arsenal,Drawn,1,1,Second half,1.3001254600759244,0.7761577643108563
+Pressure,William Saliba,3955912,Arsenal,Won,1,0,Second half,1.5652318641601244,0.7283840385845172
+Ball Recovery-Error,Jakub Piotr Kiwior-Jakub Piotr Kiwior,3955922,Arsenal,Won,2,1,Second half,1.347552159286922,0.7746542007236875
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,William Saliba-Ben White-Ben White-Ben White-David Raya Martin-David Raya Martin,3955934,Arsenal,Drawn,1,1,Second half,1.389458236483359,0.7415611124633619
+Duel,Jakub Piotr Kiwior,3955942,Arsenal,Drawn,1,1,Second half,1.5420196049164043,0.7327153126192277
+Pass-Ball Receipt,Ben White-Bukayo Saka,3955956,Arsenal,Won,4,0,Second half,1.3517290698623032,0.7830304090353359
+Pressure,Thomas Teye Partey,3955962,Arsenal,Drawn,2,2,Second half,1.3396736584584816,0.783137261211501
+Pressure,Declan Rice,3955971,Arsenal,Lost,1,2,Second half,0.9838217661476398,0.8129494676659977
+Block-Ball Recovery-Carry,Martin Ødegaard-Bukayo Saka-Bukayo Saka,3955984,Arsenal,Drawn,2,2,Second half,1.5529644240298084,0.7300326812466427
+Duel-Carry,Declan Rice-Declan Rice,3955991,Arsenal,Won,1,0,Second half,0.8158475934675975,0.842959078228974
+Duel,Bukayo Saka,3956008,Arsenal,Won,2,1,Second half,1.84221004526884,0.7240159763026066
+Pass-Ball Receipt,Lucas Digne-John McGinn,3955634,Aston Villa,Won,2,1,First half,1.734157756959918,0.7220219290599287
+Pressure,Lucas Digne,3955643,Aston Villa,Lost,0,2,First half,1.464164782007788,0.7600135907269036
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Youri Tielemans-Lucas Digne-Lucas Digne-Lucas Digne-Jacob Ramsey-Jacob Ramsey-Jacob Ramsey-Lucas Digne-Lucas Digne-Lucas Digne-Jhon Jáder Durán Palacio,3955655,Aston Villa,Won,2,1,First half,1.898766676812648,0.7173417314724897
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ross Barkley-Lamar Bogarde-Lamar Bogarde-Lamar Bogarde-Youri Tielemans-Youri Tielemans-Youri Tielemans-Jacob Ramsey-Jacob Ramsey-Jacob Ramsey-Youri Tielemans-Youri Tielemans-Youri Tielemans-Ross Barkley-Ross Barkley-Ross Barkley-Lamar Bogarde-Lamar Bogarde-Lamar Bogarde-John McGinn-John McGinn-John McGinn-Ollie Watkins,3955662,Aston Villa,Won,3,2,First half,1.5529818912521698,0.7644105173457633
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Morgan Rogers-Jhon Jáder Durán Palacio-Jhon Jáder Durán Palacio-Jhon Jáder Durán Palacio-Ross Barkley-Ross Barkley-Ross Barkley-Leon Bailey Butler-Leon Bailey Butler-Leon Bailey Butler-Morgan Rogers,3955673,Aston Villa,Won,3,1,First half,1.1856766822315292,0.7847151228474165
+Pass-Ball Receipt-Carry,Youri Tielemans-Morgan Rogers-Morgan Rogers,3955688,Aston Villa,Drawn,2,2,First half,1.599548741114615,0.7294719657697392
+Ball Recovery-Carry,Youri Tielemans-Youri Tielemans,3955699,Aston Villa,Drawn,0,0,First half,1.3954571076013351,0.7543265088485237
+Clearance,Matty Cash,3955703,Aston Villa,Won,3,1,First half,1.0926962181361726,0.8039634180966775
+Ball Receipt-Carry,Ross Barkley-Ross Barkley,3955719,Aston Villa,Drawn,1,1,First half,0.6672606058010859,0.8615169562369506
+Duel-Pass-Ball Receipt-Carry,John McGinn-Ezri Konsa Ngoyo-Diego Carlos Santos Silva-Diego Carlos Santos Silva,3955729,Aston Villa,Lost,1,4,First half,1.6269194700954417,0.7359077592316453
+Dribbled Past,Youri Tielemans,3955735,Aston Villa,Lost,0,2,First half,1.434316493072807,0.737346296869089
+Pressure,Morgan Rogers,3955743,Aston Villa,Drawn,2,2,First half,1.4170113390836525,0.7615491804261301
+Pass,Boubacar Kamara,3955753,Aston Villa,Lost,0,3,First half,2.0905847630649386,0.684602647385594
+Clearance,Lucas Digne,3955763,Aston Villa,Won,3,1,First half,1.164236082786451,0.7925555799944539
+Pressure,Lucas Digne,3955771,Aston Villa,Won,1,0,First half,1.4840752201812322,0.7192019979842128
+Block-Goal Keeper-Clearance,Matty Cash-Damián Emiliano Martínez-Ezri Konsa Ngoyo,3955788,Aston Villa,Lost,1,2,First half,1.576379784734813,0.7362237681902752
+Pressure,Morgan Rogers,3955791,Aston Villa,Won,2,1,First half,1.0994628330724403,0.7736415105972932
+Block-Pass-Ball Receipt,Boubacar Kamara-Damián Emiliano Martínez-Pau Francisco Torres,3955807,Aston Villa,Lost,0,3,First half,1.0283276439555369,0.7867856891891903
+Dispossessed,Youri Tielemans,3955811,Aston Villa,Drawn,2,2,First half,1.84993367221195,0.7033832225326312
+Pass-Ball Receipt-Carry,Boubacar Kamara-Matty Cash-Matty Cash,3955822,Aston Villa,Won,2,1,Second half,1.114031631847358,0.7882312427959834
+Pressure,Youri Tielemans,3955833,Aston Villa,Won,1,0,Second half,1.374781073965908,0.7474502074628349
+Duel,Lucas Digne,3955841,Aston Villa,Drawn,2,2,Second half,1.148201970585368,0.782608285368617
+Shot,Leon Bailey Butler,3955852,Aston Villa,Drawn,1,1,Second half,1.774307861387126,0.7097203520572407
+Ball Receipt-Carry,Morgan Rogers-Morgan Rogers,3955870,Aston Villa,Lost,0,2,Second half,1.8108343007359264,0.7111035868690668
+Duel,Ian Maatsen,3955871,Aston Villa,Drawn,1,1,Second half,1.4468228844263733,0.7393056489254619
+Pass,Matty Cash,3955883,Aston Villa,Won,2,1,Second half,1.1142644668440365,0.7988718064633991
+Pass-Ball Receipt-Carry,John McGinn-Lamar Bogarde-Lamar Bogarde,3955897,Aston Villa,Lost,1,4,Second half,1.5426661481364534,0.7125818247820789
+Pass,Tyrone Mings,3955901,Aston Villa,Won,1,0,Second half,1.655621860812215,0.7381563078383266
+Pressure-Pressure,Marco Asensio Willemsen-Youri Tielemans,3955913,Aston Villa,Drawn,2,2,Second half,1.244398437758229,0.7954520566560237
+Referee Ball-Drop,Unknown,3955923,Aston Villa,Won,3,0,Second half,1.1181399082477848,0.7550477798987408
+Pressure,Ian Maatsen,3955931,Aston Villa,Won,2,1,Second half,1.832169535487544,0.6845923554885345
+Dribble,Morgan Rogers,3955949,Aston Villa,Won,3,0,Second half,1.5035324638617915,0.7633026663014418
+Pass,Morgan Rogers,3955951,Aston Villa,Won,4,1,Second half,1.6057850364289843,0.7194517090119873
+Pass-Ball Receipt-Pass,Axel Disasi-Boubacar Kamara-Boubacar Kamara,3955966,Aston Villa,Lost,1,2,Second half,1.5703456394598754,0.6895207359357169
+Shot,Ollie Watkins,3955972,Aston Villa,Won,1,0,Second half,1.500412840870634,0.74810581398768
+Foul Won-Pass-Ball Receipt-Pass,Lucas Digne-Marco Asensio Willemsen-Matty Cash-Matty Cash,3955981,Aston Villa,Won,1,0,Second half,1.234377629775859,0.7752944562746816
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boubacar Kamara-Matty Cash-Matty Cash-Matty Cash-Ezri Konsa Ngoyo-Ezri Konsa Ngoyo-Ezri Konsa Ngoyo-Pau Francisco Torres-Pau Francisco Torres-Pau Francisco Torres-John McGinn-John McGinn-John McGinn-Ian Maatsen-Ian Maatsen,3955992,Aston Villa,Won,2,0,Second half,1.7324790999440982,0.7266833490065889
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Boubacar Kamara-Ezri Konsa Ngoyo-Ezri Konsa Ngoyo-Ezri Konsa Ngoyo-Boubacar Kamara-Boubacar Kamara,3956005,Aston Villa,Lost,0,2,Second half,1.6344136279150974,0.7181179862304206
+Pass,Mads Roerslev,3955638,Brentford,Won,2,1,First half,1.882874096658964,0.7194729658650244
+Dribbled Past,Mads Roerslev,3955650,Brentford,Lost,0,2,First half,1.3557604952947089,0.7392010125948906
+Pass-Ball Receipt-Shot,Vitaly Janelt-Bryan Mbeumo-Bryan Mbeumo,3955652,Brentford,Won,3,1,First half,1.22641990505654,0.7769294891601616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Christian Nørgaard-Christian Nørgaard-Christian Nørgaard-Ethan Pinnock-Ethan Pinnock,3955668,Brentford,Lost,1,2,First half,2.190282750701272,0.6564698875845967
+Pass-Ball Receipt-Carry,Ethan Pinnock-Mark Flekken-Mark Flekken,3955677,Brentford,Lost,1,3,First half,1.9361799910011432,0.6959488658316325
+Pass,Vitaly Janelt,3955685,Brentford,Drawn,1,1,First half,1.9783273198458573,0.6811151937945008
+Duel,Keane Lewis-Potter,3955691,Brentford,Won,5,3,First half,1.6973073752107533,0.7252059277588423
+Ball Receipt-Carry-Pass,Sepp van den Berg-Sepp van den Berg-Sepp van den Berg,3955706,Brentford,Lost,1,2,First half,1.1899245685880684,0.7912247726298294
+Pass-Ball Receipt,Ethan Pinnock-Sepp van den Berg,3955711,Brentford,Won,4,3,First half,1.290994201590867,0.7789402961367381
+Pass-Ball Receipt-Carry,Mark Flekken-Mikkel Damsgaard-Mikkel Damsgaard,3955723,Brentford,Lost,1,2,First half,1.6862684183121088,0.7136272920397547
+Pressure,Vitaly Janelt,3955731,Brentford,Won,3,2,First half,1.5007493343450355,0.746107701842792
+Block,Mathias Jensen,3955744,Brentford,Drawn,0,0,First half,1.3747194347654166,0.7813114348386717
+Pressure,Vitaly Janelt,3955751,Brentford,Won,4,1,First half,1.3460212368852205,0.7627656890239836
+Ball Recovery-Carry-Pass-Ball Receipt,Keane Lewis-Potter-Keane Lewis-Potter-Keane Lewis-Potter-Bryan Mbeumo,3955763,Brentford,Lost,1,3,First half,1.6433058913725351,0.743563454272348
+Pressure,Fabio Carvalho,3955772,Brentford,Won,4,2,First half,1.36276493492624,0.7431342407588343
+Ball Recovery-Carry-Pass-Ball Receipt-Injury Stoppage,Christian Nørgaard-Christian Nørgaard-Christian Nørgaard-Nathan Michael Collins-Christian Nørgaard,3955784,Brentford,Lost,1,2,First half,1.7304115297973428,0.7099833203799931
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Nørgaard-Christian Nørgaard-Christian Nørgaard-Nathan Michael Collins-Nathan Michael Collins-Nathan Michael Collins-Ben Mee-Ben Mee-Ben Mee-Bryan Mbeumo-Bryan Mbeumo,3955792,Brentford,Lost,0,2,First half,1.0331713097309785,0.8139113865600036
+Pressure,Bryan Mbeumo,3955803,Brentford,Drawn,0,0,First half,1.218591062318808,0.7721203477000925
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nathan Michael Collins-Mads Roerslev-Mads Roerslev-Mads Roerslev-Sepp van den Berg-Sepp van den Berg-Sepp van den Berg-Ehor Yarmolyuk-Ehor Yarmolyuk-Ehor Yarmolyuk-Sepp van den Berg-Sepp van den Berg-Sepp van den Berg-Nathan Michael Collins-Nathan Michael Collins-Nathan Michael Collins-Sepp van den Berg-Sepp van den Berg-Sepp van den Berg-Ehor Yarmolyuk-Ehor Yarmolyuk-Ehor Yarmolyuk-Nathan Michael Collins-Nathan Michael Collins-Nathan Michael Collins-Mark Flekken-Mark Flekken-Mark Flekken-Mads Roerslev-Mads Roerslev-Mads Roerslev-Mikkel Damsgaard-Mikkel Damsgaard-Mikkel Damsgaard-Vitaly Janelt-Vitaly Janelt-Vitaly Janelt-Sepp van den Berg-Sepp van den Berg-Sepp van den Berg-Keane Lewis-Potter-Keane Lewis-Potter-Keane Lewis-Potter,3955812,Brentford,Lost,1,3,First half,0.8987954227072481,0.8294981092102367
+Clearance,Sepp van den Berg,3955828,Brentford,Won,5,0,Second half,1.7014355599878923,0.6993521544365116
+Clearance-Clearance,Sepp van den Berg-Christian Nørgaard,3955832,Brentford,Drawn,2,2,Second half,1.6374812606259994,0.7253853479680533
+Block-Pressure,Ehor Yarmolyuk-Ehor Yarmolyuk,3955842,Brentford,Lost,0,2,Second half,1.909481605888223,0.6931773132050884
+Pass-Ball Receipt-Pass,Mathias Jensen-Mads Roerslev-Mads Roerslev,3955854,Brentford,Won,2,1,Second half,1.299082538644727,0.7691371051178469
+Block-Pressure-Foul Committed,Vitaly Janelt-Vitaly Janelt-Vitaly Janelt,3955863,Brentford,Lost,0,2,Second half,1.5499094933622886,0.7315057022585648
+Ball Recovery-Carry,Keane Lewis-Potter-Keane Lewis-Potter,3955880,Brentford,Won,1,0,Second half,1.6242125407946042,0.7203788415272374
+Dribbled Past-Pressure,Ehor Yarmolyuk-Bryan Mbeumo,3955887,Brentford,Won,4,0,Second half,1.3632028187578928,0.7572082153701476
+Pressure-Foul Committed,Keane Lewis-Potter-Keane Lewis-Potter,3955891,Brentford,Drawn,1,1,Second half,1.4738969149405658,0.757975689410072
+Pressure,Mikkel Damsgaard,3955901,Brentford,Lost,0,1,Second half,0.9452519566550822,0.828105675673313
+Pass-Pressure,Kristoffer Vassbakk Ajer-Bryan Mbeumo,3955911,Brentford,Won,2,1,Second half,1.2686142090740775,0.7486378631556093
+Pressure,Mikkel Damsgaard,3955928,Brentford,Lost,1,2,Second half,1.5155313145036882,0.7311467803468712
+Pressure,Mikkel Damsgaard,3955932,Brentford,Drawn,0,0,Second half,1.4247786612486069,0.7489585639601003
+Interception,Christian Nørgaard,3955942,Brentford,Drawn,1,1,Second half,1.101848810777905,0.7800400166403805
+Pass-Ball Receipt,Kevin Schade-Nathan Michael Collins,3955952,Brentford,Won,4,2,Second half,1.7478659566185923,0.6964340711953662
+Dribbled Past-Pressure,Rico Henry-Ehor Yarmolyuk,3955968,Brentford,Won,2,0,Second half,1.9410695966849911,0.7005957473727134
+Duel-Carry,Michael Kayode-Michael Kayode,3955973,Brentford,Won,4,3,Second half,1.335458069379599,0.7607013041739284
+Duel-Carry-Pass,Michael Kayode-Michael Kayode-Michael Kayode,3955983,Brentford,Won,1,0,Second half,1.3641994505508055,0.7615220220505348
+Pass-Ball Receipt-Duel,Mikkel Damsgaard-Kristoffer Vassbakk Ajer-Sepp van den Berg,3955993,Brentford,Lost,2,3,Second half,2.0868043552043307,0.6724041843029285
+Dribbled Past-Pressure-Foul Committed,Christian Nørgaard-Yoane Wissa-Yoane Wissa,3956010,Brentford,Drawn,1,1,Second half,1.80894392247766,0.7027271499909673
+Pass-Ball Receipt-Duel,Lewis Dunk-Kaoru Mitoma-Kaoru Mitoma,3955637,Brighton & Hove Albion,Won,3,0,First half,1.355034632735412,0.7728583486972493
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Dunk-Billy Gilmour-Billy Gilmour-Billy Gilmour-João Pedro Junqueira de Jesus-João Pedro Junqueira de Jesus,3955644,Brighton & Hove Albion,Won,2,1,First half,1.158556846814777,0.759009730754006
+Pass-Ball Receipt,Joël Veltman-Yankuba Minteh,3955651,Brighton & Hove Albion,Drawn,1,1,First half,1.0209909077588004,0.8267535833664057
+Ball Recovery-Carry-Pass-Ball Receipt,Carlos Baleba-Carlos Baleba-Carlos Baleba-Georginio Rutter,3955663,Brighton & Hove Albion,Drawn,0,0,First half,1.1018623035213282,0.7907665583415069
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lewis Dunk-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Jack Hinshelwood-Jack Hinshelwood-Jack Hinshelwood-Jan Paul van Hecke-Jan Paul van Hecke-Jan Paul van Hecke-Joël Veltman,3955679,Brighton & Hove Albion,Drawn,2,2,First half,1.38423817454306,0.7676164510503691
+Ball Recovery-Carry,Yasin Abbas Ayari-Yasin Abbas Ayari,3955686,Brighton & Hove Albion,Lost,2,4,First half,1.912022962023588,0.7032409160941373
+Pressure,Carlos Baleba,3955692,Brighton & Hove Albion,Won,3,2,First half,1.2165128831742176,0.7612280623665731
+Ball Recovery-Carry,Yasin Abbas Ayari-Yasin Abbas Ayari,3955707,Brighton & Hove Albion,Won,1,0,First half,1.575013497020064,0.7139230925877904
+Pressure,Pervis Josué Estupiñán Tenorio,3955712,Brighton & Hove Albion,Drawn,2,2,First half,1.3388270562462792,0.7658530123271835
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Yasin Abbas Ayari-Yasin Abbas Ayari-Yasin Abbas Ayari-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio-Georginio Rutter,3955725,Brighton & Hove Albion,Lost,1,2,First half,1.6193949116020971,0.7026515472730465
+Pressure,Pervis Josué Estupiñán Tenorio,3955732,Brighton & Hove Albion,Won,2,1,First half,0.7112680861718038,0.8512111366080785
+Pass-Ball Receipt,João Pedro Junqueira de Jesus-Georginio Rutter,3955741,Brighton & Hove Albion,Won,2,1,First half,1.658340777738822,0.7248587903171143
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Yasin Abbas Ayari-Yasin Abbas Ayari-Yasin Abbas Ayari-João Pedro Junqueira de Jesus-João Pedro Junqueira de Jesus-João Pedro Junqueira de Jesus,3955752,Brighton & Hove Albion,Drawn,1,1,First half,0.4907146567092329,0.930911112300395
+Dribble-Carry,João Pedro Junqueira de Jesus-João Pedro Junqueira de Jesus,3955765,Brighton & Hove Albion,Lost,1,3,First half,1.4935439222040532,0.7361474908757862
+Duel-Carry,Georginio Rutter-Georginio Rutter,3955777,Brighton & Hove Albion,Drawn,2,2,First half,1.4341158185080547,0.7254460865127722
+Pass-Ball Receipt,Jan Paul van Hecke-João Pedro Junqueira de Jesus,3955783,Brighton & Hove Albion,Lost,1,3,First half,1.2185051095002808,0.7748969646519812
+Ball Receipt-Carry-Dispossessed,Brajan Gruda-Brajan Gruda-Brajan Gruda,3955800,Brighton & Hove Albion,Drawn,1,1,First half,1.2785999420086849,0.749311376805642
+Pressure,Kaoru Mitoma,3955803,Brighton & Hove Albion,Drawn,0,0,First half,1.4392868251567017,0.7566663116337202
+Pressure,Georginio Rutter,3955811,Brighton & Hove Albion,Drawn,2,2,First half,1.6447583600102735,0.7066544959267225
+Pressure-Pressure,Carlos Baleba-Yasin Abbas Ayari,3955823,Brighton & Hove Albion,Drawn,1,1,Second half,1.0100136194050813,0.7777197047220952
+Block,Pervis Josué Estupiñán Tenorio,3955834,Brighton & Hove Albion,Won,2,0,Second half,1.8345208916047424,0.7257391104278912
+Pressure,Jan Paul van Hecke,3955847,Brighton & Hove Albion,Won,3,1,Second half,1.0484965850196066,0.7839251707537077
+Pass-Ball Receipt-Carry,Kaoru Mitoma-Joël Veltman-Joël Veltman,3955853,Brighton & Hove Albion,Lost,0,1,Second half,1.281188001061973,0.7740823261054706
+Pressure,Evan Ferguson,3955869,Brighton & Hove Albion,Lost,0,7,Second half,1.3411713463292056,0.7553269366124106
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Tariq Lamptey-Kaoru Mitoma-Kaoru Mitoma-Kaoru Mitoma-Tariq Lamptey-Tariq Lamptey-Tariq Lamptey-Carlos Baleba-Carlos Baleba-Tariq Lamptey-Tariq Lamptey-Tariq Lamptey-Jack Hinshelwood-Jack Hinshelwood-Adam Webster-Adam Webster,3955872,Brighton & Hove Albion,Won,3,0,Second half,0.7752182033730952,0.7763696260995843
+Pressure,Georginio Rutter,3955890,Brighton & Hove Albion,Won,4,0,Second half,1.9370265234008208,0.6846847184016333
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Carlos Baleba-Carlos Baleba-Carlos Baleba-Diego Alexander Gómez Amarilla-Diego Alexander Gómez Amarilla-Diego Alexander Gómez Amarilla-Pervis Josué Estupiñán Tenorio-Pervis Josué Estupiñán Tenorio,3955892,Brighton & Hove Albion,Won,2,1,Second half,1.3841766910964033,0.7208927737936286
+Dispossessed,Yasin Abbas Ayari,3955902,Brighton & Hove Albion,Won,2,1,Second half,1.6105197169866954,0.7162803056397079
+Block,Diego Alexander Gómez Amarilla,3955918,Brighton & Hove Albion,Drawn,2,2,Second half,1.649515102663137,0.700144403292456
+Ball Receipt-Carry-Pass,Jack Hinshelwood-Jack Hinshelwood-Jack Hinshelwood,3955923,Brighton & Hove Albion,Lost,0,3,Second half,1.0026685380505835,0.7958186483215866
+Pass,Kaoru Mitoma,3955933,Brighton & Hove Albion,Lost,1,2,Second half,1.7835903140058649,0.7055580581856723
+Pass-Ball Receipt,Yankuba Minteh-Daniel Nii Tackie Mensah Welbeck,3955943,Brighton & Hove Albion,Drawn,2,2,Second half,1.4324623859996497,0.7761411911807256
+Dribbled Past,Bart Verbruggen,3955952,Brighton & Hove Albion,Lost,2,4,Second half,1.1735814944612255,0.7937905931295735
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matthew O'Riley-Matthew O'Riley-Matthew O'Riley-Lewis Dunk-Lewis Dunk,3955963,Brighton & Hove Albion,Won,3,2,Second half,1.1731019813140566,0.7843402481540066
+Pressure-Foul Committed,Yankuba Minteh-Yankuba Minteh,3955974,Brighton & Hove Albion,Drawn,1,1,Second half,1.1220218640698685,0.779071558462129
+Ball Receipt-Carry-Pass-Ball Receipt,Yasin Abbas Ayari-Yasin Abbas Ayari-Yasin Abbas Ayari-Pervis Josué Estupiñán Tenorio,3955990,Brighton & Hove Albion,Won,2,0,Second half,1.4018114795428234,0.7309318890251179
+Block-Goal Keeper-Pressure,Carlos Baleba-Bart Verbruggen-Kaoru Mitoma,3955994,Brighton & Hove Albion,Won,3,2,Second half,1.6329082510861508,0.7119981525450517
+Pressure-Foul Committed,Jan Paul van Hecke-Adam Webster,3956009,Brighton & Hove Albion,Won,4,1,Second half,1.5849907174274431,0.7419947842980459
+Duel,Marc Cucurella Saseta,3955639,Chelsea,Lost,0,2,First half,1.2824938269778166,0.7717698711777349
+Pressure,Malo Gusto,3955648,Chelsea,Won,6,2,First half,1.2176884845811424,0.8112657719969396
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robert Lynch Sanchez-Robert Lynch Sanchez-Robert Lynch Sanchez-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Levi Colwill-Levi Colwill-Levi Colwill-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Robert Lynch Sanchez-Robert Lynch Sanchez-Robert Lynch Sanchez-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Wesley Fofana-Wesley Fofana,3955659,Chelsea,Drawn,1,1,First half,1.5969351181492537,0.7548216913736164
+Dribbled Past,Cole Palmer,3955661,Chelsea,Won,1,0,First half,1.3887596476040598,0.7866922320697949
+Pass,Robert Lynch Sanchez,3955678,Chelsea,Won,3,0,First half,1.9482605246699816,0.7137775356223749
+Clearance,Marc Cucurella Saseta,3955686,Chelsea,Won,4,2,First half,0.8604507908204418,0.8087173722633206
+Pass,Enzo Fernandez,3955693,Chelsea,Drawn,1,1,First half,1.2592833481296573,0.7949611597397583
+Dribble-Carry,Chukwunonso Madueke-Chukwunonso Madueke,3955705,Chelsea,Lost,1,2,First half,1.839430877264853,0.7216334176964632
+Pressure,Chukwunonso Madueke,3955713,Chelsea,Won,2,1,First half,0.9699154060040356,0.808025507473294
+Duel-Carry,Pedro Lomba Neto-Pedro Lomba Neto,3955726,Chelsea,Drawn,1,1,First half,1.119846419972674,0.7864803766755742
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marc Cucurella Saseta-Pedro Lomba Neto-Pedro Lomba Neto-Pedro Lomba Neto-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Levi Colwill-Levi Colwill-Levi Colwill-Wesley Fofana-Wesley Fofana-Wesley Fofana-Levi Colwill-Levi Colwill-Levi Colwill-Malo Gusto-Malo Gusto-Malo Gusto-Wesley Fofana-Wesley Fofana-Wesley Fofana-Malo Gusto-Malo Gusto,3955733,Chelsea,Drawn,1,1,First half,1.7551620940575658,0.7171401428938727
+Pass-Ball Receipt-Carry,Marc Cucurella Saseta-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo,3955747,Chelsea,Won,2,1,First half,1.931201791653084,0.7190969876138698
+Duel-Ball Recovery-Carry-Pass,Marc Cucurella Saseta-Jadon Sancho-Jadon Sancho-Jadon Sancho,3955753,Chelsea,Won,3,0,First half,0.6160559527259682,0.8972803905609162
+Pressure,Marc Cucurella Saseta,3955770,Chelsea,Won,5,1,First half,1.2559634463916125,0.7486453977999229
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Pedro Lomba Neto-Cole Palmer-Cole Palmer-Cole Palmer-Malo Gusto-Malo Gusto-Malo Gusto,3955779,Chelsea,Won,4,3,First half,1.3942543207982632,0.793606282748895
+Interception-Carry-Pass-Player On-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Malo Gusto-Enzo Fernandez-Enzo Fernandez-Enzo Fernandez-Malo Gusto-Malo Gusto-Enzo Fernandez-Enzo Fernandez-Enzo Fernandez-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Enzo Fernandez-Enzo Fernandez-Enzo Fernandez-Malo Gusto-Malo Gusto-Malo Gusto-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Levi Colwill-Levi Colwill-Levi Colwill-Jadon Sancho-Jadon Sancho-Jadon Sancho-Levi Colwill-Levi Colwill-Levi Colwill-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Malo Gusto-Malo Gusto-Malo Gusto,3955784,Chelsea,Won,2,1,First half,1.6621444318179253,0.751726433507069
+Ball Receipt-Carry,Cole Palmer-Cole Palmer,3955794,Chelsea,Drawn,0,0,First half,1.6817119735793609,0.751602369372657
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Pedro Lomba Neto-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo-Levi Colwill-Levi Colwill-Levi Colwill-Marc Cucurella Saseta-Marc Cucurella Saseta-Marc Cucurella Saseta-Levi Colwill-Levi Colwill-Levi Colwill-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo,3955804,Chelsea,Lost,1,2,First half,1.2907340598821482,0.7884824125140619
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Enzo Fernandez-Levi Colwill-Levi Colwill-Levi Colwill-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Axel Disasi-Axel Disasi-Axel Disasi-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Levi Colwill-Levi Colwill-Levi Colwill-Christopher Nkunku-Christopher Nkunku-Christopher Nkunku-Cole Palmer-Cole Palmer-Cole Palmer-Levi Colwill-Levi Colwill-Levi Colwill-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Moisés Isaac Caicedo Corozo-Levi Colwill-Levi Colwill-Levi Colwill-Cole Palmer-Cole Palmer-Cole Palmer,3955816,Chelsea,Lost,0,2,First half,1.4205763617874936,0.7738566857676012
+Block,Moisés Isaac Caicedo Corozo,3955824,Chelsea,Drawn,1,1,Second half,1.7710544799825454,0.6903525927284273
+Pass-Ball Receipt-Carry,Enzo Fernandez-Jadon Sancho-Jadon Sancho,3955838,Chelsea,Drawn,2,2,Second half,1.842025634232692,0.6918072104984101
+Substitution,Pedro Lomba Neto,3955843,Chelsea,Won,3,1,Second half,1.5612259175874097,0.7460593331335836
+Block,Marc Cucurella Saseta,3955857,Chelsea,Lost,1,3,Second half,1.6498764781543087,0.6975232153261751
+Pass-Ball Receipt-Carry,Enzo Fernandez-Christopher Nkunku-Christopher Nkunku,3955864,Chelsea,Won,2,1,Second half,1.220212904015918,0.7930775975188601
+Pressure-Pressure,Christopher Nkunku-Cole Palmer,3955872,Chelsea,Lost,0,3,Second half,1.9332632161297216,0.6887618669014498
+Pressure,Christopher Nkunku,3955883,Chelsea,Lost,1,2,Second half,1.3765834627771163,0.7728051778762973
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Enzo Fernandez-Levi Colwill-Levi Colwill-Oluwatosin Adarabioyo-Oluwatosin Adarabioyo,3955898,Chelsea,Won,4,0,Second half,1.3979964196092072,0.7670473653758141
+Foul Won,Pedro Lomba Neto,3955903,Chelsea,Won,1,0,Second half,1.7409698748974056,0.7346581050295178
+Dispossessed,Pedro Lomba Neto,3955912,Chelsea,Lost,0,1,Second half,0.6743231862768747,0.8769607250567445
+Clearance,Levi Colwill,3955926,Chelsea,Won,1,0,Second half,1.5444350669180364,0.7500252884275833
+Pass,Robert Lynch Sanchez,3955932,Chelsea,Drawn,0,0,Second half,1.7080382998715191,0.7165436553326399
+Foul Won,Chukwunonso Madueke,3955944,Chelsea,Drawn,2,2,Second half,1.617024087378452,0.7403311113460809
+Ball Receipt-Carry,Nicolas Jackson-Nicolas Jackson,3955955,Chelsea,Won,2,1,Second half,1.6243798322330028,0.7332231277879985
+Ball Recovery-Carry,Levi Colwill-Levi Colwill,3955964,Chelsea,Won,1,0,Second half,1.45820003138275,0.7692497141440916
+Clearance,Trevoh Chalobah,3955975,Chelsea,Won,3,1,Second half,1.5686349017619876,0.723095634232438
+Foul Committed,Trevoh Chalobah,3955986,Chelsea,Lost,0,2,Second half,1.3600169164352909,0.7596229591480822
+Duel-Carry,Oluwatosin Adarabioyo-Oluwatosin Adarabioyo,3955995,Chelsea,Won,1,0,Second half,0.7455209172277902,0.8578658564876578
+Injury Stoppage,Chukwunonso Madueke,3956007,Chelsea,Won,1,0,Second half,1.3929192530904446,0.7469034090210934
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Will Hughes-Eberechi Eze-Eberechi Eze-Eberechi Eze-Joachim Andersen-Joachim Andersen-Joachim Andersen-Tyrick Mitchell,3955638,Crystal Palace,Lost,1,2,First half,1.099346108006815,0.8117855845611939
+Block,Daniel Muñoz Mejía,3955645,Crystal Palace,Lost,0,2,First half,1.5575744649173928,0.7590063089493345
+Foul Won,Marc Guehi,3955659,Crystal Palace,Drawn,1,1,First half,1.0264887188529286,0.8156090861565294
+Pass,Nathaniel Edwin Clyne,3955664,Crystal Palace,Drawn,2,2,First half,1.0382789656252691,0.813925987783447
+Clearance,Chris Richards,3955674,Crystal Palace,Drawn,0,0,First half,1.3474021072383773,0.7324687937493435
+Pass,Adam Wharton,3955681,Crystal Palace,Lost,1,2,First half,1.922668257057044,0.6914137684706387
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dean Henderson-Dean Henderson-Maxence Lacroix-Maxence Lacroix-Dean Henderson-Dean Henderson-Marc Guehi-Marc Guehi-Marc Guehi-Eberechi Eze-Eberechi Eze,3955694,Crystal Palace,Lost,0,1,First half,1.0177130830833827,0.7496412029772798
+Pressure-Pressure,Tyrick Mitchell-Marc Guehi,3955701,Crystal Palace,Lost,0,1,First half,1.1452441282326329,0.7470940890551073
+Pressure,Will Hughes,3955714,Crystal Palace,Won,1,0,First half,1.348734340033464,0.7264642077386715
+Pressure,Marc Guehi,3955730,Crystal Palace,Drawn,2,2,First half,1.3731889660237775,0.7351435753755491
+Pressure,Justin Devenny,3955734,Crystal Palace,Lost,0,2,First half,1.2447170029061971,0.7394597426366833
+Pressure,Daniel Muñoz Mejía,3955743,Crystal Palace,Drawn,2,2,First half,1.0366333748102483,0.7848735391220041
+Pass-Ball Receipt-Carry-Pass,Will Hughes-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955754,Crystal Palace,Drawn,1,1,First half,1.952035910131092,0.672181775884637
+Pressure-Pressure,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955766,Crystal Palace,Won,1,0,First half,1.1510490672473177,0.7798640022117244
+Pressure,Tyrick Mitchell,3955773,Crystal Palace,Drawn,2,2,First half,1.6429232863752905,0.7052285144842155
+Substitution-Substitution-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Jean-Philippe Mateta-Eberechi Eze-Daniel Muñoz Mejía-Trevoh Chalobah-Trevoh Chalobah-Edward Nketiah-Edward Nketiah,3955783,Crystal Palace,Won,3,1,First half,2.0235078595925806,0.6773217099724816
+Dispossessed,Jean-Philippe Mateta,3955793,Crystal Palace,Lost,1,5,First half,1.093836674185778,0.8051250908169185
+Clearance,Maxence Lacroix,3955801,Crystal Palace,Drawn,0,0,First half,1.360423488381398,0.7546050730358631
+Ball Recovery-Carry,Eberechi Eze-Eberechi Eze,3955813,Crystal Palace,Won,2,1,First half,1.4057126461687797,0.744897230722677
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Dean Henderson-Dean Henderson-Dean Henderson-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Eberechi Eze-Eberechi Eze-Eberechi Eze-Marc Guehi-Marc Guehi,3955824,Crystal Palace,Drawn,1,1,Second half,0.7978584285266415,0.8387696445796232
+Ball Receipt-Carry-Pass-Ball Receipt,Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Eberechi Eze,3955835,Crystal Palace,Won,2,0,Second half,0.8616803450092752,0.8232051997689714
+Pressure,Jean-Philippe Mateta,3955850,Crystal Palace,Won,2,0,Second half,2.0039292969061884,0.697898599221639
+Pressure-Pressure,Jefferson Andrés Lerma Solís-Chris Richards,3955854,Crystal Palace,Lost,1,2,Second half,1.6621277185126109,0.7271428182025487
+Pass,Maxence Lacroix,3955867,Crystal Palace,Won,2,0,Second half,1.4415787046489594,0.7152983311736115
+Ball Recovery-Carry,Adam Wharton-Adam Wharton,3955873,Crystal Palace,Lost,1,2,Second half,1.2117381653701145,0.7696129324792681
+Pressure,Will Hughes,3955885,Crystal Palace,Won,2,0,Second half,1.3095366334992524,0.7582178762499943
+Player Off,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won,Adam Wharton,3955904,Crystal Palace,Won,1,0,Second half,1.5271645508560556,0.691370704568504
+Pass-Ball Receipt,Marc Guehi-Daichi Kamada,3955919,Crystal Palace,Lost,0,5,Second half,1.5575890266551606,0.7263867894125144
+Pressure,Edward Nketiah,3955929,Crystal Palace,Drawn,1,1,Second half,1.4838885607113843,0.7429396037151659
+Pass-Ball Receipt,Tyrick Mitchell-Jean-Philippe Mateta,3955933,Crystal Palace,Won,2,1,Second half,1.52505532484735,0.7077223147653771
+Pressure,Eberechi Eze,3955946,Crystal Palace,Lost,2,5,Second half,0.8540710487159411,0.8293337846881509
+Pressure-Pressure,Daniel Muñoz Mejía-Jean-Philippe Mateta,3955953,Crystal Palace,Drawn,0,0,Second half,1.1572648492282245,0.7560984680630249
+Ball Receipt-Carry-Pass,Daichi Kamada-Daichi Kamada-Daichi Kamada,3955962,Crystal Palace,Drawn,2,2,Second half,1.1318563296038977,0.7731698513931821
+Pass,Chris Richards,3955976,Crystal Palace,Drawn,1,1,Second half,1.1344440292472144,0.7872582880344153
+Foul Won-Pass-Ball Receipt-Pass,Edward Nketiah-Eberechi Eze-Maxence Lacroix-Maxence Lacroix,3955989,Crystal Palace,Won,2,0,Second half,1.6627411774366332,0.7423193867594399
+Pass-Ball Receipt-Carry,Maxence Lacroix-Matheus França de Oliveira-Matheus França de Oliveira,3955996,Crystal Palace,Won,4,2,Second half,1.6080106373317833,0.7261633551838118
+Pressure,Ismaïla Sarr,3956004,Crystal Palace,Drawn,1,1,Second half,1.8272906184809312,0.7099876112198603
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Idrissa Gana Gueye-Jordan Pickford-Jordan Pickford-Jordan Pickford-Jack Harrison,3955637,Everton,Lost,0,3,First half,1.865780369664269,0.7120867421442005
+Pressure,Iliman Ndiaye,3955642,Everton,Lost,0,4,First half,0.9871355009799868,0.7836911515941186
+Pass,Dwight McNeil,3955653,Everton,Lost,2,3,First half,1.6959276066280702,0.7255917712520746
+Clearance,Jack Harrison,3955662,Everton,Lost,2,3,First half,1.2216876570500552,0.7599489738109102
+Dribbled Past,James Garner,3955676,Everton,Drawn,1,1,First half,1.3713327036106917,0.7561890824957428
+Pass-Ball Receipt,Abdoulaye Doucouré-Dwight McNeil,3955681,Everton,Won,2,1,First half,1.614634005437299,0.6939955520205333
+Pass-Ball Receipt,Dominic Calvert-Lewin-Iliman Ndiaye,3955695,Everton,Drawn,0,0,First half,1.925821150233443,0.6628365920253846
+Ball Receipt-Carry-Dribble-Carry,Dominic Calvert-Lewin-Dominic Calvert-Lewin-Dominic Calvert-Lewin-Dominic Calvert-Lewin,3955704,Everton,Won,2,0,First half,1.964437787995244,0.7062727543488244
+Pressure,Dominic Calvert-Lewin,3955715,Everton,Drawn,1,1,First half,1.1131731310653257,0.7740769806296484
+Goal Keeper-Substitution-Substitution-Pass,Jordan Pickford-Iliman Ndiaye-Dominic Calvert-Lewin-Jordan Pickford,3955721,Everton,Lost,0,1,First half,0.7804784533813124,0.824260068365535
+Pressure,Dominic Calvert-Lewin,3955739,Everton,Drawn,0,0,First half,1.147481621175758,0.7791160846141989
+Pass,Abdoulaye Doucouré,3955744,Everton,Drawn,0,0,First half,1.3245306492341746,0.7898865254779687
+Pressure,Dwight McNeil,3955756,Everton,Lost,0,4,First half,0.5672009091281803,0.8940913530885111
+Miscontrol,Iliman Ndiaye,3955764,Everton,Won,4,0,First half,1.4724745746359809,0.7267925057075757
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Idrissa Gana Gueye-Jack Harrison-Jack Harrison-Jack Harrison-Norberto Bercique Gomes Betuncal-Norberto Bercique Gomes Betuncal,3955774,Everton,Drawn,2,2,First half,1.2276744797166936,0.7675799270246524
+Pressure,Dominic Calvert-Lewin,3955782,Everton,Drawn,0,0,First half,1.887881616282869,0.6453131781788547
+Pressure,Vitalii Mykolenko,3955794,Everton,Drawn,0,0,First half,1.7602259034184824,0.7172495118852246
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Jordan Pickford-Idrissa Gana Gueye-Idrissa Gana Gueye-Idrissa Gana Gueye-Jarrad Branthwaite-Jarrad Branthwaite-Jarrad Branthwaite-Iliman Ndiaye,3955806,Everton,Drawn,1,1,First half,1.476462756361559,0.7422828390425615
+Dispossessed,Idrissa Gana Gueye,3955814,Everton,Lost,0,2,First half,1.364042613282075,0.7575593670762569
+Pressure,Ashley Young,3955821,Everton,Lost,0,1,Second half,1.7722067383444289,0.7235106331863147
+Pass,Ashley Young,3955833,Everton,Lost,0,1,Second half,1.182226429639376,0.7526673014091466
+Pressure,Dominic Calvert-Lewin,3955844,Everton,Won,3,2,Second half,1.35983568597352,0.7442188775722899
+Clearance-Clearance,Vitalii Mykolenko-Orel Mangala,3955853,Everton,Won,1,0,Second half,1.2049979728230011,0.7522059589871243
+Referee Ball-Drop,Unknown,3955865,Everton,Won,4,0,Second half,1.405421145244141,0.7427868390759503
+Clearance,Jarrad Branthwaite,3955873,Everton,Won,2,1,Second half,1.5570259075287736,0.7215203261326699
+Pass,Jake O'Brien,3955884,Everton,Drawn,2,2,Second half,1.783896352472071,0.6827703065749952
+Foul Won-Pass-Ball Receipt-Duel,Jesper Lindstrøm-Jordan Pickford-Jake O'Brien-Jake O'Brien,3955891,Everton,Drawn,1,1,Second half,1.5067297423401946,0.737166356851174
+Pass-Ball Receipt-Carry,Idrissa Gana Gueye-James Tarkowski-James Tarkowski,3955910,Everton,Drawn,1,1,Second half,1.4948632489731706,0.715596969585866
+Pressure,Jack Harrison,3955914,Everton,Drawn,1,1,Second half,1.3533236413687475,0.7634992904039858
+Pressure,Jack Harrison,3955930,Everton,Lost,0,1,Second half,1.6230928686132613,0.7247028977208326
+Pressure,Jarrad Branthwaite,3955934,Everton,Drawn,1,1,Second half,2.0175508138169955,0.645878807804651
+Block-Goal Keeper,Jarrad Branthwaite-Jordan Pickford,3955948,Everton,Won,1,0,Second half,1.5483104624299342,0.7586360286903239
+Block,Jack Harrison,3955954,Everton,Lost,0,2,Second half,1.817257784895376,0.70050108005228
+Block,Nathan Patterson,3955964,Everton,Lost,0,1,Second half,1.4241137811018525,0.7593541689031943
+Interception-Carry-Pass-Ball Receipt-Duel,Vitalii Mykolenko-Vitalii Mykolenko-Vitalii Mykolenko-Iliman Ndiaye-Iliman Ndiaye,3955977,Everton,Drawn,2,2,Second half,1.729722062577345,0.7455967421546861
+Goal Keeper-Pass,Jordan Pickford-Michael Keane,3955982,Everton,Won,3,1,Second half,1.6415508259585994,0.7142606282779208
+Substitution-Substitution-Pass-Pressure,Dwight McNeil-Abdoulaye Doucouré-Ashley Young-Carlos Alcaraz,3955997,Everton,Won,2,0,Second half,1.0013881373123694,0.8280284243329968
+Pressure,Norberto Bercique Gomes Betuncal,3956006,Everton,Won,1,0,Second half,1.0217622362111336,0.7948523271617258
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Andreas Hoelgebaum Pereira-Saša Lukić-Saša Lukić-Saša Lukić-Issa Diop-Issa Diop-Issa Diop,3955631,Fulham,Lost,0,1,First half,1.7326175468996616,0.7338975138343787
+Ball Receipt-Pass-Ball Receipt-Carry,Adama Traoré Diarra-Adama Traoré Diarra-Kenny Tete-Kenny Tete,3955646,Fulham,Won,2,1,First half,0.9240644491104496,0.8435550591612426
+Pressure,Saša Lukić,3955654,Fulham,Drawn,1,1,First half,2.6064659281157003,0.625917547786221
+Pressure-Pressure,Andreas Hoelgebaum Pereira-Joachim Andersen,3955665,Fulham,Drawn,1,1,First half,1.30175248308414,0.7805765311124347
+Dribbled Past,Andreas Hoelgebaum Pereira,3955675,Fulham,Won,3,1,First half,2.0073198675551445,0.6676485831319313
+Pressure,Raúl Alonso Jiménez Rodríguez,3955683,Fulham,Won,1,0,First half,1.566355927703899,0.7567692207306547
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Dribble-Carry,Kenny Tete-Kenny Tete-Kenny Tete-Andreas Hoelgebaum Pereira-Andreas Hoelgebaum Pereira-Alex Iwobi-Alex Iwobi-Alex Iwobi-Alex Iwobi,3955697,Fulham,Lost,2,3,First half,1.4716643599423318,0.746633448268085
+Pressure,Adama Traoré Diarra,3955703,Fulham,Lost,1,3,First half,0.9654572448011536,0.8186184225252798
+Pass-Ball Receipt,Issa Diop-Adama Traoré Diarra,3955715,Fulham,Drawn,1,1,First half,1.4490188234995691,0.7655790199457886
+Pass,Andreas Hoelgebaum Pereira,3955723,Fulham,Won,2,1,First half,1.2879645908653643,0.8157686330793926
+Pass,Antonee Robinson,3955734,Fulham,Won,2,0,First half,1.762601606454112,0.7091643365914719
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Saša Lukić-Calvin Bassey Ughelumba-Calvin Bassey Ughelumba-Calvin Bassey Ughelumba-Tom Cairney-Tom Cairney-Tom Cairney-Antonee Robinson-Antonee Robinson-Antonee Robinson-Reiss Nelson,3955745,Fulham,Lost,1,4,First half,1.5919290865748337,0.7274646049187622
+Foul Committed,Saša Lukić,3955758,Fulham,Drawn,1,1,First half,1.437889463567767,0.7717619302844674
+Pressure,Sander Berge,3955765,Fulham,Won,3,1,First half,0.8862863861386583,0.7902731110693906
+Pressure,Antonee Robinson,3955775,Fulham,Drawn,1,1,First half,0.9848568368093298,0.772598419368978
+Ball Recovery-Carry-Dribble,Raúl Alonso Jiménez Rodríguez-Raúl Alonso Jiménez Rodríguez-Raúl Alonso Jiménez Rodríguez,3955785,Fulham,Drawn,2,2,First half,1.6124397592606667,0.7309523365061675
+Foul Committed,Alex Iwobi,3955795,Fulham,Drawn,0,0,First half,1.551314978130947,0.7260209580932777
+Pressure,Antonee Robinson,3955804,Fulham,Won,2,1,First half,1.38071900655697,0.7981075657214834
+Goal Keeper-Clearance,Bernd Leno-Joachim Andersen,3955815,Fulham,Drawn,2,2,First half,1.4980504463660458,0.7323814413243649
+Substitution-Tactical Shift,Alex Iwobi-Unknown,3955825,Fulham,Drawn,2,2,Second half,1.5951249316135052,0.752163517365662
+Pass-Ball Receipt-Carry,Calvin Bassey Ughelumba-Antonee Robinson-Antonee Robinson,3955837,Fulham,Lost,2,3,Second half,1.676268557967366,0.6968417260905592
+Ball Recovery-Error-Pressure,Calvin Bassey Ughelumba-Calvin Bassey Ughelumba-Joachim Andersen,3955846,Fulham,Won,2,0,Second half,1.4244697960484016,0.7709124637364742
+Pressure,Saša Lukić,3955855,Fulham,Lost,0,1,Second half,1.1810496438249078,0.7634723899613024
+Pressure,Emile Smith Rowe,3955868,Fulham,Won,2,1,Second half,1.1224121286932731,0.7857173161443511
+Shot,Saša Lukić,3955874,Fulham,Won,2,1,Second half,1.4635033994950306,0.755134453944556
+Foul Won-Pass,Saša Lukić-Andreas Hoelgebaum Pereira,3955885,Fulham,Lost,0,2,Second half,1.6172605358809595,0.7563344211705728
+Pass-Ball Receipt-Duel,Joachim Andersen-Saša Lukić-Saša Lukić,3955896,Fulham,Won,2,1,Second half,1.8297217529814045,0.6914805075924336
+Pass-Ball Receipt-Pass,Timothy Castagne-Issa Diop-Issa Diop,3955902,Fulham,Lost,1,2,Second half,1.31933223440716,0.7542665219037393
+Duel-Clearance,Sander Berge-Calvin Bassey Ughelumba,3955915,Fulham,Won,2,0,Second half,1.1098521634086425,0.8043510884835391
+Block-Goal Keeper,Joachim Andersen-Bernd Leno,3955922,Fulham,Lost,1,2,Second half,1.3816791929647834,0.7649794532998676
+Pass-Ball Receipt-Carry,Andreas Hoelgebaum Pereira-Kouassi Ryan Sessegnon-Kouassi Ryan Sessegnon,3955935,Fulham,Won,3,2,Second half,1.5229000078331705,0.7316633981938034
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Saša Lukić-Saša Lukić-Tom Cairney-Tom Cairney-Tom Cairney-Calvin Bassey Ughelumba-Calvin Bassey Ughelumba-Calvin Bassey Ughelumba-Tom Cairney-Tom Cairney,3955941,Fulham,Lost,0,1,Second half,1.1980581915066817,0.7576242191695096
+Pressure,Joachim Andersen,3955955,Fulham,Lost,1,2,Second half,1.6458074527781157,0.7256483946750211
+Clearance,Joachim Andersen,3955969,Fulham,Won,2,1,Second half,1.7546491962393438,0.7122394113542924
+Dribbled Past,Calvin Bassey Ughelumba,3955972,Fulham,Lost,0,1,Second half,1.2909273465035014,0.750134253891397
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Emile Smith Rowe-Emile Smith Rowe-Joachim Andersen-Joachim Andersen-Joachim Andersen-Kenny Tete-Kenny Tete-Kenny Tete-Joachim Andersen-Joachim Andersen-Joachim Andersen,3955982,Fulham,Lost,1,3,Second half,1.514831132947098,0.7419376580946083
+Pass-Ball Receipt-Carry,Tom Cairney-Antonee Robinson-Antonee Robinson,3955993,Fulham,Won,3,2,Second half,1.4335671264885848,0.7346243241728035
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Adama Traoré Diarra-Emile Smith Rowe-Saša Lukić-Saša Lukić-Tom Cairney-Tom Cairney,3956002,Fulham,Lost,0,2,Second half,1.2818549878217078,0.7580964591550152
+Duel,Axel Tuanzebe,3955636,Ipswich Town,Lost,0,2,First half,1.1089031171030537,0.7705181649096423
+Pressure,Samuel Szmodics,3955641,Ipswich Town,Lost,1,4,First half,1.0331327555826495,0.7934698961725939
+Dispossessed,Kalvin Phillips,3955654,Ipswich Town,Drawn,1,1,First half,1.036244682847124,0.7850016442169396
+Pressure,Omari Giraud-Hutchinson,3955663,Ipswich Town,Drawn,0,0,First half,1.3522099240298315,0.7115810980504204
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dara Joseph O'Shea-Axel Tuanzebe-Axel Tuanzebe-Axel Tuanzebe-Wes Burns-Wes Burns-Wes Burns,3955672,Ipswich Town,Drawn,1,1,First half,1.2758409262580857,0.7598967666733583
+Pass-Pressure-Ball Receipt,Dara Joseph O'Shea-Leif Davis-Leif Davis,3955688,Ipswich Town,Drawn,2,2,First half,1.2216507133575427,0.7582991111924094
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Sam Morsy-Sam Morsy-Sam Morsy-Dara Joseph O'Shea-Dara Joseph O'Shea-Dara Joseph O'Shea-Leif Davis-Leif Davis-Leif Davis-Jacob Greaves-Jacob Greaves-Jacob Greaves-Sam Morsy-Sam Morsy-Jacob Greaves-Jacob Greaves-Jacob Greaves-Dara Joseph O'Shea-Dara Joseph O'Shea-Dara Joseph O'Shea-Benjamin Johnson-Benjamin Johnson-Benjamin Johnson-Omari Giraud-Hutchinson-Omari Giraud-Hutchinson-Omari Giraud-Hutchinson-Liam Delap,3955698,Ipswich Town,Lost,1,4,First half,1.547129657295098,0.7322278433482686
+Clearance,Cameron Burgess,3955704,Ipswich Town,Lost,0,2,First half,1.14933797126661,0.7890489160427705
+Duel,Dara Joseph O'Shea,3955711,Ipswich Town,Lost,3,4,First half,1.363707899698139,0.7661615010730807
+Clearance,Dara Joseph O'Shea,3955724,Ipswich Town,Drawn,1,1,First half,1.08459029340587,0.7938386572878053
+Pressure,Samuel Szmodics,3955738,Ipswich Town,Won,2,1,First half,1.1361393966658635,0.7838286672740267
+Foul Committed,Leif Davis,3955746,Ipswich Town,Drawn,1,1,First half,1.363936079979126,0.738451518460609
+Pressure-Pressure,Jack Clarke-Jens-Lys Michel Cajuste,3955757,Ipswich Town,Lost,0,1,First half,1.5893780769555947,0.7269888926201625
+Duel,Dara Joseph O'Shea,3955766,Ipswich Town,Lost,0,1,First half,1.3039648945163025,0.7648403460091091
+Pressure,Leif Davis,3955776,Ipswich Town,Lost,1,2,First half,1.702777902985274,0.7225125667378695
+Pressure,Liam Delap,3955790,Ipswich Town,Won,2,1,First half,1.3086757206161426,0.7664446332162346
+Pressure,Wes Burns,3955796,Ipswich Town,Lost,0,4,First half,1.7755967022574748,0.7168456396336551
+Shot,Kalvin Phillips,3955802,Ipswich Town,Lost,0,1,First half,1.1998106244847213,0.7365026426089331
+Pressure,Omari Giraud-Hutchinson,3955816,Ipswich Town,Won,2,0,First half,1.2136703144482504,0.7440255395151624
+Pressure,Liam Delap,3955825,Ipswich Town,Drawn,2,2,Second half,0.880268938968639,0.8124591358479561
+Foul Committed,Luke Woolfenden,3955834,Ipswich Town,Lost,0,2,Second half,1.1812752467521477,0.7685525582429098
+Pressure,Sam Morsy,3955845,Ipswich Town,Lost,0,6,Second half,1.51813317751488,0.7312536852629701
+Pressure,Jaden Philogene-Bidace,3955856,Ipswich Town,Lost,1,4,Second half,1.5945565713422083,0.7054787587819492
+Pass-Pressure-Ball Receipt,Omari Giraud-Hutchinson-Jaden Philogene-Bidace-Jaden Philogene-Bidace,3955866,Ipswich Town,Lost,1,2,Second half,1.5916936882132884,0.709248070753007
+Goal Keeper-Pass-Ball Receipt,Alex Palmer-Alex Palmer-Dara Joseph O'Shea,3955871,Ipswich Town,Drawn,1,1,Second half,0.8417219501023974,0.8084315662057273
+Block-Goal Keeper,Leif Davis-Alex Palmer,3955886,Ipswich Town,Lost,1,4,Second half,1.7161138264996512,0.6956687741943658
+Ball Recovery-Carry,Leif Davis-Leif Davis,3955900,Ipswich Town,Lost,2,3,Second half,1.4039762235657014,0.7482704939845198
+Pressure,Jacob Greaves,3955904,Ipswich Town,Lost,0,1,Second half,0.99973546958308,0.780515095310936
+Pressure,Liam Delap,3955916,Ipswich Town,Lost,2,4,Second half,1.0985601563108751,0.8029112331829651
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Dara Joseph O'Shea-Sam Morsy-Sam Morsy-Sam Morsy-Liam Delap-Liam Delap,3955921,Ipswich Town,Won,2,1,Second half,1.3135672098434903,0.75183875381742
+Pass-Ball Receipt,Alex Palmer-Liam Delap,3955936,Ipswich Town,Lost,1,2,Second half,2.0777371581709447,0.675511273354434
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benjamin Johnson-Benjamin Johnson-Benjamin Johnson-Dara Joseph O'Shea-Dara Joseph O'Shea-Dara Joseph O'Shea-Axel Tuanzebe-Axel Tuanzebe-Axel Tuanzebe-Sam Morsy-Sam Morsy,3955944,Ipswich Town,Drawn,2,2,Second half,1.3540086029466778,0.7510651834540931
+Foul Won-Pass,Sam Morsy-Alex Palmer,3955956,Ipswich Town,Lost,0,4,Second half,0.946134756098352,0.7922814308553604
+Foul Committed,Jacob Greaves,3955967,Ipswich Town,Lost,0,3,Second half,1.406030752344986,0.7268837517459471
+Pressure-Clearance-Ball Recovery-Carry,Jacob Greaves-Jacob Greaves-Julio César Enciso Espínola-Julio César Enciso Espínola,3955977,Ipswich Town,Drawn,2,2,Second half,1.5011767860420238,0.7363860784972002
+Dribbled Past-Pressure-Pressure,Sam Morsy-Axel Tuanzebe-Cameron Burgess,3955983,Ipswich Town,Lost,0,1,Second half,1.461467292796132,0.7743661493165052
+Pressure,Jacob Greaves,3955998,Ipswich Town,Lost,0,2,Second half,1.527000095122453,0.7387122255715598
+Clearance,Dara Joseph O'Shea,3956003,Ipswich Town,Lost,1,3,Second half,1.358032147037927,0.7472206307183838
+Pressure,Facundo Valentín Buonanotte,3955640,Leicester City,Drawn,1,1,First half,1.092445197819909,0.7956935148141222
+Pressure,Victor Bernth Kristansen,3955646,Leicester City,Lost,1,2,First half,1.6447018891757914,0.728649667992368
+Pressure,Oliver Skipp,3955655,Leicester City,Lost,1,2,First half,1.3427225095635638,0.7753509931853817
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Onyinye Wilfred Ndidi-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen-Oliver Skipp-Oliver Skipp,3955664,Leicester City,Drawn,2,2,First half,1.296500926627508,0.7491025538045019
+Pass,Stephy Alvaro Mavididi,3955676,Leicester City,Drawn,1,1,First half,1.3052988019380845,0.7661844300358016
+Pressure,Jamie Vardy,3955687,Leicester City,Lost,2,4,First half,1.9034904542335904,0.6879157414039314
+Duel-Carry,James Justin-James Justin,3955696,Leicester City,Won,1,0,First half,1.389141419590138,0.7355682873780035
+Pressure,Harry Winks,3955708,Leicester City,Won,3,2,First half,0.6445906413819175,0.8742886995394218
+Pressure,Jamie Vardy,3955716,Leicester City,Lost,1,3,First half,1.3413060885550288,0.7879345501416366
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Stephy Alvaro Mavididi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Facundo Valentín Buonanotte-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira-Abdul Fatawu Issahaku-Abdul Fatawu Issahaku-Abdul Fatawu Issahaku-Stephy Alvaro Mavididi-Stephy Alvaro Mavididi,3955724,Leicester City,Drawn,1,1,First half,2.213637609317897,0.6839765026895314
+Ball Recovery-Carry-Dispossessed,Jordan Ayew-Jordan Ayew-Jordan Ayew,3955736,Leicester City,Lost,0,3,First half,1.2779027585179965,0.7861155201086223
+Pass,Boubakary Soumaré,3955747,Leicester City,Lost,1,2,First half,1.091557724493331,0.7822297019983285
+Foul Won-Pass-Ball Receipt-Shot,James Justin-Facundo Valentín Buonanotte-Jordan Ayew-Jordan Ayew,3955751,Leicester City,Lost,1,4,First half,1.541111028335229,0.7137864455754465
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mads Hermansen-Mads Hermansen-Mads Hermansen-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Wout Faes-Wout Faes-Wout Faes,3955767,Leicester City,Won,3,1,First half,1.3049202103948505,0.7673334700161255
+50/50,Jannik Vestergaard,3955777,Leicester City,Drawn,2,2,First half,1.5015847963369475,0.7417088793484751
+Pressure,Facundo Valentín Buonanotte,3955787,Leicester City,Lost,0,4,First half,0.992941100190981,0.8073607343290139
+Block,Stephy Alvaro Mavididi,3955797,Leicester City,Lost,0,3,First half,1.5661628529944809,0.7444328864363203
+Goal Keeper,Jakub Stolarczyk,3955805,Leicester City,Lost,1,3,First half,1.1118634740276334,0.7942186068064833
+Pass-Ball Receipt-Carry,Harry Winks-Victor Bernth Kristansen-Victor Bernth Kristansen,3955817,Leicester City,Lost,0,2,First half,0.8803093127007002,0.8458426968968706
+Pressure,Jordan Ayew,3955822,Leicester City,Lost,1,2,Second half,1.6730982446914473,0.7120399153966875
+Pressure,Victor Bernth Kristansen,3955835,Leicester City,Lost,0,2,Second half,1.7010198020936962,0.720029848170149
+Pressure,Kasey McAteer,3955846,Leicester City,Lost,0,2,Second half,1.7285950600341635,0.7005762755211256
+Block-Goal Keeper,Jamie Vardy-Jakub Stolarczyk,3955859,Leicester City,Won,2,1,Second half,2.000104198503343,0.6868041672674635
+Duel-Carry,Boubakary Soumaré-Boubakary Soumaré,3955865,Leicester City,Lost,0,4,Second half,1.7402522598596055,0.71334798472557
+Interception,Onyinye Wilfred Ndidi,3955875,Leicester City,Lost,0,2,Second half,1.1024656731078857,0.759302210169964
+Pass,Bilal El Khannous,3955887,Leicester City,Lost,0,4,Second half,1.4568955684614866,0.7502604465196898
+Interception-Pass,Wout Faes-Stephy Alvaro Mavididi,3955895,Leicester City,Lost,0,2,Second half,1.2616009980308516,0.7442450764911975
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Patson Daka-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Luke Thomas-Luke Thomas-Luke Thomas-Victor Bernth Kristansen-Victor Bernth Kristansen-Victor Bernth Kristansen,3955903,Leicester City,Lost,0,1,Second half,0.8454786405886884,0.8213599760937396
+Pass,Luke Thomas,3955917,Leicester City,Lost,0,3,Second half,1.3601232578713125,0.7337489395481869
+Ball Receipt-Carry,Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi,3955927,Leicester City,Lost,0,2,Second half,1.9346164140445803,0.6599979886267521
+Pass,Mads Hermansen,3955937,Leicester City,Lost,0,3,Second half,2.09860472506026,0.6733867508167007
+Pressure,Conor Coady,3955943,Leicester City,Drawn,2,2,Second half,1.136916404351071,0.7853981118172271
+Duel-Ball Recovery-Carry,Onyinye Wilfred Ndidi-Ricardo Domingos Barbosa Pereira-Ricardo Domingos Barbosa Pereira,3955957,Leicester City,Lost,0,1,Second half,1.7252667168698848,0.720261502470145
+Block-Pass-Ball Receipt,Luke Thomas-Luke Thomas-Jordan Ayew,3955970,Leicester City,Lost,0,3,Second half,1.2556124256720589,0.7621213798053579
+Pressure,Jamie Vardy,3955978,Leicester City,Won,2,0,Second half,1.3662668805538116,0.741079721723947
+Duel,Conor Coady,3955987,Leicester City,Drawn,2,2,Second half,1.2143752677250852,0.7689191477277715
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jordan Ayew-Jordan Ayew-Jordan Ayew-Conor Coady-Conor Coady-Conor Coady-Boubakary Soumaré-Boubakary Soumaré-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Onyinye Wilfred Ndidi-Conor Coady-Conor Coady-Conor Coady-Wout Faes-Wout Faes-Wout Faes-Jakub Stolarczyk-Jakub Stolarczyk,3955998,Leicester City,Won,2,0,Second half,1.0299509965195153,0.7947128833921575
+Ball Receipt-Duel,Jordan Ayew-Jordan Ayew,3956001,Leicester City,Lost,0,2,Second half,1.408670758931119,0.713549194976442
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dominik Szoboszlai-Alisson Ramsés Becker-Alisson Ramsés Becker-Alisson Ramsés Becker-Diogo José Teixeira da Silva,3955636,Liverpool,Won,2,0,First half,2.2127350592560733,0.6858855203090467
+Pass-Shot-Ball Receipt,Trent Alexander-Arnold-Dominik Szoboszlai-Dominik Szoboszlai,3955650,Liverpool,Won,2,0,First half,1.3330176651869223,0.7589726442746554
+Pressure,Luis Fernando Díaz Marulanda,3955660,Liverpool,Won,3,0,First half,0.7302598136441677,0.8807483761566851
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Andrew Robertson-Luis Fernando Díaz Marulanda-Luis Fernando Díaz Marulanda-Luis Fernando Díaz Marulanda-Dominik Szoboszlai-Dominik Szoboszlai-Dominik Szoboszlai-Andrew Robertson,3955667,Liverpool,Lost,0,1,First half,1.32156083924461,0.791512021127055
+Ball Recovery,Andrew Robertson,3955671,Liverpool,Won,3,0,First half,1.1247220933260031,0.7974089483376989
+Pressure,Alexis Mac Allister,3955684,Liverpool,Won,2,1,First half,1.1589505390338426,0.8006631778118849
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Gravenberch-Ryan Gravenberch-Dominik Szoboszlai-Dominik Szoboszlai-Dominik Szoboszlai-Trent Alexander-Arnold-Trent Alexander-Arnold,3955694,Liverpool,Won,1,0,First half,1.407643422560205,0.7330621638890217
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Trent Alexander-Arnold-Caoimhin Kelleher-Caoimhin Kelleher-Caoimhin Kelleher-Ibrahima Konaté-Ibrahima Konaté,3955705,Liverpool,Won,2,1,First half,1.4239008428649125,0.7597059977410704
+Clearance,Ibrahima Konaté,3955720,Liverpool,Drawn,2,2,First half,1.3759704799576793,0.7346483516145965
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Ryan Gravenberch-Ryan Gravenberch-Ryan Gravenberch-Cody Mathès Gakpo-Cody Mathès Gakpo-Trent Alexander-Arnold-Trent Alexander-Arnold-Trent Alexander-Arnold-Cody Mathès Gakpo-Cody Mathès Gakpo-Cody Mathès Gakpo,3955725,Liverpool,Won,2,1,First half,0.7012710794987586,0.8412901382292444
+50/50,Virgil van Dijk,3955735,Liverpool,Won,2,0,First half,1.3375516707835229,0.7830191906998247
+Pass,Ibrahima Konaté,3955750,Liverpool,Won,3,2,First half,1.440407233324589,0.7645399299991923
+Pressure-Block-Ball Recovery-Carry,Luis Fernando Díaz Marulanda-Luis Fernando Díaz Marulanda-Mohamed Salah-Mohamed Salah,3955755,Liverpool,Won,2,0,First half,1.61977607549334,0.7368257510586829
+Clearance,Virgil van Dijk,3955769,Liverpool,Drawn,3,3,First half,1.3398332192507956,0.765957029042794
+Block,Andrew Robertson,3955774,Liverpool,Drawn,2,2,First half,1.3319456791983315,0.7601680152094304
+Duel-Ball Recovery,Joe Gomez-Curtis Jones,3955785,Liverpool,Drawn,2,2,First half,0.8633804133714392,0.8473369640343507
+Interception-Carry-Pass-Ball Receipt-Carry,Joe Gomez-Joe Gomez-Joe Gomez-Alisson Ramsés Becker-Alisson Ramsés Becker,3955799,Liverpool,Won,6,3,First half,1.1873188778330044,0.7811829540315762
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Curtis Jones-Trent Alexander-Arnold-Trent Alexander-Arnold-Trent Alexander-Arnold-Mohamed Salah,3955805,Liverpool,Won,3,1,First half,1.568854054954797,0.7738793085883926
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Wataru Endo-Diogo José Teixeira da Silva-Diogo José Teixeira da Silva-Diogo José Teixeira da Silva-Andrew Robertson-Andrew Robertson-Andrew Robertson-Diogo José Teixeira da Silva-Diogo José Teixeira da Silva-Diogo José Teixeira da Silva-Andrew Robertson-Andrew Robertson-Andrew Robertson,3955820,Liverpool,Won,5,0,First half,1.3961129789796975,0.7590282899281316
+Duel,Andrew Robertson,3955826,Liverpool,Drawn,2,2,Second half,1.697979131359805,0.7205541896587234
+Duel,Dominik Szoboszlai,3955836,Liverpool,Drawn,1,1,Second half,1.3859929604847308,0.7775137835160175
+Ball Recovery-Carry-Pass,Dominik Szoboszlai-Dominik Szoboszlai-Dominik Szoboszlai,3955842,Liverpool,Won,2,0,Second half,1.424763731240404,0.756615791369955
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Gravenberch-Virgil van Dijk-Virgil van Dijk-Virgil van Dijk-Andrew Robertson-Andrew Robertson-Andrew Robertson-Virgil van Dijk-Virgil van Dijk-Virgil van Dijk-Cody Mathès Gakpo-Cody Mathès Gakpo,3955856,Liverpool,Won,4,1,Second half,1.3596957022825653,0.7743197000782722
+Substitution-Pass,Alexis Mac Allister-Alisson Ramsés Becker,3955861,Liverpool,Won,2,0,Second half,1.9389323450852347,0.6926984013967912
+Pressure,Diogo José Teixeira da Silva,3955876,Liverpool,Won,2,1,Second half,1.3717976981147055,0.7446523590932432
+Pass-Ball Receipt,Alexis Mac Allister-Virgil van Dijk,3955888,Liverpool,Won,2,0,Second half,1.6915744149574274,0.6860527375868701
+Dribble-Carry,Mohamed Salah-Mohamed Salah,3955899,Liverpool,Won,2,0,Second half,1.6755633496043565,0.7334589293463706
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Virgil van Dijk-Virgil van Dijk-Virgil van Dijk-Trent Alexander-Arnold-Trent Alexander-Arnold,3955905,Liverpool,Won,3,1,Second half,1.4666263003675355,0.7913048628840849
+Dribble,Alexis Mac Allister,3955913,Liverpool,Drawn,2,2,Second half,2.003490709511654,0.6890117719645394
+Duel-Carry,Virgil van Dijk-Virgil van Dijk,3955930,Liverpool,Won,1,0,Second half,1.61715809394481,0.7473131899052197
+Pass,Luis Fernando Díaz Marulanda,3955935,Liverpool,Lost,2,3,Second half,1.0147671757055652,0.818180106936921
+Pressure,Curtis Jones,3955945,Liverpool,Won,2,1,Second half,1.4438669384575509,0.7700471992773862
+Pass,Virgil van Dijk,3955957,Liverpool,Won,1,0,Second half,1.3062200088497564,0.7660285787615853
+Pressure,Luis Fernando Díaz Marulanda,3955965,Liverpool,Won,5,1,Second half,1.720377030476495,0.7024699955506025
+Ball Receipt-Dribble-Carry,Conor Bradley-Conor Bradley-Conor Bradley,3955975,Liverpool,Lost,1,3,Second half,1.583367575069505,0.7580435834591006
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Dominik Szoboszlai-Conor Bradley-Conor Bradley-Conor Bradley-Alisson Ramsés Becker-Alisson Ramsés Becker-Alisson Ramsés Becker-Virgil van Dijk-Virgil van Dijk-Virgil van Dijk-Curtis Jones-Curtis Jones-Curtis Jones-Ibrahima Konaté-Ibrahima Konaté-Ibrahima Konaté-Dominik Szoboszlai-Dominik Szoboszlai-Dominik Szoboszlai-Ibrahima Konaté-Ibrahima Konaté-Ibrahima Konaté-Curtis Jones-Curtis Jones-Dominik Szoboszlai-Dominik Szoboszlai,3955984,Liverpool,Drawn,2,2,Second half,1.4008702301460605,0.758083639485311
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mohamed Salah-Mohamed Salah-Mohamed Salah-Jarell Quansah-Jarell Quansah-Jarell Quansah-Konstantinos Tsimikas-Konstantinos Tsimikas,3955994,Liverpool,Lost,2,3,Second half,1.7914439310680976,0.706382246957085
+Ball Recovery-Ball Recovery-Carry-Shot,Luis Fernando Díaz Marulanda-Curtis Jones-Curtis Jones-Curtis Jones,3956004,Liverpool,Drawn,1,1,Second half,0.8936846292629801,0.8437621952308736
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kevin De Bruyne-Ederson Santana de Moraes-Ederson Santana de Moraes-Ederson Santana de Moraes-Erling Håland,3955639,Manchester City,Won,2,0,First half,1.2928087703162263,0.7559803196204854
+Pass-Ball Receipt-Carry-Pass,Joško Gvardiol-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva,3955641,Manchester City,Won,4,1,First half,1.627233404812062,0.7635354256081386
+Pass-Ball Receipt-Carry-Pass,Bernardo Mota Veiga de Carvalho e Silva-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne,3955657,Manchester City,Won,3,1,First half,1.3523556745040943,0.7744771462202431
+Pressure,Sávio Moreira de Oliveira,3955668,Manchester City,Won,2,1,First half,1.0243272589694137,0.7834262022593291
+Pressure,Manuel Obafemi Akanji,3955680,Manchester City,Drawn,2,2,First half,1.13367856559561,0.8284340358780312
+Pass-Ball Receipt,Kyle Walker-Erling Håland,3955682,Manchester City,Drawn,1,1,First half,1.2557944574112418,0.7706598284077477
+Pressure,Jack Grealish,3955697,Manchester City,Won,3,2,First half,1.5961220827828209,0.752220040167383
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Sávio Moreira de Oliveira-Sávio Moreira de Oliveira-Sávio Moreira de Oliveira-Mateo Kovačić-Mateo Kovačić,3955710,Manchester City,Won,2,1,First half,0.9726478035598112,0.8394012740167535
+Pressure,Rico Lewis,3955717,Manchester City,Won,1,0,First half,1.0038395723791222,0.8031430584700705
+Pass-Ball Receipt,Matheus Luiz Nunes-Bernardo Mota Veiga de Carvalho e Silva,3955722,Manchester City,Lost,1,2,First half,1.5350962387430438,0.7363985953529117
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Kyle Walker-Sávio Moreira de Oliveira-Sávio Moreira de Oliveira-Sávio Moreira de Oliveira-Kyle Walker-Kyle Walker-Kyle Walker-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-Joško Gvardiol-Joško Gvardiol-Joško Gvardiol-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-Jahmai Simpson-Pusey-İlkay Gündoğan-İlkay Gündoğan-Erling Håland-Erling Håland-Rico Lewis-Rico Lewis,3955732,Manchester City,Lost,1,2,First half,1.861312729754103,0.6987196154484258
+Pressure,Sávio Moreira de Oliveira,3955748,Manchester City,Lost,0,4,First half,1.2810186774716803,0.7382645872217231
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Jeremy Doku-Jeremy Doku,3955755,Manchester City,Lost,0,2,First half,1.0388236462977445,0.8112602480254931
+Dribble,Jack Grealish,3955768,Manchester City,Won,3,0,First half,0.8689299495211098,0.8690307490695222
+Pass-Ball Receipt-Carry-Pass,Sávio Moreira de Oliveira-Kyle Walker-Kyle Walker-Kyle Walker,3955773,Manchester City,Drawn,2,2,First half,1.2725022695628974,0.7565268313847929
+Pass-Ball Receipt,Phil Foden-Jeremy Doku,3955786,Manchester City,Lost,1,2,First half,1.5465405223124329,0.7292045648795156
+Pass-Ball Receipt-Carry,Manuel Obafemi Akanji-Kyle Walker-Kyle Walker,3955791,Manchester City,Lost,1,2,First half,2.0754204411886072,0.6901513769324951
+Block,Joško Gvardiol,3955806,Manchester City,Drawn,1,1,First half,1.4359114683539835,0.7456516265651698
+Ball Receipt,Bernardo Mota Veiga de Carvalho e Silva,3955817,Manchester City,Won,2,0,First half,1.9707220606260487,0.7099591299567765
+Pass,Nathan Aké,3955827,Manchester City,Won,4,1,Second half,1.1727570801452525,0.7923672558197866
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-Phil Foden-Phil Foden,3955832,Manchester City,Drawn,2,2,Second half,1.4772588942246512,0.7328693743822136
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mateo Kovačić-Kevin De Bruyne-Kevin De Bruyne-Kevin De Bruyne-Erling Håland-Erling Håland,3955845,Manchester City,Won,6,0,Second half,0.9027121074525614,0.8500038889012791
+Pressure-Pressure,İlkay Gündoğan-Omar Marmoush,3955857,Manchester City,Won,3,1,Second half,1.2946279857798957,0.7692542943177185
+50/50-Ball Recovery-Carry,Mateo Kovačić-Joško Gvardiol-Joško Gvardiol,3955862,Manchester City,Lost,1,5,Second half,1.6536233548782506,0.7480895219403663
+Block-Pressure,Erling Håland-Erling Håland,3955877,Manchester City,Won,4,0,Second half,1.599210944839053,0.7129062013298799
+Pressure,Omar Marmoush,3955888,Manchester City,Lost,0,2,Second half,1.3379816575783796,0.7652479451923299
+Pressure,Nicolás González Iglesias,3955894,Manchester City,Won,1,0,Second half,2.108684570345124,0.6649078679714734
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jeremy Doku-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Bernardo Mota Veiga de Carvalho e Silva-Phil Foden,3955907,Manchester City,Lost,0,1,Second half,1.0830897270980584,0.8094090734518461
+Foul Committed,Jeremy Doku,3955918,Manchester City,Drawn,2,2,Second half,1.4428080369682124,0.728807080343276
+Pass-Ball Receipt,Matheus Luiz Nunes-Nicolás González Iglesias,3955927,Manchester City,Won,2,0,Second half,1.092490358945713,0.7958731142684565
+Pass-Ball Receipt-Carry,Bernardo Mota Veiga de Carvalho e Silva-Joško Gvardiol-Joško Gvardiol,3955938,Manchester City,Drawn,0,0,Second half,1.4102279788202152,0.7382416819161319
+Duel-Carry,James McAtee-James McAtee,3955946,Manchester City,Won,5,2,Second half,1.3867373920071315,0.7538955381420942
+Injury Stoppage,Nicolás González Iglesias,3955954,Manchester City,Won,2,0,Second half,1.3097590100183163,0.7833305559905641
+Dispossessed,Omar Marmoush,3955966,Manchester City,Won,2,1,Second half,1.1730662467736686,0.7741189448718162
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-İlkay Gündoğan-İlkay Gündoğan-İlkay Gündoğan-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Manuel Obafemi Akanji-Mateo Kovačić-Mateo Kovačić-Mateo Kovačić-Manuel Obafemi Akanji-Manuel Obafemi Akanji,3955979,Manchester City,Won,1,0,Second half,1.7839447689300068,0.7032345974748019
+Pass,Rico Lewis,3955988,Manchester City,Drawn,0,0,Second half,1.5554513865652684,0.7506948684490649
+Pressure,Kevin De Bruyne,3955999,Manchester City,Won,3,1,Second half,1.5379694179956498,0.7530395020788532
+Foul Committed,Joško Gvardiol,3956002,Manchester City,Won,2,0,Second half,1.6230287083197552,0.7362486947601262
+Pressure,José Diogo Dalot Teixeira,3955631,Manchester United,Won,1,0,First half,1.2139024418532187,0.7981546243952334
+Pressure,Kobbie Mainoo,3955644,Manchester United,Lost,1,2,First half,1.3207544590168585,0.759845523577135
+Pass-Ball Receipt-Carry,Lisandro Martínez-André Onana-André Onana,3955660,Manchester United,Lost,0,3,First half,1.6177093447351656,0.7219048499736253
+Pass-Ball Receipt-Carry-Pass,Matthijs de Ligt-Marcus Rashford-Marcus Rashford-Marcus Rashford,3955666,Manchester United,Won,3,0,First half,1.487630074070294,0.741630860297121
+Pressure,Bruno Miguel Borges Fernandes,3955674,Manchester United,Drawn,0,0,First half,1.712966973455722,0.7359067518763307
+Ball Recovery-Carry,Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955689,Manchester United,Lost,0,3,First half,1.4426660574389898,0.751221951252225
+Duel,Matthijs de Ligt,3955699,Manchester United,Drawn,0,0,First half,1.0718666194050896,0.8078850534426668
+Shot,Bruno Miguel Borges Fernandes,3955706,Manchester United,Won,2,1,First half,1.6123072968875174,0.7244093118189209
+Pass,Alejandro Garnacho Ferreyra,3955718,Manchester United,Lost,1,2,First half,1.2517940106490122,0.7674182046197026
+Pressure,Marcus Rashford,3955726,Manchester United,Drawn,1,1,First half,1.6833703196948293,0.7052030030592498
+Interception,Manuel Ugarte Ribeiro,3955736,Manchester United,Won,3,0,First half,1.6872906310024784,0.7349954610536445
+Ball Receipt-Carry,Amad Diallo Traoré-Amad Diallo Traoré,3955746,Manchester United,Drawn,1,1,First half,1.224064607554747,0.7798150896324451
+Pass-Ball Receipt-Duel,André Onana-Marcus Rashford-Marcus Rashford,3955756,Manchester United,Won,4,0,First half,1.5070260314143018,0.7554639791695209
+Pass-Ball Receipt,José Diogo Dalot Teixeira-Mason Mount,3955762,Manchester United,Lost,0,2,First half,1.297712785977404,0.7557508505452424
+Referee Ball-Drop,Unknown,3955778,Manchester United,Lost,2,3,First half,1.9793710463865235,0.7171452899159378
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lisandro Martínez-Harry Maguire-Harry Maguire-Harry Maguire-Matthijs de Ligt-Matthijs de Ligt-Matthijs de Ligt-Noussair Mazraoui-Noussair Mazraoui,3955786,Manchester United,Won,2,1,First half,0.7643817265569844,0.8452559729531723
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Amad Diallo Traoré,3955798,Manchester United,Lost,0,3,First half,1.6852415703600836,0.7108118902927502
+Pressure,Harry Maguire,3955810,Manchester United,Lost,0,2,First half,1.415399245583816,0.7539019059927254
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Amad Diallo Traoré-Harry Maguire-Harry Maguire-Harry Maguire-Lisandro Martínez-Lisandro Martínez-Lisandro Martínez-Amad Diallo Traoré,3955818,Manchester United,Lost,0,2,First half,1.4312905942764609,0.7393885971561361
+Clearance,Harry Maguire,3955826,Manchester United,Drawn,2,2,Second half,1.4494974346782368,0.7572076981437763
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,André Onana-Leny Yoro-Leny Yoro-Leny Yoro-Amad Diallo Traoré-Amad Diallo Traoré-Amad Diallo Traoré-Tobias Christopher Collyer-Tobias Christopher Collyer-Tobias Christopher Collyer-André Onana-André Onana-André Onana-Joshua Zirkzee,3955840,Manchester United,Won,3,1,Second half,1.6120918598656244,0.7326335497937851
+Pass,José Diogo Dalot Teixeira,3955847,Manchester United,Lost,1,3,Second half,1.3112794980349427,0.7339886421583515
+Pass,Bruno Miguel Borges Fernandes,3955855,Manchester United,Won,1,0,Second half,0.8904163298297867,0.8138648829906434
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Harry Maguire,3955867,Manchester United,Lost,0,2,Second half,1.146238722490775,0.7921675379413684
+Dispossessed,Rasmus Winther Højlund,3955879,Manchester United,Lost,0,1,Second half,1.154672081287922,0.7839277046199166
+Duel,Carlos Henrique Casimiro,3955884,Manchester United,Drawn,2,2,Second half,1.8049792161228213,0.7167508137255894
+Pressure,Harry Maguire,3955900,Manchester United,Won,3,2,Second half,1.3199397338009478,0.7694200776885769
+Pass-Ball Receipt,Noussair Mazraoui-Joshua Zirkzee,3955906,Manchester United,Drawn,1,1,Second half,1.13892505674313,0.7833141226561231
+Pass,Victor Nilsson Lindelöf,3955917,Manchester United,Won,3,0,Second half,2.0785349603035583,0.6621882635473647
+Pass,Christian Dannemann Eriksen,3955924,Manchester United,Lost,0,1,Second half,1.531334581896042,0.7792780271124682
+Foul Committed,Victor Nilsson Lindelöf,3955938,Manchester United,Drawn,0,0,Second half,1.1100303712650006,0.7903967179249345
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Harry Amass-Tyler Fredricson-Tyler Fredricson,3955958,Manchester United,Lost,0,1,Second half,0.9242121543456376,0.8185580488364981
+Foul Won-Substitution-Substitution-Pass-Substitution-Tactical Shift-Ball Receipt,Patrick Chinazaekpere Dorgu-Carlos Henrique Casimiro-Kobbie Mainoo-Bruno Miguel Borges Fernandes-Harry Maguire-Unknown-Manuel Ugarte Ribeiro,3955961,Manchester United,Drawn,1,1,Second half,0.7799696593390041,0.8494258181455056
+Foul Won-Pass,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen,3955973,Manchester United,Lost,3,4,Second half,1.3196358394161871,0.7623948957753469
+Pressure,Alejandro Garnacho Ferreyra,3955985,Manchester United,Lost,0,2,Second half,1.3614033590393932,0.7789982702144779
+Pressure,Mason Mount,3955995,Manchester United,Lost,0,1,Second half,1.878147783925476,0.7109960866974989
+Pass-Ball Receipt,Harry Maguire-Amad Diallo Traoré,3956005,Manchester United,Won,2,0,Second half,1.069146317093297,0.834392616837267
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alexander Isak-Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura-Lewis Hall-Lewis Hall-Lewis Hall-Dan Burn-Dan Burn,3955635,Newcastle United,Won,1,0,First half,1.1620009384357168,0.7588054335390552
+Pass-Ball Receipt-Carry,Joelinton Cassio Apolinário de Lira-Harvey Lewis Barnes-Harvey Lewis Barnes,3955649,Newcastle United,Drawn,1,1,First half,1.342048932970632,0.7570702392766618
+Ball Receipt,Joelinton Cassio Apolinário de Lira,3955658,Newcastle United,Won,2,1,First half,2.182308335842496,0.6463009837393571
+Pressure,Lewis Hall,3955670,Newcastle United,Won,2,1,First half,1.7007444682670685,0.7212733672685525
+Miscontrol,Bruno Guimarães Rodriguez Moura,3955675,Newcastle United,Lost,1,3,First half,1.012192088218341,0.8236533516339452
+Pressure,Lewis Hall,3955682,Newcastle United,Drawn,1,1,First half,1.3387599841338509,0.7308312633693339
+Block,Jacob Murphy,3955695,Newcastle United,Drawn,0,0,First half,0.92695996518751,0.8386654120977369
+50/50-Block,Valentino Livramento-Alexander Isak,3955707,Newcastle United,Lost,0,1,First half,1.3660461784529678,0.7441267082118068
+Foul Committed,Bruno Guimarães Rodriguez Moura,3955713,Newcastle United,Lost,1,2,First half,1.535948776705763,0.715050074354093
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lewis Hall-Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura-Fabian Lukas Schär-Fabian Lukas Schär-Fabian Lukas Schär,3955727,Newcastle United,Won,1,0,First half,0.97754851193516,0.799965890766436
+Duel-Carry,Joelinton Cassio Apolinário de Lira-Joelinton Cassio Apolinário de Lira,3955737,Newcastle United,Won,3,1,First half,1.5517205960138205,0.7537591904336187
+Dribbled Past-Pressure,Anthony Gordon-Bruno Guimarães Rodriguez Moura,3955749,Newcastle United,Lost,0,2,First half,1.7413236996538206,0.7084939608165599
+Pressure,Joseph Willock,3955754,Newcastle United,Drawn,1,1,First half,1.1009147466833895,0.7917703824259
+Dribbled Past-Pressure-Pressure-Foul Committed,Bruno Guimarães Rodriguez Moura-Sandro Tonali-Joelinton Cassio Apolinário de Lira-Joelinton Cassio Apolinário de Lira,3955769,Newcastle United,Drawn,3,3,First half,1.5628209694971085,0.7078048341268958
+Clearance,Fabian Lukas Schär,3955772,Newcastle United,Lost,2,4,First half,1.4157341568513426,0.7460183294272006
+Ball Recovery-Carry-Pass,Joelinton Cassio Apolinário de Lira-Joelinton Cassio Apolinário de Lira-Joelinton Cassio Apolinário de Lira,3955787,Newcastle United,Won,4,0,First half,1.5508573969556445,0.7358133042772366
+Dribble-Carry,Valentino Livramento-Valentino Livramento,3955796,Newcastle United,Won,4,0,First half,1.860181795603301,0.6991220160848665
+Pass-Ball Receipt,Lewis Hall-Dan Burn,3955807,Newcastle United,Won,3,0,First half,1.4990566812705728,0.744346560105231
+Pressure,Bruno Guimarães Rodriguez Moura,3955818,Newcastle United,Won,2,0,First half,1.818962136210745,0.6856816131015112
+Foul Won-Pass,Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura,3955829,Newcastle United,Won,2,1,Second half,1.3229102256235372,0.7449762221704397
+Pressure,Jacob Murphy,3955839,Newcastle United,Won,3,0,Second half,1.1980340322925118,0.767754798322274
+Pressure,Dan Burn,3955848,Newcastle United,Lost,1,4,Second half,1.8485069923051665,0.6961137016265528
+Pass,Fabian Lukas Schär,3955858,Newcastle United,Won,3,1,Second half,1.188902768940329,0.7639475079558032
+Pressure,Anthony Gordon,3955868,Newcastle United,Lost,1,2,Second half,1.6690208238804194,0.7177331768731426
+Duel-Carry,Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura,3955877,Newcastle United,Lost,0,4,Second half,0.4381198748007386,0.9244196133601056
+Block-Goal Keeper-Pressure,Joseph Willock-Nick Pope-Lewis Miley,3955889,Newcastle United,Won,4,3,Second half,1.4398709496348503,0.7252460078555365
+Pressure,Anthony Gordon,3955899,Newcastle United,Lost,0,2,Second half,0.99652228362022,0.7882595917602803
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alexander Isak-Alexander Isak-Alexander Isak-Jacob Murphy-Jacob Murphy-Jacob Murphy-Kieran Trippier,3955909,Newcastle United,Won,1,0,Second half,1.7632092420240162,0.7035822784028508
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Gordon-Anthony Gordon-Valentino Livramento-Valentino Livramento-Valentino Livramento-Joseph Willock-Joseph Willock,3955919,Newcastle United,Won,5,0,Second half,1.86761135230718,0.7227114223555248
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Nick Pope-Nick Pope-Nick Pope-Jacob Murphy-Jacob Murphy,3955928,Newcastle United,Won,2,1,Second half,1.2613367062248513,0.7660622229513786
+Pressure,Sean Longstaff,3955937,Newcastle United,Won,3,0,Second half,1.4034528187060795,0.7249076156802391
+Block,Joelinton Cassio Apolinário de Lira,3955947,Newcastle United,Won,4,1,Second half,1.20443966023029,0.7318177176525857
+Clearance,Kieran Trippier,3955951,Newcastle United,Lost,1,4,Second half,1.6360941111722922,0.7257738227172705
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jacob Murphy-Kieran Trippier-Fabian Lukas Schär-Fabian Lukas Schär-Dan Burn-Dan Burn-Valentino Livramento-Valentino Livramento-Joseph Willock-Joseph Willock,3955967,Newcastle United,Won,3,0,Second half,1.4388463765241042,0.7772987248259887
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Valentino Livramento-Kieran Trippier-Kieran Trippier-Fabian Lukas Schär-Fabian Lukas Schär-Fabian Lukas Schär,3955974,Newcastle United,Drawn,1,1,Second half,1.7413638514451986,0.7093662864785509
+Pressure,Alexander Isak,3955986,Newcastle United,Won,2,0,Second half,1.4920942123046603,0.7431218224492157
+Ball Recovery-Carry,Bruno Guimarães Rodriguez Moura-Bruno Guimarães Rodriguez Moura,3955991,Newcastle United,Lost,0,1,Second half,1.0117727195254669,0.7804345419882037
+Pass-Ball Receipt-Carry-Pass,Bruno Guimarães Rodriguez Moura-Fabian Lukas Schär-Fabian Lukas Schär-Fabian Lukas Schär,3956006,Newcastle United,Lost,0,1,Second half,1.0769649302274538,0.805360393025014
+Pass-Ball Receipt,Temitayo Olufisayo Olaoluwa Aina-Morgan Gibbs-White,3955632,Nottingham Forest,Drawn,1,1,First half,1.6619641655225663,0.7214651100165607
+Duel-Carry,Elliot Anderson-Elliot Anderson,3955647,Nottingham Forest,Won,1,0,First half,1.4606613018431889,0.7327506058426545
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Murillo Santiago Costa dos Santos-Temitayo Olufisayo Olaoluwa Aina-Temitayo Olufisayo Olaoluwa Aina-Temitayo Olufisayo Olaoluwa Aina-Elliot Anderson-Elliot Anderson,3955656,Nottingham Forest,Drawn,1,1,First half,1.5458718430072036,0.7504177886081823
+Ball Recovery-Carry-Pass-Ball Receipt,Matz Sels-Matz Sels-Matz Sels-Chris Wood,3955667,Nottingham Forest,Won,1,0,First half,1.3011746656719771,0.7574087033692849
+Pass-Ball Receipt-Duel,Neco Williams-Chris Wood-Chris Wood,3955679,Nottingham Forest,Drawn,2,2,First half,1.200087459205269,0.74809190135632
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Ward-Prowse-Murillo Santiago Costa dos Santos-Murillo Santiago Costa dos Santos-Murillo Santiago Costa dos Santos-Ryan Yates-Ryan Yates,3955683,Nottingham Forest,Lost,0,1,First half,1.8105932870401191,0.6949833726955787
+Pass,Morgan Gibbs-White,3955693,Nottingham Forest,Drawn,1,1,First half,1.07759988060898,0.819822570066548
+Block,Alejandro Moreno Lopera,3955701,Nottingham Forest,Won,1,0,First half,1.2272516482825886,0.7629680530952384
+Ball Recovery-Shot,Chris Wood-Chris Wood,3955716,Nottingham Forest,Won,3,1,First half,1.5707802762020542,0.7304381852509452
+Pressure,Chris Wood,3955728,Nottingham Forest,Won,3,0,First half,1.2623620134493332,0.7680725816172268
+Ball Receipt-Pass-Ball Receipt-Carry,Chris Wood-Chris Wood-Elliot Anderson-Elliot Anderson,3955737,Nottingham Forest,Lost,1,3,First half,1.7571247977562168,0.7045242816533942
+Pressure,James Ward-Prowse,3955742,Nottingham Forest,Lost,0,3,First half,1.6719683426540972,0.7071158568165358
+Foul Committed,Temitayo Olufisayo Olaoluwa Aina,3955757,Nottingham Forest,Won,1,0,First half,1.6465229620058692,0.721833885051926
+Pressure,Nicolás Martín Domínguez,3955768,Nottingham Forest,Lost,0,3,First half,1.3355144440021487,0.7538941889122518
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Morgan Gibbs-White-Matz Sels-Matz Sels-Matz Sels-Chris Wood-Chris Wood,3955778,Nottingham Forest,Won,3,2,First half,1.1373518048892108,0.7684327726295527
+Pressure,Chris Wood,3955788,Nottingham Forest,Won,2,1,First half,1.5184400957642965,0.7470675152107898
+Pressure-Pressure,Chris Wood-Morgan Gibbs-White,3955792,Nottingham Forest,Won,2,0,First half,1.3501815248041855,0.7382649644383024
+Pressure,Ryan Yates,3955808,Nottingham Forest,Won,1,0,First half,1.562750869474794,0.7268540088701374
+Pressure,Elliot Anderson,3955814,Nottingham Forest,Won,2,0,First half,1.2169572065596124,0.749589074510659
+Pressure,Chris Wood,3955830,Nottingham Forest,Won,3,0,Second half,1.4505030080221786,0.7481844473232823
+Ball Recovery-Carry,Callum Hudson-Odoi-Callum Hudson-Odoi,3955836,Nottingham Forest,Drawn,1,1,Second half,1.5249931489613098,0.737094883420434
+Pass,Neco Williams,3955849,Nottingham Forest,Won,3,2,Second half,1.458604817065685,0.7688490203326394
+50/50,Anthony Elanga,3955851,Nottingham Forest,Lost,0,5,Second half,1.296824985330495,0.7735339711935474
+Tactical Shift-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Unknown-Nicolás Martín Domínguez-Elliot Anderson-Elliot Anderson-Felipe Rodrigues-Felipe Rodrigues-Nicolás Martín Domínguez-Nicolás Martín Domínguez-Nikola Milenković-Nikola Milenković,3955869,Nottingham Forest,Won,7,0,Second half,1.96195678442169,0.6965851556115251
+Block-Pressure,Chris Wood-Morgan Gibbs-White,3955874,Nottingham Forest,Lost,1,2,Second half,1.893821398172812,0.6927990073722808
+Pressure,Callum Hudson-Odoi,3955889,Nottingham Forest,Lost,3,4,Second half,0.3567610137004993,0.945643127544942
+Block,Murillo Santiago Costa dos Santos,3955893,Nottingham Forest,Drawn,0,0,Second half,2.01865495034179,0.6801592060793697
+Block,Murillo Santiago Costa dos Santos,3955907,Nottingham Forest,Won,1,0,Second half,1.9180690094663504,0.6763590363902366
+Clearance-Clearance,Murillo Santiago Costa dos Santos-Nicolás Martín Domínguez,3955916,Nottingham Forest,Won,4,2,Second half,1.5498201597979826,0.7306993269333816
+Miscontrol,Ryan Yates,3955924,Nottingham Forest,Won,1,0,Second half,1.6006434777373792,0.7371134358448869
+Pressure,João Pedro Ferreira Silva,3955931,Nottingham Forest,Lost,1,2,Second half,1.2920309790564692,0.7529805457624107
+Pressure,Elliot Anderson,3955948,Nottingham Forest,Lost,0,1,Second half,0.950330494639802,0.8202982097376599
+Pressure,Callum Hudson-Odoi,3955959,Nottingham Forest,Won,2,1,Second half,1.7445313402729536,0.6999336326837156
+Clearance,Temitayo Olufisayo Olaoluwa Aina,3955968,Nottingham Forest,Lost,0,2,Second half,1.124480077517806,0.8033096512758363
+Duel,Ramón Sosa Acosta,3955976,Nottingham Forest,Drawn,1,1,Second half,1.4070381779991554,0.7520883005593265
+Pass-Ball Receipt,Felipe Rodrigues-Chris Wood,3955987,Nottingham Forest,Drawn,2,2,Second half,1.6048233814621131,0.7269163392019803
+Pressure-Pressure,Elliot Anderson-Nicolás Martín Domínguez,3956000,Nottingham Forest,Won,2,1,Second half,1.759939909672669,0.7040969556174308
+Ball Recovery-Shot,Temitayo Olufisayo Olaoluwa Aina-Temitayo Olufisayo Olaoluwa Aina,3956007,Nottingham Forest,Lost,0,1,Second half,1.602638873928686,0.7313233622622888
+Pressure,Adam Armstrong,3955635,Southampton,Lost,0,1,First half,1.0358815484141255,0.8137765241493726
+Block-Goal Keeper,Jack Stephens-Alex McCarthy,3955647,Southampton,Lost,0,1,First half,0.8230801311050374,0.8687976785106604
+Pressure,Cameron Archer,3955652,Southampton,Lost,1,3,First half,1.668464783935411,0.7356355762960135
+Pressure,Ross Stewart,3955666,Southampton,Lost,0,3,First half,1.0216909182901914,0.8156878436964311
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jan Bednarek-Ben Brereton Díaz-Ben Brereton Díaz-Ben Brereton Díaz-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes,3955672,Southampton,Drawn,1,1,First half,1.760086145733585,0.7167910383966593
+Pass-Ball Receipt-Carry,Flynn Downes-Taylor Harwood-Bellis-Taylor Harwood-Bellis,3955690,Southampton,Lost,1,3,First half,1.8295608574674096,0.6998848931916436
+Pressure,Cameron Archer,3955700,Southampton,Lost,1,3,First half,1.2497980434625868,0.7662439217037362
+Pressure,Joe Aribo,3955708,Southampton,Lost,2,3,First half,2.03146019507763,0.6914680980159887
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Ryan Manning-Ryan Manning-Ryan Manning-Jan Bednarek-Jan Bednarek,3955717,Southampton,Lost,0,1,First half,1.2585988662058845,0.7801199102091158
+Pressure,Kyle Walker-Peters,3955721,Southampton,Won,1,0,First half,1.505833371659203,0.7548827310826437
+Pass-Ball Receipt,Lesley Chimuanya Ugochukwu-Joe Aribo,3955740,Southampton,Lost,0,2,First half,0.9931094141442136,0.8458212645514896
+Pressure,Tyler-Jay Robert Dibling,3955750,Southampton,Lost,2,3,First half,1.3132414267398609,0.7770373331356725
+Pressure,Jack Stephens,3955752,Southampton,Drawn,1,1,First half,1.3718340862445242,0.7374473063891195
+Pressure,Kyle Walker-Peters,3955770,Southampton,Lost,1,5,First half,1.4312206343021352,0.7603450499067812
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Kyle Walker-Peters-Kyle Walker-Peters-Kyle Walker-Peters-Tyler-Jay Robert Dibling-Tyler-Jay Robert Dibling-Tyler-Jay Robert Dibling-Taylor Harwood-Bellis-Taylor Harwood-Bellis-Taylor Harwood-Bellis-Nathan Wood-Gordon-Nathan Wood-Gordon-Nathan Wood-Gordon-Joe Lumley-Joe Lumley-Joe Lumley-Joe Aribo-Joe Aribo,3955771,Southampton,Lost,0,1,First half,0.6150706641422017,0.8966782936791154
+Ball Recovery-Carry-Pass,Ryan Manning-Ryan Manning-Ryan Manning,3955789,Southampton,Lost,0,5,First half,0.703733335550577,0.8699348486223198
+Ball Recovery-Carry,Taylor Harwood-Bellis-Taylor Harwood-Bellis,3955795,Southampton,Drawn,0,0,First half,1.627401560642069,0.7224062964413054
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Kyle Walker-Peters-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes-James Bree-James Bree-James Bree-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes-Adam Armstrong-Adam Armstrong-Adam Armstrong,3955809,Southampton,Lost,0,1,First half,1.1476903263632925,0.7834542228054285
+Pressure,Nathan Wood-Gordon,3955813,Southampton,Lost,1,2,First half,1.751553283836084,0.711404555934455
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Joe Aribo-Charles James Taylor-Taylor Harwood-Bellis-Taylor Harwood-Bellis-Yukinari Sugawara,3955828,Southampton,Lost,0,5,Second half,1.27203017804129,0.7735684054768831
+Pressure,Lesley Chimuanya Ugochukwu,3955840,Southampton,Lost,1,3,Second half,0.9337930778779844,0.8183688757647047
+Ball Recovery-Pressure,Paul Onuachu-Lesley Chimuanya Ugochukwu,3955849,Southampton,Lost,2,3,Second half,1.6720596710651938,0.7249799643847198
+Dribble-Carry,James Bree-James Bree,3955858,Southampton,Lost,1,3,Second half,1.3498478897881832,0.7611616402295553
+Pass,Jan Bednarek,3955866,Southampton,Won,2,1,Second half,1.6444371884726197,0.6908707917721718
+Pass-Ball Receipt-Carry,Jan Bednarek-Mateus Gonçalo Espanha Fernandes-Mateus Gonçalo Espanha Fernandes,3955878,Southampton,Lost,1,3,Second half,1.9798801947761715,0.670754449914801
+Pass-Ball Receipt-Pass-Ball Receipt,Yukinari Sugawara-Tyler-Jay Robert Dibling-Tyler-Jay Robert Dibling-Lesley Chimuanya Ugochukwu,3955890,Southampton,Lost,0,4,Second half,1.2607856353058882,0.7588170484625307
+Dribble,Kamaldeen Sulemana,3955898,Southampton,Lost,0,4,Second half,1.142895381104448,0.7817602289658058
+Pass-Ball Receipt-Carry-Pass,Lesley Chimuanya Ugochukwu-Taylor Harwood-Bellis-Taylor Harwood-Bellis-Taylor Harwood-Bellis,3955905,Southampton,Lost,1,3,Second half,0.899938605103686,0.8102810505458719
+Pass-Ball Receipt-Carry,Ryan Manning-Lesley Chimuanya Ugochukwu-Lesley Chimuanya Ugochukwu,3955920,Southampton,Lost,1,2,Second half,1.4881270928966197,0.7236816426113775
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Flynn Downes-Kyle Walker-Peters-Kyle Walker-Peters-Kyle Walker-Peters-Kamaldeen Sulemana,3955929,Southampton,Drawn,1,1,Second half,1.1223255939793102,0.7907813872672702
+Ball Receipt-Carry-Pass,Taylor Harwood-Bellis-Taylor Harwood-Bellis-Taylor Harwood-Bellis,3955939,Southampton,Lost,1,3,Second half,0.6825513432910577,0.8807363204383746
+Pressure-Pass-Ball Receipt-Carry-Pass,Taylor Harwood-Bellis-Taylor Harwood-Bellis-Lesley Chimuanya Ugochukwu-Lesley Chimuanya Ugochukwu-Lesley Chimuanya Ugochukwu,3955949,Southampton,Lost,0,3,Second half,1.3671313532040537,0.745590816659196
+Dispossessed,Kamaldeen Sulemana,3955960,Southampton,Drawn,1,1,Second half,1.31050012669269,0.7703125406135085
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Jan Bednarek-Jan Bednarek-Jan Bednarek-Kamaldeen Sulemana-Kamaldeen Sulemana-Kamaldeen Sulemana-Ryan Manning-Ryan Manning-Ryan Manning-Ross Stewart-Ross Stewart,3955969,Southampton,Lost,1,2,Second half,1.4748294066570216,0.7121277428843689
+Pressure,Jay Robinson,3955978,Southampton,Lost,0,2,Second half,1.5608069487180336,0.7301062082210814
+Pass,Aaron Ramsdale,3955988,Southampton,Drawn,0,0,Second half,0.97126205436988,0.8089495693448389
+Clearance,Welington Damascena Santos,3955997,Southampton,Lost,0,2,Second half,1.2454244705883413,0.8009788372107038
+Clearance,Nathan Wood-Gordon,3956008,Southampton,Lost,1,2,Second half,0.754091926583155,0.8631735047784777
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dominic Solanke-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Pape Matar Sarr-Pape Matar Sarr-Pape Matar Sarr,3955640,Tottenham Hotspur,Drawn,1,1,First half,1.3963124140012686,0.7749895229205921
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Wilson Odobert-James Maddison-Micky van de Ven-Micky van de Ven-Micky van de Ven-Guglielmo Vicario-Guglielmo Vicario-Guglielmo Vicario-Cristian Gabriel Romero-Cristian Gabriel Romero-Cristian Gabriel Romero-Yves Bissouma-Yves Bissouma-Yves Bissouma-Dejan Kulusevski-Dejan Kulusevski,3955642,Tottenham Hotspur,Won,4,0,First half,1.5048102879914462,0.7563816111247219
+Pass-Ball Receipt-Carry,James Maddison-Iyenoma Destiny Udogie-Iyenoma Destiny Udogie,3955658,Tottenham Hotspur,Lost,1,2,First half,1.351825131440437,0.7576548626896297
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Guglielmo Vicario-Guglielmo Vicario-Guglielmo Vicario-Micky van de Ven-Micky van de Ven-Micky van de Ven-Guglielmo Vicario-Guglielmo Vicario-Guglielmo Vicario-Cristian Gabriel Romero-Cristian Gabriel Romero-Cristian Gabriel Romero-Micky van de Ven-Micky van de Ven,3955669,Tottenham Hotspur,Lost,0,1,First half,1.8606693033707564,0.70955471130927
+Pressure,Cristian Gabriel Romero,3955677,Tottenham Hotspur,Won,3,1,First half,1.385149399760757,0.7551348119062626
+Pressure,Djed Spence,3955689,Tottenham Hotspur,Won,3,0,First half,1.4042645308742,0.7632072933087816
+Pressure,Dominic Solanke,3955692,Tottenham Hotspur,Lost,2,3,First half,1.8046211191525148,0.7003688817010955
+Interception-Carry-Pass-Ball Receipt,Cristian Gabriel Romero-Cristian Gabriel Romero-Cristian Gabriel Romero-Dejan Kulusevski,3955709,Tottenham Hotspur,Won,4,1,First half,1.439804066852603,0.7586713265731309
+Pass,Brennan Johnson,3955714,Tottenham Hotspur,Lost,0,1,First half,1.4747186788118376,0.7398042858171122
+Pressure,Pedro Antonio Porro Sauceda,3955729,Tottenham Hotspur,Won,4,1,First half,1.0199144633044444,0.812541018814108
+Pass,Cristian Gabriel Romero,3955738,Tottenham Hotspur,Lost,1,2,First half,1.748555718118196,0.7320170906565915
+Pass,Yves Bissouma,3955748,Tottenham Hotspur,Won,4,0,First half,1.7720088926667898,0.6965966112286224
+Pressure,Yves Bissouma,3955758,Tottenham Hotspur,Drawn,1,1,First half,1.4279512522371838,0.75168075088961
+Pressure,Iyenoma Destiny Udogie,3955761,Tottenham Hotspur,Lost,0,1,First half,2.364197933388726,0.6723633140208789
+Interception,Iyenoma Destiny Udogie,3955779,Tottenham Hotspur,Lost,3,4,First half,1.4956336158697952,0.736743882526793
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Djed Spence-Radu Drăgușin-Radu Drăgușin-Radu Drăgușin-Lucas Bergvall-Lucas Bergvall-Lucas Bergvall-Pape Matar Sarr-Pape Matar Sarr-Pape Matar Sarr-Pedro Antonio Porro Sauceda-Pedro Antonio Porro Sauceda-Pedro Antonio Porro Sauceda-Archie Gray-Archie Gray-Archie Gray-Djed Spence-Djed Spence-Djed Spence-Lucas Bergvall-Lucas Bergvall,3955789,Tottenham Hotspur,Won,5,0,First half,1.2614172773626011,0.7845255066515876
+Dribbled Past-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Pedro Antonio Porro Sauceda-Pedro Antonio Porro Sauceda-Yves Bissouma-Yves Bissouma-Brennan Johnson-Brennan Johnson-Brennan Johnson-Yves Bissouma-Yves Bissouma-Yves Bissouma,3955799,Tottenham Hotspur,Lost,3,6,First half,1.331656911310882,0.7743878543091557
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Archie Gray-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Iyenoma Destiny Udogie-Iyenoma Destiny Udogie,3955808,Tottenham Hotspur,Lost,0,1,First half,1.2663709316323777,0.7808449656560745
+Ball Recovery,Yves Bissouma,3955819,Tottenham Hotspur,Drawn,2,2,First half,1.5172645307919692,0.7281889127165607
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Heung-Min Son-Sergio Reguilón Rodríguez-Sergio Reguilón Rodríguez-Sergio Reguilón Rodríguez-Heung-Min Son-Heung-Min Son-Heung-Min Son-Yves Bissouma-Yves Bissouma,3955829,Tottenham Hotspur,Lost,1,2,Second half,1.5927912037373306,0.7323188426380519
+Pass-Ball Receipt-Carry,Radu Drăgușin-Antonín Kinský-Antonín Kinský,3955831,Tottenham Hotspur,Lost,1,2,Second half,1.2428223906969635,0.7757188566464344
+Error-Pass-Ball Receipt,Antonín Kinský-Antonín Kinský-Djed Spence,3955844,Tottenham Hotspur,Lost,2,3,Second half,1.4001830471268142,0.7489912876158339
+Foul Won,Heung-Min Son,3955859,Tottenham Hotspur,Lost,1,2,Second half,1.276418982785233,0.779756735650295
+Block,Pedro Antonio Porro Sauceda,3955863,Tottenham Hotspur,Won,2,0,Second half,1.2649582181882195,0.7760779852924975
+Pressure,Mathys Tel,3955879,Tottenham Hotspur,Won,1,0,Second half,1.5159857722774588,0.7452397349450143
+Pass-Ball Receipt,Heung-Min Son-Lucas Bergvall,3955886,Tottenham Hotspur,Won,4,1,Second half,0.9195621356912836,0.8372462239536187
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Danso-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Guglielmo Vicario-Guglielmo Vicario-Guglielmo Vicario-Kevin Danso-Kevin Danso-Kevin Danso-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Rodrigo Bentancur Colmán-Iyenoma Destiny Udogie-Iyenoma Destiny Udogie-Iyenoma Destiny Udogie-James Maddison-James Maddison-James Maddison-Wilson Odobert-Wilson Odobert,3955894,Tottenham Hotspur,Lost,0,1,Second half,0.9232561427973832,0.8167629491767016
+Pass-Ball Receipt-Duel,Djed Spence-Dominic Solanke-Dominic Solanke,3955908,Tottenham Hotspur,Drawn,2,2,Second half,1.4286443320237965,0.7310644336895261
+Foul Won-Pass,Iyenoma Destiny Udogie-Heung-Min Son,3955915,Tottenham Hotspur,Lost,0,2,Second half,1.821085014002385,0.6857790149241285
+Pass,Heung-Min Son,3955926,Tottenham Hotspur,Lost,0,1,Second half,1.8871451230905487,0.6904032542191454
+Pressure,Djed Spence,3955939,Tottenham Hotspur,Won,3,1,Second half,1.643632835575507,0.7283486213469067
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Bergvall-Archie Gray-Archie Gray-Archie Gray-Cristian Gabriel Romero-Cristian Gabriel Romero-Cristian Gabriel Romero-Djed Spence-Djed Spence-Djed Spence-Mathys Tel-Mathys Tel-Mathys Tel-Ben Davies-Ben Davies-Ben Davies-Cristian Gabriel Romero-Cristian Gabriel Romero-Cristian Gabriel Romero,3955950,Tottenham Hotspur,Lost,2,4,Second half,1.6241047357937068,0.7432689254837208
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Pape Matar Sarr-Djed Spence-Ben Davies-Ben Davies-Kevin Danso-Kevin Danso-Kevin Danso-Pedro Antonio Porro Sauceda-Pedro Antonio Porro Sauceda-Pedro Antonio Porro Sauceda-Kevin Danso-Kevin Danso-Kevin Danso-Guglielmo Vicario-Guglielmo Vicario-Guglielmo Vicario-Ben Davies-Ben Davies-Ben Davies-Djed Spence-Djed Spence-Djed Spence,3955959,Tottenham Hotspur,Lost,1,2,Second half,1.3180901801514546,0.7734455477205779
+Pass,Guglielmo Vicario,3955965,Tottenham Hotspur,Lost,1,5,Second half,1.4841284702669268,0.7182386538983337
+Ball Recovery-Carry,Dejan Kulusevski-Dejan Kulusevski,3955980,Tottenham Hotspur,Drawn,1,1,Second half,1.567774580685005,0.7064528360342253
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Antonín Kinský-Kevin Danso-Kevin Danso-Archie Gray-Archie Gray-Archie Gray,3955989,Tottenham Hotspur,Lost,0,2,Second half,1.366497770327267,0.7674346790622572
+Pressure,Mathys Tel,3955992,Tottenham Hotspur,Lost,0,2,Second half,1.1877407692591953,0.7704015441398796
+Block-Goal Keeper-Clearance,Kevin Danso-Guglielmo Vicario-Micky van de Ven,3956009,Tottenham Hotspur,Lost,1,4,Second half,1.269863268476984,0.7675910444554994
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Tolentino Coelho de Lima-Guido Rodríguez-Guido Rodríguez-Guido Rodríguez-Konstantinos Mavropanos-Konstantinos Mavropanos-Konstantinos Mavropanos,3955634,West Ham United,Lost,1,2,First half,1.6121136788466262,0.7369029626213676
+Dispossessed,Guido Rodríguez,3955645,West Ham United,Won,2,0,First half,1.7149053790566469,0.7232375485782191
+Clearance-Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Edson Omar Álvarez Velázquez-Aaron Wan-Bissaka-Guido Rodríguez-Lucas Tolentino Coelho de Lima-Lucas Tolentino Coelho de Lima-Lucas Tolentino Coelho de Lima-Guido Rodríguez-Guido Rodríguez-Guido Rodríguez-Mohammed Kudus-Mohammed Kudus-Mohammed Kudus,3955657,West Ham United,Lost,1,3,First half,1.6606012156480712,0.7163618496877836
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jarrod Bowen-Mohammed Kudus-Konstantinos Mavropanos-Konstantinos Mavropanos-Konstantinos Mavropanos-Jarrod Bowen-Jarrod Bowen,3955665,West Ham United,Drawn,1,1,First half,1.3656218077309352,0.7639007366775008
+Dribble-Carry,Aaron Wan-Bissaka-Aaron Wan-Bissaka,3955678,West Ham United,Lost,0,3,First half,0.8163725709541476,0.86710986297523
+Duel,Guido Rodríguez,3955685,West Ham United,Drawn,1,1,First half,2.100738563476024,0.6772535884754098
+Duel,Lucas Tolentino Coelho de Lima,3955698,West Ham United,Won,4,1,First half,1.6438475866593103,0.73532442731242
+Pass-Ball Receipt-Carry-Miscontrol,Maximilian William Kilman-Michail Antonio-Michail Antonio-Michail Antonio,3955709,West Ham United,Lost,1,4,First half,1.866208104879686,0.6870330563338477
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Edson Omar Álvarez Velázquez-Edson Omar Álvarez Velázquez-Edson Omar Álvarez Velázquez-Maximilian William Kilman-Maximilian William Kilman-Maximilian William Kilman-Jean-Clair Todibo-Jean-Clair Todibo-Jean-Clair Todibo-Guido Rodríguez-Guido Rodríguez-Guido Rodríguez,3955718,West Ham United,Won,2,1,First half,1.7174507505851817,0.703033529401474
+Pressure,Lucas Tolentino Coelho de Lima,3955728,West Ham United,Lost,0,3,First half,1.3871656363699385,0.7437731304847952
+Pass,Łukasz Fabiański,3955739,West Ham United,Drawn,0,0,First half,1.2918416618389044,0.7691956033321238
+Shot,Tomáš Souček,3955749,West Ham United,Won,2,0,First half,1.2825278639237665,0.7198075248805395
+Foul Won-Pass-Ball Receipt-Carry,Edson Omar Álvarez Velázquez-Maximilian William Kilman-Edson Omar Álvarez Velázquez-Edson Omar Álvarez Velázquez,3955759,West Ham United,Lost,2,5,First half,1.2055127013020177,0.7585584420034988
+Ball Receipt-Carry,Edson Omar Álvarez Velázquez-Edson Omar Álvarez Velázquez,3955767,West Ham United,Lost,1,3,First half,1.2701455411577005,0.7872867108039572
+Pass-Ball Receipt-Carry-Dribble-Carry,Aaron Wan-Bissaka-Konstantinos Mavropanos-Konstantinos Mavropanos-Konstantinos Mavropanos-Konstantinos Mavropanos,3955780,West Ham United,Won,2,1,First half,1.22032369831031,0.7748454876434634
+Duel,Edson Omar Álvarez Velázquez,3955781,West Ham United,Drawn,1,1,First half,1.671677428384819,0.7120637987063276
+Pressure,Crysencio Summerville,3955800,West Ham United,Drawn,1,1,First half,1.0029766634109036,0.7936609850267623
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alphonse Areola-Alphonse Areola-Jean-Clair Todibo-Jean-Clair Todibo-Jean-Clair Todibo-Aaron Wan-Bissaka-Aaron Wan-Bissaka-Aaron Wan-Bissaka,3955809,West Ham United,Won,1,0,First half,1.253450709568681,0.7683586332478822
+Pressure,Crysencio Summerville,3955820,West Ham United,Lost,0,5,First half,1.356117587863705,0.7576063814581345
+Pressure,Crysencio Summerville,3955827,West Ham United,Lost,1,4,Second half,1.067395025331349,0.8079916291240676
+Miscontrol,Aaron Wan-Bissaka,3955837,West Ham United,Won,3,2,Second half,0.7921550373068245,0.8118771057321741
+Pass-Ball Receipt-Carry,Konstantinos Mavropanos-Aaron Wan-Bissaka-Aaron Wan-Bissaka,3955850,West Ham United,Lost,0,2,Second half,1.1034544253169156,0.782803495986468
+Foul Won-Pass,Emerson Palmieri dos Santos-Aaron Cresswell,3955852,West Ham United,Drawn,1,1,Second half,1.161475504349378,0.7763695164481049
+Pass-Ball Receipt,Vladimír Coufal-Carlos Soler Barragán,3955864,West Ham United,Lost,1,2,Second half,1.2291702501920774,0.7685056509555128
+Pass-Pressure-Ball Receipt,Aaron Wan-Bissaka-Jarrod Bowen-Jarrod Bowen,3955880,West Ham United,Lost,0,1,Second half,1.4467317715131611,0.7717968737696732
+Pass-Ball Receipt,Edson Omar Álvarez Velázquez-Jarrod Bowen,3955882,West Ham United,Won,1,0,Second half,1.5322274168500345,0.7120086859453887
+Foul Won-Pass-Ball Receipt-Carry,Aaron Wan-Bissaka-Aaron Wan-Bissaka-Edson Omar Álvarez Velázquez-Edson Omar Álvarez Velázquez,3955895,West Ham United,Won,2,0,Second half,1.387366742462958,0.752362176498184
+Pressure,Edson Omar Álvarez Velázquez,3955909,West Ham United,Lost,0,1,Second half,1.3455615504716116,0.7466876403548507
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emerson Palmieri dos Santos-Emerson Palmieri dos Santos-Tomáš Souček-Tomáš Souček-Tomáš Souček-Emerson Palmieri dos Santos-Emerson Palmieri dos Santos,3955914,West Ham United,Drawn,1,1,Second half,2.200820631466461,0.6789451877259133
+Pressure-Pressure,James Ward-Prowse-Jarrod Bowen,3955925,West Ham United,Lost,0,1,Second half,1.38762470789257,0.7460359487423566
+Pass-Ball Receipt-Carry-Pass,Mohammed Kudus-Niclas Füllkrug-Niclas Füllkrug-Niclas Füllkrug,3955940,West Ham United,Drawn,2,2,Second half,1.893425688311404,0.6889692390829997
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mohammed Kudus-Mohammed Kudus-Mohammed Kudus-James Ward-Prowse-James Ward-Prowse-James Ward-Prowse-Jean-Clair Todibo-Jean-Clair Todibo-Jean-Clair Todibo-Aaron Wan-Bissaka-Aaron Wan-Bissaka-Aaron Wan-Bissaka,3955945,West Ham United,Lost,1,2,Second half,1.2348030326956627,0.7737753855863727
+Duel,Jean-Clair Todibo,3955960,West Ham United,Drawn,1,1,Second half,1.4837348681215337,0.7524935443387525
+Pressure,Emerson Palmieri dos Santos,3955963,West Ham United,Lost,2,3,Second half,1.2251721136813103,0.7911737824183552
+Pressure,Lucas Tolentino Coelho de Lima,3955980,West Ham United,Drawn,1,1,Second half,1.4011920363187265,0.7508854366689427
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Ward-Prowse-James Ward-Prowse-Aaron Cresswell-Aaron Cresswell-Aaron Cresswell-Aaron Wan-Bissaka-Aaron Wan-Bissaka,3955985,West Ham United,Won,2,0,Second half,1.1953916255530994,0.7604725961430313
+Shot,Carlos Soler Barragán,3956000,West Ham United,Lost,1,2,Second half,1.81420279294048,0.7198939738146234
+Block,Jean-Clair Todibo,3956003,West Ham United,Won,3,1,Second half,1.494079588213975,0.7564548322857477
+Pass,Matt Doherty,3955633,Wolverhampton Wanderers,Lost,0,2,First half,1.0788820093427325,0.7793725744847358
+Duel-Pass,Tote António Gomes-Mario Lemina,3955648,Wolverhampton Wanderers,Lost,2,6,First half,1.4147022353230894,0.7481043140019751
+Pressure,Jean-Ricner Bellegarde,3955656,Wolverhampton Wanderers,Drawn,1,1,First half,1.38442419234464,0.7779032173713217
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Mario Lemina-André Trindade da Costa Neto-André Trindade da Costa Neto-Craig Dawson-Craig Dawson-Craig Dawson,3955670,Wolverhampton Wanderers,Lost,1,2,First half,0.5209301438836659,0.9060257787836667
+Pass-Ball Receipt-Carry,Sam Johnstone-Craig Dawson-Craig Dawson,3955673,Wolverhampton Wanderers,Lost,1,3,First half,1.310163439792375,0.7869360332035548
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Sam Johnstone-Sam Johnstone-Santiago Ignacio Bueno Sciutto-Santiago Ignacio Bueno Sciutto-Tote António Gomes,3955684,Wolverhampton Wanderers,Lost,1,2,First half,1.8711829479835207,0.7016985674159035
+Pressure-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Rayan Aït Nouri-Mario Lemina-Rayan Aït Nouri-Rayan Aït Nouri-Rayan Aït Nouri-Sam Johnstone-Sam Johnstone,3955691,Wolverhampton Wanderers,Lost,3,5,First half,1.2005592229123672,0.793012873159907
+Pressure,Rayan Aït Nouri,3955710,Wolverhampton Wanderers,Lost,1,2,First half,1.90794549870062,0.6741452696411088
+Dispossessed,João Victor Gomes da Silva,3955712,Wolverhampton Wanderers,Drawn,2,2,First half,1.244792584793296,0.7579070495892823
+Ball Recovery-Carry,Mario Lemina-Mario Lemina,3955730,Wolverhampton Wanderers,Drawn,2,2,First half,1.828942172383672,0.6696901077489072
+Pressure,João Victor Gomes da Silva,3955740,Wolverhampton Wanderers,Won,2,0,First half,1.582171818874382,0.7208296780339557
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Rayan Aït Nouri-João Victor Gomes da Silva-João Victor Gomes da Silva-Rayan Aït Nouri-Rayan Aït Nouri,3955745,Wolverhampton Wanderers,Won,4,1,First half,1.949470462487912,0.6952592403938214
+50/50-Ball Recovery-Carry,Rayan Aït Nouri-Craig Dawson-Craig Dawson,3955760,Wolverhampton Wanderers,Lost,2,4,First half,1.7114389706146669,0.7413817956948929
+Ball Receipt-Pass,Santiago Ignacio Bueno Sciutto-Santiago Ignacio Bueno Sciutto,3955764,Wolverhampton Wanderers,Lost,0,4,First half,1.2122678765066113,0.7788543160394061
+Duel,Tote António Gomes,3955780,Wolverhampton Wanderers,Lost,1,2,First half,1.8028748947716169,0.6889706483207764
+Ball Recovery-Carry,Santiago Ignacio Bueno Sciutto-Santiago Ignacio Bueno Sciutto,3955790,Wolverhampton Wanderers,Lost,1,2,First half,1.4340484974787986,0.7573003022478768
+Clearance,Tote António Gomes,3955797,Wolverhampton Wanderers,Won,3,0,First half,1.1700765156207766,0.7858549334872756
+Ball Receipt-Carry-Dispossessed,Gonçalo Manuel Ganchinho Guedes-Gonçalo Manuel Ganchinho Guedes-Gonçalo Manuel Ganchinho Guedes,3955810,Wolverhampton Wanderers,Won,2,0,First half,0.9548788629900776,0.7974222933924862
+Pass-Ball Receipt-Carry,Nélson Cabral Semedo-Matt Doherty-Matt Doherty,3955819,Wolverhampton Wanderers,Drawn,2,2,First half,1.274039122150422,0.7666172228721951
+Foul Committed,Gonçalo Manuel Ganchinho Guedes,3955830,Wolverhampton Wanderers,Lost,0,3,Second half,1.250450676970244,0.7846967242124814
+Duel,Jørgen Strand Larsen,3955839,Wolverhampton Wanderers,Lost,0,3,Second half,2.0367028227914097,0.6747538896042974
+Ball Receipt-Carry-Dispossessed,João Victor Gomes da Silva-João Victor Gomes da Silva-João Victor Gomes da Silva,3955843,Wolverhampton Wanderers,Lost,1,3,Second half,1.555917435518982,0.7245375270809202
+Pressure,Pablo Sarabia García,3955860,Wolverhampton Wanderers,Lost,0,1,Second half,0.849311747193618,0.8515172010123996
+Pressure,André Trindade da Costa Neto,3955870,Wolverhampton Wanderers,Won,2,0,Second half,2.001778577842389,0.6630245646852491
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Pedro Malheiro de Sá-José Pedro Malheiro de Sá-José Pedro Malheiro de Sá-Santiago Ignacio Bueno Sciutto-Santiago Ignacio Bueno Sciutto,3955876,Wolverhampton Wanderers,Lost,1,2,Second half,1.452503222761938,0.765988085060521
+Pass,Marshall Nyasha Munetsi,3955881,Wolverhampton Wanderers,Won,1,0,Second half,1.7790482448722882,0.7186768438767263
+Pressure,Rayan Aït Nouri,3955896,Wolverhampton Wanderers,Lost,1,2,Second half,1.004856184898954,0.8080792032527383
+Miscontrol,Jørgen Strand Larsen,3955910,Wolverhampton Wanderers,Drawn,1,1,Second half,1.5020745551720749,0.7706923799065011
+Ball Receipt-Carry,Jørgen Strand Larsen-Jørgen Strand Larsen,3955920,Wolverhampton Wanderers,Won,2,1,Second half,1.7584949537228496,0.6906235786489173
+Pressure,Jørgen Strand Larsen,3955925,Wolverhampton Wanderers,Won,1,0,Second half,1.4128923957387567,0.7635028312309382
+Pass-Ball Receipt-Carry,Emmanuel Agbadou-André Trindade da Costa Neto-André Trindade da Costa Neto,3955936,Wolverhampton Wanderers,Won,2,1,Second half,0.7896616979214813,0.8583631274554767
+Pressure,Rayan Aït Nouri,3955950,Wolverhampton Wanderers,Won,4,2,Second half,1.2122912680735345,0.7564485828847458
+Pressure,Emmanuel Agbadou,3955958,Wolverhampton Wanderers,Won,1,0,Second half,2.1188777237700616,0.655160223007729
+Shot,Jørgen Strand Larsen,3955970,Wolverhampton Wanderers,Won,3,0,Second half,1.5823598992701875,0.7400567049090575
+Pressure,Marshall Nyasha Munetsi,3955979,Wolverhampton Wanderers,Lost,0,1,Second half,0.7074209594111246,0.8496136281964667
+Pressure,André Trindade da Costa Neto,3955990,Wolverhampton Wanderers,Lost,0,2,Second half,1.8504546905990968,0.7017141672182713
+Ball Recovery,Daniel Bentley,3955996,Wolverhampton Wanderers,Lost,2,4,Second half,0.9759808387243556,0.8401789967135959
+Pressure,Rayan Aït Nouri,3956010,Wolverhampton Wanderers,Drawn,1,1,Second half,1.6247680956179371,0.740153979060633

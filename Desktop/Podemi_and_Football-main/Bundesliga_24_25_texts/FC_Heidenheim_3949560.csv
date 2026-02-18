@@ -1,0 +1,491 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt,Niklas Dorsch-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Miscontrol,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Pressure,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-Foul Committed,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jan Schöppner-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Patrick Mainka-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Pass-Ball Receipt,Patrick Mainka-Jan Schöppner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Carry,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Benedikt Gimber-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass,Jan Schöppner-Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marvin Pieringer-Patrick Mainka-Niklas Dorsch-Niklas Dorsch-Patrick Mainka-Patrick Mainka-Patrick Mainka-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Pressure-Ball Receipt,Tim Siersleben-Niklas Dorsch-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Jan Schöppner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Marvin Pieringer-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Omar Haktab Traorè-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Committed,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Patrick Mainka-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jan Schöppner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Carry,Benedikt Gimber-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass,Benedikt Gimber-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Miscontrol,Marvin Pieringer-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Jan Schöppner-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paul Wanner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Shot,Leonardo Weschenfelder-Scienza-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Foul Committed,Paul Wanner-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Miscontrol,Benedikt Gimber-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jan Schöppner-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Benedikt Gimber-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass,Omar Haktab Traorè-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Marvin Pieringer-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Miscontrol,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Patrick Mainka-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Paul Wanner-Paul Wanner-Paul Wanner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt,Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benedikt Gimber-Kevin Müller-Kevin Müller-Kevin Müller-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Kevin Müller-Kevin Müller-Kevin Müller-Tim Siersleben-Tim Siersleben-Tim Siersleben-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Tim Siersleben-Tim Siersleben-Tim Siersleben-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Marvin Pieringer-Marvin Pieringer-Omar Haktab Traorè-Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Pressure,Marvin Pieringer-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner-Paul Wanner-Tim Siersleben-Tim Siersleben-Tim Siersleben-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Tim Siersleben-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Patrick Mainka-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Miscontrol,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Dribble-Carry,Jan Schöppner-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Paul Wanner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benedikt Gimber-Niklas Dorsch-Tim Siersleben-Tim Siersleben-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Tim Siersleben-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass,Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Paul Wanner-Paul Wanner-Paul Wanner-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Marvin Pieringer-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Duel,Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry,Omar Haktab Traorè-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Patrick Mainka-Jan Schöppner-Jan Schöppner-Jan Schöppner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Foul Committed,Tim Siersleben-Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Clearance,Tim Siersleben-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper,Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-Goal Keeper-Clearance,Omar Haktab Traorè-Kevin Müller-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kevin Müller-Kevin Müller-Kevin Müller-Tim Siersleben-Tim Siersleben-Tim Siersleben-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribbled Past,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Carry-Pass-Ball Receipt-Carry-Shot,Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Shot,Marvin Pieringer-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Omar Haktab Traorè-Paul Wanner-Paul Wanner-Paul Wanner-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Omar Haktab Traorè-Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Paul Wanner-Paul Wanner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Tim Siersleben-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Tim Siersleben-Tim Siersleben-Tim Siersleben-Patrick Mainka-Patrick Mainka-Patrick Mainka-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Tim Siersleben-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Tim Siersleben-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Niklas Dorsch-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass,Patrick Mainka-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Jan Schöppner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Foul Committed,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Pressure,Benedikt Gimber-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-Block-Foul Committed,Jan Schöppner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Committed,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Kevin Müller-Marvin Pieringer-Niklas Dorsch-Niklas Dorsch-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt,Omar Haktab Traorè-Paul Wanner-Paul Wanner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Carry-Pass-Ball Receipt-Carry-Pass,Patrick Mainka-Patrick Mainka-Patrick Mainka-Tim Siersleben-Tim Siersleben-Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Leonardo Weschenfelder-Scienza-Niklas Dorsch-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Wanner-Paul Wanner-Paul Wanner-Paul Wanner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Tim Siersleben-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Miscontrol,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Pass-Ball Receipt-Carry-Pass,Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass,Jonas Föhrenbach-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Shot-Block,Jonas Föhrenbach-Jonas Föhrenbach-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass,Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt-Carry,Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-50/50,Patrick Mainka-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Foul Committed,Patrick Mainka-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Jonas Föhrenbach-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jan Schöppner-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Patrick Mainka-Patrick Mainka-Patrick Mainka-Tim Siersleben-Tim Siersleben-Tim Siersleben-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dispossessed,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Miscontrol-Pressure,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass-Ball Receipt-Pass,Kevin Müller-Kevin Müller-Tim Siersleben-Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-Ball Recovery-Carry,Niklas Dorsch-Benedikt Gimber-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Benedikt Gimber-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Injury Stoppage,Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass,Jonas Föhrenbach-Tim Siersleben-Tim Siersleben-Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patrick Mainka-Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Omar Haktab Traorè-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Patrick Mainka-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Patrick Mainka-Patrick Mainka-Patrick Mainka-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Tim Siersleben-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block-Goal Keeper-Carry-Pass-Ball Receipt-Carry,Jan Schöppner-Kevin Müller-Kevin Müller-Kevin Müller-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Niklas Dorsch-Paul Wanner-Paul Wanner-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Niklas Dorsch-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble-Carry,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Paul Wanner-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Jan Schöppner-Jan Schöppner-Jan Schöppner-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Omar Haktab Traorè-Kevin Müller-Kevin Müller-Kevin Müller-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jan Schöppner-Jan Schöppner-Jan Schöppner-Tim Siersleben-Tim Siersleben-Tim Siersleben,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot-Ball Receipt,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Pass,Paul Wanner-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Leonardo Weschenfelder-Scienza-Paul Wanner-Paul Wanner-Paul Wanner-Benedikt Gimber-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Kevin Müller-Kevin Müller-Kevin Müller-Paul Wanner-Paul Wanner-Paul Wanner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt,Niklas Dorsch-Niklas Dorsch-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Injury Stoppage-Player Off-Pass-Ball Receipt-Player On-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jan Schöppner-Jan Schöppner-Jan Schöppner-Patrick Mainka-Benedikt Gimber-Jan Schöppner-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Benedikt Gimber-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Tim Siersleben-Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Patrick Mainka-Patrick Mainka-Patrick Mainka-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Paul Wanner-Niklas Dorsch-Niklas Dorsch-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jan Schöppner-Omar Haktab Traorè-Omar Haktab Traorè-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jan Schöppner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Patrick Mainka-Patrick Mainka-Patrick Mainka-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Tim Siersleben-Tim Siersleben-Tim Siersleben-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Marvin Pieringer-Marvin Pieringer-Marvin Pieringer-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer-Marvin Pieringer-Marvin Pieringer-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paul Wanner-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jan Schöppner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Tim Siersleben-Tim Siersleben-Tim Siersleben-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt,Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble-Carry,Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Jan Schöppner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Referee Ball-Drop,Unknown,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Substitution-Tactical Shift,Tim Siersleben-Unknown,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paul Wanner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kevin Müller-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Pressure,Mathias Honsak-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Mathias Honsak-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Marvin Pieringer-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt,Jan Schöppner-Jan Schöppner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Paul Wanner-Paul Wanner-Paul Wanner-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benedikt Gimber-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Shot,Leonardo Weschenfelder-Scienza-Paul Wanner-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Kevin Müller-Kevin Müller-Kevin Müller-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt-Carry,Paul Wanner-Paul Wanner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jan Schöppner-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jonas Föhrenbach-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass,Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Injury Stoppage,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Kevin Müller-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Benedikt Gimber-Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benedikt Gimber-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer-Marvin Pieringer-Marvin Pieringer-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Mathias Honsak-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Patrick Mainka-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Carry,Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Omar Haktab Traorè-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Jan Schöppner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Paul Wanner-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Mathias Honsak-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Marvin Pieringer-Marvin Pieringer-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dispossessed,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt,Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Niklas Dorsch-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+50/50-Ball Recovery-Carry-Dribble,Paul Wanner-Marvin Pieringer-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Patrick Mainka-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper,Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Ball Recovery-Carry-Pass,Kevin Müller-Patrick Mainka-Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dispossessed,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt,Omar Haktab Traorè-Marvin Pieringer-Marvin Pieringer-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass,Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble-Carry,Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Paul Wanner-Paul Wanner-Paul Wanner-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Pass-Ball Receipt,Mathias Honsak-Leonardo Weschenfelder-Scienza-Niklas Dorsch,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Pressure,Niklas Dorsch-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+50/50-Carry,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Paul Wanner-Kevin Müller-Niklas Dorsch-Niklas Dorsch-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Niklas Dorsch-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Interception-Carry-Dribble,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass,Omar Haktab Traorè-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt,Jan Schöppner-Jan Schöppner-Jan Schöppner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Patrick Mainka-Niklas Dorsch-Niklas Dorsch-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner-Jan Schöppner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jan Schöppner-Jan Schöppner-Jan Schöppner-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Mathias Honsak-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jonas Föhrenbach-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Marvin Pieringer-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Miscontrol,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Pressure,Patrick Mainka-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Paul Wanner-Paul Wanner-Paul Wanner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Mathias Honsak-Mathias Honsak-Mathias Honsak-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass,Jan Schöppner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Marvin Pieringer-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Föhrenbach-Kevin Müller-Kevin Müller-Kevin Müller-Patrick Mainka-Patrick Mainka-Patrick Mainka-Kevin Müller-Kevin Müller-Kevin Müller-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribble-Carry,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt,Marvin Pieringer-Leonardo Weschenfelder-Scienza-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot,Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Benedikt Gimber,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Marvin Pieringer-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Mathias Honsak-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Jonas Föhrenbach-Paul Wanner-Paul Wanner-Paul Wanner-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Omar Haktab Traorè-Omar Haktab Traorè-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner-Paul Wanner-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Miscontrol-Bad Behaviour,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass,Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Shot,Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Jan Schöppner-Niklas Dorsch-Niklas Dorsch-Mathias Honsak-Mathias Honsak-Mathias Honsak-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+50/50-Pass,Niklas Dorsch-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Miscontrol-Pressure-Foul Committed,Jan Schöppner-Jan Schöppner-Jan Schöppner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Benedikt Gimber-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Pressure,Omar Haktab Traorè-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Omar Haktab Traorè-Omar Haktab Traorè-Patrick Mainka-Patrick Mainka-Kevin Müller-Kevin Müller-Kevin Müller-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Kevin Müller-Kevin Müller-Benedikt Gimber-Benedikt Gimber-Kevin Müller-Kevin Müller-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Mathias Honsak-Mathias Honsak-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jan Schöppner-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry,Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dispossessed,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Omar Haktab Traorè-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Pressure,Marvin Pieringer-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Niklas Dorsch-Niklas Dorsch-Niklas Dorsch-Benedikt Gimber-Benedikt Gimber-Benedikt Gimber-Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Substitution-Substitution-Pass-Tactical Shift-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Niklas Dorsch-Benedikt Gimber-Omar Haktab Traorè-Unknown-Patrick Mainka-Patrick Mainka-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dribble-Carry,Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Jonas Föhrenbach-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Mathias Honsak-Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Duel,Kevin Müller-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Mathias Honsak-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dispossessed,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Committed,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry,Paul Wanner-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marvin Pieringer-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Mikkel Kaufmann-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dispossessed,Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Pressure-Pressure,Jonas Föhrenbach-Patrick Mainka-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Mikkel Kaufmann-Mikkel Kaufmann-Mikkel Kaufmann-Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Marvin Pieringer-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Marvin Pieringer-Marvin Pieringer-Omar Haktab Traorè-Omar Haktab Traorè-Maximilian Breunig-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Goal Keeper,Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Müller-Patrick Mainka-Patrick Mainka-Jan Schöppner-Jan Schöppner-Jan Schöppner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Paul Wanner-Paul Wanner-Paul Wanner-Mathias Honsak-Mathias Honsak-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Paul Wanner-Paul Wanner-Paul Wanner-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Foul Committed,Patrick Mainka-Mikkel Kaufmann-Mikkel Kaufmann-Jan Schöppner-Jan Schöppner-Jan Schöppner-Mathias Honsak-Mathias Honsak-Mathias Honsak-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Foul Committed,Jan Schöppner-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Clearance,Jan Schöppner-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance-Clearance,Marvin Pieringer-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Paul Wanner-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Omar Haktab Traorè-Jan Schöppner-Jan Schöppner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Mathias Honsak-Maximilian Breunig-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Shot,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jan Schöppner-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Kevin Müller-Kevin Müller-Mathias Honsak-Mathias Honsak-Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jan Schöppner-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Dribble,Paul Wanner-Paul Wanner-Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribbled Past,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry,Patrick Mainka-Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Patrick Mainka-Kevin Müller-Jonas Föhrenbach-Jonas Föhrenbach-Mikkel Kaufmann-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Dispossessed,Jan Schöppner-Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Substitution,Paul Wanner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Substitution,Marvin Pieringer,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Duel,Jan Schöppner-Mikkel Kaufmann-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Omar Haktab Traorè-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass,Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot-Ball Receipt,Maximilian Breunig-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Adrian Beck,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Foul Committed,Jan Schöppner-Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Dispossessed,Patrick Mainka-Patrick Mainka-Patrick Mainka-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Omar Haktab Traorè-Omar Haktab Traorè-Omar Haktab Traorè-Patrick Mainka-Patrick Mainka-Patrick Mainka-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Maximilian Breunig-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt,Sirlord Calvin Conteh,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Sirlord Calvin Conteh,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Shot,Adrian Beck-Adrian Beck,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Mathias Honsak-Mathias Honsak-Mathias Honsak-Jan Schöppner-Jan Schöppner-Jan Schöppner-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Dribbled Past,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Clearance,Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Omar Haktab Traorè-Patrick Mainka-Patrick Mainka-Patrick Mainka-Sirlord Calvin Conteh-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Adrian Beck,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel-Ball Recovery-Carry,Adrian Beck-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jonas Föhrenbach-Mathias Honsak-Mathias Honsak-Jan Schöppner-Jan Schöppner-Jan Schöppner-Adrian Beck-Adrian Beck-Maximilian Breunig-Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Miscontrol,Maximilian Breunig,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Leonardo Weschenfelder-Scienza-Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot,Mathias Honsak,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Block,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Patrick Mainka,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Müller-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Duel,Kevin Müller-Omar Haktab Traorè-Omar Haktab Traorè,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Miscontrol-Ball Receipt,Omar Haktab Traorè-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Pass-Ball Receipt,Kevin Müller-Kevin Müller-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure-Pressure,Omar Haktab Traorè-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Dribble-Carry,Mikkel Kaufmann-Jonas Föhrenbach-Kevin Müller-Kevin Müller-Jonas Föhrenbach-Jonas Föhrenbach-Jonas Föhrenbach-Patrick Mainka-Patrick Mainka-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Shot,Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Duel,Jan Schöppner,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Carry,Mathias Honsak-Jonas Föhrenbach-Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt,Jonas Föhrenbach-Mikkel Kaufmann,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pressure,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Foul Committed,Jonas Föhrenbach,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Pass-Ball Receipt-Pass,Mathias Honsak-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Mikkel Kaufmann-Mikkel Kaufmann-Mikkel Kaufmann-Leonardo Weschenfelder-Scienza-Leonardo Weschenfelder-Scienza,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616
+Ball Recovery-Carry-Pass,Kevin Müller-Kevin Müller-Kevin Müller,3949560,FC Heidenheim,Lost,0,1,First half,0.9178637182364765,0.8305325479579616

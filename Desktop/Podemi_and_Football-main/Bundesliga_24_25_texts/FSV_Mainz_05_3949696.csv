@@ -1,0 +1,599 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Jonathan Burkardt-Robin Zentner-Robin Zentner-Robin Zentner-Philipp Mwene-Philipp Mwene-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Moritz Jenz-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Pressure,Andreas Hanche-Olsen-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Block-Goal Keeper,Andreas Hanche-Olsen-Andreas Hanche-Olsen-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Danny Vieira da Costa-Robin Zentner-Jonathan Burkardt-Robin Zentner-Robin Zentner-Robin Zentner-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Jae-Sung Lee-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Duel,Paul Nebel-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-50/50,Nadiem Amiri-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Block,Danny Vieira da Costa-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Jae-Sung Lee-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass-Ball Receipt-Carry,Robin Zentner-Robin Zentner-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dribble,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Kaishu Sano-Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene-Philipp Mwene-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Robin Zentner-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Moritz Jenz-Moritz Jenz-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass-Ball Receipt,Moritz Jenz-Paul Nebel-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Miscontrol,Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass-Ball Receipt,Robin Zentner-Moritz Jenz-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Duel,Robin Zentner-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt,Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Shot,Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Robin Zentner-Moritz Jenz-Moritz Jenz-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Pass-Ball Receipt-Carry,Kaishu Sano-Kaishu Sano-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Moritz Jenz-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Block,Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Interception-Pressure-Pressure,Moritz Jenz-Danny Vieira da Costa-Moritz Jenz-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Dispossessed,Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Moritz Jenz-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Foul Committed,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nadiem Amiri-Anthony Caci-Anthony Caci-Anthony Caci-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Paul Nebel-Paul Nebel-Paul Nebel-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Zentner-Robin Zentner-Robin Zentner-Kaishu Sano-Kaishu Sano-Kaishu Sano-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Kaishu Sano-Kaishu Sano-Kaishu Sano-Moritz Jenz-Moritz Jenz-Moritz Jenz-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Injury Stoppage,Robin Zentner-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Player Off-Referee Ball-Drop-Ball Recovery-Player On-Pass-Ball Receipt-Duel,Nadiem Amiri-Unknown-Robin Zentner-Nadiem Amiri-Robin Zentner-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Carry,Andreas Hanche-Olsen-Andreas Hanche-Olsen-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Miscontrol,Robin Zentner-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Pressure,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Carry,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Anthony Caci-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Robin Zentner-Robin Zentner-Robin Zentner-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Robin Zentner-Robin Zentner-Robin Zentner-Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Zentner-Robin Zentner-Robin Zentner-Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Philipp Mwene-Philipp Mwene-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Philipp Mwene-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Duel,Kaishu Sano-Philipp Mwene-Philipp Mwene-Philipp Mwene-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribble-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Anthony Caci-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Jae-Sung Lee-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Robin Zentner-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Kaishu Sano-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt,Robin Zentner-Robin Zentner-Robin Zentner-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Kaishu Sano-Kaishu Sano-Kaishu Sano-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Duel,Philipp Mwene-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass,Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Caci-Anthony Caci-Anthony Caci-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Committed,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass-Ball Receipt-Pass,Robin Zentner-Moritz Jenz-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pressure,Danny Vieira da Costa-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past-Pressure,Nadiem Amiri-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pressure,Kaishu Sano-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Kaishu Sano-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pass-Ball Receipt-Carry,Nadiem Amiri-Moritz Jenz-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Robin Zentner-Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene-Philipp Mwene-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Zentner-Robin Zentner-Robin Zentner-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Kaishu Sano-Kaishu Sano-Kaishu Sano-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel-Moritz Jenz-Moritz Jenz-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Pass-Ball Receipt,Kaishu Sano-Paul Nebel-Paul Nebel-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Moritz Jenz-Moritz Jenz-Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Mwene-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Anthony Caci-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Caci-Moritz Jenz-Moritz Jenz-Moritz Jenz-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Robin Zentner-Robin Zentner-Robin Zentner-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure-Foul Committed,Andreas Hanche-Olsen-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pass,Moritz Jenz-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Committed,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Philipp Mwene-Philipp Mwene-Philipp Mwene-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Kaishu Sano-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dribble-Carry,Kaishu Sano-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shot,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Duel,Philipp Mwene-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass,Philipp Mwene-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pass-Ball Receipt-Carry-Pass,Jonathan Burkardt-Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dribble-Carry,Philipp Mwene-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass,Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Moritz Jenz-Moritz Jenz-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Moritz Jenz-Moritz Jenz-Moritz Jenz-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene-Philipp Mwene-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Paul Nebel-Paul Nebel-Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dispossessed,Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Caci-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Ball Recovery-Carry,Kaishu Sano-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Shot,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Duel,Robin Zentner-Robin Zentner-Robin Zentner-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dispossessed,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Moritz Jenz-Kaishu Sano-Kaishu Sano-Kaishu Sano-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel-Moritz Jenz-Moritz Jenz-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paul Nebel-Paul Nebel-Paul Nebel-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Moritz Jenz-Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Kaishu Sano-Kaishu Sano-Kaishu Sano-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Kaishu Sano-Kaishu Sano-Kaishu Sano-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Jae-Sung Lee-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Philipp Mwene-Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt-Jae-Sung Lee-Jae-Sung Lee-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Kaishu Sano-Kaishu Sano-Kaishu Sano-Moritz Jenz-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kaishu Sano-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Carry,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribble-Carry,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Goal Keeper,Andreas Hanche-Olsen-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt,Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Kaishu Sano-Kaishu Sano-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Nadiem Amiri-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Kaishu Sano-Kaishu Sano-Kaishu Sano-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry,Paul Nebel-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Shot,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Pass-Ball Receipt-Carry-Pass,Andreas Hanche-Olsen-Jae-Sung Lee-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Miscontrol,Paul Nebel-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Duel,Nadiem Amiri-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery,Moritz Jenz-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Injury Stoppage,Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Duel,Danny Vieira da Costa-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Duel,Anthony Caci-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Duel,Andreas Hanche-Olsen-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Miscontrol,Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Anthony Caci-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Anthony Caci-Anthony Caci-Anthony Caci-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Carry,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shield-Pass,Philipp Mwene-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass,Moritz Jenz-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass,Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dribble,Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Philipp Mwene-Moritz Jenz-Moritz Jenz-Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Committed,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Pass,Robin Zentner-Robin Zentner-Robin Zentner-Robin Zentner-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Robin Zentner-Robin Zentner-Robin Zentner-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry,Moritz Jenz-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past-Pressure,Jae-Sung Lee-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past-Pressure,Danny Vieira da Costa-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery,Kaishu Sano-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass,Kaishu Sano-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Shot,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Moritz Jenz-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Committed,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Philipp Mwene-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Pass-Ball Receipt-Carry,Moritz Jenz-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Moritz Jenz-Moritz Jenz-Moritz Jenz-Paul Nebel-Paul Nebel-Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shot-Ball Receipt,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Jonathan Burkardt-Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Nebel-Paul Nebel-Paul Nebel-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene-Philipp Mwene-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shot,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Moritz Jenz-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+50/50-Pass-Ball Receipt-Carry-Pass,Kaishu Sano-Anthony Caci-Robin Zentner-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Dispossessed,Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Block-Pass,Kaishu Sano-Kaishu Sano-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Moritz Jenz-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Block-Pass,Philipp Mwene-Andreas Hanche-Olsen-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene-Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Miscontrol,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pass,Moritz Jenz-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Paul Nebel-Paul Nebel-Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Goal Keeper-Carry-Pass,Anthony Caci-Robin Zentner-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Paul Nebel-Paul Nebel-Paul Nebel-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt,Anthony Caci-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Pressure,Robin Zentner-Moritz Jenz-Moritz Jenz-Moritz Jenz-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Anthony Caci-Anthony Caci-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Anthony Caci-Anthony Caci-Anthony Caci-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Kaishu Sano-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribble-Carry,Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Kaishu Sano-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Moritz Jenz-Moritz Jenz-Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Moritz Jenz-Moritz Jenz-Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Philipp Mwene-Philipp Mwene-Philipp Mwene-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Mwene-Jonathan Burkardt-Jonathan Burkardt-Philipp Mwene-Philipp Mwene-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Kaishu Sano-Kaishu Sano-Kaishu Sano-Moritz Jenz-Moritz Jenz-Moritz Jenz-Anthony Caci-Anthony Caci-Anthony Caci-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Philipp Mwene-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Philipp Mwene-Philipp Mwene-Philipp Mwene-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kaishu Sano-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Kaishu Sano-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Andreas Hanche-Olsen-Nadiem Amiri-Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Andreas Hanche-Olsen-Anthony Caci-Anthony Caci-Anthony Caci-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nadiem Amiri-Kaishu Sano-Kaishu Sano-Kaishu Sano-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Ball Recovery,Moritz Jenz-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Moritz Jenz-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Kaishu Sano-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nadiem Amiri-Nadiem Amiri-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Anthony Caci-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dispossessed,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Ball Recovery-Carry-Pass,Jonathan Burkardt-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Nadiem Amiri-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Dribble,Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Pass,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Ball Receipt,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel-Jonathan Burkardt-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Carry,Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Shot,Nadiem Amiri-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Shot,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Dispossessed,Kaishu Sano-Kaishu Sano-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Philipp Mwene-Robin Zentner-Robin Zentner-Robin Zentner-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonathan Burkardt-Kaishu Sano-Kaishu Sano-Kaishu Sano-Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shot,Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Ball Recovery-Carry-Pass,Kaishu Sano-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt,Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribble-Carry,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Shot,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Substitution,Jonathan Burkardt-Jonathan Burkardt,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kaishu Sano-Moritz Jenz-Danny Vieira da Costa-Danny Vieira da Costa-Danny Vieira da Costa-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nelson Felix Patrick Weiper-Nelson Felix Patrick Weiper-Nelson Felix Patrick Weiper-Paul Nebel-Paul Nebel-Paul Nebel-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass,Andreas Hanche-Olsen-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass,Jae-Sung Lee-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Goal Keeper-Pass-Ball Receipt,Nelson Felix Patrick Weiper-Robin Zentner-Robin Zentner-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Nelson Felix Patrick Weiper-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Paul Nebel-Paul Nebel-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dribbled Past-Pressure,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Danny Vieira da Costa-Robin Zentner-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Pass-Ball Receipt,Jae-Sung Lee-Jae-Sung Lee-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Paul Nebel-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Offside,Jae-Sung Lee-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry-Pass-Block,Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Recovery-Carry,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Dispossessed,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Moritz Jenz-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Miscontrol,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Andreas Hanche-Olsen-Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Clearance,Danny Vieira da Costa-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass,Anthony Caci-Paul Nebel-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Nelson Felix Patrick Weiper-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Nelson Felix Patrick Weiper-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Paul Nebel-Nadiem Amiri-Nadiem Amiri-Nadiem Amiri-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Kaishu Sano-Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry,Paul Nebel-Nadiem Amiri-Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Miscontrol,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Danny Vieira da Costa-Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Substitution,Nadiem Amiri,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception-Carry-Pass,Philipp Mwene-Philipp Mwene-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Interception,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass,Lennard Maloney-Lennard Maloney-Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pressure,Philipp Mwene-Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass,Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Moritz Jenz-Robin Zentner-Robin Zentner-Robin Zentner-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass,Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Pass,Lennard Maloney-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Foul Committed,Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Pass,Andreas Hanche-Olsen-Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Pass-Duel,Anthony Caci-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Andreas Hanche-Olsen-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Andreas Hanche-Olsen,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Pressure,Anthony Caci-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block,Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass-Ball Receipt,Robin Zentner-Robin Zentner-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pass-Ball Receipt-Carry-Miscontrol-Duel,Nelson Felix Patrick Weiper-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee-Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper,Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Philipp Mwene,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Carry-Pass,Robin Zentner-Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Ball Receipt-Carry-Pass-Ball Receipt,Paul Nebel-Paul Nebel-Paul Nebel-Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Block-Pressure,Lennard Maloney-Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Moritz Jenz-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel-Clearance,Kaishu Sano-Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Jae-Sung Lee,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Moritz Jenz-Paul Nebel-Kaishu Sano-Kaishu Sano-Kaishu Sano-Philipp Mwene-Philipp Mwene-Philipp Mwene-Nelson Felix Patrick Weiper,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Kaishu Sano,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Moritz Jenz,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Duel,Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Paul Nebel-Paul Nebel,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure,Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Goal Keeper-Pass,Robin Zentner-Robin Zentner,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance,Danny Vieira da Costa,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Clearance-Pass-Ball Receipt-Carry-Pass,Anthony Caci-Paul Nebel-Anthony Caci-Anthony Caci-Anthony Caci,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661
+Pressure-Foul Committed,Lennard Maloney-Lennard Maloney,3949696,FSV Mainz 05,Won,2,1,Second half,1.9014639470132477,0.7084642958354661

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 743,
+        "season": "23/24",
+        "competition": {
+            "name": "1. Bundesliga",
+            "id": 2,
+            "type": "League",
+            "countryId": 466,
+            "gender": "MALE"
+        },
+        "dataVersion": "V3",
+        "lastChangeTimestamp": "2025-10-06T08:38:54.475988Z",
+        "idMappings": [
+            {
+                "heim_spiel": [
+                    "51884"
+                ]
+            },
+            {
+                "skill_corner": [
+                    "551"
+                ]
+            }
+        ]
+    }
+]

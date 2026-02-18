@@ -1,0 +1,517 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pass,Marten de Roon-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Matteo Ruggeri-Marten de Roon-Marten de Roon-Marten de Roon-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Duel,Isak Hien-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Goal Keeper,Marco Brescianini-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Dribble-Carry,Mateo Retegui-Mateo Retegui-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Mateo Retegui-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marco Palestra-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Duel,Marten de Roon-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Odilon Kossonou-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past-Pressure,Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Pressure,Ibrahim Sulemana-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Isak Hien-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Odilon Kossonou-Odilon Kossonou-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mateo Retegui-Mateo Retegui-Mateo Retegui-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Shot,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shield-Pass-Ball Receipt-Carry,Marco Palestra-Marco Palestra-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass-Ball Receipt-Carry,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Daniel Maldini-Marco Brescianini-Marco Brescianini-Marco Brescianini-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri-Marco Brescianini-Marco Brescianini-Marco Brescianini-Isak Hien-Isak Hien-Isak Hien-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Marco Palestra-Marco Palestra-Ibrahim Sulemana-Ibrahim Sulemana-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Mateo Retegui-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Matteo Ruggeri-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Daniel Maldini-Daniel Maldini-Daniel Maldini-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Marco Palestra-Marco Palestra-Marco Palestra-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Marco Brescianini-Marco Brescianini-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Carry-Pass-Duel,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Duel,Matteo Ruggeri-Mateo Retegui-Mateo Retegui-Mateo Retegui-Daniel Maldini-Daniel Maldini-Daniel Maldini-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Dribble-Carry,Lazar Samardžić-Marco Palestra-Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Marco Palestra-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Rui Pedro dos Santos Patrício-Daniel Maldini-Daniel Maldini-Daniel Maldini-Marco Palestra-Marco Palestra-Marco Palestra-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past-Pressure,Matteo Ruggeri-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past-Foul Committed,Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Pass,Marten de Roon-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dribble,Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Carry,Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Matteo Ruggeri-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Isak Hien-Isak Hien-Isak Hien-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Isak Hien-Isak Hien-Isak Hien-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Lazar Samardžić-Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Shot,Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Odilon Kossonou-Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Marco Brescianini-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Marten de Roon-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Miscontrol,Mateo Retegui-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Matteo Ruggeri-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marten de Roon-Isak Hien-Isak Hien-Isak Hien-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lazar Samardžić-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt,Daniel Maldini-Daniel Maldini-Daniel Maldini-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Odilon Kossonou-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ibrahim Sulemana-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini-Marco Brescianini-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Mateo Retegui-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Dribble,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Pass,Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Odilon Kossonou-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Pass-Ball Receipt-Carry,Odilon Kossonou-Marten de Roon-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass,Ibrahim Sulemana-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dispossessed,Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Marco Palestra-Marco Palestra-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon-Marten de Roon-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Daniel Maldini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Goal Keeper,Odilon Kossonou-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Goal Keeper-Block,Daniel Maldini-Rui Pedro dos Santos Patrício-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Clearance,Marten de Roon-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Ball Recovery-Carry,Marco Palestra-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Isak Hien-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt,Marco Palestra-Marco Palestra-Marco Palestra-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dribble-Carry,Marco Brescianini-Marco Brescianini-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt,Marco Brescianini-Marten de Roon-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass,Matteo Ruggeri-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass,Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Ball Recovery-Carry-Pass,Daniel Maldini-Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Pressure,Marten de Roon-Marten de Roon-Marten de Roon-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Block-Clearance,Odilon Kossonou-Isak Hien-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-50/50,Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Block,Isak Hien-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Isak Hien-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Marco Brescianini-Marco Brescianini-Marco Brescianini-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Retegui-Marco Brescianini-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Marten de Roon-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Shot,Isak Hien-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Referee Ball-Drop,Unknown,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Duel,Marten de Roon-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Carry-Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pressure,Daniel Maldini-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Ibrahim Sulemana-Ibrahim Sulemana-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Isak Hien-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini-Marco Brescianini-Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot-Ball Receipt,Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Shot,Daniel Maldini-Mateo Retegui-Mateo Retegui-Mateo Retegui-Lazar Samardžić-Lazar Samardžić-Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Mateo Retegui-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon-Isak Hien-Isak Hien-Isak Hien-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Miscontrol,Lazar Samardžić-Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Marten de Roon-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Miscontrol,Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Marten de Roon-Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Pressure,Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Mateo Retegui-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Daniel Maldini-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon-Isak Hien-Isak Hien-Isak Hien-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini-Marco Brescianini-Isak Hien-Isak Hien-Isak Hien-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Pass,Lazar Samardžić-Lazar Samardžić-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Daniel Maldini-Daniel Maldini-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Goal Keeper,Odilon Kossonou-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block-Pressure,Isak Hien-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Pass-Ball Receipt-Pass,Marco Brescianini-Daniel Maldini-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Marco Palestra-Marco Palestra-Marco Palestra-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Marten de Roon-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mateo Retegui-Marco Brescianini-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Marco Palestra-Marco Palestra-Marco Palestra-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Marco Brescianini-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini-Marco Brescianini-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Matteo Ruggeri-Mateo Retegui-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri-Daniel Maldini-Daniel Maldini-Daniel Maldini-Marten de Roon-Marten de Roon-Marten de Roon-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Matteo Ruggeri-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Matteo Ruggeri-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Mateo Retegui-Mateo Retegui-Mateo Retegui-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Marco Brescianini-Marco Brescianini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marco Brescianini-Marco Brescianini-Marco Brescianini-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Mateo Retegui-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+50/50,Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Matteo Ruggeri-Marten de Roon-Marten de Roon-Marten de Roon-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Isak Hien-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Lazar Samardžić-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Carry,Marco Palestra-Odilon Kossonou-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Ibrahim Sulemana-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Isak Hien-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dispossessed,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Lazar Samardžić-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Isak Hien-Isak Hien-Isak Hien-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Lazar Samardžić-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon-Marten de Roon-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dispossessed,Marco Brescianini-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Marco Brescianini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt,Daniel Maldini-Daniel Maldini-Daniel Maldini-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Foul Committed,Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Clearance,Marten de Roon-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Ball Recovery-Carry,Marten de Roon-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Matteo Ruggeri-Matteo Ruggeri-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Mateo Retegui-Mateo Retegui-Mateo Retegui-Daniel Maldini-Daniel Maldini-Daniel Maldini-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dribble,Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Matteo Ruggeri-Matteo Ruggeri-Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Pressure,Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception-Carry,Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Matteo Ruggeri,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Substitution-Tactical Shift-Pass-Ball Receipt,Matteo Ruggeri-Unknown-Marco Palestra-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass,Marco Palestra-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Maldini-Marten de Roon-Marten de Roon-Marten de Roon-Raoul Bellanova-Raoul Bellanova-Raoul Bellanova-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Rui Pedro dos Santos Patrício-Mateo Retegui-Ibrahim Sulemana-Ibrahim Sulemana-Odilon Kossonou-Odilon Kossonou-Raoul Bellanova-Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon-Marten de Roon-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Marco Palestra-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahim Sulemana-Marco Brescianini-Marco Brescianini-Marco Brescianini-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ibrahim Sulemana-Marten de Roon-Marten de Roon-Marten de Roon-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Committed,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raoul Bellanova-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Marten de Roon-Marten de Roon-Marten de Roon-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Marco Brescianini-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Marco Brescianini-Marco Brescianini-Marco Brescianini-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass-Ball Receipt-Carry,Mateo Retegui-Mateo Retegui-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Foul Committed,Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Lazar Samardžić-Raoul Bellanova-Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Raoul Bellanova-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry,Raoul Bellanova-Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Isak Hien-Isak Hien-Marco Brescianini-Marco Brescianini-Marco Brescianini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Daniel Maldini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Ibrahim Sulemana-Ibrahim Sulemana-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Palestra-Marten de Roon-Marten de Roon-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raoul Bellanova-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana-Isak Hien-Isak Hien-Isak Hien-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dribble-Carry,Marco Palestra-Marco Palestra-Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Marco Palestra-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Foul Committed,Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Marco Palestra-Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marco Palestra-Marten de Roon-Marten de Roon-Marten de Roon-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Mateo Retegui-Mateo Retegui-Daniel Maldini-Daniel Maldini-Daniel Maldini-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Ball Recovery-Carry,Odilon Kossonou-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribble,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Carry,Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Brescianini-Marco Brescianini-Marco Brescianini-Daniel Maldini-Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Daniel Maldini,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Marco Palestra,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Substitution-Substitution-Substitution-Pressure,Marco Brescianini-Daniel Maldini-Marco Palestra-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Tactical Shift-Pass,Unknown-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass,Mario Pašalić-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry,Mario Pašalić-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mario Pašalić-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Ibrahim Sulemana-Ibrahim Sulemana-Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Mateo Retegui-Mateo Retegui-Mateo Retegui-Raoul Bellanova-Raoul Bellanova-Raoul Bellanova-Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure,Isak Hien-Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+50/50,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception-Pressure,Isak Hien-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Marten de Roon-Marten de Roon-Marten de Roon-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Charles De Ketelaere-Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Raoul Bellanova-Isak Hien-Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Isak Hien-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raoul Bellanova-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Raoul Bellanova-Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Ibrahim Sulemana,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Substitution-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Rui Pedro dos Santos Patrício-Ibrahim Sulemana-Rui Pedro dos Santos Patrício-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Rui Pedro dos Santos Patrício-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past-Foul Committed,Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mario Pašalić-Mario Pašalić-Mario Pašalić-Marten de Roon-Marten de Roon-Marten de Roon-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Raoul Bellanova-Raoul Bellanova-Raoul Bellanova-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Raoul Bellanova-Raoul Bellanova-Raoul Bellanova-Isak Hien-Isak Hien-Isak Hien-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marten de Roon-Davide Zappacosta-Davide Zappacosta-Davide Zappacosta-Mario Pašalić-Mario Pašalić-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure-Pressure-Foul Committed,Lazar Samardžić-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Foul Committed,Mario Pašalić-Mateo Retegui-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass,Isak Hien-Odilon Kossonou-Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dispossessed,Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Dribble,Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry,Raoul Bellanova-Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass,Charles De Ketelaere-Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Dribble-Carry,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception-Carry-Pass,Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Pass,Davide Zappacosta-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Odilon Kossonou-Odilon Kossonou-Odilon Kossonou-Davide Zappacosta-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Davide Zappacosta-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Marten de Roon-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Pass,Éderson José dos Santos Lourenço da Silva-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass,Davide Zappacosta-Davide Zappacosta-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass,Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dispossessed,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Foul Committed,Raoul Bellanova-Mario Pašalić-Mario Pašalić-Mario Pašalić-Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere-Raoul Bellanova-Raoul Bellanova-Raoul Bellanova-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Block,Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Odilon Kossonou-Éderson José dos Santos Lourenço da Silva-Mario Pašalić-Mario Pašalić-Mario Pašalić-Marten de Roon-Marten de Roon-Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić-Davide Zappacosta-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Shot,Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Recovery-Carry-Pass,Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Shot,Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel-Block,Odilon Kossonou-Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Raoul Bellanova-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Miscontrol,Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Goal Keeper-Pass-Ball Receipt,Rui Pedro dos Santos Patrício-Rui Pedro dos Santos Patrício-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt,Davide Zappacosta-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Miscontrol-Pass,Davide Zappacosta-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Éderson José dos Santos Lourenço da Silva-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Davide Zappacosta-Mario Pašalić-Mario Pašalić-Mario Pašalić-Lazar Samardžić-Lazar Samardžić-Lazar Samardžić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass-Ball Receipt-Pass,Charles De Ketelaere-Charles De Ketelaere-Mateo Retegui-Mateo Retegui,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pressure,Isak Hien,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Dribbled Past-Pressure,Isak Hien-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Duel,Odilon Kossonou,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance-Ball Recovery-Carry,Isak Hien-Davide Zappacosta-Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Davide Zappacosta,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Pass,Mario Pašalić-Mario Pašalić,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Ball Receipt-Carry-Miscontrol,Charles De Ketelaere-Charles De Ketelaere-Charles De Ketelaere,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Clearance,Marten de Roon,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Raoul Bellanova,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Interception,Éderson José dos Santos Lourenço da Silva,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242
+Pass,Rui Pedro dos Santos Patrício,3945321,Atalanta,Won,3,2,Second half,1.0306467660640397,0.7951870190426242

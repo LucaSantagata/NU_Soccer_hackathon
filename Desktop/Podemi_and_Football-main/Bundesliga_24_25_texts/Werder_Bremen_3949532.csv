@@ -1,0 +1,505 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Skelly Alvero-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past-Pressure-Pressure,Marco Friedl-Marco Friedl-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper,Julián Malatini-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Marvin Ducksch-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Mitchell Weiser-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt,Skelly Alvero-Skelly Alvero-Skelly Alvero-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Julián Malatini-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Julián Malatini-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass,Michael Zetterer-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Skelly Alvero-Skelly Alvero-Skelly Alvero-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Marvin Ducksch-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Marco Friedl-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Jung-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero-Skelly Alvero-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass,Romano Schmid-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt,Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Skelly Alvero-Skelly Alvero-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Michael Zetterer-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Skelly Alvero-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Jens Stage-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Miscontrol,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julián Malatini-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Miscontrol,Julián Malatini-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Jens Stage-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Anthony Jung-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure-Pressure,Skelly Alvero-Derrick Arthur Köhn-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Michael Zetterer-Skelly Alvero-Skelly Alvero-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Dispossessed,Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dispossessed,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu-Felix Agu-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Skelly Alvero-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt,Marco Friedl-Jens Stage-Jens Stage-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Friedl-Michael Zetterer-Michael Zetterer-Michael Zetterer-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Derrick Arthur Köhn-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Dispossessed,Skelly Alvero-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper,Marco Friedl-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure,Mitchell Weiser-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Felix Agu-Felix Agu-Felix Agu-Jens Stage-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Shot,Marvin Ducksch-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Derrick Arthur Köhn-Derrick Arthur Köhn-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Romano Schmid-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt,Jens Stage-Marvin Ducksch-Marvin Ducksch-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Jens Stage-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero-Skelly Alvero-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Romano Schmid-Romano Schmid-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Shot,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Marvin Ducksch-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Marco Friedl-Marco Friedl-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marco Friedl-Marco Friedl-Marco Friedl-Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero-Skelly Alvero-Marco Friedl-Marco Friedl-Marco Friedl-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Miscontrol,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Felix Agu-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Marco Friedl-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Carry-Pass-Ball Receipt-Dispossessed,Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julián Malatini-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt,Skelly Alvero-Skelly Alvero-Skelly Alvero-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Pressure,Romano Schmid-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Pressure-Ball Receipt,Michael Zetterer-Michael Zetterer-Michael Zetterer-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Dispossessed,Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Marco Friedl-Marco Friedl-Marco Friedl-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Michael Zetterer-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Ball Recovery-Carry,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Zetterer-Michael Zetterer-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Jens Stage-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero-Skelly Alvero-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Friedl-Marco Friedl-Marco Friedl-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Skelly Alvero-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Pass,Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Julián Malatini-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt,Skelly Alvero-Skelly Alvero-Skelly Alvero-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Pressure-Ball Receipt,Marco Friedl-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception-Ball Recovery-Carry-Pass-Ball Receipt,Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper,Marco Friedl-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance-Pressure,Marco Friedl-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Michael Zetterer-Marvin Ducksch-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Marvin Ducksch-Anthony Jung-Anthony Jung-Anthony Jung-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Skelly Alvero-Jens Stage-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Foul Committed,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Marco Friedl-Jens Stage-Jens Stage-Marvin Ducksch-Marvin Ducksch-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Dribble,Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Block,Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Skelly Alvero-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Michael Zetterer-Michael Zetterer-Michael Zetterer-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Skelly Alvero-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mitchell Weiser-Skelly Alvero-Skelly Alvero-Skelly Alvero-Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Marco Friedl-Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marvin Ducksch-Marvin Ducksch-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Pressure,Derrick Arthur Köhn-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Romano Schmid-Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julián Malatini-Julián Malatini-Julián Malatini-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Skelly Alvero-Julián Malatini-Julián Malatini-Julián Malatini-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Michael Zetterer-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry,Marco Friedl-Marco Friedl-Marco Friedl-Jens Stage-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Derrick Arthur Köhn-Derrick Arthur Köhn-Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Marvin Ducksch-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry,Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Skelly Alvero-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu-Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Skelly Alvero-Skelly Alvero-Skelly Alvero-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Duel,Skelly Alvero-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception-Carry-Pass-Ball Receipt-Carry-Miscontrol,Felix Agu-Felix Agu-Felix Agu-Skelly Alvero-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass,Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry,Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Marco Friedl-Marco Friedl-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marco Friedl-Marco Friedl-Marco Friedl-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper-Clearance,Marco Friedl-Michael Zetterer-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance-Duel,Romano Schmid-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Committed,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Romano Schmid-Marvin Ducksch-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Foul Committed,Anthony Jung-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Carry-Pass-Ball Receipt-Carry-Pass,Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass,Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Miscontrol-Pressure,Mitchell Weiser-Mitchell Weiser-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt,Skelly Alvero-Mitchell Weiser-Mitchell Weiser-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Jens Stage-Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marvin Ducksch-Marvin Ducksch-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Mitchell Weiser-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure,Mitchell Weiser-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception-Carry-Pass-Ball Receipt-Carry,Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Jens Stage-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry,Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Jens Stage-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass,Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Miscontrol,Felix Agu-Skelly Alvero-Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Skelly Alvero-Marco Friedl-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Julián Malatini-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Block,Romano Schmid-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Anthony Jung-Michael Zetterer-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry,Michael Zetterer-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Skelly Alvero-Skelly Alvero-Skelly Alvero-Jens Stage-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol,Anthony Jung-Anthony Jung-Anthony Jung-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Jens Stage-Jens Stage-Jens Stage-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Mitchell Weiser-Mitchell Weiser-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+50/50,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Carry-Pass-Ball Receipt-Pass,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch-Marvin Ducksch-Jens Stage-Jens Stage-Jens Stage-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Michael Zetterer-Michael Zetterer-Michael Zetterer-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Derrick Arthur Köhn-Derrick Arthur Köhn-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Shot,Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Substitution,Skelly Alvero,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper,Jens Stage-Michael Zetterer,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Romano Schmid-Romano Schmid-Romano Schmid-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julián Malatini-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Michael Zetterer-Michael Zetterer-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Leonardo Bittencourt-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot,Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry,Anthony Jung-Anthony Jung-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Felix Agu-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Michael Zetterer-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Interception,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Pressure,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Clearance,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Jens Stage-Jens Stage-Jens Stage-Leonardo Bittencourt-Leonardo Bittencourt-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Miscontrol,Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry,Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Romano Schmid-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Anthony Jung-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Jens Stage-Jens Stage-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Jens Stage-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Michael Zetterer-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage-Jens Stage-Marco Friedl-Marco Friedl-Marco Friedl-Leonardo Bittencourt-Leonardo Bittencourt-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Marvin Ducksch-Marvin Ducksch-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Felix Agu-Felix Agu-Felix Agu-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure,Jens Stage-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Zetterer-Julián Malatini-Julián Malatini-Julián Malatini-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Injury Stoppage,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Referee Ball-Drop-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Unknown-Marco Friedl-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Jens Stage-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt,Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt,Anthony Jung-Romano Schmid-Romano Schmid-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol,Michael Zetterer-Michael Zetterer-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Carry,Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Anthony Jung-Anthony Jung-Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Stage-Jens Stage-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Michael Zetterer-Michael Zetterer-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass,Romano Schmid-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Romano Schmid-Romano Schmid-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julián Malatini-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Romano Schmid-Romano Schmid-Romano Schmid-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dispossessed,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Anthony Jung,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Jens Stage-Jens Stage-Jens Stage-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch-Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Miscontrol-Pressure,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past-Pressure,Mitchell Weiser-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt,Romano Schmid-Romano Schmid-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Julián Malatini-Julián Malatini-Julián Malatini-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Romano Schmid-Romano Schmid-Romano Schmid-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot,Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt,Anthony Jung-Anthony Jung-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure,Anthony Jung-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Marco Friedl-Michael Zetterer-Marvin Ducksch-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Jens Stage-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Duel,Julián Malatini-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Committed,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass,Leonardo Bittencourt-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Derrick Arthur Köhn-Derrick Arthur Köhn-Derrick Arthur Köhn-Anthony Jung-Anthony Jung-Anthony Jung-Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Jens Stage-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jens Stage-Jens Stage-Leonardo Bittencourt-Leonardo Bittencourt-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Romano Schmid-Jens Stage-Jens Stage-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Romano Schmid-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Romano Schmid-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid-Romano Schmid-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu-Julián Malatini-Julián Malatini-Julián Malatini-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Leonardo Bittencourt-Leonardo Bittencourt-Felix Agu-Felix Agu-Felix Agu,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel-Substitution-Substitution,Julián Malatini-Felix Agu-Derrick Arthur Köhn,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Tactical Shift-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Unknown-Mitchell Weiser-Leonardo Bittencourt-Leonardo Bittencourt-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marco Grüll-Marco Grüll-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Foul Committed,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Julián Malatini-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Romano Schmid-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Anthony Jung-Anthony Jung-Anthony Jung-Olivier Deman-Olivier Deman-Olivier Deman-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Dispossessed,Marco Grüll-Marco Grüll-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marco Grüll-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser-Marco Grüll-Marco Grüll-Marco Grüll-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Julián Malatini-Marco Grüll-Marco Grüll-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Marco Grüll-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Olivier Deman-Olivier Deman-Olivier Deman-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Marco Grüll-Marco Grüll-Julián Malatini-Julián Malatini-Julián Malatini-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Olivier Deman-Olivier Deman-Olivier Deman-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Julián Malatini-Julián Malatini-Julián Malatini-Leonardo Bittencourt-Leonardo Bittencourt-Romano Schmid-Romano Schmid-Romano Schmid-Marco Grüll-Marco Grüll-Marco Grüll-Julián Malatini-Julián Malatini-Romano Schmid-Romano Schmid-Romano Schmid-Marco Grüll-Marco Grüll-Marco Grüll-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Injury Stoppage,Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Duel,Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Marco Friedl-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Friedl-Michael Zetterer-Michael Zetterer-Michael Zetterer-Anthony Jung-Anthony Jung-Anthony Jung-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Olivier Deman-Olivier Deman-Olivier Deman-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Marco Friedl-Marco Friedl-Marco Friedl-Anthony Jung-Anthony Jung-Anthony Jung-Olivier Deman-Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribble-Carry,Olivier Deman-Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Olivier Deman-Anthony Jung-Anthony Jung-Anthony Jung-Marco Friedl-Marco Friedl-Marco Friedl-Mitchell Weiser-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Jens Stage-Jens Stage,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Substitution-Substitution-Shot,Jens Stage-Jens Stage-Anthony Jung-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Tactical Shift-Ball Recovery-Carry,Unknown-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Olivier Deman-Olivier Deman-Olivier Deman-Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass,Keke Maximilian Topp-Keke Maximilian Topp-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Julián Malatini-Michael Zetterer-Michael Zetterer-Keke Maximilian Topp-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass,Marvin Ducksch-Marvin Ducksch-Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Miscontrol-Foul Committed,Marvin Ducksch-Romano Schmid-Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry-Pass,Marco Friedl-Marco Friedl-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Miscontrol,Keke Maximilian Topp-Keke Maximilian Topp-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Michael Zetterer-Michael Zetterer-Olivier Deman-Olivier Deman-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Receipt-Carry-Pass-Ball Receipt-Shot,Keke Maximilian Topp-Keke Maximilian Topp-Keke Maximilian Topp-Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Carry-Pass-Ball Receipt-Foul Committed,Michael Zetterer-Michael Zetterer-Michael Zetterer-Keke Maximilian Topp-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shield-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Julián Malatini-Michael Zetterer-Marco Friedl-Marco Friedl-Marco Friedl-Leonardo Bittencourt-Leonardo Bittencourt-Leonardo Bittencourt-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Marco Grüll-Romano Schmid-Romano Schmid-Romano Schmid,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass,Leonardo Bittencourt-Oliver Burke-Oliver Burke-Oliver Burke,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Carry,Leonardo Bittencourt-Leonardo Bittencourt,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot-Block,Leonardo Bittencourt-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Ball Recovery-Shot,Mitchell Weiser-Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Duel,Olivier Deman-Oliver Burke-Oliver Burke,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Mitchell Weiser,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt,Olivier Deman-Oliver Burke,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Shot,Oliver Burke,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Foul Committed,Julián Malatini-Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Julián Malatini,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Block-Pass,Julián Malatini-Marco Friedl,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Julián Malatini-Leonardo Bittencourt-Oliver Burke-Oliver Burke-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure-Pressure,Olivier Deman-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Duel,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Dribbled Past-Foul Committed,Marvin Ducksch-Marco Grüll,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pressure,Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Goal Keeper-Pass-Duel,Michael Zetterer-Michael Zetterer-Keke Maximilian Topp,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Marco Friedl-Oliver Burke-Oliver Burke-Oliver Burke-Marco Grüll-Marco Grüll-Marco Grüll-Marvin Ducksch-Marvin Ducksch-Olivier Deman-Olivier Deman-Olivier Deman,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194
+Pass,Marvin Ducksch,3949532,Werder Bremen,Lost,0,1,First half,0.9781091915477177,0.8368554971132194

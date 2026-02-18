@@ -1,0 +1,557 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass,Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Adam Wharton-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Foul Committed,Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Tyrick Mitchell-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt,Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry,Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt,Adam Wharton-Will Hughes-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Chris Richards-Dean Henderson-Dean Henderson-Dean Henderson-Adam Wharton-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Pass-Ball Receipt-Carry,Marc Guehi-Tyrick Mitchell-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Eberechi Eze-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dispossessed,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Chris Richards-Adam Wharton-Adam Wharton-Adam Wharton-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry-Pass-Pressure,Maxence Lacroix-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry,Ismaïla Sarr-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Ismaïla Sarr-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Jean-Philippe Mateta-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Pressure,Adam Wharton-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Chris Richards-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marc Guehi-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble-Carry,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jean-Philippe Mateta-Adam Wharton-Adam Wharton-Adam Wharton-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Pass,Chris Richards-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Pass-Ball Receipt-Carry,Dean Henderson-Dean Henderson-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Marc Guehi-Will Hughes-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Pressure,Adam Wharton-Adam Wharton-Adam Wharton-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Eberechi Eze-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Ball Recovery-Carry,Tyrick Mitchell-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Eberechi Eze-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Jean-Philippe Mateta-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Pressure-Ball Receipt,Will Hughes-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Pass-Ball Receipt-Carry-Miscontrol,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Will Hughes-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Carry-Pass-Ball Receipt,Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Adam Wharton-Eberechi Eze-Eberechi Eze-Eberechi Eze-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Ball Recovery-Carry,Marc Guehi-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eberechi Eze-Adam Wharton-Adam Wharton-Adam Wharton-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Chris Richards-Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Dean Henderson-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adam Wharton-Adam Wharton-Adam Wharton-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Will Hughes-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Jean-Philippe Mateta-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Injury Stoppage-Referee Ball-Drop,Dean Henderson-Unknown,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Foul Committed,Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tyrick Mitchell-Will Hughes-Adam Wharton-Adam Wharton-Adam Wharton-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt,Marc Guehi-Eberechi Eze-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt,Adam Wharton-Adam Wharton-Adam Wharton-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass,Marc Guehi-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Eberechi Eze-Eberechi Eze-Eberechi Eze-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Daniel Muñoz Mejía-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Pass-Ball Receipt-Pass,Dean Henderson-Dean Henderson-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Maxence Lacroix-Will Hughes-Will Hughes-Maxence Lacroix-Maxence Lacroix-Will Hughes-Will Hughes-Will Hughes-Marc Guehi-Marc Guehi-Marc Guehi-Dean Henderson-Dean Henderson-Dean Henderson-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Miscontrol-Pressure,Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Dean Henderson-Dean Henderson-Dean Henderson-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ismaïla Sarr-Daniel Muñoz Mejía-Chris Richards-Chris Richards-Chris Richards-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Marc Guehi-Marc Guehi-Marc Guehi-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eberechi Eze-Will Hughes-Will Hughes-Will Hughes-Marc Guehi-Marc Guehi-Marc Guehi-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Pass-Ball Receipt,Adam Wharton-Adam Wharton-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Tyrick Mitchell-Eberechi Eze-Eberechi Eze-Eberechi Eze-Marc Guehi-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt,Adam Wharton-Adam Wharton-Adam Wharton-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Pressure,Jean-Philippe Mateta-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Will Hughes-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eberechi Eze-Will Hughes-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dispossessed,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Duel,Eberechi Eze-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry,Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Shot,Eberechi Eze-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Marc Guehi-Adam Wharton-Adam Wharton-Adam Wharton-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Shot,Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Chris Richards-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt,Dean Henderson-Dean Henderson-Dean Henderson-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Will Hughes-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Carry-Pass,Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Pass,Marc Guehi-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dispossessed,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt,Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Ball Recovery-Carry,Marc Guehi-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Will Hughes-Marc Guehi-Marc Guehi-Marc Guehi-Adam Wharton-Adam Wharton-Adam Wharton-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Will Hughes-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble-Carry,Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shot,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure-Foul Committed,Daniel Muñoz Mejía-Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance-Pressure,Tyrick Mitchell-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Daniel Muñoz Mejía-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Dribble-Carry,Adam Wharton-Adam Wharton-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Ball Recovery-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Adam Wharton-Ismaïla Sarr-Ismaïla Sarr-Eberechi Eze-Eberechi Eze-Eberechi Eze-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Shot,Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Adam Wharton-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt,Will Hughes-Dean Henderson-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Jean-Philippe Mateta-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Adam Wharton-Adam Wharton-Adam Wharton-Eberechi Eze-Eberechi Eze-Eberechi Eze-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Shot,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Pass-Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Chris Richards-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pass-Ball Receipt-Carry,Maxence Lacroix-Daniel Muñoz Mejía-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jean-Philippe Mateta-Jean-Philippe Mateta-Will Hughes-Will Hughes-Will Hughes-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry-Pass,Marc Guehi-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Chris Richards-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Injury Stoppage-Pass,Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Chris Richards-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pressure,Eberechi Eze-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Chris Richards-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Eberechi Eze-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Jean-Philippe Mateta-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,Tyrick Mitchell-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pass-Ball Receipt-Carry,Maxence Lacroix-Ismaïla Sarr-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Pressure-Foul Committed,Daniel Muñoz Mejía-Chris Richards-Chris Richards-Chris Richards-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Miscontrol-50/50,Jean-Philippe Mateta-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Eberechi Eze-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Chris Richards-Will Hughes-Will Hughes-Will Hughes-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Carry-Pass,Dean Henderson-Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Jean-Philippe Mateta-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble-Carry,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Miscontrol,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Chris Richards-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Carry-Pass,Dean Henderson-Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Pass,Marc Guehi-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Will Hughes-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eberechi Eze-Marc Guehi-Marc Guehi-Marc Guehi-Adam Wharton-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt-Carry-Pass,Will Hughes-Will Hughes-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Shot,Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Adam Wharton-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Shot,Jean-Philippe Mateta-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Marc Guehi-Marc Guehi-Marc Guehi-Adam Wharton-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Chris Richards-Chris Richards-Chris Richards-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Daniel Muñoz Mejía-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Tyrick Mitchell-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Dribble,Tyrick Mitchell-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Carry,Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Shot,Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Pressure-Pressure,Maxence Lacroix-Chris Richards-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Pass-Ball Receipt-Pass,Dean Henderson-Jean-Philippe Mateta-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Marc Guehi-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Chris Richards-Chris Richards-Chris Richards-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shield-Pass,Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Will Hughes-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Pressure,Will Hughes-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Marc Guehi-Marc Guehi-Marc Guehi-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Eberechi Eze-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Clearance,Daniel Muñoz Mejía-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dean Henderson-Dean Henderson-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Jean-Philippe Mateta-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Daniel Muñoz Mejía-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Pressure,Will Hughes-Will Hughes,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Marc Guehi-Marc Guehi-Marc Guehi-Marc Guehi-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Adam Wharton-Adam Wharton-Adam Wharton-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Substitution-Pass-Ball Receipt,Will Hughes-Eberechi Eze-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shot,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Shot,Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Ball Recovery-Carry-Pass,Ismaïla Sarr-Adam Wharton-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Eberechi Eze-Eberechi Eze-Eberechi Eze-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Injury Stoppage,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Player Off,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass,Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jean-Philippe Mateta-Adam Wharton-Adam Wharton-Adam Wharton-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Player On,Chris Richards-Eberechi Eze-Eberechi Eze-Eberechi Eze-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell-Eberechi Eze-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Pressure-Ball Receipt,Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Pressure,Adam Wharton-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Dean Henderson-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Maxence Lacroix-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jean-Philippe Mateta-Eberechi Eze-Eberechi Eze-Eberechi Eze-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past-Pressure,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Pass,Jean-Philippe Mateta-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass,Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Adam Wharton-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shot,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Tyrick Mitchell-Eberechi Eze-Eberechi Eze-Eberechi Eze-Tyrick Mitchell-Tyrick Mitchell-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Ball Recovery-Carry,Maxence Lacroix-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Pass,Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Miscontrol-Block-50/50,Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Ismaïla Sarr-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Chris Richards-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Dribble-Carry,Eberechi Eze-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt,Eberechi Eze-Marc Guehi-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Maxence Lacroix-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble-Carry,Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Chris Richards-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Ismaïla Sarr-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry-Pass-Ball Receipt,Adam Wharton-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Adam Wharton-Adam Wharton-Adam Wharton-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Carry,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Chris Richards-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Ismaïla Sarr-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eberechi Eze-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shot,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Adam Wharton-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Recovery-Carry,Adam Wharton-Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Adam Wharton-Tyrick Mitchell-Eberechi Eze-Eberechi Eze-Eberechi Eze-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance-Ball Recovery-Pass-Ball Receipt,Jefferson Andrés Lerma Solís-Tyrick Mitchell-Tyrick Mitchell-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Substitution,Adam Wharton,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Tactical Shift-Pass,Unknown-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Ball Receipt,Ismaïla Sarr-Ismaïla Sarr-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel,Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure-Pressure,Jefferson Andrés Lerma Solís-Daichi Kamada-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry-Pass,Daichi Kamada-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jean-Philippe Mateta-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Shot,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Pass,Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block-Goal Keeper,Marc Guehi-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Carry,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tyrick Mitchell-Eberechi Eze-Eberechi Eze-Eberechi Eze-Daichi Kamada-Daichi Kamada-Daichi Kamada-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Tyrick Mitchell-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Jean-Philippe Mateta-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Carry,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt,Tyrick Mitchell-Dean Henderson-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Miscontrol-Pressure,Jean-Philippe Mateta-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Ismaïla Sarr-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dispossessed,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Offside,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Interception-Pressure,Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Committed,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper-Carry-Pass-Ball Receipt,Dean Henderson-Dean Henderson-Dean Henderson-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Block,Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Chris Richards-Daniel Muñoz Mejía-Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Ismaïla Sarr-Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won,Ismaïla Sarr,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Substitution-Pass-Ball Receipt-Carry-Miscontrol,Ismaïla Sarr-Tyrick Mitchell-Daichi Kamada-Daichi Kamada-Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass,Maxence Lacroix-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Edward Nketiah-Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Foul Won-Pass-Ball Receipt-Carry,Edward Nketiah-Daniel Muñoz Mejía-Chris Richards-Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Chris Richards-Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dean Henderson-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Marc Guehi-Marc Guehi-Marc Guehi-Daichi Kamada-Daichi Kamada-Daichi Kamada-Marc Guehi-Marc Guehi-Marc Guehi-Eberechi Eze-Eberechi Eze-Eberechi Eze-Maxence Lacroix-Maxence Lacroix-Maxence Lacroix-Dean Henderson-Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Edward Nketiah-Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Tyrick Mitchell-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+50/50-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Foul Committed,Jean-Philippe Mateta-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís-Edward Nketiah-Edward Nketiah-Edward Nketiah-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribbled Past,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Chris Richards,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Duel,Dean Henderson-Jean-Philippe Mateta-Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Block,Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eberechi Eze-Daichi Kamada-Daichi Kamada-Daichi Kamada-Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Dribble-Carry,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Shot,Tyrick Mitchell-Edward Nketiah-Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Tyrick Mitchell-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Duel-Ball Recovery-Carry,Daichi Kamada-Daichi Kamada-Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Daichi Kamada-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Eberechi Eze-Eberechi Eze-Eberechi Eze,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Ball Receipt-Carry,Maxence Lacroix-Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Maxence Lacroix-Chris Richards-Chris Richards-Chris Richards-Edward Nketiah-Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Foul Committed,Daniel Muñoz Mejía-Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure,Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jefferson Andrés Lerma Solís-Daichi Kamada-Daichi Kamada-Daichi Kamada-Jean-Philippe Mateta-Jean-Philippe Mateta-Jean-Philippe Mateta-Daichi Kamada-Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Daichi Kamada,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pressure-Pressure,Tyrick Mitchell-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Pass,Daichi Kamada-Marc Guehi-Marc Guehi,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry-Pass-Pressure,Chris Richards-Daichi Kamada-Daichi Kamada-Daichi Kamada-Tyrick Mitchell,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt-Carry,Daniel Muñoz Mejía-Jefferson Andrés Lerma Solís-Jefferson Andrés Lerma Solís,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass-Ball Receipt,Jefferson Andrés Lerma Solís-Edward Nketiah,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Maxence Lacroix,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Jean-Philippe Mateta,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Goal Keeper,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Clearance,Daniel Muñoz Mejía,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845
+Pass,Dean Henderson,3955897,Crystal Palace,Won,4,1,Second half,0.822896461160011,0.8069500365951845

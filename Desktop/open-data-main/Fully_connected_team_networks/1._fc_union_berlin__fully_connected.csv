@@ -1,0 +1,871 @@
+from_id,to_id,team_id,team,from,to,passes,shared_minutes,passes_per90_shared
+444,495,446,1. FC Union Berlin,Frederik Rönnow,Leonardo Bonucci,11.0,1055.6293233333336,0.9378291964019174
+444,732,446,1. FC Union Berlin,Frederik Rönnow,Kevin Volland,7.0,2798.7048266666666,0.22510412459264134
+444,977,446,1. FC Union Berlin,Frederik Rönnow,Robin Knoche,89.0,4233.194688333333,1.8921879548974032
+444,997,446,1. FC Union Berlin,Frederik Rönnow,Kevin Vogt,68.0,2794.905623333333,2.189698267056691
+444,1012,446,1. FC Union Berlin,Frederik Rönnow,Janik Haberer,9.0,2576.925686666667,0.3143280398775333
+444,1014,446,1. FC Union Berlin,Frederik Rönnow,Rani Khedira,22.0,3181.9639616666664,0.622257204623683
+444,1291,446,1. FC Union Berlin,Frederik Rönnow,Alexander Schwolow,0.0,0.0,0.0
+444,1369,446,1. FC Union Berlin,Frederik Rönnow,Milos Pantovic,0.0,0.0,0.0
+444,1613,446,1. FC Union Berlin,Frederik Rönnow,Aïssa Laïdouni,13.0,2210.3929233333333,0.5293176555395445
+444,1708,446,1. FC Union Berlin,Frederik Rönnow,Jérôme Roussillon,8.0,1697.1574749999997,0.42423877018247824
+444,2030,446,1. FC Union Berlin,Frederik Rönnow,Lucas Tousart,25.0,3386.8365583333334,0.6643367523785169
+444,3425,446,1. FC Union Berlin,Frederik Rönnow,András Schäfer,13.0,2691.2347800000002,0.43474467879758893
+444,3998,446,1. FC Union Berlin,Frederik Rönnow,Yorbe Vertessen,4.0,974.6913233333332,0.369347701556264
+444,6175,446,1. FC Union Berlin,Frederik Rönnow,Diogo Leite,143.0,6444.51785,1.997046218127862
+444,7376,446,1. FC Union Berlin,Frederik Rönnow,Paul Jaeckel,13.0,475.6464333333334,2.4598103086795633
+444,8522,446,1. FC Union Berlin,Frederik Rönnow,Chris Bedia,1.0,105.66410500000003,0.8517556648021575
+444,10517,446,1. FC Union Berlin,Frederik Rönnow,Christopher Trimmel,18.0,3708.4322816666677,0.4368422764543321
+444,13176,446,1. FC Union Berlin,Frederik Rönnow,Danilho Doekhi,95.0,4864.722861666667,1.7575513021251012
+444,16806,446,1. FC Union Berlin,Frederik Rönnow,Josip Juranovic,30.0,2866.798738333334,0.9418170741799944
+444,21100,446,1. FC Union Berlin,Frederik Rönnow,Alex Král,22.0,2891.1797416666664,0.6848415446002667
+444,21558,446,1. FC Union Berlin,Frederik Rönnow,Robin Gosens,29.0,5142.122536666667,0.5075725017031407
+444,21598,446,1. FC Union Berlin,Frederik Rönnow,Sheraldo Becker,1.0,1578.7395216666666,0.05700750425566562
+444,23329,446,1. FC Union Berlin,Frederik Rönnow,Kevin Behrens,10.0,2890.1017283333335,0.311407723533321
+444,26762,446,1. FC Union Berlin,Frederik Rönnow,Benedict Hollerbach,9.0,2828.010613333333,0.28642042437219334
+444,32182,446,1. FC Union Berlin,Frederik Rönnow,Mikkel Kaufmann,11.0,933.9446316666665,1.0600200123569425
+444,42376,446,1. FC Union Berlin,Frederik Rönnow,Brenden Aaronson,6.0,2628.0263616666666,0.20547739089555317
+444,45493,446,1. FC Union Berlin,Frederik Rönnow,Jordan,1.0,24.361066666666677,3.694419510913587
+444,76896,446,1. FC Union Berlin,Frederik Rönnow,David Datro Fofana,1.0,1496.6020316666666,0.06013622733077074
+444,107910,446,1. FC Union Berlin,Frederik Rönnow,Aljoscha Kemlein,0.0,0.0,0.0
+495,444,446,1. FC Union Berlin,Leonardo Bonucci,Frederik Rönnow,13.0,1055.6293233333336,1.1083435957477206
+495,732,446,1. FC Union Berlin,Leonardo Bonucci,Kevin Volland,0.0,0.0,0.0
+495,977,446,1. FC Union Berlin,Leonardo Bonucci,Robin Knoche,17.0,435.828085,3.510558526764057
+495,997,446,1. FC Union Berlin,Leonardo Bonucci,Kevin Vogt,0.0,0.0,0.0
+495,1012,446,1. FC Union Berlin,Leonardo Bonucci,Janik Haberer,5.0,622.6553733333333,0.7227111806503215
+495,1014,446,1. FC Union Berlin,Leonardo Bonucci,Rani Khedira,3.0,204.92665,1.3175445946147073
+495,1291,446,1. FC Union Berlin,Leonardo Bonucci,Alexander Schwolow,0.0,0.0,0.0
+495,1369,446,1. FC Union Berlin,Leonardo Bonucci,Milos Pantovic,0.0,0.0,0.0
+495,1613,446,1. FC Union Berlin,Leonardo Bonucci,Aïssa Laïdouni,4.0,415.505905,0.8664136794879005
+495,1708,446,1. FC Union Berlin,Leonardo Bonucci,Jérôme Roussillon,1.0,48.516169999999974,1.8550516250561422
+495,2030,446,1. FC Union Berlin,Leonardo Bonucci,Lucas Tousart,5.0,570.4123,0.7889030443417857
+495,3425,446,1. FC Union Berlin,Leonardo Bonucci,András Schäfer,0.0,0.0,0.0
+495,3998,446,1. FC Union Berlin,Leonardo Bonucci,Yorbe Vertessen,0.0,0.0,0.0
+495,6175,446,1. FC Union Berlin,Leonardo Bonucci,Diogo Leite,32.0,1047.0690416666666,2.7505349555706236
+495,7376,446,1. FC Union Berlin,Leonardo Bonucci,Paul Jaeckel,2.0,30.724535000000017,5.8585101450681
+495,8522,446,1. FC Union Berlin,Leonardo Bonucci,Chris Bedia,0.0,0.0,0.0
+495,10517,446,1. FC Union Berlin,Leonardo Bonucci,Christopher Trimmel,9.0,814.4279033333333,0.9945631733451044
+495,13176,446,1. FC Union Berlin,Leonardo Bonucci,Danilho Doekhi,26.0,604.3753350000001,3.8717662096518213
+495,16806,446,1. FC Union Berlin,Leonardo Bonucci,Josip Juranovic,4.0,239.90380166666665,1.5006014806726595
+495,21100,446,1. FC Union Berlin,Leonardo Bonucci,Alex Král,5.0,472.7971033333333,0.9517824809572473
+495,21558,446,1. FC Union Berlin,Leonardo Bonucci,Robin Gosens,11.0,999.1694216666668,0.9908229560794887
+495,21598,446,1. FC Union Berlin,Leonardo Bonucci,Sheraldo Becker,7.0,973.1773533333334,0.6473640162732106
+495,23329,446,1. FC Union Berlin,Leonardo Bonucci,Kevin Behrens,4.0,787.6137200000001,0.4570768523433034
+495,26762,446,1. FC Union Berlin,Leonardo Bonucci,Benedict Hollerbach,1.0,191.93698500000005,0.4689038957239011
+495,32182,446,1. FC Union Berlin,Leonardo Bonucci,Mikkel Kaufmann,0.0,0.0,0.0
+495,42376,446,1. FC Union Berlin,Leonardo Bonucci,Brenden Aaronson,4.0,254.3525866666667,1.415358124396769
+495,45493,446,1. FC Union Berlin,Leonardo Bonucci,Jordan,0.0,0.0,0.0
+495,76896,446,1. FC Union Berlin,Leonardo Bonucci,David Datro Fofana,11.0,487.54648999999995,2.030575586750712
+495,107910,446,1. FC Union Berlin,Leonardo Bonucci,Aljoscha Kemlein,0.0,0.0,0.0
+732,444,446,1. FC Union Berlin,Kevin Volland,Frederik Rönnow,2.0,2798.7048266666666,0.0643154641693261
+732,495,446,1. FC Union Berlin,Kevin Volland,Leonardo Bonucci,0.0,0.0,0.0
+732,977,446,1. FC Union Berlin,Kevin Volland,Robin Knoche,6.0,1895.1844299999998,0.2849326912209806
+732,997,446,1. FC Union Berlin,Kevin Volland,Kevin Vogt,0.0,0.0,0.0
+732,1012,446,1. FC Union Berlin,Kevin Volland,Janik Haberer,14.0,1308.7017749999998,0.9627861932104435
+732,1014,446,1. FC Union Berlin,Kevin Volland,Rani Khedira,9.0,1708.2357283333333,0.47417343318904187
+732,1291,446,1. FC Union Berlin,Kevin Volland,Alexander Schwolow,0.0,0.0,0.0
+732,1369,446,1. FC Union Berlin,Kevin Volland,Milos Pantovic,0.0,0.0,0.0
+732,1613,446,1. FC Union Berlin,Kevin Volland,Aïssa Laïdouni,12.0,760.2390933333334,1.4206057140059027
+732,1708,446,1. FC Union Berlin,Kevin Volland,Jérôme Roussillon,14.0,1148.52046,1.097063608253004
+732,2030,446,1. FC Union Berlin,Kevin Volland,Lucas Tousart,10.0,1119.8971566666664,0.8036452228156535
+732,3425,446,1. FC Union Berlin,Kevin Volland,András Schäfer,24.0,1443.30081,1.4965695196970061
+732,3998,446,1. FC Union Berlin,Kevin Volland,Yorbe Vertessen,6.0,291.7245566666667,1.8510611728069926
+732,6175,446,1. FC Union Berlin,Kevin Volland,Diogo Leite,4.0,2549.845598333334,0.1411850192950147
+732,7376,446,1. FC Union Berlin,Kevin Volland,Paul Jaeckel,4.0,213.9233516666667,1.6828457351441863
+732,8522,446,1. FC Union Berlin,Kevin Volland,Chris Bedia,1.0,19.283303333333333,4.6672501305533585
+732,10517,446,1. FC Union Berlin,Kevin Volland,Christopher Trimmel,13.0,762.4623083333332,1.5345020825455669
+732,13176,446,1. FC Union Berlin,Kevin Volland,Danilho Doekhi,6.0,1807.2619499999998,0.2987945383346338
+732,16806,446,1. FC Union Berlin,Kevin Volland,Josip Juranovic,27.0,1672.4150383333333,1.4529886088692718
+732,21100,446,1. FC Union Berlin,Kevin Volland,Alex Král,10.0,707.182525,1.2726558818743434
+732,21558,446,1. FC Union Berlin,Kevin Volland,Robin Gosens,29.0,1954.514695,1.3353698525147184
+732,21598,446,1. FC Union Berlin,Kevin Volland,Sheraldo Becker,1.0,176.04058333333333,0.5112457496779862
+732,23329,446,1. FC Union Berlin,Kevin Volland,Kevin Behrens,4.0,862.484685,0.4173987158971988
+732,26762,446,1. FC Union Berlin,Kevin Volland,Benedict Hollerbach,18.0,1458.1719949999997,1.1109800528023448
+732,32182,446,1. FC Union Berlin,Kevin Volland,Mikkel Kaufmann,1.0,207.69938666666664,0.4333185641247922
+732,42376,446,1. FC Union Berlin,Kevin Volland,Brenden Aaronson,9.0,824.0157733333334,0.9829908919381042
+732,45493,446,1. FC Union Berlin,Kevin Volland,Jordan,0.0,0.0,0.0
+732,76896,446,1. FC Union Berlin,Kevin Volland,David Datro Fofana,5.0,447.007605,1.006694282080503
+732,107910,446,1. FC Union Berlin,Kevin Volland,Aljoscha Kemlein,2.0,15.65330166666663,11.499171474047941
+977,444,446,1. FC Union Berlin,Robin Knoche,Frederik Rönnow,112.0,4233.194688333333,2.3811803477360582
+977,495,446,1. FC Union Berlin,Robin Knoche,Leonardo Bonucci,18.0,435.828085,3.7170619695148837
+977,732,446,1. FC Union Berlin,Robin Knoche,Kevin Volland,13.0,1895.1844299999998,0.6173541643121245
+977,997,446,1. FC Union Berlin,Robin Knoche,Kevin Vogt,64.0,1245.7178716666667,4.623839900677992
+977,1012,446,1. FC Union Berlin,Robin Knoche,Janik Haberer,42.0,2268.559308333334,1.6662557536470546
+977,1014,446,1. FC Union Berlin,Robin Knoche,Rani Khedira,15.0,1696.33411,0.7958337877200382
+977,1291,446,1. FC Union Berlin,Robin Knoche,Alexander Schwolow,2.0,210.50458333333333,0.8550882700495437
+977,1369,446,1. FC Union Berlin,Robin Knoche,Milos Pantovic,0.0,0.0,0.0
+977,1613,446,1. FC Union Berlin,Robin Knoche,Aïssa Laïdouni,31.0,1705.1563199999996,1.636213622924613
+977,1708,446,1. FC Union Berlin,Robin Knoche,Jérôme Roussillon,8.0,1411.0109433333334,0.5102724421818386
+977,2030,446,1. FC Union Berlin,Robin Knoche,Lucas Tousart,17.0,1373.4882216666667,1.1139520353100758
+977,3425,446,1. FC Union Berlin,Robin Knoche,András Schäfer,22.0,1714.9388083333333,1.1545601454574739
+977,3998,446,1. FC Union Berlin,Robin Knoche,Yorbe Vertessen,6.0,420.7032883333334,1.2835649612801339
+977,6175,446,1. FC Union Berlin,Robin Knoche,Diogo Leite,145.0,3796.419093333333,3.4374497860144926
+977,7376,446,1. FC Union Berlin,Robin Knoche,Paul Jaeckel,24.0,420.6565183333334,5.134830689318808
+977,8522,446,1. FC Union Berlin,Robin Knoche,Chris Bedia,1.0,51.49208666666664,1.747841383523916
+977,10517,446,1. FC Union Berlin,Robin Knoche,Christopher Trimmel,59.0,2324.366008333333,2.284493914023244
+977,13176,446,1. FC Union Berlin,Robin Knoche,Danilho Doekhi,98.0,2369.1668433333334,3.722827720985059
+977,16806,446,1. FC Union Berlin,Robin Knoche,Josip Juranovic,42.0,1755.2545250000003,2.153533830086551
+977,21100,446,1. FC Union Berlin,Robin Knoche,Alex Král,30.0,2125.6670933333335,1.2701894894397763
+977,21558,446,1. FC Union Berlin,Robin Knoche,Robin Gosens,35.0,3306.5823949999995,0.9526452462709614
+977,21598,446,1. FC Union Berlin,Robin Knoche,Sheraldo Becker,5.0,950.6491833333333,0.4733607390500572
+977,23329,446,1. FC Union Berlin,Robin Knoche,Kevin Behrens,19.0,2271.5556899999992,0.7527880595346533
+977,26762,446,1. FC Union Berlin,Robin Knoche,Benedict Hollerbach,19.0,1965.0201783333332,0.8702200714551273
+977,32182,446,1. FC Union Berlin,Robin Knoche,Mikkel Kaufmann,2.0,300.2422766666666,0.5995158376707843
+977,42376,446,1. FC Union Berlin,Robin Knoche,Brenden Aaronson,10.0,1321.6596816666668,0.6809619847562144
+977,45493,446,1. FC Union Berlin,Robin Knoche,Jordan,0.0,0.0,0.0
+977,76896,446,1. FC Union Berlin,Robin Knoche,David Datro Fofana,5.0,1204.1442083333332,0.37370939201945674
+977,107910,446,1. FC Union Berlin,Robin Knoche,Aljoscha Kemlein,0.0,0.0,0.0
+997,444,446,1. FC Union Berlin,Kevin Vogt,Frederik Rönnow,98.0,2794.905623333333,3.1557416201699366
+997,495,446,1. FC Union Berlin,Kevin Vogt,Leonardo Bonucci,0.0,0.0,0.0
+997,732,446,1. FC Union Berlin,Kevin Vogt,Kevin Volland,19.0,1205.4576233333335,1.4185484142291995
+997,977,446,1. FC Union Berlin,Kevin Vogt,Robin Knoche,47.0,1245.7178716666667,3.3956324270604004
+997,1012,446,1. FC Union Berlin,Kevin Vogt,Janik Haberer,12.0,818.3425366666667,1.319740758434892
+997,1014,446,1. FC Union Berlin,Kevin Vogt,Rani Khedira,13.0,1646.1304750000002,0.7107577544848016
+997,1291,446,1. FC Union Berlin,Kevin Vogt,Alexander Schwolow,5.0,209.06018333333333,2.1524902199215203
+997,1369,446,1. FC Union Berlin,Kevin Vogt,Milos Pantovic,0.0,0.0,0.0
+997,1613,446,1. FC Union Berlin,Kevin Vogt,Aïssa Laïdouni,13.0,495.68467499999997,2.3603715406372006
+997,1708,446,1. FC Union Berlin,Kevin Vogt,Jérôme Roussillon,4.0,430.0258383333333,0.8371589981552388
+997,2030,446,1. FC Union Berlin,Kevin Vogt,Lucas Tousart,20.0,2295.4976116666667,0.7841437041152457
+997,3425,446,1. FC Union Berlin,Kevin Vogt,András Schäfer,19.0,1814.0539483333337,0.9426401026116487
+997,3998,446,1. FC Union Berlin,Kevin Vogt,Yorbe Vertessen,6.0,906.9600383333335,0.5953955821386859
+997,6175,446,1. FC Union Berlin,Kevin Vogt,Diogo Leite,103.0,2353.8244266666666,3.938271646338369
+997,7376,446,1. FC Union Berlin,Kevin Vogt,Paul Jaeckel,0.0,0.0,0.0
+997,8522,446,1. FC Union Berlin,Kevin Vogt,Chris Bedia,0.0,0.0,0.0
+997,10517,446,1. FC Union Berlin,Kevin Vogt,Christopher Trimmel,25.0,1808.4774799999998,1.2441404578618254
+997,13176,446,1. FC Union Berlin,Kevin Vogt,Danilho Doekhi,71.0,2376.6884383333336,2.6886149218957045
+997,16806,446,1. FC Union Berlin,Kevin Vogt,Josip Juranovic,8.0,974.4123683333335,0.7389068770047648
+997,21100,446,1. FC Union Berlin,Kevin Vogt,Alex Král,6.0,1068.3724366666665,0.5054417181379237
+997,21558,446,1. FC Union Berlin,Kevin Vogt,Robin Gosens,38.0,2131.6489266666667,1.604391772592672
+997,21598,446,1. FC Union Berlin,Kevin Vogt,Sheraldo Becker,0.0,0.0,0.0
+997,23329,446,1. FC Union Berlin,Kevin Vogt,Kevin Behrens,4.0,423.58315500000003,0.8498921539974836
+997,26762,446,1. FC Union Berlin,Kevin Vogt,Benedict Hollerbach,18.0,1796.4228599999997,0.901792131502936
+997,32182,446,1. FC Union Berlin,Kevin Vogt,Mikkel Kaufmann,14.0,825.74369,1.5258972187846813
+997,42376,446,1. FC Union Berlin,Kevin Vogt,Brenden Aaronson,25.0,1506.1847066666667,1.4938406890211156
+997,45493,446,1. FC Union Berlin,Kevin Vogt,Jordan,0.0,0.0,0.0
+997,76896,446,1. FC Union Berlin,Kevin Vogt,David Datro Fofana,0.0,0.0,0.0
+997,107910,446,1. FC Union Berlin,Kevin Vogt,Aljoscha Kemlein,0.0,0.0,0.0
+1012,444,446,1. FC Union Berlin,Janik Haberer,Frederik Rönnow,14.0,2576.925686666667,0.48895472869838513
+1012,495,446,1. FC Union Berlin,Janik Haberer,Leonardo Bonucci,8.0,622.6553733333333,1.1563378890405143
+1012,732,446,1. FC Union Berlin,Janik Haberer,Kevin Volland,23.0,1308.7017749999998,1.5817201745600142
+1012,977,446,1. FC Union Berlin,Janik Haberer,Robin Knoche,33.0,2268.559308333334,1.3092009492941143
+1012,997,446,1. FC Union Berlin,Janik Haberer,Kevin Vogt,11.0,818.3425366666667,1.209762361898651
+1012,1014,446,1. FC Union Berlin,Janik Haberer,Rani Khedira,10.0,1015.4221233333333,0.8863308956137017
+1012,1291,446,1. FC Union Berlin,Janik Haberer,Alexander Schwolow,0.0,0.0,0.0
+1012,1369,446,1. FC Union Berlin,Janik Haberer,Milos Pantovic,0.0,0.0,0.0
+1012,1613,446,1. FC Union Berlin,Janik Haberer,Aïssa Laïdouni,14.0,1006.0202683333333,1.2524598555926045
+1012,1708,446,1. FC Union Berlin,Janik Haberer,Jérôme Roussillon,25.0,1020.502605,2.2047959397418686
+1012,2030,446,1. FC Union Berlin,Janik Haberer,Lucas Tousart,11.0,861.271435,1.14946340929094
+1012,3425,446,1. FC Union Berlin,Janik Haberer,András Schäfer,13.0,700.5675383333332,1.6700745266951103
+1012,3998,446,1. FC Union Berlin,Janik Haberer,Yorbe Vertessen,2.0,233.07596833333335,0.7722803911837586
+1012,6175,446,1. FC Union Berlin,Janik Haberer,Diogo Leite,43.0,2368.189978333334,1.634159436281205
+1012,7376,446,1. FC Union Berlin,Janik Haberer,Paul Jaeckel,10.0,398.2347866666667,2.259973337671589
+1012,8522,446,1. FC Union Berlin,Janik Haberer,Chris Bedia,0.0,0.0,0.0
+1012,10517,446,1. FC Union Berlin,Janik Haberer,Christopher Trimmel,14.0,1292.8038616666668,0.9746258016089336
+1012,13176,446,1. FC Union Berlin,Janik Haberer,Danilho Doekhi,8.0,1197.305285,0.6013503899300002
+1012,16806,446,1. FC Union Berlin,Janik Haberer,Josip Juranovic,25.0,1106.5434733333334,2.033358882161346
+1012,21100,446,1. FC Union Berlin,Janik Haberer,Alex Král,5.0,848.2961183333333,0.5304751374839782
+1012,21558,446,1. FC Union Berlin,Janik Haberer,Robin Gosens,31.0,1887.1329116666664,1.4784332268022102
+1012,21598,446,1. FC Union Berlin,Janik Haberer,Sheraldo Becker,9.0,922.407755,0.8781365893871957
+1012,23329,446,1. FC Union Berlin,Janik Haberer,Kevin Behrens,13.0,1609.2312133333335,0.7270552486839242
+1012,26762,446,1. FC Union Berlin,Janik Haberer,Benedict Hollerbach,17.0,1182.1283383333334,1.2942757147308777
+1012,32182,446,1. FC Union Berlin,Janik Haberer,Mikkel Kaufmann,1.0,223.52988666666667,0.4026307235336733
+1012,42376,446,1. FC Union Berlin,Janik Haberer,Brenden Aaronson,12.0,560.6752866666667,1.9262486249765505
+1012,45493,446,1. FC Union Berlin,Janik Haberer,Jordan,0.0,0.0,0.0
+1012,76896,446,1. FC Union Berlin,Janik Haberer,David Datro Fofana,7.0,655.4766583333334,0.9611326230927699
+1012,107910,446,1. FC Union Berlin,Janik Haberer,Aljoscha Kemlein,0.0,0.0,0.0
+1014,444,446,1. FC Union Berlin,Rani Khedira,Frederik Rönnow,13.0,3181.9639616666664,0.3676974390958127
+1014,495,446,1. FC Union Berlin,Rani Khedira,Leonardo Bonucci,9.0,204.92665,3.9526337838441217
+1014,732,446,1. FC Union Berlin,Rani Khedira,Kevin Volland,16.0,1708.2357283333333,0.8429749923360744
+1014,977,446,1. FC Union Berlin,Rani Khedira,Robin Knoche,20.0,1696.33411,1.061111716960051
+1014,997,446,1. FC Union Berlin,Rani Khedira,Kevin Vogt,34.0,1646.1304750000002,1.8589048963448658
+1014,1012,446,1. FC Union Berlin,Rani Khedira,Janik Haberer,13.0,1015.4221233333333,1.1522301642978123
+1014,1291,446,1. FC Union Berlin,Rani Khedira,Alexander Schwolow,3.0,27.705183333333327,9.74546880818331
+1014,1369,446,1. FC Union Berlin,Rani Khedira,Milos Pantovic,0.0,0.0,0.0
+1014,1613,446,1. FC Union Berlin,Rani Khedira,Aïssa Laïdouni,4.0,301.32805500000006,1.1947111927563463
+1014,1708,446,1. FC Union Berlin,Rani Khedira,Jérôme Roussillon,11.0,828.2767600000001,1.1952526592681412
+1014,2030,446,1. FC Union Berlin,Rani Khedira,Lucas Tousart,16.0,1626.54256,0.885313446701327
+1014,3425,446,1. FC Union Berlin,Rani Khedira,András Schäfer,22.0,1802.3393583333332,1.0985722476986541
+1014,3998,446,1. FC Union Berlin,Rani Khedira,Yorbe Vertessen,6.0,708.7947883333334,0.7618566175828705
+1014,6175,446,1. FC Union Berlin,Rani Khedira,Diogo Leite,33.0,2809.5901316666664,1.0570936901170627
+1014,7376,446,1. FC Union Berlin,Rani Khedira,Paul Jaeckel,0.0,0.0,0.0
+1014,8522,446,1. FC Union Berlin,Rani Khedira,Chris Bedia,1.0,47.097449999999995,1.9109314835516575
+1014,10517,446,1. FC Union Berlin,Rani Khedira,Christopher Trimmel,15.0,1230.1441599999998,1.0974323529691026
+1014,13176,446,1. FC Union Berlin,Rani Khedira,Danilho Doekhi,26.0,2442.273075,0.9581238166825385
+1014,16806,446,1. FC Union Berlin,Rani Khedira,Josip Juranovic,11.0,1556.0471716666668,0.636227498771532
+1014,21100,446,1. FC Union Berlin,Rani Khedira,Alex Král,4.0,464.6736700000001,0.7747372473245577
+1014,21558,446,1. FC Union Berlin,Rani Khedira,Robin Gosens,23.0,2253.682905,0.918496561964204
+1014,21598,446,1. FC Union Berlin,Rani Khedira,Sheraldo Becker,5.0,364.87995,1.2332823439599792
+1014,23329,446,1. FC Union Berlin,Rani Khedira,Kevin Behrens,3.0,760.5816550000001,0.3549914703109687
+1014,26762,446,1. FC Union Berlin,Rani Khedira,Benedict Hollerbach,16.0,1738.4234266666665,0.8283367434602068
+1014,32182,446,1. FC Union Berlin,Rani Khedira,Mikkel Kaufmann,3.0,605.5682416666666,0.445862219024063
+1014,42376,446,1. FC Union Berlin,Rani Khedira,Brenden Aaronson,13.0,1440.8490283333335,0.8120212298393042
+1014,45493,446,1. FC Union Berlin,Rani Khedira,Jordan,0.0,0.0,0.0
+1014,76896,446,1. FC Union Berlin,Rani Khedira,David Datro Fofana,0.0,0.0,0.0
+1014,107910,446,1. FC Union Berlin,Rani Khedira,Aljoscha Kemlein,0.0,0.0,0.0
+1291,444,446,1. FC Union Berlin,Alexander Schwolow,Frederik Rönnow,0.0,0.0,0.0
+1291,495,446,1. FC Union Berlin,Alexander Schwolow,Leonardo Bonucci,0.0,0.0,0.0
+1291,732,446,1. FC Union Berlin,Alexander Schwolow,Kevin Volland,0.0,0.0,0.0
+1291,977,446,1. FC Union Berlin,Alexander Schwolow,Robin Knoche,1.0,210.50458333333333,0.42754413502477184
+1291,997,446,1. FC Union Berlin,Alexander Schwolow,Kevin Vogt,2.0,209.06018333333333,0.8609960879686082
+1291,1012,446,1. FC Union Berlin,Alexander Schwolow,Janik Haberer,0.0,0.0,0.0
+1291,1014,446,1. FC Union Berlin,Alexander Schwolow,Rani Khedira,0.0,0.0,0.0
+1291,1369,446,1. FC Union Berlin,Alexander Schwolow,Milos Pantovic,0.0,0.0,0.0
+1291,1613,446,1. FC Union Berlin,Alexander Schwolow,Aïssa Laïdouni,1.0,26.540666666666645,3.3910225816985284
+1291,1708,446,1. FC Union Berlin,Alexander Schwolow,Jérôme Roussillon,0.0,0.0,0.0
+1291,2030,446,1. FC Union Berlin,Alexander Schwolow,Lucas Tousart,0.0,0.0,0.0
+1291,3425,446,1. FC Union Berlin,Alexander Schwolow,András Schäfer,0.0,0.0,0.0
+1291,3998,446,1. FC Union Berlin,Alexander Schwolow,Yorbe Vertessen,0.0,0.0,0.0
+1291,6175,446,1. FC Union Berlin,Alexander Schwolow,Diogo Leite,0.0,0.0,0.0
+1291,7376,446,1. FC Union Berlin,Alexander Schwolow,Paul Jaeckel,0.0,0.0,0.0
+1291,8522,446,1. FC Union Berlin,Alexander Schwolow,Chris Bedia,0.0,0.0,0.0
+1291,10517,446,1. FC Union Berlin,Alexander Schwolow,Christopher Trimmel,0.0,0.0,0.0
+1291,13176,446,1. FC Union Berlin,Alexander Schwolow,Danilho Doekhi,6.0,210.50458333333333,2.5652648101486313
+1291,16806,446,1. FC Union Berlin,Alexander Schwolow,Josip Juranovic,0.0,0.0,0.0
+1291,21100,446,1. FC Union Berlin,Alexander Schwolow,Alex Král,0.0,0.0,0.0
+1291,21558,446,1. FC Union Berlin,Alexander Schwolow,Robin Gosens,2.0,210.50458333333333,0.8550882700495437
+1291,21598,446,1. FC Union Berlin,Alexander Schwolow,Sheraldo Becker,0.0,0.0,0.0
+1291,23329,446,1. FC Union Berlin,Alexander Schwolow,Kevin Behrens,0.0,0.0,0.0
+1291,26762,446,1. FC Union Berlin,Alexander Schwolow,Benedict Hollerbach,1.0,191.00996666666666,0.4711796016228822
+1291,32182,446,1. FC Union Berlin,Alexander Schwolow,Mikkel Kaufmann,0.0,0.0,0.0
+1291,42376,446,1. FC Union Berlin,Alexander Schwolow,Brenden Aaronson,0.0,0.0,0.0
+1291,45493,446,1. FC Union Berlin,Alexander Schwolow,Jordan,0.0,0.0,0.0
+1291,76896,446,1. FC Union Berlin,Alexander Schwolow,David Datro Fofana,0.0,0.0,0.0
+1291,107910,446,1. FC Union Berlin,Alexander Schwolow,Aljoscha Kemlein,0.0,0.0,0.0
+1369,444,446,1. FC Union Berlin,Milos Pantovic,Frederik Rönnow,0.0,0.0,0.0
+1369,495,446,1. FC Union Berlin,Milos Pantovic,Leonardo Bonucci,0.0,0.0,0.0
+1369,732,446,1. FC Union Berlin,Milos Pantovic,Kevin Volland,0.0,0.0,0.0
+1369,977,446,1. FC Union Berlin,Milos Pantovic,Robin Knoche,0.0,0.0,0.0
+1369,997,446,1. FC Union Berlin,Milos Pantovic,Kevin Vogt,0.0,0.0,0.0
+1369,1012,446,1. FC Union Berlin,Milos Pantovic,Janik Haberer,0.0,0.0,0.0
+1369,1014,446,1. FC Union Berlin,Milos Pantovic,Rani Khedira,0.0,0.0,0.0
+1369,1291,446,1. FC Union Berlin,Milos Pantovic,Alexander Schwolow,0.0,0.0,0.0
+1369,1613,446,1. FC Union Berlin,Milos Pantovic,Aïssa Laïdouni,0.0,0.0,0.0
+1369,1708,446,1. FC Union Berlin,Milos Pantovic,Jérôme Roussillon,0.0,0.0,0.0
+1369,2030,446,1. FC Union Berlin,Milos Pantovic,Lucas Tousart,0.0,0.0,0.0
+1369,3425,446,1. FC Union Berlin,Milos Pantovic,András Schäfer,0.0,0.0,0.0
+1369,3998,446,1. FC Union Berlin,Milos Pantovic,Yorbe Vertessen,0.0,0.0,0.0
+1369,6175,446,1. FC Union Berlin,Milos Pantovic,Diogo Leite,0.0,0.0,0.0
+1369,7376,446,1. FC Union Berlin,Milos Pantovic,Paul Jaeckel,0.0,0.0,0.0
+1369,8522,446,1. FC Union Berlin,Milos Pantovic,Chris Bedia,0.0,0.0,0.0
+1369,10517,446,1. FC Union Berlin,Milos Pantovic,Christopher Trimmel,0.0,0.0,0.0
+1369,13176,446,1. FC Union Berlin,Milos Pantovic,Danilho Doekhi,0.0,0.0,0.0
+1369,16806,446,1. FC Union Berlin,Milos Pantovic,Josip Juranovic,0.0,0.0,0.0
+1369,21100,446,1. FC Union Berlin,Milos Pantovic,Alex Král,0.0,0.0,0.0
+1369,21558,446,1. FC Union Berlin,Milos Pantovic,Robin Gosens,0.0,0.0,0.0
+1369,21598,446,1. FC Union Berlin,Milos Pantovic,Sheraldo Becker,0.0,0.0,0.0
+1369,23329,446,1. FC Union Berlin,Milos Pantovic,Kevin Behrens,0.0,0.0,0.0
+1369,26762,446,1. FC Union Berlin,Milos Pantovic,Benedict Hollerbach,0.0,0.0,0.0
+1369,32182,446,1. FC Union Berlin,Milos Pantovic,Mikkel Kaufmann,0.0,0.0,0.0
+1369,42376,446,1. FC Union Berlin,Milos Pantovic,Brenden Aaronson,0.0,0.0,0.0
+1369,45493,446,1. FC Union Berlin,Milos Pantovic,Jordan,0.0,0.0,0.0
+1369,76896,446,1. FC Union Berlin,Milos Pantovic,David Datro Fofana,0.0,0.0,0.0
+1369,107910,446,1. FC Union Berlin,Milos Pantovic,Aljoscha Kemlein,0.0,0.0,0.0
+1613,444,446,1. FC Union Berlin,Aïssa Laïdouni,Frederik Rönnow,10.0,2210.3929233333333,0.40716742733811107
+1613,495,446,1. FC Union Berlin,Aïssa Laïdouni,Leonardo Bonucci,5.0,415.505905,1.0830170993598756
+1613,732,446,1. FC Union Berlin,Aïssa Laïdouni,Kevin Volland,15.0,760.2390933333334,1.7757571425073784
+1613,977,446,1. FC Union Berlin,Aïssa Laïdouni,Robin Knoche,21.0,1705.1563199999996,1.1084027768198992
+1613,997,446,1. FC Union Berlin,Aïssa Laïdouni,Kevin Vogt,13.0,495.68467499999997,2.3603715406372006
+1613,1012,446,1. FC Union Berlin,Aïssa Laïdouni,Janik Haberer,8.0,1006.0202683333333,0.7156913460529168
+1613,1014,446,1. FC Union Berlin,Aïssa Laïdouni,Rani Khedira,3.0,301.32805500000006,0.8960333945672597
+1613,1291,446,1. FC Union Berlin,Aïssa Laïdouni,Alexander Schwolow,0.0,0.0,0.0
+1613,1369,446,1. FC Union Berlin,Aïssa Laïdouni,Milos Pantovic,0.0,0.0,0.0
+1613,1708,446,1. FC Union Berlin,Aïssa Laïdouni,Jérôme Roussillon,15.0,489.13094,2.759997149229611
+1613,2030,446,1. FC Union Berlin,Aïssa Laïdouni,Lucas Tousart,8.0,445.31862000000007,1.61681988505219
+1613,3425,446,1. FC Union Berlin,Aïssa Laïdouni,András Schäfer,3.0,251.57773666666662,1.0732269221331867
+1613,3998,446,1. FC Union Berlin,Aïssa Laïdouni,Yorbe Vertessen,4.0,65.569985,5.490316949134577
+1613,6175,446,1. FC Union Berlin,Aïssa Laïdouni,Diogo Leite,44.0,1964.36073,2.015923012266693
+1613,7376,446,1. FC Union Berlin,Aïssa Laïdouni,Paul Jaeckel,13.0,438.8585666666667,2.6660069755199034
+1613,8522,446,1. FC Union Berlin,Aïssa Laïdouni,Chris Bedia,0.0,0.0,0.0
+1613,10517,446,1. FC Union Berlin,Aïssa Laïdouni,Christopher Trimmel,29.0,1292.7211783333335,2.0189968600692336
+1613,13176,446,1. FC Union Berlin,Aïssa Laïdouni,Danilho Doekhi,19.0,1560.2718516666664,1.0959628594038888
+1613,16806,446,1. FC Union Berlin,Aïssa Laïdouni,Josip Juranovic,11.0,525.9519516666666,1.882301219460887
+1613,21100,446,1. FC Union Berlin,Aïssa Laïdouni,Alex Král,17.0,1511.3926466666665,1.0123113959660792
+1613,21558,446,1. FC Union Berlin,Aïssa Laïdouni,Robin Gosens,52.0,1651.3670166666666,2.8340156686953324
+1613,21598,446,1. FC Union Berlin,Aïssa Laïdouni,Sheraldo Becker,20.0,759.8909366666667,2.368760980221543
+1613,23329,446,1. FC Union Berlin,Aïssa Laïdouni,Kevin Behrens,12.0,1233.4331083333334,0.8756048404273349
+1613,26762,446,1. FC Union Berlin,Aïssa Laïdouni,Benedict Hollerbach,14.0,679.3921750000002,1.8545989288145683
+1613,32182,446,1. FC Union Berlin,Aïssa Laïdouni,Mikkel Kaufmann,3.0,120.15479166666665,2.2471013952488375
+1613,42376,446,1. FC Union Berlin,Aïssa Laïdouni,Brenden Aaronson,13.0,352.75253999999995,3.316772715513261
+1613,45493,446,1. FC Union Berlin,Aïssa Laïdouni,Jordan,0.0,0.0,0.0
+1613,76896,446,1. FC Union Berlin,Aïssa Laïdouni,David Datro Fofana,13.0,1196.4081133333334,0.9779271696346514
+1613,107910,446,1. FC Union Berlin,Aïssa Laïdouni,Aljoscha Kemlein,0.0,0.0,0.0
+1708,444,446,1. FC Union Berlin,Jérôme Roussillon,Frederik Rönnow,8.0,1697.1574749999997,0.42423877018247824
+1708,495,446,1. FC Union Berlin,Jérôme Roussillon,Leonardo Bonucci,0.0,0.0,0.0
+1708,732,446,1. FC Union Berlin,Jérôme Roussillon,Kevin Volland,16.0,1148.52046,1.2537869808605762
+1708,977,446,1. FC Union Berlin,Jérôme Roussillon,Robin Knoche,5.0,1411.0109433333334,0.31892027636364917
+1708,997,446,1. FC Union Berlin,Jérôme Roussillon,Kevin Vogt,4.0,430.0258383333333,0.8371589981552388
+1708,1012,446,1. FC Union Berlin,Jérôme Roussillon,Janik Haberer,21.0,1020.502605,1.8520285893831696
+1708,1014,446,1. FC Union Berlin,Jérôme Roussillon,Rani Khedira,3.0,828.2767600000001,0.3259779979822203
+1708,1291,446,1. FC Union Berlin,Jérôme Roussillon,Alexander Schwolow,0.0,0.0,0.0
+1708,1369,446,1. FC Union Berlin,Jérôme Roussillon,Milos Pantovic,0.0,0.0,0.0
+1708,1613,446,1. FC Union Berlin,Jérôme Roussillon,Aïssa Laïdouni,15.0,489.13094,2.759997149229611
+1708,2030,446,1. FC Union Berlin,Jérôme Roussillon,Lucas Tousart,2.0,232.59241999999992,0.7738859245714029
+1708,3425,446,1. FC Union Berlin,Jérôme Roussillon,András Schäfer,13.0,647.9115066666666,1.8058021627356808
+1708,3998,446,1. FC Union Berlin,Jérôme Roussillon,Yorbe Vertessen,4.0,30.2027533333333,11.919443105959669
+1708,6175,446,1. FC Union Berlin,Jérôme Roussillon,Diogo Leite,29.0,1659.2096133333334,1.5730381375723463
+1708,7376,446,1. FC Union Berlin,Jérôme Roussillon,Paul Jaeckel,0.0,0.0,0.0
+1708,8522,446,1. FC Union Berlin,Jérôme Roussillon,Chris Bedia,1.0,10.009966666666696,8.991038931198547
+1708,10517,446,1. FC Union Berlin,Jérôme Roussillon,Christopher Trimmel,2.0,467.4459033333333,0.3850712964140428
+1708,13176,446,1. FC Union Berlin,Jérôme Roussillon,Danilho Doekhi,1.0,661.5130466666666,0.13605173844039178
+1708,16806,446,1. FC Union Berlin,Jérôme Roussillon,Josip Juranovic,1.0,1069.85889,0.08412324358028188
+1708,21100,446,1. FC Union Berlin,Jérôme Roussillon,Alex Král,3.0,664.7149916666665,0.40618912373710453
+1708,21558,446,1. FC Union Berlin,Jérôme Roussillon,Robin Gosens,5.0,398.90865166666663,1.1280778146071047
+1708,21598,446,1. FC Union Berlin,Jérôme Roussillon,Sheraldo Becker,8.0,369.12217,1.9505737084282964
+1708,23329,446,1. FC Union Berlin,Jérôme Roussillon,Kevin Behrens,7.0,684.8600550000001,0.9198959632709195
+1708,26762,446,1. FC Union Berlin,Jérôme Roussillon,Benedict Hollerbach,14.0,785.4402233333333,1.6041959178671554
+1708,32182,446,1. FC Union Berlin,Jérôme Roussillon,Mikkel Kaufmann,3.0,281.88534333333325,0.9578362493317765
+1708,42376,446,1. FC Union Berlin,Jérôme Roussillon,Brenden Aaronson,10.0,626.14544,1.4373657340697075
+1708,45493,446,1. FC Union Berlin,Jérôme Roussillon,Jordan,0.0,0.0,0.0
+1708,76896,446,1. FC Union Berlin,Jérôme Roussillon,David Datro Fofana,6.0,421.1696416666666,1.2821436936031143
+1708,107910,446,1. FC Union Berlin,Jérôme Roussillon,Aljoscha Kemlein,0.0,0.0,0.0
+2030,444,446,1. FC Union Berlin,Lucas Tousart,Frederik Rönnow,11.0,3386.8365583333334,0.29230817104654744
+2030,495,446,1. FC Union Berlin,Lucas Tousart,Leonardo Bonucci,6.0,570.4123,0.9466836532101429
+2030,732,446,1. FC Union Berlin,Lucas Tousart,Kevin Volland,10.0,1119.8971566666664,0.8036452228156535
+2030,977,446,1. FC Union Berlin,Lucas Tousart,Robin Knoche,11.0,1373.4882216666667,0.7207924934359314
+2030,997,446,1. FC Union Berlin,Lucas Tousart,Kevin Vogt,14.0,2295.4976116666667,0.5489005928806721
+2030,1012,446,1. FC Union Berlin,Lucas Tousart,Janik Haberer,10.0,861.271435,1.0449667357190362
+2030,1014,446,1. FC Union Berlin,Lucas Tousart,Rani Khedira,13.0,1626.54256,0.7193171754448281
+2030,1291,446,1. FC Union Berlin,Lucas Tousart,Alexander Schwolow,0.0,0.0,0.0
+2030,1369,446,1. FC Union Berlin,Lucas Tousart,Milos Pantovic,0.0,0.0,0.0
+2030,1613,446,1. FC Union Berlin,Lucas Tousart,Aïssa Laïdouni,5.0,445.31862000000007,1.0105124281576188
+2030,1708,446,1. FC Union Berlin,Lucas Tousart,Jérôme Roussillon,2.0,232.59241999999992,0.7738859245714029
+2030,3425,446,1. FC Union Berlin,Lucas Tousart,András Schäfer,19.0,1774.8143449999998,0.963481056380576
+2030,3998,446,1. FC Union Berlin,Lucas Tousart,Yorbe Vertessen,9.0,1035.7674416666666,0.7820288294606159
+2030,6175,446,1. FC Union Berlin,Lucas Tousart,Diogo Leite,33.0,3102.221231666667,0.957378529191604
+2030,7376,446,1. FC Union Berlin,Lucas Tousart,Paul Jaeckel,2.0,20.039649999999984,8.982192802768518
+2030,8522,446,1. FC Union Berlin,Lucas Tousart,Chris Bedia,0.0,0.0,0.0
+2030,10517,446,1. FC Union Berlin,Lucas Tousart,Christopher Trimmel,54.0,2174.300695,2.2352014195534258
+2030,13176,446,1. FC Union Berlin,Lucas Tousart,Danilho Doekhi,41.0,3137.0735266666675,1.1762555033005078
+2030,16806,446,1. FC Union Berlin,Lucas Tousart,Josip Juranovic,22.0,1321.0266583333332,1.4988342494905116
+2030,21100,446,1. FC Union Berlin,Lucas Tousart,Alex Král,12.0,1054.21244,1.0244614453610508
+2030,21558,446,1. FC Union Berlin,Lucas Tousart,Robin Gosens,37.0,3135.172715,1.0621424408511415
+2030,21598,446,1. FC Union Berlin,Lucas Tousart,Sheraldo Becker,11.0,577.6620683333333,1.7138047558780194
+2030,23329,446,1. FC Union Berlin,Lucas Tousart,Kevin Behrens,14.0,1021.2681699999999,1.2337601787785084
+2030,26762,446,1. FC Union Berlin,Lucas Tousart,Benedict Hollerbach,21.0,1620.1201116666666,1.1665801729081062
+2030,32182,446,1. FC Union Berlin,Lucas Tousart,Mikkel Kaufmann,8.0,487.5249066666666,1.4768476238943884
+2030,42376,446,1. FC Union Berlin,Lucas Tousart,Brenden Aaronson,29.0,1561.2196733333335,1.6717698633834364
+2030,45493,446,1. FC Union Berlin,Lucas Tousart,Jordan,0.0,0.0,0.0
+2030,76896,446,1. FC Union Berlin,Lucas Tousart,David Datro Fofana,2.0,243.14575166666663,0.7402967099617088
+2030,107910,446,1. FC Union Berlin,Lucas Tousart,Aljoscha Kemlein,0.0,0.0,0.0
+3425,444,446,1. FC Union Berlin,András Schäfer,Frederik Rönnow,10.0,2691.2347800000002,0.33441898369045303
+3425,495,446,1. FC Union Berlin,András Schäfer,Leonardo Bonucci,1.0,13.041833333333336,6.900870276418191
+3425,732,446,1. FC Union Berlin,András Schäfer,Kevin Volland,20.0,1443.30081,1.2471412664141717
+3425,977,446,1. FC Union Berlin,András Schäfer,Robin Knoche,12.0,1714.9388083333333,0.6297600793404402
+3425,997,446,1. FC Union Berlin,András Schäfer,Kevin Vogt,15.0,1814.0539483333337,0.7441895546934069
+3425,1012,446,1. FC Union Berlin,András Schäfer,Janik Haberer,17.0,700.5675383333332,2.1839436118320674
+3425,1014,446,1. FC Union Berlin,András Schäfer,Rani Khedira,19.0,1802.3393583333332,0.9487669411942922
+3425,1291,446,1. FC Union Berlin,András Schäfer,Alexander Schwolow,1.0,165.72865166666668,0.5430563701261432
+3425,1369,446,1. FC Union Berlin,András Schäfer,Milos Pantovic,0.0,0.0,0.0
+3425,1613,446,1. FC Union Berlin,András Schäfer,Aïssa Laïdouni,4.0,251.57773666666662,1.4309692295109158
+3425,1708,446,1. FC Union Berlin,András Schäfer,Jérôme Roussillon,14.0,647.9115066666666,1.9447100214076563
+3425,2030,446,1. FC Union Berlin,András Schäfer,Lucas Tousart,15.0,1774.8143449999998,0.7606429392478231
+3425,3998,446,1. FC Union Berlin,András Schäfer,Yorbe Vertessen,4.0,631.395125,0.5701659479870074
+3425,6175,446,1. FC Union Berlin,András Schäfer,Diogo Leite,43.0,2285.131148333334,1.693557064688648
+3425,7376,446,1. FC Union Berlin,András Schäfer,Paul Jaeckel,2.0,32.46117000000001,5.545086637357802
+3425,8522,446,1. FC Union Berlin,András Schäfer,Chris Bedia,3.0,77.23325500000004,3.495903416216238
+3425,10517,446,1. FC Union Berlin,András Schäfer,Christopher Trimmel,32.0,1373.2269783333336,2.0972497958752716
+3425,13176,446,1. FC Union Berlin,András Schäfer,Danilho Doekhi,9.0,2340.056296666667,0.3461455184449273
+3425,16806,446,1. FC Union Berlin,András Schäfer,Josip Juranovic,21.0,1296.797725,1.4574362397188814
+3425,21100,446,1. FC Union Berlin,András Schäfer,Alex Král,8.0,653.7543516666667,1.1013311011459397
+3425,21558,446,1. FC Union Berlin,András Schäfer,Robin Gosens,55.0,2007.1676450000004,2.4661617141601537
+3425,21598,446,1. FC Union Berlin,András Schäfer,Sheraldo Becker,0.0,0.0,0.0
+3425,23329,446,1. FC Union Berlin,András Schäfer,Kevin Behrens,4.0,350.3798733333333,1.0274562764554533
+3425,26762,446,1. FC Union Berlin,András Schäfer,Benedict Hollerbach,33.0,1882.7233616666667,1.5775020698584363
+3425,32182,446,1. FC Union Berlin,András Schäfer,Mikkel Kaufmann,3.0,259.01962499999996,1.0423920581307307
+3425,42376,446,1. FC Union Berlin,András Schäfer,Brenden Aaronson,30.0,1227.1679250000002,2.200187883822012
+3425,45493,446,1. FC Union Berlin,András Schäfer,Jordan,0.0,0.0,0.0
+3425,76896,446,1. FC Union Berlin,András Schäfer,David Datro Fofana,2.0,42.818685,4.203772255033054
+3425,107910,446,1. FC Union Berlin,András Schäfer,Aljoscha Kemlein,0.0,0.0,0.0
+3998,444,446,1. FC Union Berlin,Yorbe Vertessen,Frederik Rönnow,0.0,0.0,0.0
+3998,495,446,1. FC Union Berlin,Yorbe Vertessen,Leonardo Bonucci,0.0,0.0,0.0
+3998,732,446,1. FC Union Berlin,Yorbe Vertessen,Kevin Volland,1.0,291.7245566666667,0.3085101954678321
+3998,977,446,1. FC Union Berlin,Yorbe Vertessen,Robin Knoche,2.0,420.7032883333334,0.42785498709337794
+3998,997,446,1. FC Union Berlin,Yorbe Vertessen,Kevin Vogt,1.0,906.9600383333335,0.09923259702311432
+3998,1012,446,1. FC Union Berlin,Yorbe Vertessen,Janik Haberer,4.0,233.07596833333335,1.5445607823675171
+3998,1014,446,1. FC Union Berlin,Yorbe Vertessen,Rani Khedira,1.0,708.7947883333334,0.12697610293047842
+3998,1291,446,1. FC Union Berlin,Yorbe Vertessen,Alexander Schwolow,0.0,0.0,0.0
+3998,1369,446,1. FC Union Berlin,Yorbe Vertessen,Milos Pantovic,0.0,0.0,0.0
+3998,1613,446,1. FC Union Berlin,Yorbe Vertessen,Aïssa Laïdouni,5.0,65.569985,6.862896186418221
+3998,1708,446,1. FC Union Berlin,Yorbe Vertessen,Jérôme Roussillon,1.0,30.2027533333333,2.979860776489917
+3998,2030,446,1. FC Union Berlin,Yorbe Vertessen,Lucas Tousart,4.0,1035.7674416666666,0.34756836864916263
+3998,3425,446,1. FC Union Berlin,Yorbe Vertessen,András Schäfer,7.0,631.395125,0.9977904089772629
+3998,6175,446,1. FC Union Berlin,Yorbe Vertessen,Diogo Leite,5.0,913.74777,0.49247726207857123
+3998,7376,446,1. FC Union Berlin,Yorbe Vertessen,Paul Jaeckel,0.0,0.0,0.0
+3998,8522,446,1. FC Union Berlin,Yorbe Vertessen,Chris Bedia,1.0,44.72656999999999,2.0122267368143816
+3998,10517,446,1. FC Union Berlin,Yorbe Vertessen,Christopher Trimmel,4.0,815.5489749999999,0.44142045546682224
+3998,13176,446,1. FC Union Berlin,Yorbe Vertessen,Danilho Doekhi,4.0,1162.6569583333333,0.3096356129980587
+3998,16806,446,1. FC Union Berlin,Yorbe Vertessen,Josip Juranovic,5.0,522.6115383333333,0.86106020819039
+3998,21100,446,1. FC Union Berlin,Yorbe Vertessen,Alex Král,0.0,0.0,0.0
+3998,21558,446,1. FC Union Berlin,Yorbe Vertessen,Robin Gosens,10.0,1089.722945,0.8258979992386964
+3998,21598,446,1. FC Union Berlin,Yorbe Vertessen,Sheraldo Becker,0.0,0.0,0.0
+3998,23329,446,1. FC Union Berlin,Yorbe Vertessen,Kevin Behrens,0.0,0.0,0.0
+3998,26762,446,1. FC Union Berlin,Yorbe Vertessen,Benedict Hollerbach,5.0,237.69520333333332,1.8931808201823062
+3998,32182,446,1. FC Union Berlin,Yorbe Vertessen,Mikkel Kaufmann,4.0,407.2122533333333,0.8840598411593312
+3998,42376,446,1. FC Union Berlin,Yorbe Vertessen,Brenden Aaronson,20.0,745.1916350000001,2.415486051450376
+3998,45493,446,1. FC Union Berlin,Yorbe Vertessen,Jordan,0.0,0.0,0.0
+3998,76896,446,1. FC Union Berlin,Yorbe Vertessen,David Datro Fofana,0.0,0.0,0.0
+3998,107910,446,1. FC Union Berlin,Yorbe Vertessen,Aljoscha Kemlein,0.0,0.0,0.0
+6175,444,446,1. FC Union Berlin,Diogo Leite,Frederik Rönnow,122.0,6444.51785,1.7037736965846095
+6175,495,446,1. FC Union Berlin,Diogo Leite,Leonardo Bonucci,21.0,1047.0690416666666,1.8050385645932217
+6175,732,446,1. FC Union Berlin,Diogo Leite,Kevin Volland,19.0,2549.845598333334,0.6706288416513198
+6175,977,446,1. FC Union Berlin,Diogo Leite,Robin Knoche,106.0,3796.419093333333,2.512894326327836
+6175,997,446,1. FC Union Berlin,Diogo Leite,Kevin Vogt,87.0,2353.8244266666666,3.3265012935091076
+6175,1012,446,1. FC Union Berlin,Diogo Leite,Janik Haberer,60.0,2368.189978333334,2.2802224692295883
+6175,1014,446,1. FC Union Berlin,Diogo Leite,Rani Khedira,39.0,2809.5901316666664,1.2492925428656194
+6175,1291,446,1. FC Union Berlin,Diogo Leite,Alexander Schwolow,0.0,0.0,0.0
+6175,1369,446,1. FC Union Berlin,Diogo Leite,Milos Pantovic,0.0,0.0,0.0
+6175,1613,446,1. FC Union Berlin,Diogo Leite,Aïssa Laïdouni,59.0,1964.36073,2.7031694937212474
+6175,1708,446,1. FC Union Berlin,Diogo Leite,Jérôme Roussillon,50.0,1659.2096133333334,2.712134719952321
+6175,2030,446,1. FC Union Berlin,Diogo Leite,Lucas Tousart,55.0,3102.221231666667,1.5956308819860068
+6175,3425,446,1. FC Union Berlin,Diogo Leite,András Schäfer,76.0,2285.131148333334,2.993263649217145
+6175,3998,446,1. FC Union Berlin,Diogo Leite,Yorbe Vertessen,10.0,913.74777,0.9849545241571425
+6175,7376,446,1. FC Union Berlin,Diogo Leite,Paul Jaeckel,3.0,431.7206033333333,0.6254044813134199
+6175,8522,446,1. FC Union Berlin,Diogo Leite,Chris Bedia,3.0,100.79747,2.6786386602758974
+6175,10517,446,1. FC Union Berlin,Diogo Leite,Christopher Trimmel,20.0,3626.8475533333335,0.4962987755980178
+6175,13176,446,1. FC Union Berlin,Diogo Leite,Danilho Doekhi,44.0,4360.162171666667,0.9082230990702566
+6175,16806,446,1. FC Union Berlin,Diogo Leite,Josip Juranovic,14.0,2579.4492783333335,0.48847636221563046
+6175,21100,446,1. FC Union Berlin,Diogo Leite,Alex Král,41.0,2857.4427616666667,1.2913644498858572
+6175,21558,446,1. FC Union Berlin,Diogo Leite,Robin Gosens,183.0,4696.853756666667,3.506602686239197
+6175,21598,446,1. FC Union Berlin,Diogo Leite,Sheraldo Becker,24.0,1554.4751216666668,1.389536551530079
+6175,23329,446,1. FC Union Berlin,Diogo Leite,Kevin Behrens,24.0,2860.8765983333333,0.7550133414556768
+6175,26762,446,1. FC Union Berlin,Diogo Leite,Benedict Hollerbach,28.0,2419.0319783333334,1.0417390189840448
+6175,32182,446,1. FC Union Berlin,Diogo Leite,Mikkel Kaufmann,12.0,867.2177833333333,1.2453619157217852
+6175,42376,446,1. FC Union Berlin,Diogo Leite,Brenden Aaronson,52.0,2363.6916366666665,1.9799536992904228
+6175,45493,446,1. FC Union Berlin,Diogo Leite,Jordan,1.0,24.361066666666677,3.694419510913587
+6175,76896,446,1. FC Union Berlin,Diogo Leite,David Datro Fofana,15.0,1491.5621499999997,0.9050913500319114
+6175,107910,446,1. FC Union Berlin,Diogo Leite,Aljoscha Kemlein,0.0,0.0,0.0
+7376,444,446,1. FC Union Berlin,Paul Jaeckel,Frederik Rönnow,17.0,475.6464333333334,3.2166750190425057
+7376,495,446,1. FC Union Berlin,Paul Jaeckel,Leonardo Bonucci,2.0,30.724535000000017,5.8585101450681
+7376,732,446,1. FC Union Berlin,Paul Jaeckel,Kevin Volland,3.0,213.9233516666667,1.2621343013581399
+7376,977,446,1. FC Union Berlin,Paul Jaeckel,Robin Knoche,29.0,420.6565183333334,6.204587082926893
+7376,997,446,1. FC Union Berlin,Paul Jaeckel,Kevin Vogt,0.0,0.0,0.0
+7376,1012,446,1. FC Union Berlin,Paul Jaeckel,Janik Haberer,8.0,398.2347866666667,1.807978670137271
+7376,1014,446,1. FC Union Berlin,Paul Jaeckel,Rani Khedira,0.0,0.0,0.0
+7376,1291,446,1. FC Union Berlin,Paul Jaeckel,Alexander Schwolow,0.0,0.0,0.0
+7376,1369,446,1. FC Union Berlin,Paul Jaeckel,Milos Pantovic,0.0,0.0,0.0
+7376,1613,446,1. FC Union Berlin,Paul Jaeckel,Aïssa Laïdouni,10.0,438.8585666666667,2.050774596553772
+7376,1708,446,1. FC Union Berlin,Paul Jaeckel,Jérôme Roussillon,1.0,251.51233666666658,0.3578353300390131
+7376,2030,446,1. FC Union Berlin,Paul Jaeckel,Lucas Tousart,1.0,20.039649999999984,4.491096401384259
+7376,3425,446,1. FC Union Berlin,Paul Jaeckel,András Schäfer,5.0,32.46117000000001,13.862716593394504
+7376,3998,446,1. FC Union Berlin,Paul Jaeckel,Yorbe Vertessen,0.0,0.0,0.0
+7376,6175,446,1. FC Union Berlin,Paul Jaeckel,Diogo Leite,7.0,431.7206033333333,1.4592771230646464
+7376,8522,446,1. FC Union Berlin,Paul Jaeckel,Chris Bedia,0.0,0.0,0.0
+7376,10517,446,1. FC Union Berlin,Paul Jaeckel,Christopher Trimmel,9.0,271.57545166666677,2.9825965308315077
+7376,13176,446,1. FC Union Berlin,Paul Jaeckel,Danilho Doekhi,5.0,38.763284999999996,11.60892323754295
+7376,16806,446,1. FC Union Berlin,Paul Jaeckel,Josip Juranovic,4.0,70.74003499999999,5.089056006262933
+7376,21100,446,1. FC Union Berlin,Paul Jaeckel,Alex Král,3.0,237.5920016666667,1.1364018910821778
+7376,21558,446,1. FC Union Berlin,Paul Jaeckel,Robin Gosens,2.0,219.812335,0.8188803417242257
+7376,21598,446,1. FC Union Berlin,Paul Jaeckel,Sheraldo Becker,2.0,207.3427366666667,0.8681278297651484
+7376,23329,446,1. FC Union Berlin,Paul Jaeckel,Kevin Behrens,5.0,252.72016833333333,1.7806255945764413
+7376,26762,446,1. FC Union Berlin,Paul Jaeckel,Benedict Hollerbach,1.0,21.22703500000004,4.239876176771737
+7376,32182,446,1. FC Union Berlin,Paul Jaeckel,Mikkel Kaufmann,1.0,49.356588333333306,1.82346477013724
+7376,42376,446,1. FC Union Berlin,Paul Jaeckel,Brenden Aaronson,1.0,42.82685333333332,2.10148523636572
+7376,45493,446,1. FC Union Berlin,Paul Jaeckel,Jordan,0.0,0.0,0.0
+7376,76896,446,1. FC Union Berlin,Paul Jaeckel,David Datro Fofana,0.0,0.0,0.0
+7376,107910,446,1. FC Union Berlin,Paul Jaeckel,Aljoscha Kemlein,0.0,0.0,0.0
+8522,444,446,1. FC Union Berlin,Chris Bedia,Frederik Rönnow,0.0,0.0,0.0
+8522,495,446,1. FC Union Berlin,Chris Bedia,Leonardo Bonucci,0.0,0.0,0.0
+8522,732,446,1. FC Union Berlin,Chris Bedia,Kevin Volland,1.0,19.283303333333333,4.6672501305533585
+8522,977,446,1. FC Union Berlin,Chris Bedia,Robin Knoche,0.0,0.0,0.0
+8522,997,446,1. FC Union Berlin,Chris Bedia,Kevin Vogt,0.0,0.0,0.0
+8522,1012,446,1. FC Union Berlin,Chris Bedia,Janik Haberer,0.0,0.0,0.0
+8522,1014,446,1. FC Union Berlin,Chris Bedia,Rani Khedira,3.0,47.097449999999995,5.732794450654973
+8522,1291,446,1. FC Union Berlin,Chris Bedia,Alexander Schwolow,0.0,0.0,0.0
+8522,1369,446,1. FC Union Berlin,Chris Bedia,Milos Pantovic,0.0,0.0,0.0
+8522,1613,446,1. FC Union Berlin,Chris Bedia,Aïssa Laïdouni,0.0,0.0,0.0
+8522,1708,446,1. FC Union Berlin,Chris Bedia,Jérôme Roussillon,0.0,0.0,0.0
+8522,2030,446,1. FC Union Berlin,Chris Bedia,Lucas Tousart,2.0,46.29368500000004,3.8882193111220213
+8522,3425,446,1. FC Union Berlin,Chris Bedia,András Schäfer,1.0,77.23325500000004,1.165301138738746
+8522,3998,446,1. FC Union Berlin,Chris Bedia,Yorbe Vertessen,1.0,44.72656999999999,2.0122267368143816
+8522,6175,446,1. FC Union Berlin,Chris Bedia,Diogo Leite,1.0,100.79747,0.8928795534252992
+8522,7376,446,1. FC Union Berlin,Chris Bedia,Paul Jaeckel,0.0,0.0,0.0
+8522,10517,446,1. FC Union Berlin,Chris Bedia,Christopher Trimmel,0.0,0.0,0.0
+8522,13176,446,1. FC Union Berlin,Chris Bedia,Danilho Doekhi,0.0,0.0,0.0
+8522,16806,446,1. FC Union Berlin,Chris Bedia,Josip Juranovic,0.0,0.0,0.0
+8522,21100,446,1. FC Union Berlin,Chris Bedia,Alex Král,2.0,35.340218333333326,5.093347140705744
+8522,21558,446,1. FC Union Berlin,Chris Bedia,Robin Gosens,1.0,88.28732,1.0193989352038322
+8522,21598,446,1. FC Union Berlin,Chris Bedia,Sheraldo Becker,0.0,0.0,0.0
+8522,23329,446,1. FC Union Berlin,Chris Bedia,Kevin Behrens,0.0,0.0,0.0
+8522,26762,446,1. FC Union Berlin,Chris Bedia,Benedict Hollerbach,0.0,0.0,0.0
+8522,32182,446,1. FC Union Berlin,Chris Bedia,Mikkel Kaufmann,0.0,0.0,0.0
+8522,42376,446,1. FC Union Berlin,Chris Bedia,Brenden Aaronson,2.0,75.27273833333332,2.391303996446877
+8522,45493,446,1. FC Union Berlin,Chris Bedia,Jordan,0.0,0.0,0.0
+8522,76896,446,1. FC Union Berlin,Chris Bedia,David Datro Fofana,0.0,0.0,0.0
+8522,107910,446,1. FC Union Berlin,Chris Bedia,Aljoscha Kemlein,0.0,0.0,0.0
+10517,444,446,1. FC Union Berlin,Christopher Trimmel,Frederik Rönnow,16.0,3708.4322816666677,0.3883042457371841
+10517,495,446,1. FC Union Berlin,Christopher Trimmel,Leonardo Bonucci,17.0,814.4279033333333,1.8786193274296417
+10517,732,446,1. FC Union Berlin,Christopher Trimmel,Kevin Volland,15.0,762.4623083333332,1.7705793260141156
+10517,977,446,1. FC Union Berlin,Christopher Trimmel,Robin Knoche,56.0,2324.366008333333,2.1683332065305367
+10517,997,446,1. FC Union Berlin,Christopher Trimmel,Kevin Vogt,16.0,1808.4774799999998,0.7962498930315682
+10517,1012,446,1. FC Union Berlin,Christopher Trimmel,Janik Haberer,10.0,1292.8038616666668,0.696161286863524
+10517,1014,446,1. FC Union Berlin,Christopher Trimmel,Rani Khedira,7.0,1230.1441599999998,0.5121350980522479
+10517,1291,446,1. FC Union Berlin,Christopher Trimmel,Alexander Schwolow,1.0,191.31345,0.4704321625060862
+10517,1369,446,1. FC Union Berlin,Christopher Trimmel,Milos Pantovic,0.0,0.0,0.0
+10517,1613,446,1. FC Union Berlin,Christopher Trimmel,Aïssa Laïdouni,19.0,1292.7211783333335,1.3227910462522565
+10517,1708,446,1. FC Union Berlin,Christopher Trimmel,Jérôme Roussillon,2.0,467.4459033333333,0.3850712964140428
+10517,2030,446,1. FC Union Berlin,Christopher Trimmel,Lucas Tousart,21.0,2174.300695,0.8692449964929989
+10517,3425,446,1. FC Union Berlin,Christopher Trimmel,András Schäfer,14.0,1373.2269783333336,0.9175467856954314
+10517,3998,446,1. FC Union Berlin,Christopher Trimmel,Yorbe Vertessen,12.0,815.5489749999999,1.3242613664004665
+10517,6175,446,1. FC Union Berlin,Christopher Trimmel,Diogo Leite,10.0,3626.8475533333335,0.2481493877990089
+10517,7376,446,1. FC Union Berlin,Christopher Trimmel,Paul Jaeckel,15.0,271.57545166666677,4.970994218052512
+10517,8522,446,1. FC Union Berlin,Christopher Trimmel,Chris Bedia,1.0,17.57342000000005,5.121370797488466
+10517,13176,446,1. FC Union Berlin,Christopher Trimmel,Danilho Doekhi,52.0,2820.1310999999996,1.6594973191139946
+10517,16806,446,1. FC Union Berlin,Christopher Trimmel,Josip Juranovic,2.0,252.41953499999994,0.7130985325680124
+10517,21100,446,1. FC Union Berlin,Christopher Trimmel,Alex Král,28.0,1741.7623266666671,1.446810486952431
+10517,21558,446,1. FC Union Berlin,Christopher Trimmel,Robin Gosens,6.0,3194.5744649999992,0.16903659811855415
+10517,21598,446,1. FC Union Berlin,Christopher Trimmel,Sheraldo Becker,21.0,873.358505,2.1640597637507404
+10517,23329,446,1. FC Union Berlin,Christopher Trimmel,Kevin Behrens,17.0,1823.609015,0.8389956330633734
+10517,26762,446,1. FC Union Berlin,Christopher Trimmel,Benedict Hollerbach,21.0,1415.2423416666663,1.335460326726964
+10517,32182,446,1. FC Union Berlin,Christopher Trimmel,Mikkel Kaufmann,8.0,624.8057616666667,1.1523581313965527
+10517,42376,446,1. FC Union Berlin,Christopher Trimmel,Brenden Aaronson,22.0,1735.77255,1.1407024497535696
+10517,45493,446,1. FC Union Berlin,Christopher Trimmel,Jordan,0.0,0.0,0.0
+10517,76896,446,1. FC Union Berlin,Christopher Trimmel,David Datro Fofana,17.0,1042.0534766666665,1.4682547817931406
+10517,107910,446,1. FC Union Berlin,Christopher Trimmel,Aljoscha Kemlein,0.0,0.0,0.0
+13176,444,446,1. FC Union Berlin,Danilho Doekhi,Frederik Rönnow,94.0,4864.722861666667,1.7390507621027318
+13176,495,446,1. FC Union Berlin,Danilho Doekhi,Leonardo Bonucci,23.0,604.3753350000001,3.425023954691996
+13176,732,446,1. FC Union Berlin,Danilho Doekhi,Kevin Volland,14.0,1807.2619499999998,0.6971872561141456
+13176,977,446,1. FC Union Berlin,Danilho Doekhi,Robin Knoche,76.0,2369.1668433333334,2.8870908856618827
+13176,997,446,1. FC Union Berlin,Danilho Doekhi,Kevin Vogt,68.0,2376.6884383333336,2.5750114744916606
+13176,1012,446,1. FC Union Berlin,Danilho Doekhi,Janik Haberer,17.0,1197.305285,1.2778695786012504
+13176,1014,446,1. FC Union Berlin,Danilho Doekhi,Rani Khedira,11.0,2442.273075,0.4053600762887663
+13176,1291,446,1. FC Union Berlin,Danilho Doekhi,Alexander Schwolow,5.0,210.50458333333333,2.1377206751238593
+13176,1369,446,1. FC Union Berlin,Danilho Doekhi,Milos Pantovic,1.0,14.628568333333352,6.1523450517657094
+13176,1613,446,1. FC Union Berlin,Danilho Doekhi,Aïssa Laïdouni,37.0,1560.2718516666664,2.1342434630496783
+13176,1708,446,1. FC Union Berlin,Danilho Doekhi,Jérôme Roussillon,3.0,661.5130466666666,0.4081552153211753
+13176,2030,446,1. FC Union Berlin,Danilho Doekhi,Lucas Tousart,30.0,3137.0735266666675,0.8606747585125667
+13176,3425,446,1. FC Union Berlin,Danilho Doekhi,András Schäfer,20.0,2340.056296666667,0.7692122632109495
+13176,3998,446,1. FC Union Berlin,Danilho Doekhi,Yorbe Vertessen,8.0,1162.6569583333333,0.6192712259961174
+13176,6175,446,1. FC Union Berlin,Danilho Doekhi,Diogo Leite,42.0,4360.162171666667,0.8669402309306994
+13176,7376,446,1. FC Union Berlin,Danilho Doekhi,Paul Jaeckel,1.0,38.763284999999996,2.32178464750859
+13176,8522,446,1. FC Union Berlin,Danilho Doekhi,Chris Bedia,0.0,0.0,0.0
+13176,10517,446,1. FC Union Berlin,Danilho Doekhi,Christopher Trimmel,76.0,2820.1310999999996,2.4254191587050693
+13176,16806,446,1. FC Union Berlin,Danilho Doekhi,Josip Juranovic,54.0,1969.496205,2.4676361333735093
+13176,21100,446,1. FC Union Berlin,Danilho Doekhi,Alex Král,26.0,1838.4487450000001,1.2728122045088615
+13176,21558,446,1. FC Union Berlin,Danilho Doekhi,Robin Gosens,18.0,4164.104063333333,0.38903926879848494
+13176,21598,446,1. FC Union Berlin,Danilho Doekhi,Sheraldo Becker,19.0,843.1175033333335,2.028187047759507
+13176,23329,446,1. FC Union Berlin,Danilho Doekhi,Kevin Behrens,12.0,1615.0312933333335,0.6687176926280735
+13176,26762,446,1. FC Union Berlin,Danilho Doekhi,Benedict Hollerbach,17.0,1936.0184816666663,0.7902817119198491
+13176,32182,446,1. FC Union Berlin,Danilho Doekhi,Mikkel Kaufmann,3.0,706.3384483333333,0.3822530128964215
+13176,42376,446,1. FC Union Berlin,Danilho Doekhi,Brenden Aaronson,30.0,2211.2599133333338,1.221023355834241
+13176,45493,446,1. FC Union Berlin,Danilho Doekhi,Jordan,0.0,0.0,0.0
+13176,76896,446,1. FC Union Berlin,Danilho Doekhi,David Datro Fofana,9.0,869.4750133333333,0.9315966388668007
+13176,107910,446,1. FC Union Berlin,Danilho Doekhi,Aljoscha Kemlein,0.0,0.0,0.0
+16806,444,446,1. FC Union Berlin,Josip Juranovic,Frederik Rönnow,29.0,2866.798738333334,0.9104231717073279
+16806,495,446,1. FC Union Berlin,Josip Juranovic,Leonardo Bonucci,3.0,239.90380166666665,1.1254511105044946
+16806,732,446,1. FC Union Berlin,Josip Juranovic,Kevin Volland,26.0,1672.4150383333333,1.3991742159481877
+16806,977,446,1. FC Union Berlin,Josip Juranovic,Robin Knoche,31.0,1755.2545250000003,1.589513065063883
+16806,997,446,1. FC Union Berlin,Josip Juranovic,Kevin Vogt,16.0,974.4123683333335,1.4778137540095295
+16806,1012,446,1. FC Union Berlin,Josip Juranovic,Janik Haberer,22.0,1106.5434733333334,1.7893558163019845
+16806,1014,446,1. FC Union Berlin,Josip Juranovic,Rani Khedira,12.0,1556.0471716666668,0.6940663622962167
+16806,1291,446,1. FC Union Berlin,Josip Juranovic,Alexander Schwolow,0.0,0.0,0.0
+16806,1369,446,1. FC Union Berlin,Josip Juranovic,Milos Pantovic,0.0,0.0,0.0
+16806,1613,446,1. FC Union Berlin,Josip Juranovic,Aïssa Laïdouni,13.0,525.9519516666666,2.224537804817412
+16806,1708,446,1. FC Union Berlin,Josip Juranovic,Jérôme Roussillon,5.0,1069.85889,0.4206162179014094
+16806,2030,446,1. FC Union Berlin,Josip Juranovic,Lucas Tousart,16.0,1321.0266583333332,1.0900612723567358
+16806,3425,446,1. FC Union Berlin,Josip Juranovic,András Schäfer,19.0,1296.797725,1.3186327883170832
+16806,3998,446,1. FC Union Berlin,Josip Juranovic,Yorbe Vertessen,6.0,522.6115383333333,1.033272249828468
+16806,6175,446,1. FC Union Berlin,Josip Juranovic,Diogo Leite,19.0,2579.4492783333335,0.6629322058640699
+16806,7376,446,1. FC Union Berlin,Josip Juranovic,Paul Jaeckel,3.0,70.74003499999999,3.816792004697199
+16806,8522,446,1. FC Union Berlin,Josip Juranovic,Chris Bedia,0.0,0.0,0.0
+16806,10517,446,1. FC Union Berlin,Josip Juranovic,Christopher Trimmel,2.0,252.41953499999994,0.7130985325680124
+16806,13176,446,1. FC Union Berlin,Josip Juranovic,Danilho Doekhi,42.0,1969.496205,1.919272548179396
+16806,21100,446,1. FC Union Berlin,Josip Juranovic,Alex Král,12.0,817.5142083333333,1.3210779568000373
+16806,21558,446,1. FC Union Berlin,Josip Juranovic,Robin Gosens,6.0,1888.0945283333333,0.2860026295805597
+16806,21598,446,1. FC Union Berlin,Josip Juranovic,Sheraldo Becker,11.0,581.7493000000001,1.701763972900354
+16806,23329,446,1. FC Union Berlin,Josip Juranovic,Kevin Behrens,9.0,1064.220455,0.7611204954710253
+16806,26762,446,1. FC Union Berlin,Josip Juranovic,Benedict Hollerbach,19.0,1250.0290416666667,1.3679682175384125
+16806,32182,446,1. FC Union Berlin,Josip Juranovic,Mikkel Kaufmann,3.0,303.77438833333326,0.8888175250104613
+16806,42376,446,1. FC Union Berlin,Josip Juranovic,Brenden Aaronson,16.0,1010.1509750000001,1.4255294858276009
+16806,45493,446,1. FC Union Berlin,Josip Juranovic,Jordan,0.0,0.0,0.0
+16806,76896,446,1. FC Union Berlin,Josip Juranovic,David Datro Fofana,11.0,328.40502,3.0145702401260492
+16806,107910,446,1. FC Union Berlin,Josip Juranovic,Aljoscha Kemlein,1.0,27.650584999999985,3.2549040101683215
+21100,444,446,1. FC Union Berlin,Alex Král,Frederik Rönnow,13.0,2891.1797416666664,0.40467909453652123
+21100,495,446,1. FC Union Berlin,Alex Král,Leonardo Bonucci,10.0,472.7971033333333,1.9035649619144945
+21100,732,446,1. FC Union Berlin,Alex Král,Kevin Volland,13.0,707.182525,1.6544526464366465
+21100,977,446,1. FC Union Berlin,Alex Král,Robin Knoche,19.0,2125.6670933333335,0.8044533433118584
+21100,997,446,1. FC Union Berlin,Alex Král,Kevin Vogt,6.0,1068.3724366666665,0.5054417181379237
+21100,1012,446,1. FC Union Berlin,Alex Král,Janik Haberer,10.0,848.2961183333333,1.0609502749679565
+21100,1014,446,1. FC Union Berlin,Alex Král,Rani Khedira,3.0,464.6736700000001,0.5810529354934183
+21100,1291,446,1. FC Union Berlin,Alex Král,Alexander Schwolow,0.0,0.0,0.0
+21100,1369,446,1. FC Union Berlin,Alex Král,Milos Pantovic,0.0,0.0,0.0
+21100,1613,446,1. FC Union Berlin,Alex Král,Aïssa Laïdouni,14.0,1511.3926466666665,0.8336682084426534
+21100,1708,446,1. FC Union Berlin,Alex Král,Jérôme Roussillon,8.0,664.7149916666665,1.083170996632279
+21100,2030,446,1. FC Union Berlin,Alex Král,Lucas Tousart,2.0,1054.21244,0.1707435742268418
+21100,3425,446,1. FC Union Berlin,Alex Král,András Schäfer,15.0,653.7543516666667,2.064995814648637
+21100,3998,446,1. FC Union Berlin,Alex Král,Yorbe Vertessen,1.0,57.35155333333332,1.569268742851836
+21100,6175,446,1. FC Union Berlin,Alex Král,Diogo Leite,35.0,2857.4427616666667,1.102384286487927
+21100,7376,446,1. FC Union Berlin,Alex Král,Paul Jaeckel,2.0,237.5920016666667,0.7576012607214518
+21100,8522,446,1. FC Union Berlin,Alex Král,Chris Bedia,1.0,35.340218333333326,2.546673570352872
+21100,10517,446,1. FC Union Berlin,Alex Král,Christopher Trimmel,30.0,1741.7623266666671,1.5501540931633189
+21100,13176,446,1. FC Union Berlin,Alex Král,Danilho Doekhi,21.0,1838.4487450000001,1.028040626718696
+21100,16806,446,1. FC Union Berlin,Alex Král,Josip Juranovic,24.0,817.5142083333333,2.6421559136000745
+21100,21558,446,1. FC Union Berlin,Alex Král,Robin Gosens,23.0,1903.559525,1.0874364435753592
+21100,21598,446,1. FC Union Berlin,Alex Král,Sheraldo Becker,17.0,859.688255,1.7797149037472892
+21100,23329,446,1. FC Union Berlin,Alex Král,Kevin Behrens,5.0,1508.867161666667,0.2982369895988314
+21100,26762,446,1. FC Union Berlin,Alex Král,Benedict Hollerbach,11.0,1216.6230266666666,0.8137278173276287
+21100,32182,446,1. FC Union Berlin,Alex Král,Mikkel Kaufmann,4.0,448.25662666666665,0.8031113843805009
+21100,42376,446,1. FC Union Berlin,Alex Král,Brenden Aaronson,14.0,755.9828966666668,1.6667043732810374
+21100,45493,446,1. FC Union Berlin,Alex Král,Jordan,0.0,0.0,0.0
+21100,76896,446,1. FC Union Berlin,Alex Král,David Datro Fofana,7.0,1205.7077933333335,0.5225146619134677
+21100,107910,446,1. FC Union Berlin,Alex Král,Aljoscha Kemlein,1.0,28.202653333333302,3.191189103247499
+21558,444,446,1. FC Union Berlin,Robin Gosens,Frederik Rönnow,18.0,5142.122536666667,0.3150450010571218
+21558,495,446,1. FC Union Berlin,Robin Gosens,Leonardo Bonucci,5.0,999.1694216666668,0.45037407094522214
+21558,732,446,1. FC Union Berlin,Robin Gosens,Kevin Volland,19.0,1954.514695,0.8748974895786087
+21558,977,446,1. FC Union Berlin,Robin Gosens,Robin Knoche,26.0,3306.5823949999995,0.7076793258012856
+21558,997,446,1. FC Union Berlin,Robin Gosens,Kevin Vogt,27.0,2131.6489266666667,1.1399625752632143
+21558,1012,446,1. FC Union Berlin,Robin Gosens,Janik Haberer,39.0,1887.1329116666664,1.8599643821060063
+21558,1014,446,1. FC Union Berlin,Robin Gosens,Rani Khedira,18.0,2253.682905,0.7188233963198118
+21558,1291,446,1. FC Union Berlin,Robin Gosens,Alexander Schwolow,0.0,0.0,0.0
+21558,1369,446,1. FC Union Berlin,Robin Gosens,Milos Pantovic,1.0,13.897915000000012,6.475791512611778
+21558,1613,446,1. FC Union Berlin,Robin Gosens,Aïssa Laïdouni,50.0,1651.3670166666666,2.725015066053204
+21558,1708,446,1. FC Union Berlin,Robin Gosens,Jérôme Roussillon,6.0,398.90865166666663,1.3536933775285256
+21558,2030,446,1. FC Union Berlin,Robin Gosens,Lucas Tousart,30.0,3135.172715,0.8611965736630877
+21558,3425,446,1. FC Union Berlin,Robin Gosens,András Schäfer,46.0,2007.1676450000004,2.0626079791157648
+21558,3998,446,1. FC Union Berlin,Robin Gosens,Yorbe Vertessen,33.0,1089.722945,2.7254633974876983
+21558,6175,446,1. FC Union Berlin,Robin Gosens,Diogo Leite,125.0,4696.853756666667,2.395220414097812
+21558,7376,446,1. FC Union Berlin,Robin Gosens,Paul Jaeckel,0.0,0.0,0.0
+21558,8522,446,1. FC Union Berlin,Robin Gosens,Chris Bedia,1.0,88.28732,1.0193989352038322
+21558,10517,446,1. FC Union Berlin,Robin Gosens,Christopher Trimmel,7.0,3194.5744649999992,0.1972093644716465
+21558,13176,446,1. FC Union Berlin,Robin Gosens,Danilho Doekhi,13.0,4164.104063333333,0.2809728052433502
+21558,16806,446,1. FC Union Berlin,Robin Gosens,Josip Juranovic,3.0,1888.0945283333333,0.14300131479027986
+21558,21100,446,1. FC Union Berlin,Robin Gosens,Alex Král,13.0,1903.559525,0.6146379898469422
+21558,21598,446,1. FC Union Berlin,Robin Gosens,Sheraldo Becker,23.0,1203.2105700000002,1.7203971205139925
+21558,23329,446,1. FC Union Berlin,Robin Gosens,Kevin Behrens,41.0,2359.9870499999997,1.5635679017814952
+21558,26762,446,1. FC Union Berlin,Robin Gosens,Benedict Hollerbach,38.0,2201.7323133333334,1.5533223449958178
+21558,32182,446,1. FC Union Berlin,Robin Gosens,Mikkel Kaufmann,6.0,424.38572166666665,1.272427351889427
+21558,42376,446,1. FC Union Berlin,Robin Gosens,Brenden Aaronson,53.0,1803.1120433333335,2.6454262881977715
+21558,45493,446,1. FC Union Berlin,Robin Gosens,Jordan,2.0,15.47471666666667,11.631876943358144
+21558,76896,446,1. FC Union Berlin,Robin Gosens,David Datro Fofana,20.0,1070.7752283333334,1.6810250670457778
+21558,107910,446,1. FC Union Berlin,Robin Gosens,Aljoscha Kemlein,0.0,0.0,0.0
+21598,444,446,1. FC Union Berlin,Sheraldo Becker,Frederik Rönnow,4.0,1578.7395216666666,0.22803001702266248
+21598,495,446,1. FC Union Berlin,Sheraldo Becker,Leonardo Bonucci,5.0,973.1773533333334,0.462402868766579
+21598,732,446,1. FC Union Berlin,Sheraldo Becker,Kevin Volland,2.0,176.04058333333333,1.0224914993559724
+21598,977,446,1. FC Union Berlin,Sheraldo Becker,Robin Knoche,4.0,950.6491833333333,0.3786885912400458
+21598,997,446,1. FC Union Berlin,Sheraldo Becker,Kevin Vogt,0.0,0.0,0.0
+21598,1012,446,1. FC Union Berlin,Sheraldo Becker,Janik Haberer,5.0,922.407755,0.48785366077066433
+21598,1014,446,1. FC Union Berlin,Sheraldo Becker,Rani Khedira,4.0,364.87995,0.9866258751679833
+21598,1291,446,1. FC Union Berlin,Sheraldo Becker,Alexander Schwolow,0.0,0.0,0.0
+21598,1369,446,1. FC Union Berlin,Sheraldo Becker,Milos Pantovic,1.0,12.602466666666684,7.141459079439465
+21598,1613,446,1. FC Union Berlin,Sheraldo Becker,Aïssa Laïdouni,17.0,759.8909366666667,2.0134468331883117
+21598,1708,446,1. FC Union Berlin,Sheraldo Becker,Jérôme Roussillon,4.0,369.12217,0.9752868542141482
+21598,2030,446,1. FC Union Berlin,Sheraldo Becker,Lucas Tousart,5.0,577.6620683333333,0.7790021617627361
+21598,3425,446,1. FC Union Berlin,Sheraldo Becker,András Schäfer,0.0,0.0,0.0
+21598,3998,446,1. FC Union Berlin,Sheraldo Becker,Yorbe Vertessen,0.0,0.0,0.0
+21598,6175,446,1. FC Union Berlin,Sheraldo Becker,Diogo Leite,20.0,1554.4751216666668,1.1579471262750658
+21598,7376,446,1. FC Union Berlin,Sheraldo Becker,Paul Jaeckel,2.0,207.3427366666667,0.8681278297651484
+21598,8522,446,1. FC Union Berlin,Sheraldo Becker,Chris Bedia,0.0,0.0,0.0
+21598,10517,446,1. FC Union Berlin,Sheraldo Becker,Christopher Trimmel,16.0,873.358505,1.648807439048183
+21598,13176,446,1. FC Union Berlin,Sheraldo Becker,Danilho Doekhi,5.0,843.1175033333335,0.5337334336209228
+21598,16806,446,1. FC Union Berlin,Sheraldo Becker,Josip Juranovic,6.0,581.7493000000001,0.928234894309284
+21598,21100,446,1. FC Union Berlin,Sheraldo Becker,Alex Král,8.0,859.688255,0.8375128958810772
+21598,21558,446,1. FC Union Berlin,Sheraldo Becker,Robin Gosens,14.0,1203.2105700000002,1.0471982472693868
+21598,23329,446,1. FC Union Berlin,Sheraldo Becker,Kevin Behrens,13.0,1217.1816083333335,0.9612370019310934
+21598,26762,446,1. FC Union Berlin,Sheraldo Becker,Benedict Hollerbach,6.0,361.1278500000001,1.4953153017691654
+21598,32182,446,1. FC Union Berlin,Sheraldo Becker,Mikkel Kaufmann,0.0,0.0,0.0
+21598,42376,446,1. FC Union Berlin,Sheraldo Becker,Brenden Aaronson,5.0,249.0408383333334,1.8069325617900829
+21598,45493,446,1. FC Union Berlin,Sheraldo Becker,Jordan,0.0,0.0,0.0
+21598,76896,446,1. FC Union Berlin,Sheraldo Becker,David Datro Fofana,10.0,626.2883533333332,1.43703774021962
+21598,107910,446,1. FC Union Berlin,Sheraldo Becker,Aljoscha Kemlein,0.0,0.0,0.0
+23329,444,446,1. FC Union Berlin,Kevin Behrens,Frederik Rönnow,0.0,0.0,0.0
+23329,495,446,1. FC Union Berlin,Kevin Behrens,Leonardo Bonucci,0.0,0.0,0.0
+23329,732,446,1. FC Union Berlin,Kevin Behrens,Kevin Volland,12.0,862.484685,1.2521961476915964
+23329,977,446,1. FC Union Berlin,Kevin Behrens,Robin Knoche,3.0,2271.5556899999992,0.11886127255810316
+23329,997,446,1. FC Union Berlin,Kevin Behrens,Kevin Vogt,1.0,423.58315500000003,0.2124730384993709
+23329,1012,446,1. FC Union Berlin,Kevin Behrens,Janik Haberer,13.0,1609.2312133333335,0.7270552486839242
+23329,1014,446,1. FC Union Berlin,Kevin Behrens,Rani Khedira,8.0,760.5816550000001,0.94664392082925
+23329,1291,446,1. FC Union Berlin,Kevin Behrens,Alexander Schwolow,0.0,0.0,0.0
+23329,1369,446,1. FC Union Berlin,Kevin Behrens,Milos Pantovic,0.0,0.0,0.0
+23329,1613,446,1. FC Union Berlin,Kevin Behrens,Aïssa Laïdouni,11.0,1233.4331083333334,0.8026377703917237
+23329,1708,446,1. FC Union Berlin,Kevin Behrens,Jérôme Roussillon,7.0,684.8600550000001,0.9198959632709195
+23329,2030,446,1. FC Union Berlin,Kevin Behrens,Lucas Tousart,12.0,1021.2681699999999,1.057508724667293
+23329,3425,446,1. FC Union Berlin,Kevin Behrens,András Schäfer,9.0,350.3798733333333,2.31177662202477
+23329,3998,446,1. FC Union Berlin,Kevin Behrens,Yorbe Vertessen,0.0,0.0,0.0
+23329,6175,446,1. FC Union Berlin,Kevin Behrens,Diogo Leite,13.0,2860.8765983333333,0.40896555995515826
+23329,7376,446,1. FC Union Berlin,Kevin Behrens,Paul Jaeckel,1.0,252.72016833333333,0.35612511891528825
+23329,8522,446,1. FC Union Berlin,Kevin Behrens,Chris Bedia,0.0,0.0,0.0
+23329,10517,446,1. FC Union Berlin,Kevin Behrens,Christopher Trimmel,14.0,1823.609015,0.690937580169837
+23329,13176,446,1. FC Union Berlin,Kevin Behrens,Danilho Doekhi,5.0,1615.0312933333335,0.27863237192836393
+23329,16806,446,1. FC Union Berlin,Kevin Behrens,Josip Juranovic,6.0,1064.220455,0.5074136636473502
+23329,21100,446,1. FC Union Berlin,Kevin Behrens,Alex Král,13.0,1508.867161666667,0.7754161729569616
+23329,21558,446,1. FC Union Berlin,Kevin Behrens,Robin Gosens,23.0,2359.9870499999997,0.8771234570969364
+23329,21598,446,1. FC Union Berlin,Kevin Behrens,Sheraldo Becker,27.0,1217.1816083333335,1.99641531170304
+23329,26762,446,1. FC Union Berlin,Kevin Behrens,Benedict Hollerbach,15.0,805.3467566666668,1.6762965627224413
+23329,32182,446,1. FC Union Berlin,Kevin Behrens,Mikkel Kaufmann,2.0,47.599603333333256,3.7815441179096725
+23329,42376,446,1. FC Union Berlin,Kevin Behrens,Brenden Aaronson,6.0,489.86308833333334,1.1023488253365814
+23329,45493,446,1. FC Union Berlin,Kevin Behrens,Jordan,0.0,0.0,0.0
+23329,76896,446,1. FC Union Berlin,Kevin Behrens,David Datro Fofana,13.0,1043.4736800000003,1.1212549223091086
+23329,107910,446,1. FC Union Berlin,Kevin Behrens,Aljoscha Kemlein,0.0,0.0,0.0
+26762,444,446,1. FC Union Berlin,Benedict Hollerbach,Frederik Rönnow,1.0,2828.010613333333,0.03182449159691037
+26762,495,446,1. FC Union Berlin,Benedict Hollerbach,Leonardo Bonucci,0.0,0.0,0.0
+26762,732,446,1. FC Union Berlin,Benedict Hollerbach,Kevin Volland,19.0,1458.1719949999997,1.1727011668469194
+26762,977,446,1. FC Union Berlin,Benedict Hollerbach,Robin Knoche,6.0,1965.0201783333332,0.2748063383542507
+26762,997,446,1. FC Union Berlin,Benedict Hollerbach,Kevin Vogt,3.0,1796.4228599999997,0.15029868858382267
+26762,1012,446,1. FC Union Berlin,Benedict Hollerbach,Janik Haberer,12.0,1182.1283383333334,0.9136063868688549
+26762,1014,446,1. FC Union Berlin,Benedict Hollerbach,Rani Khedira,13.0,1738.4234266666665,0.673023604061418
+26762,1291,446,1. FC Union Berlin,Benedict Hollerbach,Alexander Schwolow,0.0,0.0,0.0
+26762,1369,446,1. FC Union Berlin,Benedict Hollerbach,Milos Pantovic,0.0,0.0,0.0
+26762,1613,446,1. FC Union Berlin,Benedict Hollerbach,Aïssa Laïdouni,10.0,679.3921750000002,1.3247135205818346
+26762,1708,446,1. FC Union Berlin,Benedict Hollerbach,Jérôme Roussillon,9.0,785.4402233333333,1.0312688043431713
+26762,2030,446,1. FC Union Berlin,Benedict Hollerbach,Lucas Tousart,15.0,1620.1201116666666,0.8332715520772187
+26762,3425,446,1. FC Union Berlin,Benedict Hollerbach,András Schäfer,26.0,1882.7233616666667,1.2428804186763438
+26762,3998,446,1. FC Union Berlin,Benedict Hollerbach,Yorbe Vertessen,2.0,237.69520333333332,0.7572723280729224
+26762,6175,446,1. FC Union Berlin,Benedict Hollerbach,Diogo Leite,14.0,2419.0319783333334,0.5208695094920224
+26762,7376,446,1. FC Union Berlin,Benedict Hollerbach,Paul Jaeckel,0.0,0.0,0.0
+26762,8522,446,1. FC Union Berlin,Benedict Hollerbach,Chris Bedia,1.0,79.40030166666665,1.133496952918798
+26762,10517,446,1. FC Union Berlin,Benedict Hollerbach,Christopher Trimmel,12.0,1415.2423416666663,0.7631201867011224
+26762,13176,446,1. FC Union Berlin,Benedict Hollerbach,Danilho Doekhi,7.0,1936.0184816666663,0.325410116672879
+26762,16806,446,1. FC Union Berlin,Benedict Hollerbach,Josip Juranovic,23.0,1250.0290416666667,1.6559615264938676
+26762,21100,446,1. FC Union Berlin,Benedict Hollerbach,Alex Král,15.0,1216.6230266666666,1.1096288418104028
+26762,21558,446,1. FC Union Berlin,Benedict Hollerbach,Robin Gosens,31.0,2201.7323133333334,1.2671840182860619
+26762,21598,446,1. FC Union Berlin,Benedict Hollerbach,Sheraldo Becker,2.0,361.1278500000001,0.4984384339230551
+26762,23329,446,1. FC Union Berlin,Benedict Hollerbach,Kevin Behrens,10.0,805.3467566666668,1.1175310418149609
+26762,32182,446,1. FC Union Berlin,Benedict Hollerbach,Mikkel Kaufmann,7.0,245.3278583333334,2.5679920913995935
+26762,42376,446,1. FC Union Berlin,Benedict Hollerbach,Brenden Aaronson,8.0,648.9527366666665,1.1094798732158315
+26762,45493,446,1. FC Union Berlin,Benedict Hollerbach,Jordan,0.0,0.0,0.0
+26762,76896,446,1. FC Union Berlin,Benedict Hollerbach,David Datro Fofana,4.0,219.38398666666671,1.6409584193899533
+26762,107910,446,1. FC Union Berlin,Benedict Hollerbach,Aljoscha Kemlein,0.0,0.0,0.0
+32182,444,446,1. FC Union Berlin,Mikkel Kaufmann,Frederik Rönnow,1.0,933.9446316666665,0.09636545566881297
+32182,495,446,1. FC Union Berlin,Mikkel Kaufmann,Leonardo Bonucci,0.0,0.0,0.0
+32182,732,446,1. FC Union Berlin,Mikkel Kaufmann,Kevin Volland,5.0,207.69938666666664,2.166592820623961
+32182,977,446,1. FC Union Berlin,Mikkel Kaufmann,Robin Knoche,3.0,300.2422766666666,0.8992737565061764
+32182,997,446,1. FC Union Berlin,Mikkel Kaufmann,Kevin Vogt,1.0,825.74369,0.1089926584846201
+32182,1012,446,1. FC Union Berlin,Mikkel Kaufmann,Janik Haberer,3.0,223.52988666666667,1.20789217060102
+32182,1014,446,1. FC Union Berlin,Mikkel Kaufmann,Rani Khedira,2.0,605.5682416666666,0.29724147934937534
+32182,1291,446,1. FC Union Berlin,Mikkel Kaufmann,Alexander Schwolow,0.0,0.0,0.0
+32182,1369,446,1. FC Union Berlin,Mikkel Kaufmann,Milos Pantovic,0.0,0.0,0.0
+32182,1613,446,1. FC Union Berlin,Mikkel Kaufmann,Aïssa Laïdouni,1.0,120.15479166666665,0.7490337984162792
+32182,1708,446,1. FC Union Berlin,Mikkel Kaufmann,Jérôme Roussillon,2.0,281.88534333333325,0.6385574995545177
+32182,2030,446,1. FC Union Berlin,Mikkel Kaufmann,Lucas Tousart,5.0,487.5249066666666,0.9230297649339928
+32182,3425,446,1. FC Union Berlin,Mikkel Kaufmann,András Schäfer,3.0,259.01962499999996,1.0423920581307307
+32182,3998,446,1. FC Union Berlin,Mikkel Kaufmann,Yorbe Vertessen,1.0,407.2122533333333,0.2210149602898328
+32182,6175,446,1. FC Union Berlin,Mikkel Kaufmann,Diogo Leite,0.0,0.0,0.0
+32182,7376,446,1. FC Union Berlin,Mikkel Kaufmann,Paul Jaeckel,0.0,0.0,0.0
+32182,8522,446,1. FC Union Berlin,Mikkel Kaufmann,Chris Bedia,0.0,0.0,0.0
+32182,10517,446,1. FC Union Berlin,Mikkel Kaufmann,Christopher Trimmel,6.0,624.8057616666667,0.8642685985474147
+32182,13176,446,1. FC Union Berlin,Mikkel Kaufmann,Danilho Doekhi,2.0,706.3384483333333,0.25483534193094765
+32182,16806,446,1. FC Union Berlin,Mikkel Kaufmann,Josip Juranovic,4.0,303.77438833333326,1.1850900333472818
+32182,21100,446,1. FC Union Berlin,Mikkel Kaufmann,Alex Král,4.0,448.25662666666665,0.8031113843805009
+32182,21558,446,1. FC Union Berlin,Mikkel Kaufmann,Robin Gosens,3.0,424.38572166666665,0.6362136759447135
+32182,21598,446,1. FC Union Berlin,Mikkel Kaufmann,Sheraldo Becker,0.0,0.0,0.0
+32182,23329,446,1. FC Union Berlin,Mikkel Kaufmann,Kevin Behrens,1.0,47.599603333333256,1.8907720589548362
+32182,26762,446,1. FC Union Berlin,Mikkel Kaufmann,Benedict Hollerbach,5.0,245.3278583333334,1.8342800652854239
+32182,42376,446,1. FC Union Berlin,Mikkel Kaufmann,Brenden Aaronson,15.0,852.6966783333332,1.583212453270825
+32182,45493,446,1. FC Union Berlin,Mikkel Kaufmann,Jordan,0.0,0.0,0.0
+32182,76896,446,1. FC Union Berlin,Mikkel Kaufmann,David Datro Fofana,0.0,0.0,0.0
+32182,107910,446,1. FC Union Berlin,Mikkel Kaufmann,Aljoscha Kemlein,0.0,0.0,0.0
+42376,444,446,1. FC Union Berlin,Brenden Aaronson,Frederik Rönnow,1.0,2628.0263616666666,0.03424623181592553
+42376,495,446,1. FC Union Berlin,Brenden Aaronson,Leonardo Bonucci,2.0,254.3525866666667,0.7076790621983845
+42376,732,446,1. FC Union Berlin,Brenden Aaronson,Kevin Volland,9.0,824.0157733333334,0.9829908919381042
+42376,977,446,1. FC Union Berlin,Brenden Aaronson,Robin Knoche,8.0,1321.6596816666668,0.5447695878049715
+42376,997,446,1. FC Union Berlin,Brenden Aaronson,Kevin Vogt,16.0,1506.1847066666667,0.9560580409735139
+42376,1012,446,1. FC Union Berlin,Brenden Aaronson,Janik Haberer,6.0,560.6752866666667,0.9631243124882752
+42376,1014,446,1. FC Union Berlin,Brenden Aaronson,Rani Khedira,16.0,1440.8490283333335,0.9994107444176052
+42376,1291,446,1. FC Union Berlin,Brenden Aaronson,Alexander Schwolow,0.0,0.0,0.0
+42376,1369,446,1. FC Union Berlin,Brenden Aaronson,Milos Pantovic,0.0,0.0,0.0
+42376,1613,446,1. FC Union Berlin,Brenden Aaronson,Aïssa Laïdouni,10.0,352.75253999999995,2.551363627317893
+42376,1708,446,1. FC Union Berlin,Brenden Aaronson,Jérôme Roussillon,9.0,626.14544,1.2936291606627366
+42376,2030,446,1. FC Union Berlin,Brenden Aaronson,Lucas Tousart,21.0,1561.2196733333335,1.2105919700362815
+42376,3425,446,1. FC Union Berlin,Brenden Aaronson,András Schäfer,25.0,1227.1679250000002,1.83348990318501
+42376,3998,446,1. FC Union Berlin,Brenden Aaronson,Yorbe Vertessen,20.0,745.1916350000001,2.415486051450376
+42376,6175,446,1. FC Union Berlin,Brenden Aaronson,Diogo Leite,29.0,2363.6916366666665,1.1042049476811973
+42376,7376,446,1. FC Union Berlin,Brenden Aaronson,Paul Jaeckel,1.0,42.82685333333332,2.10148523636572
+42376,8522,446,1. FC Union Berlin,Brenden Aaronson,Chris Bedia,1.0,75.27273833333332,1.1956519982234386
+42376,10517,446,1. FC Union Berlin,Brenden Aaronson,Christopher Trimmel,29.0,1735.77255,1.5036532292206144
+42376,13176,446,1. FC Union Berlin,Brenden Aaronson,Danilho Doekhi,13.0,2211.2599133333338,0.5291101208615043
+42376,16806,446,1. FC Union Berlin,Brenden Aaronson,Josip Juranovic,17.0,1010.1509750000001,1.5146250786918258
+42376,21100,446,1. FC Union Berlin,Brenden Aaronson,Alex Král,14.0,755.9828966666668,1.6667043732810374
+42376,21558,446,1. FC Union Berlin,Brenden Aaronson,Robin Gosens,42.0,1803.1120433333335,2.0963755491378566
+42376,21598,446,1. FC Union Berlin,Brenden Aaronson,Sheraldo Becker,3.0,249.0408383333334,1.0841595370740498
+42376,23329,446,1. FC Union Berlin,Brenden Aaronson,Kevin Behrens,5.0,489.86308833333334,0.9186240211138178
+42376,26762,446,1. FC Union Berlin,Brenden Aaronson,Benedict Hollerbach,22.0,648.9527366666665,3.0510696513435365
+42376,32182,446,1. FC Union Berlin,Brenden Aaronson,Mikkel Kaufmann,14.0,852.6966783333332,1.4776649563861033
+42376,45493,446,1. FC Union Berlin,Brenden Aaronson,Jordan,0.0,0.0,0.0
+42376,76896,446,1. FC Union Berlin,Brenden Aaronson,David Datro Fofana,2.0,236.16283833333324,0.7621859614760307
+42376,107910,446,1. FC Union Berlin,Brenden Aaronson,Aljoscha Kemlein,0.0,0.0,0.0
+45493,444,446,1. FC Union Berlin,Jordan,Frederik Rönnow,0.0,0.0,0.0
+45493,495,446,1. FC Union Berlin,Jordan,Leonardo Bonucci,0.0,0.0,0.0
+45493,732,446,1. FC Union Berlin,Jordan,Kevin Volland,1.0,14.878966666666656,6.048807152826477
+45493,977,446,1. FC Union Berlin,Jordan,Robin Knoche,0.0,0.0,0.0
+45493,997,446,1. FC Union Berlin,Jordan,Kevin Vogt,0.0,0.0,0.0
+45493,1012,446,1. FC Union Berlin,Jordan,Janik Haberer,0.0,0.0,0.0
+45493,1014,446,1. FC Union Berlin,Jordan,Rani Khedira,0.0,0.0,0.0
+45493,1291,446,1. FC Union Berlin,Jordan,Alexander Schwolow,0.0,0.0,0.0
+45493,1369,446,1. FC Union Berlin,Jordan,Milos Pantovic,0.0,0.0,0.0
+45493,1613,446,1. FC Union Berlin,Jordan,Aïssa Laïdouni,0.0,0.0,0.0
+45493,1708,446,1. FC Union Berlin,Jordan,Jérôme Roussillon,0.0,0.0,0.0
+45493,2030,446,1. FC Union Berlin,Jordan,Lucas Tousart,0.0,0.0,0.0
+45493,3425,446,1. FC Union Berlin,Jordan,András Schäfer,0.0,0.0,0.0
+45493,3998,446,1. FC Union Berlin,Jordan,Yorbe Vertessen,0.0,0.0,0.0
+45493,6175,446,1. FC Union Berlin,Jordan,Diogo Leite,0.0,0.0,0.0
+45493,7376,446,1. FC Union Berlin,Jordan,Paul Jaeckel,0.0,0.0,0.0
+45493,8522,446,1. FC Union Berlin,Jordan,Chris Bedia,0.0,0.0,0.0
+45493,10517,446,1. FC Union Berlin,Jordan,Christopher Trimmel,0.0,0.0,0.0
+45493,13176,446,1. FC Union Berlin,Jordan,Danilho Doekhi,0.0,0.0,0.0
+45493,16806,446,1. FC Union Berlin,Jordan,Josip Juranovic,0.0,0.0,0.0
+45493,21100,446,1. FC Union Berlin,Jordan,Alex Král,0.0,0.0,0.0
+45493,21558,446,1. FC Union Berlin,Jordan,Robin Gosens,0.0,0.0,0.0
+45493,21598,446,1. FC Union Berlin,Jordan,Sheraldo Becker,0.0,0.0,0.0
+45493,23329,446,1. FC Union Berlin,Jordan,Kevin Behrens,0.0,0.0,0.0
+45493,26762,446,1. FC Union Berlin,Jordan,Benedict Hollerbach,0.0,0.0,0.0
+45493,32182,446,1. FC Union Berlin,Jordan,Mikkel Kaufmann,0.0,0.0,0.0
+45493,42376,446,1. FC Union Berlin,Jordan,Brenden Aaronson,0.0,0.0,0.0
+45493,76896,446,1. FC Union Berlin,Jordan,David Datro Fofana,0.0,0.0,0.0
+45493,107910,446,1. FC Union Berlin,Jordan,Aljoscha Kemlein,1.0,24.361066666666677,3.694419510913587
+76896,444,446,1. FC Union Berlin,David Datro Fofana,Frederik Rönnow,0.0,0.0,0.0
+76896,495,446,1. FC Union Berlin,David Datro Fofana,Leonardo Bonucci,2.0,487.54648999999995,0.36919556122740216
+76896,732,446,1. FC Union Berlin,David Datro Fofana,Kevin Volland,5.0,447.007605,1.006694282080503
+76896,977,446,1. FC Union Berlin,David Datro Fofana,Robin Knoche,4.0,1204.1442083333332,0.2989675136155654
+76896,997,446,1. FC Union Berlin,David Datro Fofana,Kevin Vogt,0.0,0.0,0.0
+76896,1012,446,1. FC Union Berlin,David Datro Fofana,Janik Haberer,6.0,655.4766583333334,0.8238279626509456
+76896,1014,446,1. FC Union Berlin,David Datro Fofana,Rani Khedira,0.0,0.0,0.0
+76896,1291,446,1. FC Union Berlin,David Datro Fofana,Alexander Schwolow,0.0,0.0,0.0
+76896,1369,446,1. FC Union Berlin,David Datro Fofana,Milos Pantovic,0.0,0.0,0.0
+76896,1613,446,1. FC Union Berlin,David Datro Fofana,Aïssa Laïdouni,12.0,1196.4081133333334,0.9027020027396782
+76896,1708,446,1. FC Union Berlin,David Datro Fofana,Jérôme Roussillon,4.0,421.1696416666666,0.8547624624020761
+76896,2030,446,1. FC Union Berlin,David Datro Fofana,Lucas Tousart,5.0,243.14575166666663,1.850741774904272
+76896,3425,446,1. FC Union Berlin,David Datro Fofana,András Schäfer,1.0,42.818685,2.101886127516527
+76896,3998,446,1. FC Union Berlin,David Datro Fofana,Yorbe Vertessen,0.0,0.0,0.0
+76896,6175,446,1. FC Union Berlin,David Datro Fofana,Diogo Leite,6.0,1491.5621499999997,0.3620365400127646
+76896,7376,446,1. FC Union Berlin,David Datro Fofana,Paul Jaeckel,2.0,391.1815383333334,0.46014441470552864
+76896,8522,446,1. FC Union Berlin,David Datro Fofana,Chris Bedia,0.0,0.0,0.0
+76896,10517,446,1. FC Union Berlin,David Datro Fofana,Christopher Trimmel,17.0,1042.0534766666665,1.4682547817931406
+76896,13176,446,1. FC Union Berlin,David Datro Fofana,Danilho Doekhi,3.0,869.4750133333333,0.31053221295560024
+76896,16806,446,1. FC Union Berlin,David Datro Fofana,Josip Juranovic,5.0,328.40502,1.370259200057295
+76896,21100,446,1. FC Union Berlin,David Datro Fofana,Alex Král,3.0,1205.7077933333335,0.22393485510577188
+76896,21558,446,1. FC Union Berlin,David Datro Fofana,Robin Gosens,12.0,1070.7752283333334,1.0086150402274667
+76896,21598,446,1. FC Union Berlin,David Datro Fofana,Sheraldo Becker,5.0,626.2883533333332,0.71851887010981
+76896,23329,446,1. FC Union Berlin,David Datro Fofana,Kevin Behrens,5.0,1043.4736800000003,0.43125189319581103
+76896,26762,446,1. FC Union Berlin,David Datro Fofana,Benedict Hollerbach,3.0,219.38398666666671,1.230718814542465
+76896,32182,446,1. FC Union Berlin,David Datro Fofana,Mikkel Kaufmann,0.0,0.0,0.0
+76896,42376,446,1. FC Union Berlin,David Datro Fofana,Brenden Aaronson,2.0,236.16283833333324,0.7621859614760307
+76896,45493,446,1. FC Union Berlin,David Datro Fofana,Jordan,0.0,0.0,0.0
+76896,107910,446,1. FC Union Berlin,David Datro Fofana,Aljoscha Kemlein,0.0,0.0,0.0
+107910,444,446,1. FC Union Berlin,Aljoscha Kemlein,Frederik Rönnow,0.0,0.0,0.0
+107910,495,446,1. FC Union Berlin,Aljoscha Kemlein,Leonardo Bonucci,0.0,0.0,0.0
+107910,732,446,1. FC Union Berlin,Aljoscha Kemlein,Kevin Volland,1.0,15.65330166666663,5.7495857370239705
+107910,977,446,1. FC Union Berlin,Aljoscha Kemlein,Robin Knoche,0.0,0.0,0.0
+107910,997,446,1. FC Union Berlin,Aljoscha Kemlein,Kevin Vogt,0.0,0.0,0.0
+107910,1012,446,1. FC Union Berlin,Aljoscha Kemlein,Janik Haberer,0.0,0.0,0.0
+107910,1014,446,1. FC Union Berlin,Aljoscha Kemlein,Rani Khedira,0.0,0.0,0.0
+107910,1291,446,1. FC Union Berlin,Aljoscha Kemlein,Alexander Schwolow,0.0,0.0,0.0
+107910,1369,446,1. FC Union Berlin,Aljoscha Kemlein,Milos Pantovic,0.0,0.0,0.0
+107910,1613,446,1. FC Union Berlin,Aljoscha Kemlein,Aïssa Laïdouni,0.0,0.0,0.0
+107910,1708,446,1. FC Union Berlin,Aljoscha Kemlein,Jérôme Roussillon,0.0,0.0,0.0
+107910,2030,446,1. FC Union Berlin,Aljoscha Kemlein,Lucas Tousart,0.0,0.0,0.0
+107910,3425,446,1. FC Union Berlin,Aljoscha Kemlein,András Schäfer,0.0,0.0,0.0
+107910,3998,446,1. FC Union Berlin,Aljoscha Kemlein,Yorbe Vertessen,0.0,0.0,0.0
+107910,6175,446,1. FC Union Berlin,Aljoscha Kemlein,Diogo Leite,1.0,27.60475166666662,3.260308264561463
+107910,7376,446,1. FC Union Berlin,Aljoscha Kemlein,Paul Jaeckel,0.0,0.0,0.0
+107910,8522,446,1. FC Union Berlin,Aljoscha Kemlein,Chris Bedia,0.0,0.0,0.0
+107910,10517,446,1. FC Union Berlin,Aljoscha Kemlein,Christopher Trimmel,0.0,0.0,0.0
+107910,13176,446,1. FC Union Berlin,Aljoscha Kemlein,Danilho Doekhi,1.0,27.858284999999977,3.230636774661472
+107910,16806,446,1. FC Union Berlin,Aljoscha Kemlein,Josip Juranovic,3.0,27.650584999999985,9.764712030504965
+107910,21100,446,1. FC Union Berlin,Aljoscha Kemlein,Alex Král,0.0,0.0,0.0
+107910,21558,446,1. FC Union Berlin,Aljoscha Kemlein,Robin Gosens,0.0,0.0,0.0
+107910,21598,446,1. FC Union Berlin,Aljoscha Kemlein,Sheraldo Becker,0.0,0.0,0.0
+107910,23329,446,1. FC Union Berlin,Aljoscha Kemlein,Kevin Behrens,0.0,0.0,0.0
+107910,26762,446,1. FC Union Berlin,Aljoscha Kemlein,Benedict Hollerbach,0.0,0.0,0.0
+107910,32182,446,1. FC Union Berlin,Aljoscha Kemlein,Mikkel Kaufmann,0.0,0.0,0.0
+107910,42376,446,1. FC Union Berlin,Aljoscha Kemlein,Brenden Aaronson,0.0,0.0,0.0
+107910,45493,446,1. FC Union Berlin,Aljoscha Kemlein,Jordan,0.0,0.0,0.0
+107910,76896,446,1. FC Union Berlin,Aljoscha Kemlein,David Datro Fofana,0.0,0.0,0.0

@@ -1,0 +1,1866 @@
+[
+    {
+        "id": 346,
+        "name": "unknown",
+        "isoName": null,
+        "isoCode": null,
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 347,
+        "name": "St. Lucia",
+        "isoName": "Saint Lucia",
+        "isoCode": "LCA",
+        "fifaName": "Saint Lucia",
+        "fifaCode": "LCA"
+    },
+    {
+        "id": 348,
+        "name": "Britische Jungferninseln",
+        "isoName": "British Virgin Islands",
+        "isoCode": "VGB",
+        "fifaName": "British Virgin Islands",
+        "fifaCode": "VGB"
+    },
+    {
+        "id": 349,
+        "name": "Mexiko",
+        "isoName": "Mexico",
+        "isoCode": "MEX",
+        "fifaName": "Mexico",
+        "fifaCode": "MEX"
+    },
+    {
+        "id": 350,
+        "name": "Anguilla",
+        "isoName": "Anguilla",
+        "isoCode": "AIA",
+        "fifaName": "Anguilla",
+        "fifaCode": "AIA"
+    },
+    {
+        "id": 352,
+        "name": "Aruba",
+        "isoName": "Aruba",
+        "isoCode": "ABW",
+        "fifaName": "Aruba",
+        "fifaCode": "ARU"
+    },
+    {
+        "id": 353,
+        "name": "Moldawien",
+        "isoName": "Moldova",
+        "isoCode": "MDA",
+        "fifaName": "Moldova",
+        "fifaCode": "MDA"
+    },
+    {
+        "id": 354,
+        "name": "Amerikanische Jungferninseln",
+        "isoName": "United States Virgin Islands",
+        "isoCode": "VIR",
+        "fifaName": "United States Virgin Islands",
+        "fifaCode": "VIR"
+    },
+    {
+        "id": 355,
+        "name": "Monaco",
+        "isoName": "Monaco",
+        "isoCode": "MCO",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 356,
+        "name": "Mongolei",
+        "isoName": "Mongolia",
+        "isoCode": "MNG",
+        "fifaName": "Mongolia",
+        "fifaCode": "MNG"
+    },
+    {
+        "id": 357,
+        "name": "Montserrat",
+        "isoName": "Montserrat",
+        "isoCode": "MSR",
+        "fifaName": "Montserrat",
+        "fifaCode": "MSR"
+    },
+    {
+        "id": 358,
+        "name": "Mosambik",
+        "isoName": "Mozambique",
+        "isoCode": "MOZ",
+        "fifaName": "Mozambique",
+        "fifaCode": "MOZ"
+    },
+    {
+        "id": 359,
+        "name": "Neukaledonien",
+        "isoName": "New Caledonia",
+        "isoCode": "NCL",
+        "fifaName": "New Caledonia",
+        "fifaCode": "NCL"
+    },
+    {
+        "id": 360,
+        "name": "Myanmar",
+        "isoName": "Myanmar",
+        "isoCode": "MMR",
+        "fifaName": "Myanmar",
+        "fifaCode": "MYA"
+    },
+    {
+        "id": 361,
+        "name": "Tahiti",
+        "isoName": "French Polynesia",
+        "isoCode": "PYF",
+        "fifaName": "French Polynesia",
+        "fifaCode": "TAH"
+    },
+    {
+        "id": 362,
+        "name": "Cookinseln",
+        "isoName": "Cook Islands",
+        "isoCode": "COK",
+        "fifaName": "Cook Islands",
+        "fifaCode": "COK"
+    },
+    {
+        "id": 363,
+        "name": "Namibia",
+        "isoName": "Namibia",
+        "isoCode": "NAM",
+        "fifaName": "Namibia",
+        "fifaCode": "NAM"
+    },
+    {
+        "id": 364,
+        "name": "Amerikanisch-Samoa",
+        "isoName": "American Samoa",
+        "isoCode": "ASM",
+        "fifaName": "American Samoa",
+        "fifaCode": "ASA"
+    },
+    {
+        "id": 366,
+        "name": "Nepal",
+        "isoName": "Nepal",
+        "isoCode": "NPL",
+        "fifaName": "Nepal",
+        "fifaCode": "NEP"
+    },
+    {
+        "id": 367,
+        "name": "Armenien",
+        "isoName": "Armenia",
+        "isoCode": "ARM",
+        "fifaName": "Armenia",
+        "fifaCode": "ARM"
+    },
+    {
+        "id": 368,
+        "name": "\u00c4thiopien",
+        "isoName": "Ethiopia",
+        "isoCode": "ETH",
+        "fifaName": "Ethiopia",
+        "fifaCode": "ETH"
+    },
+    {
+        "id": 369,
+        "name": "Australien",
+        "isoName": "Australia",
+        "isoCode": "AUS",
+        "fifaName": "Australia",
+        "fifaCode": "AUS"
+    },
+    {
+        "id": 370,
+        "name": "Aserbaidschan",
+        "isoName": "Azerbaijan",
+        "isoCode": "AZE",
+        "fifaName": "Azerbaijan",
+        "fifaCode": "AZE"
+    },
+    {
+        "id": 371,
+        "name": "Bahamas",
+        "isoName": "Bahamas",
+        "isoCode": "BHS",
+        "fifaName": "The Bahamas",
+        "fifaCode": "BAH"
+    },
+    {
+        "id": 372,
+        "name": "Bahrain",
+        "isoName": "Bahrain",
+        "isoCode": "BHR",
+        "fifaName": "Bahrain",
+        "fifaCode": "BHR"
+    },
+    {
+        "id": 373,
+        "name": "Bangladesch",
+        "isoName": "Bangladesh",
+        "isoCode": "BGD",
+        "fifaName": "Bangladesh",
+        "fifaCode": "BAN"
+    },
+    {
+        "id": 374,
+        "name": "Barbados",
+        "isoName": "Barbados",
+        "isoCode": "BRB",
+        "fifaName": "Barbados",
+        "fifaCode": "BRB"
+    },
+    {
+        "id": 375,
+        "name": "Belarus",
+        "isoName": "Belarus",
+        "isoCode": "BLR",
+        "fifaName": "Belarus",
+        "fifaCode": "BLR"
+    },
+    {
+        "id": 376,
+        "name": "Belgien",
+        "isoName": "Belgium",
+        "isoCode": "BEL",
+        "fifaName": "Belgium",
+        "fifaCode": "BEL"
+    },
+    {
+        "id": 377,
+        "name": "Pal\u00e4stina",
+        "isoName": "Palestine",
+        "isoCode": "PSE",
+        "fifaName": "Palestine",
+        "fifaCode": "PLE"
+    },
+    {
+        "id": 378,
+        "name": "Guam",
+        "isoName": "Guam",
+        "isoCode": "GUM",
+        "fifaName": "Guam",
+        "fifaCode": "GUM"
+    },
+    {
+        "id": 379,
+        "name": "Neuseeland",
+        "isoName": "New Zealand",
+        "isoCode": "NZL",
+        "fifaName": "New Zealand",
+        "fifaCode": "NZL"
+    },
+    {
+        "id": 380,
+        "name": "Nicaragua",
+        "isoName": "Nicaragua",
+        "isoCode": "NIC",
+        "fifaName": "Nicaragua",
+        "fifaCode": "NCA"
+    },
+    {
+        "id": 381,
+        "name": "Timor-Leste",
+        "isoName": "Timor-Leste",
+        "isoCode": "TLS",
+        "fifaName": "Timor-Leste",
+        "fifaCode": "TLS"
+    },
+    {
+        "id": 382,
+        "name": "Afghanistan",
+        "isoName": "Afghanistan",
+        "isoCode": "AFG",
+        "fifaName": "Afghanistan",
+        "fifaCode": "AFG"
+    },
+    {
+        "id": 383,
+        "name": "Gr\u00f6nland",
+        "isoName": "Greenland",
+        "isoCode": "GRL",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 384,
+        "name": "Niederlande",
+        "isoName": "Netherlands",
+        "isoCode": "NLD",
+        "fifaName": "Netherlands",
+        "fifaCode": "NED"
+    },
+    {
+        "id": 385,
+        "name": "\u00c4gypten",
+        "isoName": "Egypt",
+        "isoCode": "EGY",
+        "fifaName": "Egypt",
+        "fifaCode": "EGY"
+    },
+    {
+        "id": 386,
+        "name": "Kosovo",
+        "isoName": "Kosovo",
+        "isoCode": "UNK",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 387,
+        "name": "Niger",
+        "isoName": "Niger",
+        "isoCode": "NER",
+        "fifaName": "Niger",
+        "fifaCode": "NIG"
+    },
+    {
+        "id": 388,
+        "name": "Albanien",
+        "isoName": "Albania",
+        "isoCode": "ALB",
+        "fifaName": "Albania",
+        "fifaCode": "ALB"
+    },
+    {
+        "id": 389,
+        "name": "Nigeria",
+        "isoName": "Nigeria",
+        "isoCode": "NGA",
+        "fifaName": "Nigeria",
+        "fifaCode": "NGA"
+    },
+    {
+        "id": 391,
+        "name": "Algerien",
+        "isoName": "Algeria",
+        "isoCode": "DZA",
+        "fifaName": "Algeria",
+        "fifaCode": "ALG"
+    },
+    {
+        "id": 393,
+        "name": "Norwegen",
+        "isoName": "Norway",
+        "isoCode": "NOR",
+        "fifaName": "Norway",
+        "fifaCode": "NOR"
+    },
+    {
+        "id": 394,
+        "name": "Andorra",
+        "isoName": "Andorra",
+        "isoCode": "AND",
+        "fifaName": "Andorra",
+        "fifaCode": "AND"
+    },
+    {
+        "id": 395,
+        "name": "Oman",
+        "isoName": "Oman",
+        "isoCode": "OMN",
+        "fifaName": "Oman",
+        "fifaCode": "OMA"
+    },
+    {
+        "id": 396,
+        "name": "Tuvalu",
+        "isoName": "Tuvalu",
+        "isoCode": "TUV",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 397,
+        "name": "Angola",
+        "isoName": "Angola",
+        "isoCode": "AGO",
+        "fifaName": "Angola",
+        "fifaCode": "ANG"
+    },
+    {
+        "id": 398,
+        "name": "\u00d6sterreich",
+        "isoName": "Austria",
+        "isoCode": "AUT",
+        "fifaName": "Austria",
+        "fifaCode": "AUT"
+    },
+    {
+        "id": 400,
+        "name": "Antigua und Barbuda",
+        "isoName": "Antigua and Barbuda",
+        "isoCode": "ATG",
+        "fifaName": "Antigua and Barbuda",
+        "fifaCode": "ATG"
+    },
+    {
+        "id": 401,
+        "name": "Pakistan",
+        "isoName": "Pakistan",
+        "isoCode": "PAK",
+        "fifaName": "Pakistan",
+        "fifaCode": "PAK"
+    },
+    {
+        "id": 402,
+        "name": "R\u00e9union",
+        "isoName": "R\u00e9union",
+        "isoCode": "REU",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 403,
+        "name": "\u00c4quatorialguinea",
+        "isoName": "Equatorial Guinea",
+        "isoCode": "GNQ",
+        "fifaName": "Equatorial Guinea",
+        "fifaCode": "EQG"
+    },
+    {
+        "id": 405,
+        "name": "Argentinien",
+        "isoName": "Argentina",
+        "isoCode": "ARG",
+        "fifaName": "Argentina",
+        "fifaCode": "ARG"
+    },
+    {
+        "id": 406,
+        "name": "Belize",
+        "isoName": "Belize",
+        "isoCode": "BLZ",
+        "fifaName": "Belize",
+        "fifaCode": "BLZ"
+    },
+    {
+        "id": 407,
+        "name": "Benin",
+        "isoName": "Benin",
+        "isoCode": "BEN",
+        "fifaName": "Benin",
+        "fifaCode": "BEN"
+    },
+    {
+        "id": 408,
+        "name": "Bhutan",
+        "isoName": "Bhutan",
+        "isoCode": "BTN",
+        "fifaName": "Bhutan",
+        "fifaCode": "BHU"
+    },
+    {
+        "id": 409,
+        "name": "Bolivien",
+        "isoName": "Bolivia",
+        "isoCode": "BOL",
+        "fifaName": "Bolivia",
+        "fifaCode": "BOL"
+    },
+    {
+        "id": 410,
+        "name": "Bosnien-Herzegowina",
+        "isoName": "Bosnia and Herzegovina",
+        "isoCode": "BIH",
+        "fifaName": "Bosnia and Herzegovina",
+        "fifaCode": "BIH"
+    },
+    {
+        "id": 411,
+        "name": "Botsuana",
+        "isoName": "Botswana",
+        "isoCode": "BWA",
+        "fifaName": "Botswana",
+        "fifaCode": "BOT"
+    },
+    {
+        "id": 412,
+        "name": "Brasilien",
+        "isoName": "Brazil",
+        "isoCode": "BRA",
+        "fifaName": "Brazil",
+        "fifaCode": "BRA"
+    },
+    {
+        "id": 413,
+        "name": "Brunei Darussalam",
+        "isoName": "Brunei",
+        "isoCode": "BRN",
+        "fifaName": "Brunei",
+        "fifaCode": "BRU"
+    },
+    {
+        "id": 414,
+        "name": "Bulgarien",
+        "isoName": "Bulgaria",
+        "isoCode": "BGR",
+        "fifaName": "Bulgaria",
+        "fifaCode": "BUL"
+    },
+    {
+        "id": 415,
+        "name": "Burkina Faso",
+        "isoName": "Burkina Faso",
+        "isoCode": "BFA",
+        "fifaName": "Burkina Faso",
+        "fifaCode": "BFA"
+    },
+    {
+        "id": 416,
+        "name": "Falklandinseln",
+        "isoName": "Falkland Islands",
+        "isoCode": "FLK",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 417,
+        "name": "Guadeloupe",
+        "isoName": "Guadeloupe",
+        "isoCode": "GLP",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 418,
+        "name": "Panama",
+        "isoName": "Panama",
+        "isoCode": "PAN",
+        "fifaName": "Panama",
+        "fifaCode": "PAN"
+    },
+    {
+        "id": 419,
+        "name": "Franz\u00f6sisch-Guayana",
+        "isoName": "French Guiana",
+        "isoCode": "GUF",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 420,
+        "name": "Papua-Neuguinea",
+        "isoName": "Papua New Guinea",
+        "isoCode": "PNG",
+        "fifaName": "Papua New Guinea",
+        "fifaCode": "PNG"
+    },
+    {
+        "id": 421,
+        "name": "Paraguay",
+        "isoName": "Paraguay",
+        "isoCode": "PRY",
+        "fifaName": "Paraguay",
+        "fifaCode": "PAR"
+    },
+    {
+        "id": 422,
+        "name": "Sansibar",
+        "isoName": "Tanzania",
+        "isoCode": "TZA",
+        "fifaName": "Tanzania",
+        "fifaCode": "TAN"
+    },
+    {
+        "id": 423,
+        "name": "Peru",
+        "isoName": "Peru",
+        "isoCode": "PER",
+        "fifaName": "Peru",
+        "fifaCode": "PER"
+    },
+    {
+        "id": 426,
+        "name": "Philippinen",
+        "isoName": "Philippines",
+        "isoCode": "PHL",
+        "fifaName": "Philippines",
+        "fifaCode": "PHI"
+    },
+    {
+        "id": 427,
+        "name": "Polen",
+        "isoName": "Poland",
+        "isoCode": "POL",
+        "fifaName": "Poland",
+        "fifaCode": "POL"
+    },
+    {
+        "id": 430,
+        "name": "Portugal",
+        "isoName": "Portugal",
+        "isoCode": "PRT",
+        "fifaName": "Portugal",
+        "fifaCode": "POR"
+    },
+    {
+        "id": 432,
+        "name": "Katar",
+        "isoName": "Qatar",
+        "isoCode": "QAT",
+        "fifaName": "Qatar",
+        "fifaCode": "QAT"
+    },
+    {
+        "id": 434,
+        "name": "Zentralafrikanische Republik",
+        "isoName": "Central African Republic",
+        "isoCode": "CAF",
+        "fifaName": "Central African Republic",
+        "fifaCode": "CTA"
+    },
+    {
+        "id": 435,
+        "name": "Ruanda",
+        "isoName": "Rwanda",
+        "isoCode": "RWA",
+        "fifaName": "Rwanda",
+        "fifaCode": "RWA"
+    },
+    {
+        "id": 436,
+        "name": "Burundi",
+        "isoName": "Burundi",
+        "isoCode": "BDI",
+        "fifaName": "Burundi",
+        "fifaCode": "BDI"
+    },
+    {
+        "id": 437,
+        "name": "Kamerun",
+        "isoName": "Cameroon",
+        "isoCode": "CMR",
+        "fifaName": "Cameroon",
+        "fifaCode": "CMR"
+    },
+    {
+        "id": 438,
+        "name": "Kap Verde",
+        "isoName": "Cape Verde",
+        "isoCode": "CPV",
+        "fifaName": "Cape Verde",
+        "fifaCode": "CPV"
+    },
+    {
+        "id": 439,
+        "name": "Chile",
+        "isoName": "Chile",
+        "isoCode": "CHL",
+        "fifaName": "Chile",
+        "fifaCode": "CHI"
+    },
+    {
+        "id": 440,
+        "name": "China",
+        "isoName": "China",
+        "isoCode": "CHN",
+        "fifaName": "China PR",
+        "fifaCode": "CHN"
+    },
+    {
+        "id": 441,
+        "name": "Komoren",
+        "isoName": "Comoros",
+        "isoCode": "COM",
+        "fifaName": "Comoros",
+        "fifaCode": "COM"
+    },
+    {
+        "id": 442,
+        "name": "Costa Rica",
+        "isoName": "Costa Rica",
+        "isoCode": "CRI",
+        "fifaName": "Costa Rica",
+        "fifaCode": "CRC"
+    },
+    {
+        "id": 443,
+        "name": "Kroatien",
+        "isoName": "Croatia",
+        "isoCode": "HRV",
+        "fifaName": "Croatia",
+        "fifaCode": "CRO"
+    },
+    {
+        "id": 444,
+        "name": "Elfenbeink\u00fcste",
+        "isoName": "Ivory Coast",
+        "isoCode": "CIV",
+        "fifaName": "C\u00f4te d'Ivoire",
+        "fifaCode": "CIV"
+    },
+    {
+        "id": 445,
+        "name": "D\u00e4nemark",
+        "isoName": "Denmark",
+        "isoCode": "DNK",
+        "fifaName": "Denmark",
+        "fifaCode": "DEN"
+    },
+    {
+        "id": 446,
+        "name": "Curacao",
+        "isoName": "Cura\u00e7ao",
+        "isoCode": "CUW",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 448,
+        "name": "Rum\u00e4nien",
+        "isoName": "Romania",
+        "isoCode": "ROU",
+        "fifaName": "Romania",
+        "fifaCode": "ROU"
+    },
+    {
+        "id": 449,
+        "name": "Russland",
+        "isoName": "Russia",
+        "isoCode": "RUS",
+        "fifaName": "Russian Federation",
+        "fifaCode": "RUS"
+    },
+    {
+        "id": 450,
+        "name": "S\u00fcdsudan",
+        "isoName": "South Sudan",
+        "isoCode": "SSD",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 452,
+        "name": "Sambia",
+        "isoName": "Zambia",
+        "isoCode": "ZMB",
+        "fifaName": "Zambia",
+        "fifaCode": "ZAM"
+    },
+    {
+        "id": 453,
+        "name": "Samoa",
+        "isoName": "Samoa",
+        "isoCode": "WSM",
+        "fifaName": "Samoa",
+        "fifaCode": "SAM"
+    },
+    {
+        "id": 454,
+        "name": "Vereinigtes K\u00f6nigreich",
+        "isoName": "United Kingdom",
+        "isoCode": "GBR",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 455,
+        "name": "San Marino",
+        "isoName": "San Marino",
+        "isoCode": "SMR",
+        "fifaName": "San Marino",
+        "fifaCode": "SMR"
+    },
+    {
+        "id": 456,
+        "name": "Sint Maarten",
+        "isoName": "Sint Maarten",
+        "isoCode": "SXM",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 457,
+        "name": "Gibraltar",
+        "isoName": "Gibraltar",
+        "isoCode": "GIB",
+        "fifaName": "Gibraltar",
+        "fifaCode": "GIB"
+    },
+    {
+        "id": 458,
+        "name": "Sao Tome und Principe",
+        "isoName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "isoCode": "STP",
+        "fifaName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "fifaCode": "STP"
+    },
+    {
+        "id": 459,
+        "name": "Saint-Martin",
+        "isoName": "Saint Martin",
+        "isoCode": "MAF",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 460,
+        "name": "Saudi-Arabien",
+        "isoName": "Saudi Arabia",
+        "isoCode": "SAU",
+        "fifaName": "Saudi Arabia",
+        "fifaCode": "KSA"
+    },
+    {
+        "id": 461,
+        "name": "N\u00f6rdliche Marianen",
+        "isoName": "Northern Mariana Islands",
+        "isoCode": "MNP",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 462,
+        "name": "Schweden",
+        "isoName": "Sweden",
+        "isoCode": "SWE",
+        "fifaName": "Sweden",
+        "fifaCode": "SWE"
+    },
+    {
+        "id": 463,
+        "name": "Bonaire",
+        "isoName": "Caribbean Netherlands",
+        "isoCode": "BES",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 464,
+        "name": "Schweiz",
+        "isoName": "Switzerland",
+        "isoCode": "CHE",
+        "fifaName": "Switzerland",
+        "fifaCode": "SUI"
+    },
+    {
+        "id": 465,
+        "name": "Senegal",
+        "isoName": "Senegal",
+        "isoCode": "SEN",
+        "fifaName": "Senegal",
+        "fifaCode": "SEN"
+    },
+    {
+        "id": 466,
+        "name": "Deutschland",
+        "isoName": "Germany",
+        "isoCode": "DEU",
+        "fifaName": "Germany",
+        "fifaCode": "GER"
+    },
+    {
+        "id": 467,
+        "name": "Dschibuti",
+        "isoName": "Djibouti",
+        "isoCode": "DJI",
+        "fifaName": "Djibouti",
+        "fifaCode": "DJI"
+    },
+    {
+        "id": 468,
+        "name": "Dominica",
+        "isoName": "Dominica",
+        "isoCode": "DMA",
+        "fifaName": "Dominica",
+        "fifaCode": "DMA"
+    },
+    {
+        "id": 469,
+        "name": "Dominikanische Republik",
+        "isoName": "Dominican Republic",
+        "isoCode": "DOM",
+        "fifaName": "Dominican Republic",
+        "fifaCode": "DOM"
+    },
+    {
+        "id": 470,
+        "name": "Ecuador",
+        "isoName": "Ecuador",
+        "isoCode": "ECU",
+        "fifaName": "Ecuador",
+        "fifaCode": "ECU"
+    },
+    {
+        "id": 471,
+        "name": "El Salvador",
+        "isoName": "El Salvador",
+        "isoCode": "SLV",
+        "fifaName": "El Salvador",
+        "fifaCode": "SLV"
+    },
+    {
+        "id": 472,
+        "name": "Eritrea",
+        "isoName": "Eritrea",
+        "isoCode": "ERI",
+        "fifaName": "Eritrea",
+        "fifaCode": "ERI"
+    },
+    {
+        "id": 473,
+        "name": "Estland",
+        "isoName": "Estonia",
+        "isoCode": "EST",
+        "fifaName": "Estonia",
+        "fifaCode": "EST"
+    },
+    {
+        "id": 474,
+        "name": "Fidschi",
+        "isoName": "Fiji",
+        "isoCode": "FJI",
+        "fifaName": "Fiji",
+        "fifaCode": "FIJ"
+    },
+    {
+        "id": 475,
+        "name": "Finnland",
+        "isoName": "Finland",
+        "isoCode": "FIN",
+        "fifaName": "Finland",
+        "fifaCode": "FIN"
+    },
+    {
+        "id": 476,
+        "name": "Isle of Man",
+        "isoName": "Isle of Man",
+        "isoCode": "IMN",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 477,
+        "name": "Guernsey",
+        "isoName": "Guernsey",
+        "isoCode": "GGY",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 479,
+        "name": "Jersey",
+        "isoName": "Jersey",
+        "isoCode": "JEY",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 480,
+        "name": "Seychellen",
+        "isoName": "Seychelles",
+        "isoCode": "SYC",
+        "fifaName": "Seychelles",
+        "fifaCode": "SEY"
+    },
+    {
+        "id": 481,
+        "name": "Sierra Leone",
+        "isoName": "Sierra Leone",
+        "isoCode": "SLE",
+        "fifaName": "Sierra Leone",
+        "fifaCode": "SLE"
+    },
+    {
+        "id": 482,
+        "name": "Swasiland",
+        "isoName": "Eswatini",
+        "isoCode": "SWZ",
+        "fifaName": "Eswatini",
+        "fifaCode": "SWZ"
+    },
+    {
+        "id": 483,
+        "name": "Mazedonien",
+        "isoName": "North Macedonia",
+        "isoCode": "MKD",
+        "fifaName": "North Macedonia",
+        "fifaCode": "MKD"
+    },
+    {
+        "id": 484,
+        "name": "Singapur",
+        "isoName": "Singapore",
+        "isoCode": "SGP",
+        "fifaName": "Singapore",
+        "fifaCode": "SGP"
+    },
+    {
+        "id": 485,
+        "name": "Slowakei",
+        "isoName": "Slovakia",
+        "isoCode": "SVK",
+        "fifaName": "Slovakia",
+        "fifaCode": "SVK"
+    },
+    {
+        "id": 486,
+        "name": "Westsahara",
+        "isoName": "Western Sahara",
+        "isoCode": "ESH",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 488,
+        "name": "Slowenien",
+        "isoName": "Slovenia",
+        "isoCode": "SVN",
+        "fifaName": "Slovenia",
+        "fifaCode": "SVN"
+    },
+    {
+        "id": 489,
+        "name": "Mayotte",
+        "isoName": "Mayotte",
+        "isoCode": "MYT",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 490,
+        "name": "Somalia",
+        "isoName": "Somalia",
+        "isoCode": "SOM",
+        "fifaName": "Somalia",
+        "fifaCode": "SOM"
+    },
+    {
+        "id": 491,
+        "name": "Espa\u00f1a",
+        "isoName": "Spain",
+        "isoCode": "ESP",
+        "fifaName": "Spain",
+        "fifaCode": "ESP"
+    },
+    {
+        "id": 492,
+        "name": "Sri Lanka",
+        "isoName": "Sri Lanka",
+        "isoCode": "LKA",
+        "fifaName": "Sri Lanka",
+        "fifaCode": "SRI"
+    },
+    {
+        "id": 493,
+        "name": "S\u00fcdafrika",
+        "isoName": "South Africa",
+        "isoCode": "ZAF",
+        "fifaName": "South Africa",
+        "fifaCode": "RSA"
+    },
+    {
+        "id": 494,
+        "name": "Frankreich",
+        "isoName": "France",
+        "isoCode": "FRA",
+        "fifaName": "France",
+        "fifaCode": "FRA"
+    },
+    {
+        "id": 495,
+        "name": "Gabun",
+        "isoName": "Gabon",
+        "isoCode": "GAB",
+        "fifaName": "Gabon",
+        "fifaCode": "GAB"
+    },
+    {
+        "id": 496,
+        "name": "Gambia",
+        "isoName": "Gambia",
+        "isoCode": "GMB",
+        "fifaName": "The Gambia",
+        "fifaCode": "GAM"
+    },
+    {
+        "id": 497,
+        "name": "Georgien",
+        "isoName": "Georgia",
+        "isoCode": "GEO",
+        "fifaName": "Georgia",
+        "fifaCode": "GEO"
+    },
+    {
+        "id": 498,
+        "name": "Ghana",
+        "isoName": "Ghana",
+        "isoCode": "GHA",
+        "fifaName": "Ghana",
+        "fifaCode": "GHA"
+    },
+    {
+        "id": 499,
+        "name": "Grenada",
+        "isoName": "Grenada",
+        "isoCode": "GRD",
+        "fifaName": "Grenada",
+        "fifaCode": "GRN"
+    },
+    {
+        "id": 500,
+        "name": "Griechenland",
+        "isoName": "Greece",
+        "isoCode": "GRC",
+        "fifaName": "Greece",
+        "fifaCode": "GRE"
+    },
+    {
+        "id": 501,
+        "name": "Guatemala",
+        "isoName": "Guatemala",
+        "isoCode": "GTM",
+        "fifaName": "Guatemala",
+        "fifaCode": "GUA"
+    },
+    {
+        "id": 502,
+        "name": "Guinea",
+        "isoName": "Guinea",
+        "isoCode": "GIN",
+        "fifaName": "Guinea",
+        "fifaCode": "GUI"
+    },
+    {
+        "id": 503,
+        "name": "Sudan",
+        "isoName": "Sudan",
+        "isoCode": "SDN",
+        "fifaName": "Sudan",
+        "fifaCode": "SDN"
+    },
+    {
+        "id": 504,
+        "name": "Suriname",
+        "isoName": "Suriname",
+        "isoCode": "SUR",
+        "fifaName": "Suriname",
+        "fifaCode": "SUR"
+    },
+    {
+        "id": 505,
+        "name": "Eswatini",
+        "isoName": "Eswatini",
+        "isoCode": "SWZ",
+        "fifaName": "Eswatini",
+        "fifaCode": "SWZ"
+    },
+    {
+        "id": 506,
+        "name": "Syrien",
+        "isoName": "Syria",
+        "isoCode": "SYR",
+        "fifaName": "Syria",
+        "fifaCode": "SYR"
+    },
+    {
+        "id": 507,
+        "name": "Chinese Taipei (Taiwan)",
+        "isoName": "China",
+        "isoCode": "CHN",
+        "fifaName": "China PR",
+        "fifaCode": "CHN"
+    },
+    {
+        "id": 508,
+        "name": "Tadschikistan",
+        "isoName": "Tajikistan",
+        "isoCode": "TJK",
+        "fifaName": "Tajikistan",
+        "fifaCode": "TJK"
+    },
+    {
+        "id": 509,
+        "name": "Tansania",
+        "isoName": "Tanzania",
+        "isoCode": "TZA",
+        "fifaName": "Tanzania",
+        "fifaCode": "TAN"
+    },
+    {
+        "id": 510,
+        "name": "Thailand",
+        "isoName": "Thailand",
+        "isoCode": "THA",
+        "fifaName": "Thailand",
+        "fifaCode": "THA"
+    },
+    {
+        "id": 511,
+        "name": "Togo",
+        "isoName": "Togo",
+        "isoCode": "TGO",
+        "fifaName": "Togo",
+        "fifaCode": "TOG"
+    },
+    {
+        "id": 512,
+        "name": "Tonga",
+        "isoName": "Tonga",
+        "isoCode": "TON",
+        "fifaName": "Tonga",
+        "fifaCode": "TGA"
+    },
+    {
+        "id": 513,
+        "name": "Guinea-Bissau",
+        "isoName": "Guinea-Bissau",
+        "isoCode": "GNB",
+        "fifaName": "Guinea-Bissau",
+        "fifaCode": "GNB"
+    },
+    {
+        "id": 514,
+        "name": "Guyana",
+        "isoName": "Guyana",
+        "isoCode": "GUY",
+        "fifaName": "Guyana",
+        "fifaCode": "GUY"
+    },
+    {
+        "id": 515,
+        "name": "Haiti",
+        "isoName": "Haiti",
+        "isoCode": "HTI",
+        "fifaName": "Haiti",
+        "fifaCode": "HAI"
+    },
+    {
+        "id": 516,
+        "name": "Honduras",
+        "isoName": "Honduras",
+        "isoCode": "HND",
+        "fifaName": "Honduras",
+        "fifaCode": "HON"
+    },
+    {
+        "id": 517,
+        "name": "Indien",
+        "isoName": "India",
+        "isoCode": "IND",
+        "fifaName": "India",
+        "fifaCode": "IND"
+    },
+    {
+        "id": 518,
+        "name": "Indonesien",
+        "isoName": "Indonesia",
+        "isoCode": "IDN",
+        "fifaName": "Indonesia",
+        "fifaCode": "IDN"
+    },
+    {
+        "id": 519,
+        "name": "Salomon-Inseln",
+        "isoName": "Solomon Islands",
+        "isoCode": "SLB",
+        "fifaName": "Solomon Islands",
+        "fifaCode": "SOL"
+    },
+    {
+        "id": 520,
+        "name": "Trinidad und Tobago",
+        "isoName": "Trinidad and Tobago",
+        "isoCode": "TTO",
+        "fifaName": "Trinidad and Tobago",
+        "fifaCode": "TRI"
+    },
+    {
+        "id": 521,
+        "name": "Tschad",
+        "isoName": "Chad",
+        "isoCode": "TCD",
+        "fifaName": "Chad",
+        "fifaCode": "CHA"
+    },
+    {
+        "id": 522,
+        "name": "Tschechien",
+        "isoName": "Czechia",
+        "isoCode": "CZE",
+        "fifaName": "Czech Republic",
+        "fifaCode": "CZE"
+    },
+    {
+        "id": 523,
+        "name": "Tunesien",
+        "isoName": "Tunisia",
+        "isoCode": "TUN",
+        "fifaName": "Tunisia",
+        "fifaCode": "TUN"
+    },
+    {
+        "id": 524,
+        "name": "T\u00fcrkei",
+        "isoName": "Turkey",
+        "isoCode": "TUR",
+        "fifaName": "Turkey",
+        "fifaCode": "TUR"
+    },
+    {
+        "id": 525,
+        "name": "Turkmenistan",
+        "isoName": "Turkmenistan",
+        "isoCode": "TKM",
+        "fifaName": "Turkmenistan",
+        "fifaCode": "TKM"
+    },
+    {
+        "id": 526,
+        "name": "Uganda",
+        "isoName": "Uganda",
+        "isoCode": "UGA",
+        "fifaName": "Uganda",
+        "fifaCode": "UGA"
+    },
+    {
+        "id": 527,
+        "name": "Ukraine",
+        "isoName": "Ukraine",
+        "isoCode": "UKR",
+        "fifaName": "Ukraine",
+        "fifaCode": "UKR"
+    },
+    {
+        "id": 528,
+        "name": "Ungarn",
+        "isoName": "Hungary",
+        "isoCode": "HUN",
+        "fifaName": "Hungary",
+        "fifaCode": "HUN"
+    },
+    {
+        "id": 529,
+        "name": "Uruguay",
+        "isoName": "Uruguay",
+        "isoCode": "URY",
+        "fifaName": "Uruguay",
+        "fifaCode": "URU"
+    },
+    {
+        "id": 530,
+        "name": "Irak",
+        "isoName": "Iraq",
+        "isoCode": "IRQ",
+        "fifaName": "Iraq",
+        "fifaCode": "IRQ"
+    },
+    {
+        "id": 531,
+        "name": "Iran",
+        "isoName": "Iran",
+        "isoCode": "IRN",
+        "fifaName": "Iran",
+        "fifaCode": "IRN"
+    },
+    {
+        "id": 532,
+        "name": "Irland",
+        "isoName": "Ireland",
+        "isoCode": "IRL",
+        "fifaName": "Ireland",
+        "fifaCode": "IRL"
+    },
+    {
+        "id": 533,
+        "name": "Island",
+        "isoName": "Iceland",
+        "isoCode": "ISL",
+        "fifaName": "Iceland",
+        "fifaCode": "ISL"
+    },
+    {
+        "id": 534,
+        "name": "Israel",
+        "isoName": "Israel",
+        "isoCode": "ISR",
+        "fifaName": "Israel",
+        "fifaCode": "ISR"
+    },
+    {
+        "id": 535,
+        "name": "Italien",
+        "isoName": "Italy",
+        "isoCode": "ITA",
+        "fifaName": "Italy",
+        "fifaCode": "ITA"
+    },
+    {
+        "id": 536,
+        "name": "Jamaika",
+        "isoName": "Jamaica",
+        "isoCode": "JAM",
+        "fifaName": "Jamaica",
+        "fifaCode": "JAM"
+    },
+    {
+        "id": 537,
+        "name": "Japan",
+        "isoName": "Japan",
+        "isoCode": "JPN",
+        "fifaName": "Japan",
+        "fifaCode": "JPN"
+    },
+    {
+        "id": 538,
+        "name": "Jordanien",
+        "isoName": "Jordan",
+        "isoCode": "JOR",
+        "fifaName": "Jordan",
+        "fifaCode": "JOR"
+    },
+    {
+        "id": 539,
+        "name": "Kambodscha",
+        "isoName": "Cambodia",
+        "isoCode": "KHM",
+        "fifaName": "Cambodia",
+        "fifaCode": "CAM"
+    },
+    {
+        "id": 540,
+        "name": "Usbekistan",
+        "isoName": "Uzbekistan",
+        "isoCode": "UZB",
+        "fifaName": "Uzbekistan",
+        "fifaCode": "UZB"
+    },
+    {
+        "id": 541,
+        "name": "Vanuatu",
+        "isoName": "Vanuatu",
+        "isoCode": "VUT",
+        "fifaName": "Vanuatu",
+        "fifaCode": "VAN"
+    },
+    {
+        "id": 542,
+        "name": "Venezuela",
+        "isoName": "Venezuela",
+        "isoCode": "VEN",
+        "fifaName": "Venezuela",
+        "fifaCode": "VEN"
+    },
+    {
+        "id": 543,
+        "name": "Vereinigte Arabische Emirate",
+        "isoName": "United Arab Emirates",
+        "isoCode": "ARE",
+        "fifaName": "United Arab Emirates",
+        "fifaCode": "UAE"
+    },
+    {
+        "id": 544,
+        "name": "Vereinigte Staaten",
+        "isoName": "United States",
+        "isoCode": "USA",
+        "fifaName": "United States",
+        "fifaCode": "USA"
+    },
+    {
+        "id": 545,
+        "name": "Vietnam",
+        "isoName": "Vietnam",
+        "isoCode": "VNM",
+        "fifaName": "Vietnam",
+        "fifaCode": "VIE"
+    },
+    {
+        "id": 546,
+        "name": "Jemen",
+        "isoName": "Yemen",
+        "isoCode": "YEM",
+        "fifaName": "Yemen",
+        "fifaCode": "YEM"
+    },
+    {
+        "id": 547,
+        "name": "Simbabwe",
+        "isoName": "Zimbabwe",
+        "isoCode": "ZWE",
+        "fifaName": "Zimbabwe",
+        "fifaCode": "ZIM"
+    },
+    {
+        "id": 548,
+        "name": "Zypern",
+        "isoName": "Cyprus",
+        "isoCode": "CYP",
+        "fifaName": "Cyprus",
+        "fifaCode": "CYP"
+    },
+    {
+        "id": 549,
+        "name": "England",
+        "isoName": "United Kingdom",
+        "isoCode": "GBR",
+        "fifaName": "England",
+        "fifaCode": "ENG"
+    },
+    {
+        "id": 550,
+        "name": "Kanada",
+        "isoName": "Canada",
+        "isoCode": "CAN",
+        "fifaName": "Canada",
+        "fifaCode": "CAN"
+    },
+    {
+        "id": 551,
+        "name": "Kasachstan",
+        "isoName": "Kazakhstan",
+        "isoCode": "KAZ",
+        "fifaName": "Kazakhstan",
+        "fifaCode": "KAZ"
+    },
+    {
+        "id": 552,
+        "name": "Kenia",
+        "isoName": "Kenya",
+        "isoCode": "KEN",
+        "fifaName": "Kenya",
+        "fifaCode": "KEN"
+    },
+    {
+        "id": 553,
+        "name": "Kolumbien",
+        "isoName": "Colombia",
+        "isoCode": "COL",
+        "fifaName": "Colombia",
+        "fifaCode": "COL"
+    },
+    {
+        "id": 554,
+        "name": "Volksrepublik Kongo",
+        "isoName": "Republic of the Congo",
+        "isoCode": "COG",
+        "fifaName": "Congo",
+        "fifaCode": "CGO"
+    },
+    {
+        "id": 555,
+        "name": "Nordkorea",
+        "isoName": "North Korea",
+        "isoCode": "PRK",
+        "fifaName": "Korea DPR",
+        "fifaCode": "PRK"
+    },
+    {
+        "id": 556,
+        "name": "S\u00fcdkorea",
+        "isoName": "South Korea",
+        "isoCode": "KOR",
+        "fifaName": "Korea Republic",
+        "fifaCode": "KOR"
+    },
+    {
+        "id": 557,
+        "name": "Kuba",
+        "isoName": "Cuba",
+        "isoCode": "CUB",
+        "fifaName": "Cuba",
+        "fifaCode": "CUB"
+    },
+    {
+        "id": 558,
+        "name": "Kuwait",
+        "isoName": "Kuwait",
+        "isoCode": "KWT",
+        "fifaName": "Kuwait",
+        "fifaCode": "KUW"
+    },
+    {
+        "id": 559,
+        "name": "Schottland",
+        "isoName": "United Kingdom",
+        "isoCode": "GBR",
+        "fifaName": "Scotland",
+        "fifaCode": "SCO"
+    },
+    {
+        "id": 560,
+        "name": "Wales",
+        "isoName": "United Kingdom",
+        "isoCode": "GBR",
+        "fifaName": "Wales",
+        "fifaCode": "WAL"
+    },
+    {
+        "id": 561,
+        "name": "Nordirland",
+        "isoName": "United Kingdom",
+        "isoCode": "GBR",
+        "fifaName": "Northern Ireland",
+        "fifaCode": "NIR"
+    },
+    {
+        "id": 562,
+        "name": "DR Kongo",
+        "isoName": "DR Congo",
+        "isoCode": "COD",
+        "fifaName": "Congo DR",
+        "fifaCode": "COD"
+    },
+    {
+        "id": 563,
+        "name": "Kirgisistan",
+        "isoName": "Kyrgyzstan",
+        "isoCode": "KGZ",
+        "fifaName": "Kyrgyzstan",
+        "fifaCode": "KGZ"
+    },
+    {
+        "id": 564,
+        "name": "Laos",
+        "isoName": "Laos",
+        "isoCode": "LAO",
+        "fifaName": "Laos",
+        "fifaCode": "LAO"
+    },
+    {
+        "id": 565,
+        "name": "Lettland",
+        "isoName": "Latvia",
+        "isoCode": "LVA",
+        "fifaName": "Latvia",
+        "fifaCode": "LVA"
+    },
+    {
+        "id": 566,
+        "name": "Lesotho",
+        "isoName": "Lesotho",
+        "isoCode": "LSO",
+        "fifaName": "Lesotho",
+        "fifaCode": "LES"
+    },
+    {
+        "id": 567,
+        "name": "Libanon",
+        "isoName": "Lebanon",
+        "isoCode": "LBN",
+        "fifaName": "Lebanon",
+        "fifaCode": "LBN"
+    },
+    {
+        "id": 568,
+        "name": "Liberia",
+        "isoName": "Liberia",
+        "isoCode": "LBR",
+        "fifaName": "Liberia",
+        "fifaCode": "LBR"
+    },
+    {
+        "id": 569,
+        "name": "Libyen",
+        "isoName": "Libya",
+        "isoCode": "LBY",
+        "fifaName": "Libya",
+        "fifaCode": "LBY"
+    },
+    {
+        "id": 570,
+        "name": "Liechtenstein",
+        "isoName": "Liechtenstein",
+        "isoCode": "LIE",
+        "fifaName": "Liechtenstein",
+        "fifaCode": "LIE"
+    },
+    {
+        "id": 571,
+        "name": "Litauen",
+        "isoName": "Lithuania",
+        "isoCode": "LTU",
+        "fifaName": "Lithuania",
+        "fifaCode": "LTU"
+    },
+    {
+        "id": 572,
+        "name": "Luxemburg",
+        "isoName": "Luxembourg",
+        "isoCode": "LUX",
+        "fifaName": "Luxembourg",
+        "fifaCode": "LUX"
+    },
+    {
+        "id": 573,
+        "name": "Martinique",
+        "isoName": "Martinique",
+        "isoCode": "MTQ",
+        "fifaName": null,
+        "fifaCode": null
+    },
+    {
+        "id": 574,
+        "name": "F\u00e4r\u00f6er",
+        "isoName": "Faroe Islands",
+        "isoCode": "FRO",
+        "fifaName": "Faroe Islands",
+        "fifaCode": "FRO"
+    },
+    {
+        "id": 575,
+        "name": "Bermuda",
+        "isoName": "Bermuda",
+        "isoCode": "BMU",
+        "fifaName": "Bermuda",
+        "fifaCode": "BER"
+    },
+    {
+        "id": 576,
+        "name": "Serbien",
+        "isoName": "Serbia",
+        "isoCode": "SRB",
+        "fifaName": "Serbia",
+        "fifaCode": "SRB"
+    },
+    {
+        "id": 577,
+        "name": "Montenegro",
+        "isoName": "Montenegro",
+        "isoCode": "MNE",
+        "fifaName": "Montenegro",
+        "fifaCode": "MNE"
+    },
+    {
+        "id": 578,
+        "name": "Hongkong",
+        "isoName": "Hong Kong",
+        "isoCode": "HKG",
+        "fifaName": "Hong Kong",
+        "fifaCode": "HKG"
+    },
+    {
+        "id": 579,
+        "name": "Macao",
+        "isoName": "Macau",
+        "isoCode": "MAC",
+        "fifaName": "Macau",
+        "fifaCode": "MAC"
+    },
+    {
+        "id": 581,
+        "name": "Nordmazedonien",
+        "isoName": "North Macedonia",
+        "isoCode": "MKD",
+        "fifaName": "North Macedonia",
+        "fifaCode": "MKD"
+    },
+    {
+        "id": 584,
+        "name": "Madagaskar",
+        "isoName": "Madagascar",
+        "isoCode": "MDG",
+        "fifaName": "Madagascar",
+        "fifaCode": "MAD"
+    },
+    {
+        "id": 586,
+        "name": "Malawi",
+        "isoName": "Malawi",
+        "isoCode": "MWI",
+        "fifaName": "Malawi",
+        "fifaCode": "MWI"
+    },
+    {
+        "id": 587,
+        "name": "Malaysia",
+        "isoName": "Malaysia",
+        "isoCode": "MYS",
+        "fifaName": "Malaysia",
+        "fifaCode": "MAS"
+    },
+    {
+        "id": 588,
+        "name": "St. Vincent und die Grenadinen",
+        "isoName": "Saint Vincent and the Grenadines",
+        "isoCode": "VCT",
+        "fifaName": "Saint Vincent and the Grenadines",
+        "fifaCode": "VIN"
+    },
+    {
+        "id": 589,
+        "name": "Malediven",
+        "isoName": "Maldives",
+        "isoCode": "MDV",
+        "fifaName": "Maldives",
+        "fifaCode": "MDV"
+    },
+    {
+        "id": 590,
+        "name": "St. Kitts und Nevis",
+        "isoName": "Saint Kitts and Nevis",
+        "isoCode": "KNA",
+        "fifaName": "Saint Kitts and Nevis",
+        "fifaCode": "SKN"
+    },
+    {
+        "id": 591,
+        "name": "Mali",
+        "isoName": "Mali",
+        "isoCode": "MLI",
+        "fifaName": "Mali",
+        "fifaCode": "MLI"
+    },
+    {
+        "id": 592,
+        "name": "Turks- und Caicosinseln",
+        "isoName": "Turks and Caicos Islands",
+        "isoCode": "TCA",
+        "fifaName": "Turks and Caicos Islands",
+        "fifaCode": "TCA"
+    },
+    {
+        "id": 593,
+        "name": "Malta",
+        "isoName": "Malta",
+        "isoCode": "MLT",
+        "fifaName": "Malta",
+        "fifaCode": "MLT"
+    },
+    {
+        "id": 595,
+        "name": "Marokko",
+        "isoName": "Morocco",
+        "isoCode": "MAR",
+        "fifaName": "Morocco",
+        "fifaCode": "MAR"
+    },
+    {
+        "id": 596,
+        "name": "Puerto Rico",
+        "isoName": "Puerto Rico",
+        "isoCode": "PRI",
+        "fifaName": "Puerto Rico",
+        "fifaCode": "PUR"
+    },
+    {
+        "id": 597,
+        "name": "Cayman-Inseln",
+        "isoName": "Cayman Islands",
+        "isoCode": "CYM",
+        "fifaName": "Cayman Islands",
+        "fifaCode": "CAY"
+    },
+    {
+        "id": 598,
+        "name": "Mauretanien",
+        "isoName": "Mauritania",
+        "isoCode": "MRT",
+        "fifaName": "Mauritania",
+        "fifaCode": "MTN"
+    },
+    {
+        "id": 599,
+        "name": "Mauritius",
+        "isoName": "Mauritius",
+        "isoCode": "MUS",
+        "fifaName": "Mauritius",
+        "fifaCode": "MRI"
+    }
+]

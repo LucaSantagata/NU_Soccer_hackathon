@@ -1,0 +1,556 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Duel,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Clearance-Pressure,Min Jae Kim-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Michael Olise-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Shot,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Leon Goretzka-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Goal Keeper-Pass-Ball Receipt-Pass,Daniel Peretz-Harry Kane-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Jamal Musiala-Leon Goretzka-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Daniel Peretz-Daniel Peretz-Daniel Peretz-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Jamal Musiala-Jamal Musiala-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Alphonso Davies-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Injury Stoppage-Referee Ball-Drop-Ball Recovery,Daniel Peretz-Daniel Peretz-Daniel Peretz-Min Jae Kim-Min Jae Kim-Unknown-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Michael Olise-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Jamal Musiala-Jamal Musiala-Jamal Musiala-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Duel,Michael Olise-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt,Leroy Sané-Leroy Sané-Leroy Sané-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure-Pressure,Leroy Sané-Michael Olise-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leroy Sané-Konrad Laimer-Daniel Peretz-Daniel Peretz-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jamal Musiala-Alphonso Davies-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Alphonso Davies-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Kane-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Offside,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dispossessed,Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Carry-Pass,Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble-Carry,Harry Kane-Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala-Jamal Musiala-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Dayotchanculle Upamecano-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Pressure-Ball Receipt,Leon Goretzka-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz-Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Konrad Laimer-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble-Carry,Alphonso Davies-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Michael Olise-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Committed,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Interception-Pressure,Dayotchanculle Upamecano-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz-Daniel Peretz-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala-Jamal Musiala-Alphonso Davies-Alphonso Davies-Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Shot,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Miscontrol,Joshua Kimmich-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Daniel Peretz-Daniel Peretz-Leroy Sané-Leroy Sané-Leroy Sané-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Daniel Peretz-Daniel Peretz-Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Ball Recovery-Carry,Leroy Sané-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+50/50,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Committed,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Michael Olise-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pressure-Foul Committed,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pressure,Dayotchanculle Upamecano-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Harry Kane-Harry Kane-Harry Kane-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leroy Sané-Leroy Sané-Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Referee Ball-Drop,Unknown,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Jamal Musiala-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Daniel Peretz-Daniel Peretz-Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Michael Olise-Michael Olise-Michael Olise-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Foul Committed,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Konrad Laimer-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Leroy Sané-Leroy Sané-Leroy Sané-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass,Jamal Musiala-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot-Ball Receipt,Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leroy Sané-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Konrad Laimer-Konrad Laimer-Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Jamal Musiala-Jamal Musiala-Jamal Musiala-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Jamal Musiala-Jamal Musiala-Jamal Musiala-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leon Goretzka-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Alphonso Davies-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dispossessed,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Konrad Laimer-Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Konrad Laimer-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leroy Sané-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Miscontrol-Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Harry Kane-Alphonso Davies-Alphonso Davies-Michael Olise-Michael Olise-Michael Olise-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Harry Kane-Harry Kane-Harry Kane-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Harry Kane-Harry Kane-Harry Kane-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dispossessed,Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Harry Kane-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pressure,Michael Olise-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Michael Olise-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Shot-Block,Harry Kane-Michael Olise-Michael Olise-Michael Olise-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Alphonso Davies-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies-Alphonso Davies-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Kane-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Carry-Pass,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Jamal Musiala-Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Jamal Musiala-Jamal Musiala-Jamal Musiala-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Jamal Musiala-Jamal Musiala-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leon Goretzka-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Jamal Musiala-Jamal Musiala-Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Alphonso Davies-Alphonso Davies-Alphonso Davies-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer-Konrad Laimer-Daniel Peretz-Daniel Peretz-Daniel Peretz-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dayotchanculle Upamecano-Joshua Kimmich-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies-Alphonso Davies-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Jamal Musiala-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Leon Goretzka-Leon Goretzka-Leon Goretzka-Leroy Sané-Leroy Sané-Leroy Sané-Harry Kane-Harry Kane-Harry Kane-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Harry Kane-Jamal Musiala-Jamal Musiala-Jamal Musiala-Harry Kane-Harry Kane-Harry Kane-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Harry Kane-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Foul Committed,Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Clearance-Ball Recovery-Carry,Alphonso Davies-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Foul Committed,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Harry Kane-Alphonso Davies-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Joshua Kimmich-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Daniel Peretz-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past-Pressure,Leon Goretzka-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Harry Kane-Harry Kane-Harry Kane-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz-Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Alphonso Davies-Alphonso Davies-Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Michael Olise-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Harry Kane-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leroy Sané-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Daniel Peretz-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass,Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Daniel Peretz-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Daniel Peretz-Daniel Peretz-Daniel Peretz-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Dayotchanculle Upamecano-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Carry,Alphonso Davies-Leon Goretzka-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Alphonso Davies-Alphonso Davies-Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Ball Receipt,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Jamal Musiala-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Block-Pressure,Leon Goretzka-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Pass-Ball Receipt-Pass-Ball Receipt,Min Jae Kim-Alphonso Davies-Harry Kane-Harry Kane-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Harry Kane-Harry Kane-Harry Kane-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Michael Olise-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Konrad Laimer-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Michael Olise-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol-Ball Recovery-Shot,Leon Goretzka-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Konrad Laimer-Konrad Laimer-Konrad Laimer-Jamal Musiala-Jamal Musiala-Jamal Musiala-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Interception,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Pressure-Ball Receipt,Dayotchanculle Upamecano-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz-Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Dayotchanculle Upamecano-Harry Kane-Harry Kane-Harry Kane-Alphonso Davies-Alphonso Davies-Alphonso Davies-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané-Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Min Jae Kim-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Interception-Carry-Pass,Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dispossessed,Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Clearance,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Min Jae Kim-Min Jae Kim-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble-Carry,Harry Kane-Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Dispossessed,Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Leon Goretzka-Leon Goretzka-Leon Goretzka-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Michael Olise-Michael Olise-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Ball Recovery-Carry,Joshua Kimmich-Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Min Jae Kim-Michael Olise-Michael Olise-Michael Olise-Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure-Foul Committed,Min Jae Kim-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+50/50-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Leroy Sané-Leroy Sané-Leroy Sané-Michael Olise-Michael Olise-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Miscontrol,Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Bad Behaviour-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Harry Kane-Dayotchanculle Upamecano-Daniel Peretz-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Miscontrol-Pressure,Leroy Sané-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Daniel Peretz-Daniel Peretz-Daniel Peretz-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dispossessed,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Joshua Kimmich-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Min Jae Kim-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Injury Stoppage,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Referee Ball-Drop,Unknown,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Foul Committed,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pressure,Leon Goretzka-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leroy Sané-Jamal Musiala-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Committed,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Goal Keeper,Leon Goretzka-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Min Jae Kim-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Goal Keeper-Pass-Ball Receipt,Daniel Peretz-Min Jae Kim-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Alphonso Davies-Min Jae Kim-Min Jae Kim-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Pressure-Ball Receipt,Daniel Peretz-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Alphonso Davies-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dispossessed,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+50/50,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Konrad Laimer-Konrad Laimer-Konrad Laimer-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt,Leon Goretzka-Leon Goretzka-Leon Goretzka-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Pressure-Ball Receipt,Joshua Kimmich-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+50/50-Carry,Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-50/50,Konrad Laimer-Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Harry Kane-Harry Kane-Harry Kane-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Dribble-Carry,Leon Goretzka-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass-Ball Receipt-Shot,Leon Goretzka-Leon Goretzka-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Konrad Laimer,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Pressure,Dayotchanculle Upamecano-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Duel-Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Dayotchanculle Upamecano-Min Jae Kim-Dayotchanculle Upamecano-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leon Goretzka-Leon Goretzka-Leon Goretzka-Leroy Sané-Leroy Sané-Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Substitution-Tactical Shift-Shot,Alphonso Davies-Konrad Laimer-Unknown-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Alphonso Davies-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Daniel Peretz-Daniel Peretz-Daniel Peretz-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Harry Kane-Harry Kane-Harry Kane-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leon Goretzka-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Min Jae Kim-Min Jae Kim-Min Jae Kim-Jamal Musiala-Jamal Musiala-Jamal Musiala-Min Jae Kim-Min Jae Kim-Min Jae Kim-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Min Jae Kim-Min Jae Kim-Min Jae Kim-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joshua Kimmich-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dispossessed,Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Michael Olise-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble-Carry,Jamal Musiala-Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Michael Olise-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leon Goretzka-Alphonso Davies-Alphonso Davies-Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+50/50-Pass,Jamal Musiala-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure-Foul Committed,Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Min Jae Kim-Jamal Musiala-Jamal Musiala-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Michael Olise-Michael Olise-Michael Olise-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Joshua Kimmich-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Michael Olise-Daniel Peretz-Daniel Peretz,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Daniel Peretz-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Shot,Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Min Jae Kim,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leon Goretzka-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Leroy Sané-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Leroy Sané-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jamal Musiala-Leroy Sané-Leroy Sané-Leroy Sané-Harry Kane-Harry Kane-Harry Kane-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Miscontrol,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass,Michael Olise-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass,Harry Kane-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Joshua Kimmich-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Leroy Sané-Leroy Sané-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Alphonso Davies-Jamal Musiala-Jamal Musiala-Jamal Musiala-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Alphonso Davies-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Daniel Peretz-Daniel Peretz-Daniel Peretz-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Alphonso Davies-Alphonso Davies-Alphonso Davies-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble,Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Joshua Kimmich-Michael Olise-Michael Olise,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Min Jae Kim-Min Jae Kim-Min Jae Kim-Leon Goretzka-Leon Goretzka-Leon Goretzka-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka-Min Jae Kim-Min Jae Kim-Min Jae Kim-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt,Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Block-Foul Committed,Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Min Jae Kim-Min Jae Kim-Min Jae Kim-Alphonso Davies-Alphonso Davies-Alphonso Davies-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Clearance-Pass-Ball Receipt,Min Jae Kim-Joshua Kimmich-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Committed,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Substitution-Substitution-Substitution,Min Jae Kim-Michael Olise-Alphonso Davies,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Tactical Shift,Unknown,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Daniel Peretz-Eric Dier,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Eric Dier,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Leon Goretzka-Leon Goretzka-Leon Goretzka-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Jamal Musiala-Jamal Musiala-Jamal Musiala-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Mathys Tel-Mathys Tel,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Mathys Tel-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Joshua Kimmich-Leroy Sané-Leroy Sané-Leroy Sané-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Jamal Musiala-Jamal Musiala-Jamal Musiala-Mathys Tel-Mathys Tel-Mathys Tel,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Mathys Tel-Mathys Tel,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Mathys Tel-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Eric Dier-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka-Leon Goretzka-Mathys Tel-Mathys Tel-Mathys Tel-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Mathys Tel,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier-Eric Dier-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dayotchanculle Upamecano-Leon Goretzka-Leon Goretzka-Leon Goretzka-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Leon Goretzka-Leon Goretzka-Leon Goretzka-Mathys Tel-Mathys Tel-Mathys Tel-Harry Kane-Harry Kane,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Harry Kane-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Shot,Jamal Musiala-Joshua Kimmich-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Block,Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Substitution-Pass-Ball Receipt,Harry Kane-Joshua Kimmich-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass,Aleksandar Pavlović-Leroy Sané-Leroy Sané-Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Foul Won-Pass,Jamal Musiala-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Jamal Musiala-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Mathys Tel-Mathys Tel,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Mathys Tel-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Mathys Tel-Mathys Tel-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Thomas Müller-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Thomas Müller-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Aleksandar Pavlović-Leroy Sané-Leroy Sané-Leroy Sané-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Thomas Müller-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Leroy Sané-Joshua Kimmich,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Eric Dier,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribbled Past,Eric Dier,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Clearance-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dayotchanculle Upamecano-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Leon Goretzka-Leon Goretzka-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka-Leon Goretzka-Jamal Musiala-Jamal Musiala-Jamal Musiala-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Jamal Musiala-Thomas Müller-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leroy Sané-Leroy Sané-Leroy Sané-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt,Aleksandar Pavlović-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dayotchanculle Upamecano-Eric Dier-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka-Leon Goretzka-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Dayotchanculle Upamecano-Thomas Müller-Thomas Müller-Thomas Müller-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jamal Musiala-Thomas Müller-Thomas Müller-Jamal Musiala-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Receipt-Carry-Dribble-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass,Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Leroy Sané,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Ball Recovery-Carry,Leon Goretzka-Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Shot,Leon Goretzka,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry,Joshua Kimmich-Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Dribble-Carry,Jamal Musiala-Jamal Musiala,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Jamal Musiala-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Thomas Müller-Thomas Müller-Thomas Müller-Eric Dier-Eric Dier-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pressure,Thomas Müller,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Mathys Tel-Mathys Tel-Mathys Tel-Dayotchanculle Upamecano-Dayotchanculle Upamecano,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Injury Stoppage,Dayotchanculle Upamecano-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Thomas Müller-Thomas Müller-Thomas Müller-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović,3949617,Bayern Munich,Won,5,1,First half,1.6660289294760586,0.7376529460650766

@@ -1,0 +1,506 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Andrea Belotti-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper-Carry-Pass,José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception-Pass-Ball Receipt-Carry-Pass,Nicolás Paz Martínez-Marc-Oliver Kempf-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Gabriel Tadeu Strefezza Rebelato-Ignace Van der Brempt-Marc-Oliver Kempf-Marc-Oliver Kempf-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Edoardo Goldaniga-José Manuel Reina Páez-José Manuel Reina Páez-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Andrea Belotti-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Nicolás Paz Martínez-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass,Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Pass-Ball Receipt,Yannik Engelhardt-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-Goal Keeper,Edoardo Goldaniga-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,José Manuel Reina Páez-José Manuel Reina Páez-Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ignace Van der Brempt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol-Pressure,José Manuel Reina Páez-Andrea Belotti-Andrea Belotti-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Foul Committed,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Ball Recovery-Carry,Andrea Belotti-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Gabriel Tadeu Strefezza Rebelato-Andrea Belotti-Andrea Belotti-Andrea Belotti-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Federico Barba-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Andrea Belotti-Andrea Belotti-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Nicolás Paz Martínez-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Federico Barba-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Alieu Fadera-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Pass,Ignace Van der Brempt-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper-Pass-Ball Receipt-Pass,José Manuel Reina Páez-José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Andrea Belotti-Yannik Engelhardt-Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Gabriel Tadeu Strefezza Rebelato-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Shot,Ignace Van der Brempt-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass,Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ignace Van der Brempt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,José Manuel Reina Páez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Nicolás Paz Martínez-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Marc-Oliver Kempf-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception-Carry,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Federico Barba-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Federico Barba-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry-Shot,Alieu Fadera-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ignace Van der Brempt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Gabriel Tadeu Strefezza Rebelato-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Ignace Van der Brempt-Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Yannik Engelhardt-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Yannik Engelhardt-Yannik Engelhardt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-Ball Recovery-Carry-Pass,Nicolás Paz Martínez-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Injury Stoppage,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Lucas Da Cunha-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,José Manuel Reina Páez-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Andrea Belotti-Lucas Da Cunha-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera-Alieu Fadera-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Pressure,Alieu Fadera-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Lucas Da Cunha-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass,Alieu Fadera-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Andrea Belotti-Andrea Belotti-Andrea Belotti-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Alieu Fadera-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper-Pass-Ball Receipt-Carry,José Manuel Reina Páez-Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannik Engelhardt-Yannik Engelhardt-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dispossessed,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Federico Barba-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,José Manuel Reina Páez-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alieu Fadera-Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Duel,José Manuel Reina Páez-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt,Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-Clearance,Marc-Oliver Kempf-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Andrea Belotti-Federico Barba-Edoardo Goldaniga-Edoardo Goldaniga-Federico Barba-Federico Barba-Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ignace Van der Brempt-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Ball Receipt,Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Injury Stoppage,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Referee Ball-Drop,Unknown,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Pass,Alieu Fadera-Alieu Fadera-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Miscontrol,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Ignace Van der Brempt-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Gabriel Tadeu Strefezza Rebelato-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dispossessed,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Pressure-Pressure-Pressure,Lucas Da Cunha-Andrea Belotti-Lucas Da Cunha-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass,Edoardo Goldaniga-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Federico Barba-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Pass,Yannik Engelhardt-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Ball Receipt,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass,José Manuel Reina Páez-José Manuel Reina Páez-Andrea Belotti-Andrea Belotti-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot-Ball Receipt,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Pressure-Ball Receipt,Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Pressure,Ignace Van der Brempt-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Bad Behaviour,Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Tactical Shift,Unknown,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Alieu Fadera-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Edoardo Goldaniga-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Marc-Oliver Kempf-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Ignace Van der Brempt-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry,Gabriel Tadeu Strefezza Rebelato-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribble,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Andrea Belotti-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Federico Barba-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera-Alieu Fadera-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Da Cunha-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dribble-Carry,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Duel,Gabriel Tadeu Strefezza Rebelato-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Shot,Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribble-Carry,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Shot,Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Miscontrol,Andrea Belotti-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+50/50-Carry-Pass-Pressure,Andrea Belotti-Andrea Belotti-Andrea Belotti-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Edoardo Goldaniga-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass,Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Federico Barba-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dispossessed,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry,Alieu Fadera-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Lucas Da Cunha-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Andrea Belotti-Andrea Belotti-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribble-Carry,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Edoardo Goldaniga-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Yannik Engelhardt-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Nicolás Paz Martínez-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Injury Stoppage-Player Off,Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Player On-Ball Recovery-Carry,Lucas Da Cunha-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass,José Manuel Reina Páez-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Miscontrol,Andrea Belotti-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+50/50,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribble-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Alieu Fadera-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Alieu Fadera-Nicolás Paz Martínez-Nicolás Paz Martínez-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass,Alieu Fadera-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Shot,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Shot,Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Duel,Lucas Da Cunha-Lucas Da Cunha-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Da Cunha-Andrea Belotti-Andrea Belotti-Andrea Belotti-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Pass-Ball Receipt-Carry,Alieu Fadera-Nicolás Paz Martínez-Andrea Belotti-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Miscontrol,Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Pass,Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-50/50,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Pressure,Marc-Oliver Kempf-Yannik Engelhardt-Yannik Engelhardt-Yannik Engelhardt-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception-Carry-Pass,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alieu Fadera-Alieu Fadera-Alieu Fadera-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Federico Barba-Federico Barba-Federico Barba-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Yannik Engelhardt-Yannik Engelhardt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Yannik Engelhardt-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dispossessed,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Yannik Engelhardt-Andrea Belotti-Andrea Belotti-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Lucas Da Cunha-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Nicolás Paz Martínez-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure-Foul Committed,Andrea Belotti-Yannik Engelhardt-Andrea Belotti,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Substitution-Substitution-Pass-Ball Receipt-Carry,Andrea Belotti-Yannik Engelhardt-Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass,José Manuel Reina Páez-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Federico Barba-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass,Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dribble,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Foul Committed,Alieu Fadera-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry,Marc-Oliver Kempf-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alieu Fadera-Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Federico Barba-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Shot-Ball Receipt,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Patrick Cutrone-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass,Federico Barba-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Alieu Fadera-Alieu Fadera-Alieu Fadera-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Gabriel Tadeu Strefezza Rebelato-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass,Sergi Roberto Carnicer-Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lucas Da Cunha-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolás Paz Martínez-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Federico Barba-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Miscontrol,Federico Barba-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Pressure,Alieu Fadera-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Committed,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Pass,Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry-Pass-Ball Receipt,Patrick Cutrone-Federico Barba-Federico Barba-Federico Barba-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt,Marc-Oliver Kempf-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Pass,Alieu Fadera-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Nicolás Paz Martínez-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Federico Barba-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Federico Barba-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dispossessed,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Pressure,Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dribble,Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Sergi Roberto Carnicer-Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Shot,Gabriel Tadeu Strefezza Rebelato-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Nicolás Paz Martínez-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+50/50,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marc-Oliver Kempf-Edoardo Goldaniga-Edoardo Goldaniga-Sergi Roberto Carnicer-Sergi Roberto Carnicer-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribble-Carry,Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Edoardo Goldaniga-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dispossessed,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Interception,Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Carry,Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass,Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Block,Sergi Roberto Carnicer-Sergi Roberto Carnicer-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Federico Barba-Federico Barba-Federico Barba-Alieu Fadera-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Gabriel Tadeu Strefezza Rebelato-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Marc-Oliver Kempf-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Lucas Da Cunha-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Pressure-Foul Committed,Alieu Fadera-Lucas Da Cunha-Lucas Da Cunha,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Substitution-Substitution,Lucas Da Cunha-Gabriel Tadeu Strefezza Rebelato,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Tactical Shift-Pass-Ball Receipt-Pass,Unknown-José Manuel Reina Páez-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Patrick Cutrone-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Patrick Cutrone-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Alieu Fadera-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Federico Barba-Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry,Benjamin Lhassine Kone-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt-Ignace Van der Brempt-Marc-Oliver Kempf-Marc-Oliver Kempf-Marc-Oliver Kempf-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Shot-Ball Receipt,Alessandro Gabrielloni-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Alessandro Gabrielloni-Alessandro Gabrielloni-Alessandro Gabrielloni-Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dispossessed,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Goal Keeper,José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Patrick Cutrone-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Carry,Patrick Cutrone-Federico Barba-Marc-Oliver Kempf-Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Pass,Marc-Oliver Kempf-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patrick Cutrone-Patrick Cutrone-Alieu Fadera-Alieu Fadera-Alieu Fadera-Benjamin Lhassine Kone-Benjamin Lhassine Kone-Benjamin Lhassine Kone-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Shot,Ignace Van der Brempt-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Marc-Oliver Kempf-Marc-Oliver Kempf-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Pressure,Edoardo Goldaniga-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Edoardo Goldaniga-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer-Benjamin Lhassine Kone-Benjamin Lhassine Kone-Benjamin Lhassine Kone-Ignace Van der Brempt-Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Shot-Block,Ignace Van der Brempt-Nicolás Paz Martínez-Alieu Fadera-Alieu Fadera-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Dispossessed,Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Federico Barba-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Foul Committed,Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shield-Pass-Ball Receipt,Federico Barba-Federico Barba-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Duel,Marc-Oliver Kempf-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Dispossessed,Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Pressure,Patrick Cutrone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt,Federico Barba-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance-Block,Sergi Roberto Carnicer-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Dispossessed,Sergi Roberto Carnicer-Sergi Roberto Carnicer-Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Carry,Sergi Roberto Carnicer-Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Sergi Roberto Carnicer-Edoardo Goldaniga-Marc-Oliver Kempf-Marc-Oliver Kempf-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez-Edoardo Goldaniga-Edoardo Goldaniga-Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry,Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Ball Receipt-Carry-Pass,Alessandro Gabrielloni-Alieu Fadera-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry,Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel,Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Dribbled Past-Pressure-Foul Committed,Federico Barba-Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Edoardo Goldaniga,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Alessandro Gabrielloni-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure-Pressure,Benjamin Lhassine Kone-Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Miscontrol,Benjamin Lhassine Kone-Benjamin Lhassine Kone-Benjamin Lhassine Kone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block,Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Sergi Roberto Carnicer,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benjamin Lhassine Kone-Benjamin Lhassine Kone-Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez-Alieu Fadera-Alieu Fadera,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Foul Won-Pass-Ball Receipt-Duel,Alieu Fadera-Nicolás Paz Martínez-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Recovery-Carry-Pass,Nicolás Paz Martínez-Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass,Patrick Cutrone-Patrick Cutrone-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot-Ball Receipt,Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass-Pressure,Nicolás Paz Martínez-Patrick Cutrone,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Duel-Ball Recovery-Carry-Pass,Alieu Fadera-José Manuel Reina Páez-José Manuel Reina Páez-José Manuel Reina Páez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Federico Barba,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pass,Marc-Oliver Kempf,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Ball Receipt-Carry-Pass-Ball Receipt-Bad Behaviour,Patrick Cutrone-Patrick Cutrone-Patrick Cutrone-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Clearance,Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Pressure,Ignace Van der Brempt,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Block-Ball Recovery-Carry-Pass,Ignace Van der Brempt-Alessandro Gabrielloni-Alessandro Gabrielloni-Alessandro Gabrielloni,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008
+Shot-Ball Receipt,Nicolás Paz Martínez-Nicolás Paz Martínez,3945110,Como,Won,2,0,First half,1.3263491795380824,0.7634520813818008

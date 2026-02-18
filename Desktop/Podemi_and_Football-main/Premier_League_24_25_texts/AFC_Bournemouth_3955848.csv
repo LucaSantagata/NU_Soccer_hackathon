@@ -1,0 +1,583 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Ryan Christie-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Pass-Ball Receipt-Carry,Antoine Semenyo-Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Dean Donny Huijsen-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,David Brooks-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dean Donny Huijsen-Milos Kerkez-Milos Kerkez-Milos Kerkez-Illia Zabarnyi-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Illia Zabarnyi-David Brooks-David Brooks-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Justin Kluivert-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt,Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Lewis Cook-David Brooks-David Brooks-Lewis Cook-Lewis Cook-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Lewis Cook-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ryan Christie-Justin Kluivert-Justin Kluivert-Justin Kluivert-David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Shot,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Shot,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Illia Zabarnyi-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Ryan Christie-David Brooks-David Brooks-David Brooks-Justin Kluivert-Justin Kluivert-Justin Kluivert-Lewis Cook-Lewis Cook-David Brooks-David Brooks-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Cook-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tyler Adams-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Dean Donny Huijsen-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Milos Kerkez-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Antoine Semenyo-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Ryan Christie-Tyler Adams-Tyler Adams-Tyler Adams-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert-Justin Kluivert-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie-Milos Kerkez-Milos Kerkez-Ryan Christie-Ryan Christie-Tyler Adams-Tyler Adams-Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Ball Recovery-Carry,Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass,Tyler Adams-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Dribble-Carry,Milos Kerkez-Milos Kerkez-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Milos Kerkez-Antoine Semenyo-Antoine Semenyo-Milos Kerkez-Milos Kerkez-Milos Kerkez-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass-Ball Receipt-Pass,David Brooks-David Brooks-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass,Tyler Adams-David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Tyler Adams-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Tyler Adams-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Milos Kerkez-Milos Kerkez-Milos Kerkez-Justin Kluivert-Justin Kluivert-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Ryan Christie-Ryan Christie-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Tyler Adams-Tyler Adams-Tyler Adams-Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ryan Christie-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Milos Kerkez-Milos Kerkez-Ryan Christie-Ryan Christie-Ryan Christie-Tyler Adams-Tyler Adams-Tyler Adams-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass,Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Ball Recovery-Carry,Dango Aboubacar Faissal Ouattara-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Dribble-Carry,David Brooks-David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,David Brooks-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past-Pressure,Lewis Cook-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tyler Adams-David Brooks-David Brooks-David Brooks-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Tyler Adams-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Cook-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Justin Kluivert-Justin Kluivert-Justin Kluivert-David Brooks-David Brooks-Justin Kluivert-Justin Kluivert-Justin Kluivert-Tyler Adams-Tyler Adams-Tyler Adams-Lewis Cook-Lewis Cook-Lewis Cook-Tyler Adams-Tyler Adams-Tyler Adams-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Tyler Adams-Tyler Adams-Tyler Adams-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Illia Zabarnyi-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt,Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Antoine Semenyo-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass,Antoine Semenyo-Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Pressure,Milos Kerkez-Milos Kerkez-Milos Kerkez-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,David Brooks-Tyler Adams-Tyler Adams-David Brooks-David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Ryan Christie-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dango Aboubacar Faissal Ouattara-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dispossessed,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Duel,Milos Kerkez-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Dispossessed,Justin Kluivert-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+50/50,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Injury Stoppage-Player Off-Pass,Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Duel,Lewis Cook-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Player On,Dean Donny Huijsen-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,David Brooks-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara-Dean Donny Huijsen-Dean Donny Huijsen-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Antoine Semenyo-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Tyler Adams-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,David Brooks-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper,Dean Donny Huijsen-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Pressure-Ball Receipt,Milos Kerkez-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-David Brooks-David Brooks-David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Carry-Pass-Ball Receipt-Carry,Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Justin Kluivert-David Brooks-David Brooks-David Brooks-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Pressure-Ball Receipt,Ryan Christie-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Cook-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Antoine Semenyo-Tyler Adams-Tyler Adams-Tyler Adams-Ryan Christie-Ryan Christie-Tyler Adams-Tyler Adams-Tyler Adams-Ryan Christie-Ryan Christie-Ryan Christie-Tyler Adams-Tyler Adams-Tyler Adams-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ryan Christie-Dean Donny Huijsen-Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Illia Zabarnyi-David Brooks-David Brooks-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Brooks-David Brooks-Illia Zabarnyi-Illia Zabarnyi-Lewis Cook-Lewis Cook-Lewis Cook-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass,Tyler Adams-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Antoine Semenyo-Milos Kerkez-Milos Kerkez-Milos Kerkez-Justin Kluivert-Justin Kluivert-Justin Kluivert-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Milos Kerkez-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Lewis Cook-Lewis Cook-Lewis Cook-Justin Kluivert-Justin Kluivert-Justin Kluivert-Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Dribble,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Duel,Lewis Cook-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception-Ball Recovery-Carry,Lewis Cook-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tyler Adams-Dean Donny Huijsen-Milos Kerkez-Milos Kerkez-Milos Kerkez-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass-Ball Receipt-Carry,Tyler Adams-Dean Donny Huijsen-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Miscontrol-Pressure,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass-Ball Receipt-Duel,Illia Zabarnyi-Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Tyler Adams-Tyler Adams-Tyler Adams-Milos Kerkez-Milos Kerkez-Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie-Ryan Christie-Milos Kerkez-Milos Kerkez-Milos Kerkez-Tyler Adams-Tyler Adams-Tyler Adams-Justin Kluivert-Justin Kluivert-Justin Kluivert-Ryan Christie-Ryan Christie-Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,David Brooks-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Pressure,Tyler Adams-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Foul Committed,Kepa Arrizabalaga Revuelta-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Pass,Lewis Cook-Tyler Adams-Tyler Adams-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass-Ball Receipt-Carry,David Brooks-David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Dango Aboubacar Faissal Ouattara-Tyler Adams-Tyler Adams-Tyler Adams-Lewis Cook-Lewis Cook-Lewis Cook-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Illia Zabarnyi-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Carry-Dispossessed,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,David Brooks-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Tyler Adams-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Justin Kluivert-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Ryan Christie-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper,Antoine Semenyo-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Miscontrol,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Tyler Adams-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Illia Zabarnyi-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception-Carry-Dribble,Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Pass-Ball Receipt-Miscontrol,Justin Kluivert-Justin Kluivert-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt,David Brooks-David Brooks-David Brooks-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Milos Kerkez-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Carry-Pass-Pressure-Ball Receipt,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Pressure,Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Shot,Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Clearance,Tyler Adams-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Justin Kluivert-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,David Brooks-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Duel,Justin Kluivert-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Tyler Adams-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Pressure-Ball Receipt,Lewis Cook-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Clearance,Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Pressure,Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,David Brooks-David Brooks-David Brooks-Lewis Cook-Lewis Cook-Lewis Cook-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dispossessed,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Bad Behaviour,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Error-Pressure,Milos Kerkez-Milos Kerkez-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper,Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Justin Kluivert-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass,Dean Donny Huijsen-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Dean Donny Huijsen-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Antoine Semenyo-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Dispossessed,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,David Brooks-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Lewis Cook-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Justin Kluivert-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Pressure,Antoine Semenyo-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Shot,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Pressure,Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Pass,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Duel,Illia Zabarnyi-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Dango Aboubacar Faissal Ouattara-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dispossessed,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass-Ball Receipt,Ryan Christie-Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Pass-Ball Receipt-Carry-Pass-Miscontrol-Ball Receipt-Carry-Pressure,Antoine Semenyo-Dango Aboubacar Faissal Ouattara-David Brooks-David Brooks-David Brooks-Ryan Christie-Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Milos Kerkez-Milos Kerkez-Milos Kerkez-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Lewis Cook-Lewis Cook-Lewis Cook-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Tyler Adams-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Lewis Cook-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Tyler Adams-Lewis Cook-Lewis Cook-Lewis Cook-David Brooks-David Brooks-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception-Pressure,Dean Donny Huijsen-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Duel,Dean Donny Huijsen-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Pass-Ball Receipt-Pass,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Ball Receipt,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Block,Ryan Christie-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Lewis Cook-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass,Tyler Adams-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Ryan Christie-Ryan Christie-Ryan Christie-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Semenyo-David Brooks-David Brooks-David Brooks-Justin Kluivert-Justin Kluivert-Justin Kluivert-Milos Kerkez-Milos Kerkez-Milos Kerkez-Ryan Christie-Ryan Christie-Ryan Christie-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tyler Adams-Ryan Christie-Ryan Christie-Ryan Christie-Justin Kluivert-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass-Ball Receipt,Justin Kluivert-David Brooks-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Pass-Ball Receipt,Dean Donny Huijsen-Lewis Cook-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Pressure-Ball Receipt,Dango Aboubacar Faissal Ouattara-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Dango Aboubacar Faissal Ouattara-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Pressure,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Shot,David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Justin Kluivert-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Illia Zabarnyi-Dean Donny Huijsen-Dean Donny Huijsen-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Pass,Tyler Adams-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass,Justin Kluivert-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass,David Brooks-David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ryan Christie-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Pass-Ball Receipt-Carry,Dean Donny Huijsen-David Brooks-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Dango Aboubacar Faissal Ouattara-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Ryan Christie-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Shot,David Brooks-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Dispossessed,Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt,Ryan Christie-Ryan Christie-Ryan Christie-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Pressure-Ball Receipt-Foul Committed,Antoine Semenyo-Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Pass-Ball Receipt-Pass-Pressure-Ball Receipt,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Lewis Cook-Lewis Cook-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Lewis Cook-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception-Carry,Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Ball Recovery-Injury Stoppage,Illia Zabarnyi-Kepa Arrizabalaga Revuelta-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Referee Ball-Drop-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol-Pressure,Unknown-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Duel,Kepa Arrizabalaga Revuelta-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Carry-Miscontrol-Pressure,Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shield-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Ryan Christie-Milos Kerkez-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Foul Committed,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Block-Ball Recovery-Pass,Ryan Christie-Lewis Cook-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Illia Zabarnyi-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Tyler Adams-David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel-Carry-Pass-Ball Receipt,Justin Kluivert-Justin Kluivert-Justin Kluivert-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Ball Recovery-Pass-Ball Receipt-Duel,Lewis Cook-Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,David Brooks,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo-Ryan Christie-Ryan Christie-Ryan Christie-Dean Donny Huijsen-Dean Donny Huijsen-Dean Donny Huijsen-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Ryan Christie-Ryan Christie-Ryan Christie-Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Ryan Christie-Ryan Christie-Ryan Christie-Milos Kerkez-Milos Kerkez-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass,Ryan Christie-Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Miscontrol,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Pass-Ball Receipt,Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure-Pressure,Antoine Semenyo-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Substitution-Tactical Shift-Pass-Ball Receipt,David Brooks-Unknown-Milos Kerkez-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass,Milos Kerkez-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass,Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Duel,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Pressure,Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Committed,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper,Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper-Block-Block,Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Dango Aboubacar Faissal Ouattara-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Milos Kerkez-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Miscontrol,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Cook-Lewis Cook-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Daniel Jebbison-Daniel Jebbison-Daniel Jebbison-Tyler Adams-Tyler Adams-Tyler Adams-Justin Kluivert-Justin Kluivert-Justin Kluivert-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Milos Kerkez-Milos Kerkez-Milos Kerkez-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Illia Zabarnyi-Illia Zabarnyi-Illia Zabarnyi-Ryan Christie-Ryan Christie-Ryan Christie-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Milos Kerkez-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Miscontrol,Milos Kerkez-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+50/50-Pressure-Pressure,Ryan Christie-Milos Kerkez-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass,Ryan Christie-Justin Kluivert-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Dispossessed,Tyler Adams-Tyler Adams-Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry,Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Antoine Semenyo-Milos Kerkez-Milos Kerkez-Milos Kerkez-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dispossessed,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Dribble-Carry,Lewis Cook-Lewis Cook-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass,Ryan Christie-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception-Foul Committed,Dean Donny Huijsen-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper-Pressure,Illia Zabarnyi-Kepa Arrizabalaga Revuelta-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Pass-Ball Receipt-Pass,Kepa Arrizabalaga Revuelta-Kepa Arrizabalaga Revuelta-Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block,Dean Donny Huijsen,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Milos Kerkez-Milos Kerkez-Milos Kerkez-Daniel Jebbison-Daniel Jebbison-Daniel Jebbison-Antoine Semenyo-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Shot,Justin Kluivert-Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass,Ryan Christie-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Carry-Dribble,Daniel Jebbison-Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Milos Kerkez-Antoine Semenyo-Antoine Semenyo-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Miscontrol,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Shot,Tyler Adams-Justin Kluivert-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Bad Behaviour,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry-Pass,Lewis Cook-Lewis Cook-Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Receipt-Pass-Ball Receipt-Carry,Tyler Adams-Tyler Adams-Illia Zabarnyi-Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Illia Zabarnyi-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt,Daniel Jebbison-Antoine Semenyo,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Lewis Cook,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance,Illia Zabarnyi,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+50/50-Carry-Pass-Pressure-Ball Receipt,Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Clearance-Ball Recovery-Carry,Lewis Cook-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry,Ryan Christie-Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribble-Carry,Daniel Jebbison-Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Shot,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Pass-Ball Receipt-Carry,Ryan Christie-Milos Kerkez-Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ryan Christie-Antoine Semenyo-Antoine Semenyo-Antoine Semenyo-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dispossessed,Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past,Tyler Adams,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Goal Keeper-Pressure,Kepa Arrizabalaga Revuelta-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Block-Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Carry,Dean Donny Huijsen-Kepa Arrizabalaga Revuelta-Ryan Christie-Ryan Christie-Ryan Christie-Justin Kluivert-Justin Kluivert,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Justin Kluivert-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara-Lewis Cook-Lewis Cook-Tyler Adams-Tyler Adams-Tyler Adams-Dango Aboubacar Faissal Ouattara-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Dango Aboubacar Faissal Ouattara-Justin Kluivert-Justin Kluivert-Justin Kluivert-Milos Kerkez-Milos Kerkez-Milos Kerkez,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Bad Behaviour-Substitution-Substitution,Milos Kerkez-Justin Kluivert-Dango Aboubacar Faissal Ouattara,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Pressure,Ben Winterburn,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Dribbled Past-Pressure,Ben Winterburn-Ben Winterburn,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Interception,Daniel Jebbison,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Ball Recovery-Carry,Ryan Christie-Ryan Christie,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059
+Foul Won-Pass,Ryan Christie-Kepa Arrizabalaga Revuelta,3955848,AFC Bournemouth,Won,4,1,Second half,1.336156583186888,0.7447142755813059

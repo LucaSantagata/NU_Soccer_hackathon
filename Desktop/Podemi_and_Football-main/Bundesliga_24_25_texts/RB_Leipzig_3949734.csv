@@ -1,0 +1,438 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Arthur Vermeeren-Arthur Vermeeren-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Pressure,David Raum-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,Nicolas Seiwald-Nicolas Seiwald-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Foul Committed,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Pressure,Arthur Vermeeren-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper,Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Error,David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper,Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance-Clearance,Benjamin Šeško-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance-Ball Recovery-Pressure,Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-Péter Gulácsi-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Kosta Nedeljković-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt,Xavi Simons-Xavi Simons-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kosta Nedeljković-Xavi Simons-Xavi Simons-Xavi Simons-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Xavi Simons-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Willi Orban-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Miscontrol-Ball Recovery,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ridle Bote Baku-Arthur Vermeeren-Willi Orban-Willi Orban-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ikoma Loïs Openda-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-David Raum-David Raum-David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Raum-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Willi Orban-Péter Gulácsi-Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Junior Castello Lukeba-Benjamin Šeško-Benjamin Šeško-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Willi Orban-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Xavi Simons-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt,Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Shot,Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Pressure,Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Error-Pass-Ball Receipt,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Péter Gulácsi-Ikoma Loïs Openda-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Carry,Xavi Simons-Xavi Simons-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Junior Castello Lukeba-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Ridle Bote Baku-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass,Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kosta Nedeljković-Benjamin Šeško-Benjamin Šeško-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Pressure,Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Carry,Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Dispossessed,Xavi Simons-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance-Ball Recovery,Kosta Nedeljković-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Shot,Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Pressure,Kosta Nedeljković-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Ball Recovery-Carry-Pass-Ball Receipt,Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Péter Gulácsi-Péter Gulácsi-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Dispossessed,Willi Orban-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ridle Bote Baku-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benjamin Šeško-Willi Orban-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Xavi Simons-Xavi Simons-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Ridle Bote Baku-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Arthur Vermeeren-Willi Orban-Willi Orban-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ikoma Loïs Openda-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribble,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Foul Committed,David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kosta Nedeljković-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Benjamin Šeško-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Willi Orban-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Kosta Nedeljković-Willi Orban-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Willi Orban-Péter Gulácsi-Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass,Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,Benjamin Šeško-Benjamin Šeško-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Junior Castello Lukeba-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dispossessed,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolas Seiwald-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dispossessed,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Carry,Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Duel,Junior Castello Lukeba-Péter Gulácsi-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Interception,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Nicolas Seiwald-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry,Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Raum-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Ridle Bote Baku-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Miscontrol-Pressure,David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-David Raum-Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Arthur Vermeeren-David Raum-David Raum-David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Duel,David Raum-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Duel,David Raum-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Duel,Kosta Nedeljković-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Xavi Simons-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Arthur Vermeeren-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Xavi Simons-Willi Orban-Willi Orban-Willi Orban-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Pressure,Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+50/50,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Nicolas Seiwald-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Dribble-Carry,Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dispossessed,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Committed,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt,David Raum-David Raum-David Raum-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Pass,Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Benjamin Šeško-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass,Xavi Simons-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Foul Committed,Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Junior Castello Lukeba-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,David Raum-Xavi Simons-Xavi Simons-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Nicolas Seiwald-Nicolas Seiwald-Ridle Bote Baku-Ridle Bote Baku-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Foul Committed,Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Kosta Nedeljković-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Junior Castello Lukeba-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren-David Raum-David Raum-David Raum-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Arthur Vermeeren-Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-David Raum-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribble-Carry,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Benjamin Šeško-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Shot,Ridle Bote Baku-Ridle Bote Baku,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,David Raum-Benjamin Šeško-Benjamin Šeško-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,David Raum-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ridle Bote Baku-Ridle Bote Baku-Ridle Bote Baku-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Xavi Simons-Xavi Simons-Arthur Vermeeren-Arthur Vermeeren-Ikoma Loïs Openda-Ikoma Loïs Openda-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Xavi Simons-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Miscontrol,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,David Raum-Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribble-Carry,Arthur Vermeeren-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,Ikoma Loïs Openda-Ikoma Loïs Openda-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Pass-Ball Receipt,Péter Gulácsi-Péter Gulácsi-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt,Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Willi Orban-Arthur Vermeeren-Arthur Vermeeren-David Raum-David Raum-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Junior Castello Lukeba-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Substitution-Substitution,Xavi Simons-David Raum-Ridle Bote Baku-Arthur Vermeeren,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Xavi Simons-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Xavi Simons-Xavi Simons-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Christoph Baumgartner-Christoph Baumgartner-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Pass,Ikoma Loïs Openda-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,David Raum-David Raum-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Tidiam Gomis-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Goal Keeper-Pressure,Junior Castello Lukeba-Péter Gulácsi-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Ikoma Loïs Openda-Ikoma Loïs Openda-Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Pressure,Benjamin Šeško-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Interception-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Ikoma Loïs Openda-Ikoma Loïs Openda-Nicolas Seiwald-Nicolas Seiwald-Xavi Simons-Xavi Simons-Xavi Simons-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Xavi Simons-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-David Raum-David Raum-David Raum-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Tidiam Gomis-David Raum-David Raum-Xavi Simons-Xavi Simons-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Willi Orban-Willi Orban-Willi Orban-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Tidiam Gomis-Tidiam Gomis-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,Christoph Baumgartner-Christoph Baumgartner-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Pass-Ball Receipt-Ball Receipt-Pass-Ball Receipt-Pass,Xavi Simons-David Raum-David Raum-Xavi Simons-David Raum-Xavi Simons-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Xavi Simons-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kosta Nedeljković-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Kosta Nedeljković-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Ikoma Loïs Openda-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot-Ball Receipt,Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Ikoma Loïs Openda-Ikoma Loïs Openda-David Raum-David Raum-David Raum-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-Willi Orban-Willi Orban-Willi Orban-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry,David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Shot,David Raum-Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Benjamin Šeško-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-Péter Gulácsi-Péter Gulácsi-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Miscontrol,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christoph Baumgartner-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass,Xavi Simons-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Miscontrol-Pressure,Xavi Simons-Xavi Simons-Xavi Simons-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Xavi Simons-Willi Orban-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Shot,Xavi Simons-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Shot,Willi Orban-Willi Orban-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Interception,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt,Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass,Christoph Baumgartner-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Ball Receipt,Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past-Pressure-Pressure,Christoph Baumgartner-Tidiam Gomis-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Foul Committed,Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,David Raum-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolas Seiwald-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Pressure-Ball Receipt,Kosta Nedeljković-Ikoma Loïs Openda-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kosta Nedeljković-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past,Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Benjamin Šeško-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolas Seiwald-Ikoma Loïs Openda-Ikoma Loïs Openda-Ikoma Loïs Openda-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Miscontrol,Tidiam Gomis-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass,Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Dispossessed,Tidiam Gomis-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Foul Committed,Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Péter Gulácsi-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Kosta Nedeljković-Kosta Nedeljković-Kosta Nedeljković-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Pressure-Ball Receipt,David Raum-David Raum-David Raum-Kosta Nedeljković-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past-Pressure,Xavi Simons-Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper,Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Goal Keeper-Clearance,Péter Gulácsi-Kosta Nedeljković,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Ikoma Loïs Openda-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ikoma Loïs Openda-Christoph Baumgartner-Nicolas Seiwald-Nicolas Seiwald-David Raum-David Raum-David Raum-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Willi Orban-Willi Orban-Willi Orban-Nicolas Seiwald-Nicolas Seiwald-Nicolas Seiwald-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Willi Orban-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Ikoma Loïs Openda-Ikoma Loïs Openda-Junior Castello Lukeba-Junior Castello Lukeba-Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Substitution-Substitution-Pass,Kosta Nedeljković-Nicolas Seiwald-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Xavi Simons-Xavi Simons-Xavi Simons-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Xavi Simons-Xavi Simons-Xavi Simons-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Tidiam Gomis-Tidiam Gomis-Willi Orban-Willi Orban-Willi Orban-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Xavi Simons-Xavi Simons-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Committed,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass,Willi Orban-Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Committed,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,David Raum-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-David Raum-David Raum-David Raum-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Lukas Klostermann-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Ikoma Loïs Openda-Ikoma Loïs Openda-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+50/50-Block,Xavi Simons-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Pass-Ball Receipt-Carry-Pass,David Raum-Junior Castello Lukeba-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christoph Baumgartner-Christoph Baumgartner-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Péter Gulácsi-Péter Gulácsi,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Péter Gulácsi-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lukas Klostermann-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance-Ball Recovery-Carry,Willi Orban-Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Foul Won-Substitution,Tidiam Gomis-Ikoma Loïs Openda,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Klostermann-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Tidiam Gomis-Tidiam Gomis-Tidiam Gomis-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Willi Orban-Willi Orban-Willi Orban-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Christoph Baumgartner-Christoph Baumgartner-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Willi Orban-Willi Orban-Willi Orban-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-Amadou Haïdara-Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Amadou Haïdara-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Xavi Simons-Benjamin Šeško-Benjamin Šeško-Benjamin Šeško-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Pass-Pressure-Ball Receipt,Amadou Haïdara-David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Amadou Haïdara-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum-Yussuf Yurary Poulsen-Yussuf Yurary Poulsen-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry,Yussuf Yurary Poulsen-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Shot,Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Xavi Simons-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Pass-Ball Receipt,Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry,Amadou Haïdara-Christoph Baumgartner-Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christoph Baumgartner-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-David Raum-David Raum-David Raum-Yussuf Yurary Poulsen-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Yussuf Yurary Poulsen-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Xavi Simons-David Raum-David Raum-David Raum-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,David Raum-Xavi Simons-Xavi Simons-Xavi Simons-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Péter Gulácsi-Péter Gulácsi-Péter Gulácsi-Willi Orban-Willi Orban-Willi Orban-Christoph Baumgartner-Christoph Baumgartner-Christoph Baumgartner-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry,Benjamin Šeško-Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribble,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Miscontrol,Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Recovery-Shot,Tidiam Gomis-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel-Carry,David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass,David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Miscontrol,Benjamin Šeško,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Christoph Baumgartner,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Amadou Haïdara-Lukas Klostermann-Lukas Klostermann-Lukas Klostermann-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba-Xavi Simons-Xavi Simons-Xavi Simons-David Raum-David Raum-David Raum,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Shot,Yussuf Yurary Poulsen-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Duel,Tidiam Gomis-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Block-Ball Recovery-Carry-Miscontrol,David Raum-Junior Castello Lukeba-Junior Castello Lukeba-Junior Castello Lukeba,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Dribbled Past,Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Clearance,Willi Orban,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Pressure,Tidiam Gomis-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Duel,Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Interception-Carry,Amadou Haïdara-Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,Amadou Haïdara-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass,David Raum-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt,David Raum-Yussuf Yurary Poulsen,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Carry-Pass,Yussuf Yurary Poulsen-Amadou Haïdara-Amadou Haïdara-Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Ball Receipt-Carry-Dispossessed,Xavi Simons-Xavi Simons-Xavi Simons,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure,Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pressure-Foul Committed,Yussuf Yurary Poulsen-Amadou Haïdara,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541
+Pass-Ball Receipt-Pass-Ball Receipt,Junior Castello Lukeba-Xavi Simons-Xavi Simons-Tidiam Gomis,3949734,RB Leipzig,Won,3,1,Second half,0.8952073954488764,0.8629657634364541

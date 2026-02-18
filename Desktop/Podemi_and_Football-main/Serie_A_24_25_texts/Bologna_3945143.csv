@@ -1,0 +1,524 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nikola Moro-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emil Holm-Emil Holm-Emil Holm-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Santiago Thomas Castro-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jens Odgaard-Dan Ndoye-Dan Ndoye-Dan Ndoye-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Jens Odgaard-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Miscontrol,Emil Holm-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt,Łukasz Skorupski-Nicolò Casale-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Łukasz Skorupski-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol-Pressure,Jens Odgaard-Emil Holm-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolò Casale-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emil Holm-Emil Holm-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Dispossessed,Jens Odgaard-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Remo Freuler-Emil Holm-Emil Holm-Emil Holm-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Sam Beukema-Sam Beukema-Sam Beukema-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Goal Keeper,Charalampos Lykogiannis-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Interception,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Emil Holm-Emil Holm-Emil Holm-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass,Nikola Moro-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Miscontrol,Nicolò Casale-Nikola Moro-Jens Odgaard-Jens Odgaard-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Miscontrol,Jens Odgaard-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Carry-Shot,Nikola Moro-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nicolò Casale-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Riccardo Orsolini-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Pressure,Dan Ndoye-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Riccardo Orsolini-Nikola Moro-Nikola Moro-Nikola Moro-Remo Freuler-Remo Freuler-Remo Freuler-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nikola Moro-Nikola Moro-Nikola Moro-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Sam Beukema-Sam Beukema-Sam Beukema-Remo Freuler-Remo Freuler-Remo Freuler-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Foul Committed,Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt,Dan Ndoye-Charalampos Lykogiannis-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Charalampos Lykogiannis-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass,Riccardo Orsolini-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dan Ndoye-Dan Ndoye-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Nicolò Casale-Nicolò Casale-Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale-Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Sam Beukema-Emil Holm-Emil Holm-Nikola Moro-Nikola Moro-Nikola Moro-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Shot,Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Shot,Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nikola Moro-Nikola Moro-Nikola Moro-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Odgaard-Emil Holm-Emil Holm-Emil Holm-Sam Beukema-Sam Beukema-Sam Beukema-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nikola Moro-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Ball Recovery-Carry,Sam Beukema-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Łukasz Skorupski-Santiago Thomas Castro-Remo Freuler-Remo Freuler-Emil Holm-Emil Holm-Emil Holm-Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Foul Committed,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Foul Committed,Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Sam Beukema-Sam Beukema-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Sam Beukema-Sam Beukema-Sam Beukema-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Riccardo Orsolini-Sam Beukema-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Pressure,Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Riccardo Orsolini-Emil Holm-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble-Carry,Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass,Emil Holm-Remo Freuler-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance-Clearance,Sam Beukema-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Łukasz Skorupski-Łukasz Skorupski-Remo Freuler-Remo Freuler-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Sam Beukema-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Foul Committed,Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Charalampos Lykogiannis-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dan Ndoye-Remo Freuler-Nicolò Casale-Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Dan Ndoye-Dan Ndoye-Dan Ndoye-Nikola Moro-Nikola Moro-Nikola Moro-Nicolò Casale-Nicolò Casale-Nicolò Casale-Remo Freuler-Remo Freuler-Remo Freuler-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Riccardo Orsolini-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Nicolò Casale-Nicolò Casale-Nicolò Casale-Emil Holm-Emil Holm-Emil Holm-Sam Beukema-Sam Beukema-Sam Beukema-Remo Freuler-Remo Freuler-Remo Freuler-Dan Ndoye-Dan Ndoye-Dan Ndoye-Remo Freuler-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Sam Beukema-Remo Freuler-Remo Freuler-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Santiago Thomas Castro-Nicolò Casale-Nicolò Casale-Nicolò Casale-Sam Beukema-Sam Beukema-Sam Beukema-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Interception-Carry-Dispossessed,Nicolò Casale-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Łukasz Skorupski-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Ball Recovery-Carry,Jens Odgaard-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Remo Freuler-Remo Freuler-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Emil Holm-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Łukasz Skorupski-Remo Freuler-Remo Freuler-Remo Freuler-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass,Dan Ndoye-Charalampos Lykogiannis-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass,Nikola Moro-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Foul Committed,Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance-Pass-Ball Receipt-Carry,Emil Holm-Santiago Thomas Castro-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Jens Odgaard-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Shot,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Nikola Moro-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Remo Freuler-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale-Emil Holm-Emil Holm-Emil Holm-Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema-Sam Beukema-Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Nicolò Casale-Nicolò Casale-Nicolò Casale-Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema-Nikola Moro-Nikola Moro-Nikola Moro-Remo Freuler-Remo Freuler-Remo Freuler-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Dan Ndoye-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+50/50,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Jens Odgaard-Nikola Moro-Nikola Moro-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nikola Moro-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Shot,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Emil Holm-Emil Holm-Emil Holm-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+50/50-Ball Recovery-Carry,Charalampos Lykogiannis-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Remo Freuler-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Dan Ndoye-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt,Łukasz Skorupski-Riccardo Orsolini-Riccardo Orsolini-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Sam Beukema-Sam Beukema-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Łukasz Skorupski-Sam Beukema-Sam Beukema-Sam Beukema-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Sam Beukema-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Ball Recovery-Carry-Pass,Nikola Moro-Nikola Moro-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Interception-Pressure,Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Dispossessed,Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Duel,Nikola Moro-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Nikola Moro-Remo Freuler-Remo Freuler-Remo Freuler-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Carry,Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+50/50-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jens Odgaard-Remo Freuler-Remo Freuler-Remo Freuler-Dan Ndoye-Dan Ndoye-Dan Ndoye-Remo Freuler-Remo Freuler-Remo Freuler-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass,Dan Ndoye-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Carry,Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Shot,Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Nikola Moro-Nikola Moro-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Sam Beukema-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Łukasz Skorupski-Santiago Thomas Castro-Remo Freuler-Remo Freuler-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale-Emil Holm-Emil Holm-Emil Holm-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Block-Foul Committed,Jens Odgaard-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nikola Moro-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Emil Holm-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Sam Beukema-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt,Jens Odgaard-Jens Odgaard-Jens Odgaard-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Nicolò Casale-Nicolò Casale-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nikola Moro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Ball Recovery-Carry,Jens Odgaard-Nikola Moro-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Carry,Nikola Moro-Nikola Moro-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Dan Ndoye-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Dribble,Remo Freuler-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Remo Freuler-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Duel,Łukasz Skorupski-Łukasz Skorupski-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nikola Moro-Riccardo Orsolini-Riccardo Orsolini-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Emil Holm-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Sam Beukema-Nikola Moro-Nikola Moro-Nikola Moro-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Jens Odgaard-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt,Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Shot,Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nikola Moro-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Emil Holm-Emil Holm-Emil Holm-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Sam Beukema-Sam Beukema-Sam Beukema-Emil Holm-Emil Holm-Emil Holm-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Jens Odgaard-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Santiago Thomas Castro-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Sam Beukema-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass,Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past-Foul Committed,Remo Freuler-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass,Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Dan Ndoye-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nikola Moro-Nikola Moro-Nikola Moro-Sam Beukema-Sam Beukema-Sam Beukema-Dan Ndoye-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt,Santiago Thomas Castro-Santiago Thomas Castro-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Santiago Thomas Castro-Remo Freuler-Remo Freuler-Remo Freuler-Nicolò Casale-Nicolò Casale-Nicolò Casale-Emil Holm-Emil Holm-Emil Holm-Nikola Moro-Nikola Moro-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Foul Committed,Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nicolò Casale-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nicolò Casale-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Łukasz Skorupski-Łukasz Skorupski-Remo Freuler-Remo Freuler-Dan Ndoye-Dan Ndoye-Dan Ndoye-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Shield,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance-Pass-Ball Receipt-Pass-Ball Receipt,Nikola Moro-Remo Freuler-Dan Ndoye-Dan Ndoye-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Santiago Thomas Castro-Jens Odgaard-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Jens Odgaard-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Miscontrol,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Nicolò Casale-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Nicolò Casale-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Łukasz Skorupski-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Emil Holm-Nikola Moro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Riccardo Orsolini-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Duel,Charalampos Lykogiannis-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribble-Carry,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Riccardo Orsolini-Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt,Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Nikola Moro-Nikola Moro-Nikola Moro-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Dan Ndoye-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Sam Beukema-Sam Beukema-Sam Beukema-Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Dan Ndoye-Dan Ndoye-Dan Ndoye-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Shot,Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Łukasz Skorupski-Remo Freuler-Remo Freuler-Remo Freuler-Nicolò Casale-Nicolò Casale-Nicolò Casale-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Łukasz Skorupski-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Duel,Sam Beukema-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass,Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Sam Beukema-Sam Beukema-Sam Beukema-Nikola Moro-Nikola Moro-Nikola Moro-Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro-Dan Ndoye-Dan Ndoye-Dan Ndoye-Nikola Moro-Nikola Moro-Nikola Moro-Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Substitution-Substitution,Nikola Moro-Jens Odgaard,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass,Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nicolò Casale-Nicolò Casale-Emil Holm-Emil Holm-Emil Holm-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Carry,Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Santiago Thomas Castro-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Shot,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Shot,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Sam Beukema-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lewis Ferguson-Sam Beukema-Sam Beukema-Sam Beukema-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Committed,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass,Sam Beukema-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass,Tommaso Pobega-Tommaso Pobega-Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass,Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Santiago Thomas Castro-Charalampos Lykogiannis-Riccardo Orsolini-Riccardo Orsolini-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass,Emil Holm-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Ferguson-Remo Freuler-Remo Freuler-Remo Freuler-Lewis Ferguson-Lewis Ferguson-Lewis Ferguson-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Duel,Emil Holm-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Emil Holm-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Remo Freuler-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Miscontrol,Remo Freuler-Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass,Emil Holm-Emil Holm-Emil Holm,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance-Pass-Pressure-Ball Receipt,Emil Holm-Tommaso Pobega-Lewis Ferguson-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Tommaso Pobega-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dribbled Past,Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Goal Keeper-Carry-Pass-Ball Receipt-Carry,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Lewis Ferguson-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt,Riccardo Orsolini-Riccardo Orsolini-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Substitution-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Emil Holm-Remo Freuler-Nicolò Casale-Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tommaso Pobega-Tommaso Pobega-Tommaso Pobega-Nicolò Casale-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Lewis Ferguson-Lewis Ferguson-Lewis Ferguson-Tommaso Pobega-Tommaso Pobega-Tommaso Pobega-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Shot,Santiago Thomas Castro-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tommaso Pobega-Tommaso Pobega-Tommaso Pobega-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lewis Ferguson-Lewis Ferguson-Remo Freuler-Remo Freuler-Remo Freuler-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Remo Freuler-Remo Freuler-Remo Freuler-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry,Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Charalampos Lykogiannis-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry,Lewis Ferguson-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Miscontrol,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Sam Beukema-Remo Freuler,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Interception-Pass-Ball Receipt-Carry,Riccardo Orsolini-Nicolò Casale-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass,Sam Beukema-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Pass-Ball Receipt-Carry-Pass,Lewis Ferguson-Lorenzo De Silvestri-Sam Beukema-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Łukasz Skorupski-Łukasz Skorupski-Łukasz Skorupski-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Remo Freuler-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Riccardo Orsolini-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Remo Freuler-Remo Freuler-Remo Freuler-Tommaso Pobega-Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tommaso Pobega-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Sam Beukema-Sam Beukema-Sam Beukema-Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Nicolò Casale-Nicolò Casale-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Remo Freuler-Remo Freuler-Nicolò Casale-Nicolò Casale-Nicolò Casale-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Łukasz Skorupski-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block-Pressure,Dan Ndoye-Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Clearance,Lorenzo De Silvestri,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Łukasz Skorupski-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Lewis Ferguson-Dan Ndoye-Dan Ndoye-Dan Ndoye-Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Sam Beukema-Sam Beukema-Sam Beukema-Santiago Thomas Castro-Santiago Thomas Castro-Santiago Thomas Castro-Lewis Ferguson-Lewis Ferguson-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Charalampos Lykogiannis-Charalampos Lykogiannis-Charalampos Lykogiannis-Dan Ndoye-Dan Ndoye-Dan Ndoye-Remo Freuler-Remo Freuler-Remo Freuler-Lewis Ferguson-Lewis Ferguson-Lewis Ferguson-Nicolò Casale-Nicolò Casale-Nicolò Casale-Lorenzo De Silvestri-Lorenzo De Silvestri-Lorenzo De Silvestri-Sam Beukema-Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Injury Stoppage,Santiago Thomas Castro,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Substitution-Substitution-Tactical Shift,Remo Freuler-Santiago Thomas Castro-Unknown,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lorenzo De Silvestri,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Lorenzo De Silvestri,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Block,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure-Pressure,Lorenzo De Silvestri-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Foul Committed,Thijs Dallinga-Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Lorenzo De Silvestri,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Shield-Pass-Ball Receipt-Duel,Lorenzo De Silvestri-Łukasz Skorupski-Lorenzo De Silvestri-Lorenzo De Silvestri,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Tommaso Pobega,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Pass,Tommaso Pobega-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Miscontrol,Thijs Dallinga-Thijs Dallinga-Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+50/50,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry-Miscontrol,Riccardo Orsolini-Riccardo Orsolini-Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Lorenzo De Silvestri-Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Sam Beukema,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel-Clearance,Nicolò Casale-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Recovery,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Duel,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Duel,Łukasz Skorupski-Thijs Dallinga-Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt-Pass-Ball Receipt,Sam Beukema-Thijs Dallinga-Thijs Dallinga-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Nicolò Casale,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Foul Won-Pass,Lewis Ferguson-Łukasz Skorupski,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Dan Ndoye-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Dispossessed,Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass,Charalampos Lykogiannis,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Ball Receipt-Carry,Lewis Ferguson-Lewis Ferguson,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Miscontrol-50/50,Lewis Ferguson-Thijs Dallinga,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pressure,Riccardo Orsolini,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859
+Pass-Ball Receipt,Martin Erlić-Dan Ndoye,3945143,Bologna,Drawn,2,2,First half,1.2496191696755758,0.7658206608909859

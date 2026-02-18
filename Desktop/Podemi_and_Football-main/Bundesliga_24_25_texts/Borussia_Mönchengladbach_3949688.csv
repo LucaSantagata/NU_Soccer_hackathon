@@ -1,0 +1,520 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Joseph Scally-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Kevin Stöger-Kevin Stöger-Kevin Stöger-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Philipp Sander-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-50/50,Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Robin Hack-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Philipp Sander-Philipp Sander-Philipp Sander-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Dispossessed,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Shot,Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery,Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Lukas Ullrich-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass,Ko Itakura-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pressure,Nathan Ngoumou Minpole-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance-Error-Pressure,Tim Kleindienst-Tim Kleindienst-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper,Jonas Omlin,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Miscontrol,Joseph Scally-Jonas Omlin-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+50/50-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Hack-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry,Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Hack-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally-Joseph Scally-Jonas Omlin-Jonas Omlin-Jonas Omlin-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Ko Itakura-Ko Itakura-Ko Itakura-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Robin Hack-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nico Elvedi-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Jonas Omlin-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Ko Itakura-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribble-Carry,Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Joseph Scally-Kevin Stöger-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Robin Hack-Robin Hack-Robin Hack-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Robin Hack-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Philipp Sander-Philipp Sander-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Dribble,Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Tim Kleindienst-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Philipp Sander-Philipp Sander-Philipp Sander-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Robin Hack-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Robin Hack-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Lukas Ullrich-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Tim Kleindienst-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+50/50-Ball Recovery-Carry,Kevin Stöger-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Clearance,Philipp Sander-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dispossessed,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past-Pressure,Lukas Ullrich-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Jonas Omlin-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nico Elvedi-Nico Elvedi-Nico Elvedi-Philipp Sander-Philipp Sander-Philipp Sander-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt,Julian Weigl-Julian Weigl-Julian Weigl-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Kleindienst-Kevin Stöger-Kevin Stöger-Kevin Stöger-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Kevin Stöger-Kevin Stöger-Kevin Stöger-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass,Joseph Scally-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Foul Committed,Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pass,Julian Weigl-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance-Ball Recovery-Ball Recovery-Carry-Dribble,Ko Itakura-Kevin Stöger-Philipp Sander-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Pass-Ball Receipt,Kevin Stöger-Kevin Stöger-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Foul Committed,Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Jonas Omlin-Nico Elvedi-Jonas Omlin-Jonas Omlin-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pressure,Kevin Stöger-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dribble-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julian Weigl-Tim Kleindienst-Tim Kleindienst-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Lukas Ullrich-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Robin Hack-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribble,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Kleindienst-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kevin Stöger-Kevin Stöger-Joseph Scally-Joseph Scally-Joseph Scally-Kevin Stöger-Kevin Stöger-Kevin Stöger-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Philipp Sander-Philipp Sander-Philipp Sander-Robin Hack-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Foul Committed,Robin Hack-Kevin Stöger-Kevin Stöger-Kevin Stöger-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Pressure,Nico Elvedi-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Robin Hack-Robin Hack-Robin Hack-Kevin Stöger-Kevin Stöger-Kevin Stöger-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Kevin Stöger-Kevin Stöger-Kevin Stöger-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Kevin Stöger-Kevin Stöger-Kevin Stöger-Kevin Stöger,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Carry-Pass,Kevin Stöger-Julian Weigl-Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Robin Hack-Robin Hack-Robin Hack-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Pressure-Ball Receipt,Nico Elvedi-Jonas Omlin-Jonas Omlin,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Jonas Omlin,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Substitution-Tactical Shift,Kevin Stöger-Unknown,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Goal Keeper-Pressure,Tim Kleindienst-Tobias Sippel-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Julian Weigl-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt,Tobias Sippel-Tobias Sippel-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass,Tim Kleindienst-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass,Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Philipp Sander-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Shot-Ball Receipt,Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Shot,Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Shot,Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tobias Sippel-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Tobias Sippel-Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Miscontrol,Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Robin Hack-Robin Hack-Robin Hack-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Tim Kleindienst-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Julian Weigl-Julian Weigl-Julian Weigl-Julian Weigl-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Foul Committed,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Ball Recovery,Tobias Sippel-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Tobias Sippel-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Lukas Ullrich-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tobias Sippel-Tobias Sippel-Tobias Sippel-Philipp Sander-Philipp Sander-Philipp Sander-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Tobias Sippel-Tobias Sippel-Tobias Sippel-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Ullrich-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Philipp Sander-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry,Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tim Kleindienst-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi-Robin Hack-Robin Hack-Robin Hack-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Shot,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Philipp Sander-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Tobias Sippel-Tobias Sippel-Tobias Sippel-Tim Kleindienst-Tim Kleindienst-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Nathan Ngoumou Minpole-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dispossessed,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Tim Kleindienst-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Philipp Sander-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Miscontrol,Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Duel,Tobias Sippel-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol,Ko Itakura-Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Carry-Pass-Ball Receipt-Carry-Pass,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Ball Recovery-Carry,Tobias Sippel-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance-Ball Recovery-Carry-Pass,Ko Itakura-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Duel,Tobias Sippel-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Goal Keeper-Ball Recovery-Carry-Pass,Ko Itakura-Tobias Sippel-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Carry,Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Carry,Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt,Nathan Ngoumou Minpole-Tobias Sippel-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Pressure-Ball Receipt,Tim Kleindienst-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Miscontrol-Pressure,Robin Hack-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Tactical Shift,Unknown,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry,Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Tobias Sippel-Tobias Sippel-Tobias Sippel-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Pass-Ball Receipt-Carry,Philipp Sander-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Philipp Sander-Philipp Sander-Philipp Sander-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Joseph Scally-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dispossessed,Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+50/50,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Tobias Sippel-Tobias Sippel-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Carry,Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Miscontrol,Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Lukas Ullrich-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-50/50,Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry,Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tim Kleindienst-Julian Weigl-Nico Elvedi-Nico Elvedi-Nico Elvedi-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joseph Scally-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Goal Keeper-Pass-Ball Receipt-Carry,Philipp Sander-Tobias Sippel-Julian Weigl-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Tobias Sippel-Tim Kleindienst-Julian Weigl-Julian Weigl-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi-Robin Hack-Robin Hack-Robin Hack-Julian Weigl-Julian Weigl-Julian Weigl-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack-Tim Kleindienst-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Julian Weigl-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Julian Weigl-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Robin Hack-Robin Hack-Robin Hack-Philipp Sander-Philipp Sander-Philipp Sander-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Philipp Sander-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Robin Hack-Robin Hack-Robin Hack-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Tobias Sippel-Tim Kleindienst-Tobias Sippel-Tobias Sippel-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Miscontrol,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Philipp Sander-Philipp Sander-Philipp Sander-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass,Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Julian Weigl-Julian Weigl-Julian Weigl-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Joseph Scally-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Ko Itakura-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry,Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Robin Hack-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Sander-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joseph Scally-Julian Weigl-Julian Weigl-Julian Weigl-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Tobias Sippel-Tobias Sippel-Tobias Sippel-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Joseph Scally-Philipp Sander-Philipp Sander-Philipp Sander-Ko Itakura-Ko Itakura-Ko Itakura-Tobias Sippel-Tobias Sippel-Tobias Sippel-Tim Kleindienst-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Ball Recovery-Carry,Philipp Sander-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Robin Hack-Nathan Ngoumou Minpole,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Julian Weigl-Philipp Sander-Philipp Sander-Philipp Sander-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Sander-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Ko Itakura-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Shot-Ball Receipt,Robin Hack-Joseph Scally-Joseph Scally-Joseph Scally-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Nathan Ngoumou Minpole-Robin Hack-Robin Hack-Robin Hack-Julian Weigl-Julian Weigl-Julian Weigl-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Ball Recovery-Carry,Lukas Ullrich-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Robin Hack-Philipp Sander-Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribble,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Dispossessed,Julian Weigl-Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Philipp Sander,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Substitution-Pass-Substitution-Ball Receipt,Tobias Sippel-Nathan Ngoumou Minpole-Tobias Sippel-Philipp Sander-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Tactical Shift-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Unknown-Ko Itakura-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Tobias Sippel-Tobias Sippel-Tobias Sippel-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Lukas Ullrich-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Nico Elvedi-Nico Elvedi-Nico Elvedi-Ko Itakura-Ko Itakura-Ko Itakura-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dispossessed,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass,Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt,Tobias Sippel-Tim Kleindienst-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass,Florian Neuhaus-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Tobias Sippel-Tobias Sippel-Tobias Sippel-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Ko Itakura-Tobias Sippel-Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dribble-Carry,Robin Hack-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Robin Hack-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Florian Neuhaus-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pressure,Nico Elvedi-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Duel,Ko Itakura-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+50/50,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dribble-Carry,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Julian Weigl,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Julian Weigl-Tobias Sippel-Tobias Sippel-Tim Kleindienst-Tim Kleindienst-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Alassane Pléa-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Pressure-Ball Receipt,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Florian Neuhaus-Julian Weigl-Julian Weigl-Julian Weigl-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Robin Hack-Robin Hack-Robin Hack-Ko Itakura-Ko Itakura-Ko Itakura-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Tim Kleindienst-Tim Kleindienst-Tim Kleindienst-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block-Substitution-Substitution,Alassane Pléa-Julian Weigl-Tim Kleindienst,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Tactical Shift,Unknown,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Carry,Marvin Friedrich-Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass,Marvin Friedrich-Luca Netz-Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Duel,Tobias Sippel-Tobias Sippel-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Won-Pass-Ball Receipt-Miscontrol,Nico Elvedi-Nico Elvedi-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Pass,Lukas Ullrich-Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt,Tobias Sippel-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Alassane Pléa-Ko Itakura-Robin Hack-Robin Hack-Robin Hack-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Pressure,Marvin Friedrich-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Lukas Ullrich-Robin Hack-Robin Hack-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Pass,Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Foul Committed,Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Florian Neuhaus-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alassane Pléa-Joseph Scally-Joseph Scally-Joseph Scally-Nico Elvedi-Nico Elvedi-Nico Elvedi-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Robin Hack-Robin Hack-Robin Hack-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Tobias Sippel-Nico Elvedi-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Foul Committed,Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass-Ball Receipt-Duel,Tobias Sippel-Tobias Sippel-Luca Netz-Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Tobias Sippel-Tobias Sippel-Tobias Sippel-Joseph Scally-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure-Foul Committed,Lukas Ullrich-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry,Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass,Marvin Friedrich-Ko Itakura-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass,Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Miscontrol,Luca Netz-Luca Netz-Luca Netz-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Nico Elvedi-Tobias Sippel-Tobias Sippel-Tobias Sippel-Robin Hack-Robin Hack-Robin Hack-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Pressure,Marvin Friedrich-Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past,Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribbled Past-Pressure,Marvin Friedrich-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pass-Ball Receipt-Carry-Miscontrol,Florian Neuhaus-Nico Elvedi-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Bad Behaviour-Pass-Ball Receipt,Alassane Pléa-Tobias Sippel-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Florian Neuhaus-Luca Netz-Luca Netz-Luca Netz-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Ko Itakura-Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Joseph Scally-Joseph Scally-Joseph Scally-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Florian Neuhaus-Luca Netz-Luca Netz-Luca Netz-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Florian Neuhaus-Ko Itakura-Ko Itakura-Ko Itakura-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Nico Elvedi-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich-Joseph Scally-Joseph Scally-Joseph Scally-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Lukas Ullrich-Robin Hack-Robin Hack-Robin Hack-Luca Netz-Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Nico Elvedi-Robin Hack-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Ko Itakura-Ko Itakura-Ko Itakura-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich-Joseph Scally-Joseph Scally-Joseph Scally-Alassane Pléa-Alassane Pléa-Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Ko Itakura-Ko Itakura-Ko Itakura-Florian Neuhaus-Florian Neuhaus-Florian Neuhaus-Luca Netz-Luca Netz-Luca Netz-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Florian Neuhaus-Lukas Ullrich-Lukas Ullrich-Lukas Ullrich-Luca Netz-Luca Netz-Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Luca Netz-Luca Netz-Luca Netz-Nico Elvedi-Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nico Elvedi-Tobias Sippel-Tobias Sippel-Tobias Sippel-Marvin Friedrich-Marvin Friedrich-Marvin Friedrich-Joseph Scally-Joseph Scally-Joseph Scally-Ko Itakura-Ko Itakura-Ko Itakura-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception-Pressure-Pressure,Robin Hack-Joseph Scally-Robin Hack,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Ball Recovery-Carry-Dispossessed,Lukas Ullrich-Lukas Ullrich-Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry,Lukas Ullrich-Florian Neuhaus-Florian Neuhaus,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Florian Neuhaus-Robin Hack-Robin Hack-Robin Hack-Alassane Pléa-Alassane Pléa-Alassane Pléa-Ko Itakura-Ko Itakura-Ko Itakura-Joseph Scally-Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Dribble,Joseph Scally,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Clearance,Marvin Friedrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Block,Luca Netz,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pass,Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Duel,Lukas Ullrich,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Alassane Pléa,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Goal Keeper-Pass,Tobias Sippel-Tobias Sippel,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Interception,Nico Elvedi,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Pressure,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Foul Committed,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753
+Bad Behaviour,Ko Itakura,3949688,Borussia Mönchengladbach,Lost,0,3,Second half,1.6723853281968293,0.7412702499365753

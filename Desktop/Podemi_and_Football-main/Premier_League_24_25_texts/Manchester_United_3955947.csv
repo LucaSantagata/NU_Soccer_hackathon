@@ -1,0 +1,633 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass,Bruno Miguel Borges Fernandes-Altay Bayındır-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Pass-Ball Receipt-Carry,Leny Yoro-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Miscontrol,Joshua Zirkzee-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Alejandro Garnacho Ferreyra-Noussair Mazraoui-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joshua Zirkzee-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Joshua Zirkzee-Joshua Zirkzee-Joshua Zirkzee-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,José Diogo Dalot Teixeira-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shot,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Carry-Pass,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass,Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Alejandro Garnacho Ferreyra-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Noussair Mazraoui-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,José Diogo Dalot Teixeira-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Error-Pass-Ball Receipt,Joshua Zirkzee-Joshua Zirkzee-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Duel,Altay Bayındır-Altay Bayındır-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt,Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Leny Yoro-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Harry Amass-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Harry Amass-Harry Amass-Harry Amass-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Committed,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception-Carry-Miscontrol,Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Harry Amass-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Altay Bayındır-Altay Bayındır-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Altay Bayındır-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Harry Amass-Harry Amass-Harry Amass-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Pressure,Bruno Miguel Borges Fernandes-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt,Harry Amass-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt,Altay Bayındır-Altay Bayındır-Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Zirkzee-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Alejandro Garnacho Ferreyra-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception-Pass-Pressure,Leny Yoro-José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Committed,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt,Altay Bayındır-Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Shot,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Leny Yoro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception-Carry,Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past-Pressure-Pressure,Bruno Miguel Borges Fernandes-Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Harry Amass-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Noussair Mazraoui-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Victor Nilsson Lindelöf-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Block-Pass-Ball Receipt,Joshua Zirkzee-Joshua Zirkzee-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Harry Amass-Harry Amass-Harry Amass-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Foul Committed,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Noussair Mazraoui-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass,Altay Bayındır-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Duel,Altay Bayındır-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Amass-Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt-Carry,Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,José Diogo Dalot Teixeira-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır-Altay Bayındır-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Joshua Zirkzee-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Block-Pressure,Joshua Zirkzee-Alejandro Garnacho Ferreyra-José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Duel,Altay Bayındır-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Joshua Zirkzee-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Noussair Mazraoui-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Pass,Altay Bayındır-Bruno Miguel Borges Fernandes-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Joshua Zirkzee-Joshua Zirkzee-Joshua Zirkzee-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Joshua Zirkzee-Joshua Zirkzee-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Foul Committed,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Committed,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Duel,Altay Bayındır-Altay Bayındır-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Harry Amass-Harry Amass-Harry Amass-Leny Yoro-Leny Yoro-Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass,Altay Bayındır-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,José Diogo Dalot Teixeira-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Noussair Mazraoui-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Block,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past-Pressure,Christian Dannemann Eriksen-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance-Ball Recovery-Carry,Leny Yoro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Joshua Zirkzee-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Amass-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass,Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Dispossessed,Harry Amass-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure-Pressure-Foul Committed,Manuel Ugarte Ribeiro-Joshua Zirkzee-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Clearance-Ball Recovery-Carry,Altay Bayındır-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Duel,Noussair Mazraoui-Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt,Joshua Zirkzee-Joshua Zirkzee-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Dribble-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shot,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pressure,Altay Bayındır-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Goal Keeper,Noussair Mazraoui-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance-Pressure,Leny Yoro-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Harry Amass-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Harry Amass-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Bad Behaviour,José Diogo Dalot Teixeira-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt,Altay Bayındır-Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Harry Amass-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Alejandro Garnacho Ferreyra-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Amass-Joshua Zirkzee-Joshua Zirkzee-Joshua Zirkzee-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Alejandro Garnacho Ferreyra-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shot,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass,José Diogo Dalot Teixeira-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Christian Dannemann Eriksen-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır-Altay Bayındır-Altay Bayındır-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt,Harry Amass-Harry Amass-Harry Amass-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Pressure,Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Leny Yoro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Pressure,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Ball Recovery-Carry,Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Duel,Altay Bayındır-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Leny Yoro-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Dispossessed,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Shot,Harry Amass-Harry Amass-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Injury Stoppage,Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Joshua Zirkzee-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Leny Yoro-Leny Yoro-Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Alejandro Garnacho Ferreyra-Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Alejandro Garnacho Ferreyra,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Victor Nilsson Lindelöf-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Joshua Zirkzee-Joshua Zirkzee-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Bruno Miguel Borges Fernandes-Harry Amass,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Joshua Zirkzee-Joshua Zirkzee,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Joshua Zirkzee-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Injury Stoppage-Substitution-Substitution-Substitution-Referee Ball-Drop,Joshua Zirkzee-Alejandro Garnacho Ferreyra-Harry Amass-Joshua Zirkzee-Unknown,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Miscontrol-Pressure,Noussair Mazraoui-Noussair Mazraoui-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Noussair Mazraoui-Leny Yoro-Leny Yoro-Leny Yoro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Leny Yoro-Leny Yoro-Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Noussair Mazraoui-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Foul Committed,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt,Altay Bayındır-Altay Bayındır-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance-Clearance,Manuel Ugarte Ribeiro-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Ball Recovery-Carry-Pass,Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Rasmus Winther Højlund-Rasmus Winther Højlund-Mason Mount-Mason Mount-Mason Mount-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Mason Mount-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Patrick Chinazaekpere Dorgu-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Patrick Chinazaekpere Dorgu-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt-Carry,Rasmus Winther Højlund-Rasmus Winther Højlund-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Mason Mount-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Foul Committed,Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Leny Yoro-Leny Yoro-Leny Yoro-Mason Mount-Mason Mount-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Mason Mount-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Patrick Chinazaekpere Dorgu-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro-Leny Yoro-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Miscontrol-Error,Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure-Pressure,Christian Dannemann Eriksen-Victor Nilsson Lindelöf-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt,Altay Bayındır-Bruno Miguel Borges Fernandes-Altay Bayındır-Altay Bayındır-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Leny Yoro-Leny Yoro-Leny Yoro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shield,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Rasmus Winther Højlund-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Dribble-Carry,Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble,Rasmus Winther Højlund-Christian Dannemann Eriksen-Mason Mount-Mason Mount-Mason Mount-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past-Pressure,Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Patrick Chinazaekpere Dorgu-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass,Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Altay Bayındır-Altay Bayındır-Altay Bayındır-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Dispossessed,Mason Mount-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Altay Bayındır-Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Leny Yoro-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Leny Yoro-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Altay Bayındır-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past-Pressure,Noussair Mazraoui-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt,Altay Bayındır-Mason Mount-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Patrick Chinazaekpere Dorgu-Leny Yoro-Leny Yoro-Leny Yoro-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Duel,Altay Bayındır-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Leny Yoro-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leny Yoro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Leny Yoro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leny Yoro-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass,Christian Dannemann Eriksen-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Foul Committed,Altay Bayındır-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Ball Recovery-Carry-Pass,Leny Yoro-Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Bruno Miguel Borges Fernandes-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Rasmus Winther Højlund-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Noussair Mazraoui-Noussair Mazraoui-Noussair Mazraoui-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Leny Yoro-Leny Yoro-Leny Yoro-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Shot,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception-Pass-Ball Receipt,Manuel Ugarte Ribeiro-Patrick Chinazaekpere Dorgu-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Clearance-Pressure,Manuel Ugarte Ribeiro-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribbled Past,Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Altay Bayındır-Altay Bayındır-Leny Yoro-Leny Yoro-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Error-Pass,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Goal Keeper-Substitution,Altay Bayındır-Noussair Mazraoui,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Tactical Shift-Ball Receipt,Altay Bayındır-Unknown-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Ball Recovery-Carry,Rasmus Winther Højlund-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Luke Shaw-Luke Shaw-Luke Shaw-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Luke Shaw-Luke Shaw-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Luke Shaw-Luke Shaw-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass,Mason Mount-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt-Duel,Altay Bayındır-Altay Bayındır-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Patrick Chinazaekpere Dorgu-Bruno Miguel Borges Fernandes-Bruno Miguel Borges Fernandes,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Bruno Miguel Borges Fernandes-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Substitution-Tactical Shift-Pass-Ball Receipt-Pass,Bruno Miguel Borges Fernandes-Unknown-Patrick Chinazaekpere Dorgu-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Dispossessed,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Luke Shaw-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Dribble-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Manuel Ugarte Ribeiro-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Rasmus Winther Højlund-Rasmus Winther Højlund-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kobbie Mainoo-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Luke Shaw-Luke Shaw-Luke Shaw-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass,José Diogo Dalot Teixeira-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Altay Bayındır-Altay Bayındır-Altay Bayındır-Luke Shaw-Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Kobbie Mainoo-Kobbie Mainoo-Kobbie Mainoo-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass,Mason Mount-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Mason Mount-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Foul Committed,Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Patrick Chinazaekpere Dorgu-Luke Shaw-Luke Shaw-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Rasmus Winther Højlund-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,José Diogo Dalot Teixeira-Mason Mount-Mason Mount-Mason Mount-Leny Yoro-Leny Yoro-Leny Yoro-Kobbie Mainoo-Kobbie Mainoo-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Interception,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Pressure,Manuel Ugarte Ribeiro-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Carry-Pass-Ball Receipt-Carry,José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Miscontrol,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure-Foul Committed,Luke Shaw-Kobbie Mainoo-Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Luke Shaw-Luke Shaw-Luke Shaw-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Patrick Chinazaekpere Dorgu-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Kobbie Mainoo-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+50/50-Ball Recovery-Carry,Patrick Chinazaekpere Dorgu-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Miscontrol,Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Patrick Chinazaekpere Dorgu-Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dribble-Carry,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Altay Bayındır-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Leny Yoro-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Miscontrol,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Foul Committed,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leny Yoro-José Diogo Dalot Teixeira-Leny Yoro-Leny Yoro-Rasmus Winther Højlund-Rasmus Winther Højlund-Rasmus Winther Højlund-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Kobbie Mainoo-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Rasmus Winther Højlund-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kobbie Mainoo-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Kobbie Mainoo-Kobbie Mainoo-Kobbie Mainoo-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Luke Shaw-Luke Shaw-Luke Shaw-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shot,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery,José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Mason Mount-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Luke Shaw-Kobbie Mainoo-Kobbie Mainoo-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-José Diogo Dalot Teixeira-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Duel-Carry,Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Patrick Chinazaekpere Dorgu-Kobbie Mainoo-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kobbie Mainoo-Luke Shaw-Luke Shaw-Luke Shaw-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass,Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt,Altay Bayındır-Altay Bayındır-José Diogo Dalot Teixeira,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block-Pressure,José Diogo Dalot Teixeira-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Block,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt,Victor Nilsson Lindelöf-Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Ugarte Ribeiro-Kobbie Mainoo-Kobbie Mainoo-Kobbie Mainoo-Mason Mount-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Pressure-Ball Receipt,Mason Mount-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Altay Bayındır-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Victor Nilsson Lindelöf-Leny Yoro-Leny Yoro-Leny Yoro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass,Altay Bayındır-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Carry-Pass-Ball Receipt,Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure,Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry,Luke Shaw-Luke Shaw,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry,Luke Shaw-Rasmus Winther Højlund-Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Shot,Rasmus Winther Højlund,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Christian Dannemann Eriksen-Luke Shaw-Luke Shaw-Luke Shaw-Christian Dannemann Eriksen-Christian Dannemann Eriksen-Christian Dannemann Eriksen,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Luke Shaw-Luke Shaw-Luke Shaw-Altay Bayındır-Altay Bayındır-Altay Bayındır,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Christian Dannemann Eriksen-Christian Dannemann Eriksen-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Patrick Chinazaekpere Dorgu-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Manuel Ugarte Ribeiro-Kobbie Mainoo-Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Dispossessed,Kobbie Mainoo,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Manuel Ugarte Ribeiro,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure-Pressure-Pressure-Pressure,Mason Mount-Leny Yoro-Leny Yoro-Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066
+Pressure,Mason Mount,3955947,Manchester United,Lost,1,4,Second half,2.1201212349988925,0.6536691487615066

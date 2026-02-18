@@ -1,0 +1,630 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kingsley Coman-Manuel Neuer-Manuel Neuer-Manuel Neuer-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Eric Dier-Eric Dier-Eric Dier-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman-Kingsley Coman-Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Aleksandar Pavlović-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt,Serge Gnabry-Serge Gnabry-Serge Gnabry-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Josip Stanišić-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+50/50-Carry,Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Serge Gnabry-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Michael Olise-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt,Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Serge Gnabry-Serge Gnabry-Serge Gnabry-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Kingsley Coman-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Thomas Müller-Thomas Müller-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Thomas Müller-Thomas Müller-Thomas Müller-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Pressure,Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Aleksandar Pavlović-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Konrad Laimer-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt,Eric Dier-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure,Josip Stanišić-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Michael Olise-Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Serge Gnabry-Serge Gnabry-Serge Gnabry-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt,Aleksandar Pavlović-Aleksandar Pavlović-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Duel,Michael Olise-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass,Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dribble,Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Joshua Kimmich-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Michael Olise-Michael Olise-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dispossessed,Kingsley Coman-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Thomas Müller-Thomas Müller-Thomas Müller-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Olise-Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Thomas Müller-Thomas Müller-Thomas Müller-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry,Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Michael Olise-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Injury Stoppage-Pass,Konrad Laimer-Konrad Laimer-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Eric Dier-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Eric Dier-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Manuel Neuer-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Neuer-Eric Dier-Eric Dier-Eric Dier-Michael Olise-Michael Olise-Michael Olise-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol-Pressure,Michael Olise-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel-Ball Recovery-Carry,Konrad Laimer-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Kingsley Coman-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Kingsley Coman-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Duel,Joshua Kimmich-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Serge Gnabry-Konrad Laimer-Konrad Laimer-Konrad Laimer-Manuel Neuer-Manuel Neuer-Manuel Neuer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dispossessed,Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Thomas Müller-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt,Thomas Müller-Thomas Müller-Thomas Müller-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Serge Gnabry-Serge Gnabry-Serge Gnabry-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Manuel Neuer-Manuel Neuer-Manuel Neuer-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Serge Gnabry-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Shot,Michael Olise-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt,Josip Stanišić-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Aleksandar Pavlović-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Committed,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Duel,Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure-Pressure,Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel-Pressure,Aleksandar Pavlović-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manuel Neuer-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt,Thomas Müller-Thomas Müller-Thomas Müller-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serge Gnabry-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Michael Olise-Michael Olise-Michael Olise-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Serge Gnabry-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Thomas Müller-Thomas Müller-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Kingsley Coman-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serge Gnabry-Serge Gnabry-Serge Gnabry-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt,Serge Gnabry-Serge Gnabry-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Manuel Neuer-Manuel Neuer-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serge Gnabry-Serge Gnabry-Serge Gnabry-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Konrad Laimer-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block-Pressure,Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block-Ball Recovery-Carry,Konrad Laimer-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Serge Gnabry-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Eric Dier-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Manuel Neuer-Manuel Neuer-Manuel Neuer-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Thomas Müller-Thomas Müller-Thomas Müller-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Serge Gnabry-Serge Gnabry-Serge Gnabry-Kingsley Coman-Kingsley Coman-Kingsley Coman-Serge Gnabry-Serge Gnabry-Serge Gnabry-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Miscontrol,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol,Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Miscontrol,Konrad Laimer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt,Konrad Laimer-Konrad Laimer-Konrad Laimer-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Interception-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass,Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Shot,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Neuer-Manuel Neuer-Manuel Neuer-Konrad Laimer-Konrad Laimer-Thomas Müller-Thomas Müller-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Miscontrol,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Josip Stanišić-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Aleksandar Pavlović-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Goal Keeper-Pass-Ball Receipt-Carry,Manuel Neuer-Eric Dier-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Serge Gnabry-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Manuel Neuer-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dribble-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Joshua Kimmich-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Konrad Laimer-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dribble-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Thomas Müller-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol-Pressure,Serge Gnabry-Serge Gnabry-Serge Gnabry-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure-Pressure-Foul Committed,Eric Dier-Michael Olise-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Eric Dier-Manuel Neuer-Manuel Neuer-Manuel Neuer-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Michael Olise-Michael Olise-Michael Olise-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dispossessed,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Thomas Müller-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol-50/50,Michael Olise-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Serge Gnabry-Josip Stanišić-Josip Stanišić-Josip Stanišić-Michael Olise-Michael Olise-Michael Olise-Thomas Müller-Thomas Müller-Thomas Müller-Konrad Laimer-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure-Foul Committed,Thomas Müller-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt,Eric Dier-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Michael Olise-Michael Olise-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Committed,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Serge Gnabry-Serge Gnabry-Serge Gnabry-Manuel Neuer-Manuel Neuer-Manuel Neuer-Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kingsley Coman-Kingsley Coman-Kingsley Coman-Manuel Neuer-Manuel Neuer-Manuel Neuer-Eric Dier-Eric Dier-Eric Dier-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Thomas Müller-Serge Gnabry-Serge Gnabry-Serge Gnabry-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Kingsley Coman-Kingsley Coman-Kingsley Coman-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Manuel Neuer-Manuel Neuer-Manuel Neuer-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serge Gnabry-Serge Gnabry-Serge Gnabry-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Shot,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt,Manuel Neuer-Manuel Neuer-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Serge Gnabry-Serge Gnabry-Serge Gnabry-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kingsley Coman-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Konrad Laimer-Konrad Laimer-Konrad Laimer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Miscontrol-Foul Committed,Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry,Kingsley Coman-Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Kingsley Coman-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Ball Receipt-Carry,Aleksandar Pavlović-Aleksandar Pavlović-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Pass,Serge Gnabry-Joshua Kimmich-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman-Kingsley Coman-Kingsley Coman-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Eric Dier-Konrad Laimer-Konrad Laimer-Konrad Laimer-Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Raphaël Adelino José Guerreiro-Serge Gnabry-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol,Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Committed,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Eric Dier-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Eric Dier-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel-Pass-Ball Receipt-Carry-Pass,Eric Dier-Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,Manuel Neuer-Manuel Neuer-Manuel Neuer-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Michael Olise-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Konrad Laimer-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Goal Keeper-Pass-Ball Receipt-Carry,Manuel Neuer-Eric Dier-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Manuel Neuer-Eric Dier-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Konrad Laimer-Konrad Laimer-Konrad Laimer-Serge Gnabry-Serge Gnabry-Serge Gnabry-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Kingsley Coman-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Konrad Laimer-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+50/50,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dispossessed,Serge Gnabry-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Michael Olise-Michael Olise-Michael Olise-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt,Thomas Müller-Thomas Müller-Thomas Müller-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Serge Gnabry-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Kingsley Coman-Josip Stanišić-Josip Stanišić-Josip Stanišić-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Aleksandar Pavlović-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Aleksandar Pavlović-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Manuel Neuer-Manuel Neuer-Manuel Neuer-Konrad Laimer-Konrad Laimer-Konrad Laimer-Michael Olise-Michael Olise-Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Kingsley Coman-Thomas Müller-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot-Block,Serge Gnabry-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Kingsley Coman-Kingsley Coman-Kingsley Coman-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass,Raphaël Adelino José Guerreiro-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Ball Receipt,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt,Manuel Neuer-Manuel Neuer-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Carry,Kingsley Coman-Joshua Kimmich-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Serge Gnabry-Serge Gnabry-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Konrad Laimer-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Thomas Müller-Thomas Müller-Thomas Müller-Konrad Laimer-Konrad Laimer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Carry,Kingsley Coman-Joshua Kimmich-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+50/50-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Kingsley Coman-Joshua Kimmich-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Eric Dier-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Eric Dier-Eric Dier-Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer-Konrad Laimer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Thomas Müller-Thomas Müller-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Thomas Müller-Thomas Müller-Thomas Müller-Eric Dier-Eric Dier-Josip Stanišić-Josip Stanišić-Josip Stanišić-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Thomas Müller-Kingsley Coman-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Thomas Müller-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Thomas Müller-Kingsley Coman-Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Kingsley Coman-Josip Stanišić-Josip Stanišić-Josip Stanišić-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Kingsley Coman,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel-Substitution-Substitution,Kingsley Coman-Kingsley Coman-Thomas Müller,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Tactical Shift,Unknown,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass,Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance-Pressure,Michael Olise-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Miscontrol,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure-Pressure,Joshua Kimmich-Aleksandar Pavlović-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Aleksandar Pavlović-Leroy Sané-Leroy Sané-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Raphaël Adelino José Guerreiro-Harry Kane-Harry Kane-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Raphaël Adelino José Guerreiro,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Konrad Laimer-Eric Dier-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt,Manuel Neuer-Manuel Neuer-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Konrad Laimer-Konrad Laimer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Konrad Laimer-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Eric Dier-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Manuel Neuer-Manuel Neuer-Manuel Neuer-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Foul Committed,Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt,Raphaël Adelino José Guerreiro-Michael Olise-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Goal Keeper,Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Goal Keeper-Substitution-Pass-Substitution-Tactical Shift,Manuel Neuer-Raphaël Adelino José Guerreiro-Eric Dier-Konrad Laimer-Unknown,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt,Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Duel,Manuel Neuer-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Dispossessed,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Josip Stanišić-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Josip Stanišić-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Harry Kane-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Committed,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Eric Dier-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Eric Dier-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Eric Dier-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Dier-Manuel Neuer-Manuel Neuer-Manuel Neuer-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Josip Stanišić-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manuel Neuer-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Injury Stoppage,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Block-Goal Keeper,Leon Goretzka-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Clearance,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Manuel Neuer-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt-Duel,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Sacha Boey-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shield-Pass-Ball Receipt-Carry,Sacha Boey-Sacha Boey-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Leroy Sané-Joshua Kimmich-Sacha Boey-Sacha Boey-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier-Eric Dier-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Leroy Sané-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dispossessed,Sacha Boey-Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Duel,Leroy Sané-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel-Ball Recovery-Carry,Serge Gnabry-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Sacha Boey-Sacha Boey-Sacha Boey-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Serge Gnabry-Michael Olise-Michael Olise-Michael Olise-Harry Kane-Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Eric Dier-Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Manuel Neuer-Manuel Neuer-Manuel Neuer-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Manuel Neuer-Manuel Neuer-Manuel Neuer-Leon Goretzka-Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Leon Goretzka-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Manuel Neuer-Manuel Neuer-Manuel Neuer-Aleksandar Pavlović-Aleksandar Pavlović-Manuel Neuer-Manuel Neuer-Manuel Neuer,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leon Goretzka-Leon Goretzka-Leon Goretzka-Eric Dier-Eric Dier-Eric Dier-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Joshua Kimmich-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Pass,Sacha Boey-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble-Carry,Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,Sacha Boey-Leroy Sané-Leroy Sané-Leroy Sané-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure,Leroy Sané-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Pass-Ball Receipt-Carry,Josip Stanišić-Josip Stanišić-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Serge Gnabry-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Shot,Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Harry Kane-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Pressure-Ball Receipt,Leon Goretzka-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Foul Won,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol,Joshua Kimmich-Josip Stanišić-Josip Stanišić-Josip Stanišić-Harry Kane-Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Leon Goretzka-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Josip Stanišić-Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Sacha Boey-Sacha Boey-Sacha Boey-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dispossessed,Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past-Pressure,Joshua Kimmich-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Eric Dier,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Joshua Kimmich-Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Leroy Sané-Leroy Sané-Michael Olise-Michael Olise-Michael Olise-Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Serge Gnabry-Michael Olise-Michael Olise-Michael Olise-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Aleksandar Pavlović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Duel,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manuel Neuer-Manuel Neuer-Leon Goretzka-Leon Goretzka-Josip Stanišić-Josip Stanišić-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Eric Dier-Eric Dier-Eric Dier-Sacha Boey-Sacha Boey-Sacha Boey-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Leroy Sané-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Josip Stanišić-Josip Stanišić-Josip Stanišić-Serge Gnabry-Serge Gnabry-Serge Gnabry-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Sacha Boey-Sacha Boey-Sacha Boey-Leroy Sané-Leroy Sané-Leroy Sané-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Shot,Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Substitution-Tactical Shift,Eric Dier-Unknown,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Miscontrol,Sacha Boey-Gabriel Vidović-Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Josip Stanišić-Josip Stanišić-Josip Stanišić-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dribble,Harry Kane-Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Josip Stanišić-Manuel Neuer-Manuel Neuer-Manuel Neuer-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Harry Kane-Harry Kane-Harry Kane-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Michael Olise-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Gabriel Vidović-Gabriel Vidović-Gabriel Vidović-Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass,Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Gabriel Vidović-Gabriel Vidović-Gabriel Vidović-Serge Gnabry-Serge Gnabry-Serge Gnabry-Gabriel Vidović-Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery,Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribbled Past,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Josip Stanišić-Josip Stanišić-Josip Stanišić-Leon Goretzka-Leon Goretzka-Leon Goretzka-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Harry Kane-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Joshua Kimmich-Joshua Kimmich-Joshua Kimmich-Sacha Boey-Sacha Boey-Sacha Boey-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry,Michael Olise-Sacha Boey-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dispossessed,Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Joshua Kimmich-Michael Olise-Michael Olise-Michael Olise-Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Serge Gnabry-Serge Gnabry-Serge Gnabry-Leon Goretzka-Leon Goretzka-Leon Goretzka,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Aleksandar Pavlović-Aleksandar Pavlović-Aleksandar Pavlović-Leon Goretzka-Leon Goretzka-Leon Goretzka-Serge Gnabry-Serge Gnabry-Serge Gnabry-Leon Goretzka-Leon Goretzka-Leon Goretzka-Serge Gnabry-Serge Gnabry-Serge Gnabry-Leroy Sané-Leroy Sané-Leroy Sané-Leon Goretzka-Leon Goretzka-Leon Goretzka-Josip Stanišić-Josip Stanišić-Josip Stanišić,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Miscontrol-Pressure,Michael Olise-Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Pressure,Josip Stanišić-Sacha Boey,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry,Serge Gnabry-Serge Gnabry,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Carry-Pass,Serge Gnabry-Harry Kane-Harry Kane-Harry Kane,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry,Gabriel Vidović-Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Dribble,Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure,Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pressure-Foul Committed,Joshua Kimmich-Joshua Kimmich,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt,Aleksandar Pavlović-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Pass-Ball Receipt-Miscontrol-Pressure,Leroy Sané-Gabriel Vidović-Gabriel Vidović-Gabriel Vidović,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Recovery-Carry-Pass,Michael Olise-Michael Olise-Michael Olise,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Ball Receipt-Carry-Dribble-Carry,Leroy Sané-Leroy Sané-Leroy Sané-Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353
+Shot,Leroy Sané,3949785,Bayern Munich,Won,4,0,Second half,1.9584586914874365,0.7084199157581353

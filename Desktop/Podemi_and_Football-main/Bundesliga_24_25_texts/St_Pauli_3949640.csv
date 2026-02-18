@@ -1,0 +1,549 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Noah Weißhaupt-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Block,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Eric Anders Smith-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Dispossessed,Jackson Irvine-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Ball Receipt,Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Jackson Irvine-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt,David Nemeth-Nikola Vasilj-Nikola Vasilj-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Jackson Irvine-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Ball Receipt-Pass-Ball Receipt-Carry,Morgan Guilavogui-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Johannes Eggestein-James Sands-James Sands-James Sands-David Nemeth-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-Philipp Treu-David Nemeth-David Nemeth-David Nemeth-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Sands-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,David Nemeth-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-James Sands-James Sands-James Sands-David Nemeth-David Nemeth-David Nemeth-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-James Sands-James Sands-James Sands-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Hauke Wahl-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception-Carry,Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Hauke Wahl-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Jackson Irvine-Jackson Irvine-Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Hauke Wahl-Hauke Wahl-Hauke Wahl-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-David Nemeth-David Nemeth-David Nemeth-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,David Nemeth-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt,James Sands-Eric Anders Smith-Eric Anders Smith-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception-Pass-Ball Receipt,Eric Anders Smith-Noah Weißhaupt-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Injury Stoppage,Nikola Vasilj-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nikola Vasilj-Hauke Wahl-Hauke Wahl-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Nemeth-James Sands-James Sands-James Sands-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass,David Nemeth-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,James Sands-James Sands-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Philipp Treu-Philipp Treu-Philipp Treu-James Sands-James Sands-James Sands-David Nemeth-David Nemeth-David Nemeth-James Sands-James Sands-James Sands-David Nemeth-David Nemeth-David Nemeth-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Philipp Treu-Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,Manolis Saliakas-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Manolis Saliakas-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Nikola Vasilj-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Shot-Ball Receipt,Philipp Treu-Eric Anders Smith-Eric Anders Smith-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Eric Anders Smith-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Philipp Treu-Hauke Wahl-Hauke Wahl-Hauke Wahl-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,James Sands-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Pressure,Jackson Irvine-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Dispossessed,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nikola Vasilj-Jackson Irvine-Jackson Irvine-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Duel,Morgan Guilavogui-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Hauke Wahl-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt,James Sands-Noah Weißhaupt-Noah Weißhaupt-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt-Carry,Philipp Treu-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pass,James Sands-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Duel,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Morgan Guilavogui-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Shot,James Sands-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt,Philipp Treu-Noah Weißhaupt-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,James Sands-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pass,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Dribble,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Injury Stoppage,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Foul Committed,David Nemeth-Nikola Vasilj-Nikola Vasilj-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Clearance,Hauke Wahl-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pressure,Johannes Eggestein-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-David Nemeth-David Nemeth-David Nemeth-Philipp Treu-Philipp Treu-Philipp Treu-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Pass-Ball Receipt,Nikola Vasilj-David Nemeth-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Nikola Vasilj-James Sands-James Sands-David Nemeth-David Nemeth-David Nemeth-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass,Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry,David Nemeth-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Nikola Vasilj-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,David Nemeth-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Eric Anders Smith-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Jackson Irvine-Jackson Irvine-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,James Sands-Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble-Carry,Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Pass,Manolis Saliakas-Manolis Saliakas-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Shot,Manolis Saliakas-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt,Hauke Wahl-Hauke Wahl-Hauke Wahl-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,James Sands-Jackson Irvine-Jackson Irvine-Jackson Irvine-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Nemeth-Noah Weißhaupt-Noah Weißhaupt-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass,Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt,James Sands-James Sands-James Sands-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Nikola Vasilj-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Hauke Wahl-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,James Sands-James Sands-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Manolis Saliakas-Jackson Irvine-Jackson Irvine-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-David Nemeth-David Nemeth-David Nemeth-Philipp Treu-Philipp Treu-Philipp Treu-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Miscontrol-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Sands-James Sands-James Sands-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,James Sands-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Noah Weißhaupt-Philipp Treu-Philipp Treu-Philipp Treu-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-David Nemeth-David Nemeth-David Nemeth-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Philipp Treu-Philipp Treu-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Philipp Treu-James Sands-James Sands-James Sands-Jackson Irvine-Jackson Irvine-James Sands-James Sands-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,James Sands-James Sands-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-James Sands-James Sands-James Sands-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Morgan Guilavogui-Morgan Guilavogui-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,David Nemeth-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt,David Nemeth-David Nemeth-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Shot,Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,David Nemeth-James Sands-James Sands-Hauke Wahl-Hauke Wahl-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Miscontrol,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Noah Weißhaupt-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,James Sands-Philipp Treu-Philipp Treu-Philipp Treu-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manolis Saliakas-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-David Nemeth-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-James Sands-James Sands-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Manolis Saliakas-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Pressure-Ball Receipt,Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Jackson Irvine-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Nikola Vasilj-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Jackson Irvine-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt,Manolis Saliakas-Noah Weißhaupt-Noah Weißhaupt-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past-Pressure,Johannes Eggestein-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Sands-James Sands-James Sands-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-James Sands-James Sands-James Sands-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-David Nemeth-David Nemeth-David Nemeth-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Noah Weißhaupt-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Anders Smith-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Philipp Treu-Philipp Treu-Philipp Treu-David Nemeth-David Nemeth-David Nemeth-Hauke Wahl-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Morgan Guilavogui-Morgan Guilavogui-Jackson Irvine-Jackson Irvine-Jackson Irvine-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception-Carry,Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,Hauke Wahl-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Jackson Irvine-Jackson Irvine-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,James Sands-Philipp Treu-Philipp Treu-Philipp Treu-David Nemeth-David Nemeth-David Nemeth-James Sands-James Sands-James Sands-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,David Nemeth-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Morgan Guilavogui-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Ball Recovery,Eric Anders Smith-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Dribble-Carry,David Nemeth-David Nemeth-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,David Nemeth-Morgan Guilavogui-Morgan Guilavogui-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Jackson Irvine-Jackson Irvine-Morgan Guilavogui-Morgan Guilavogui-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Manolis Saliakas-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-50/50,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Morgan Guilavogui-Jackson Irvine-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Philipp Treu-Philipp Treu-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past-Foul Committed,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Miscontrol-Pressure,David Nemeth-James Sands-James Sands-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Morgan Guilavogui-Morgan Guilavogui-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper,Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,James Sands-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Johannes Eggestein-Johannes Eggestein-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble-Carry,Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,Noah Weißhaupt-Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Duel,Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manolis Saliakas-David Nemeth-David Nemeth-David Nemeth-Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Noah Weißhaupt-Noah Weißhaupt-James Sands-James Sands-Noah Weißhaupt-Noah Weißhaupt-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Eric Anders Smith-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-David Nemeth-David Nemeth-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nikola Vasilj-Jackson Irvine-Jackson Irvine-Jackson Irvine-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Nikola Vasilj-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass,Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Shot,Jackson Irvine-Jackson Irvine-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Offside,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Injury Stoppage-Pass-Ball Receipt-Carry,David Nemeth-David Nemeth-Eric Anders Smith-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pass,David Nemeth-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Injury Stoppage,Philipp Treu-Philipp Treu-Philipp Treu-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,Eric Anders Smith-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Johannes Eggestein-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Block-Ball Receipt,Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Hauke Wahl-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Pressure,James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Miscontrol,David Nemeth-David Nemeth-Philipp Treu-Philipp Treu-Philipp Treu-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Jackson Irvine-Jackson Irvine-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Miscontrol,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Pressure,David Nemeth-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt,Philipp Treu-Philipp Treu-Philipp Treu-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Pass-Ball Receipt-Carry,Nikola Vasilj-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Miscontrol,Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block-Ball Recovery-Carry,Philipp Treu-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,James Sands-Philipp Treu-Philipp Treu-David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Philipp Treu-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Miscontrol,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Pass,Philipp Treu-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Eric Anders Smith-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block-Pressure,Manolis Saliakas-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pass,Jackson Irvine-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Manolis Saliakas-Manolis Saliakas-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Pass-Ball Receipt,David Nemeth-Nikola Vasilj-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Hauke Wahl-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Interception,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Tactical Shift,Nikola Vasilj-Unknown,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,James Sands-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Noah Weißhaupt-Noah Weißhaupt-Noah Weißhaupt-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Eric Anders Smith-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Eric Anders Smith-James Sands-James Sands-David Nemeth-David Nemeth-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Morgan Guilavogui-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Philipp Treu-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block-Ball Recovery-Carry,James Sands-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt-Carry,Noah Weißhaupt-Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Hauke Wahl-Hauke Wahl-Hauke Wahl-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Hauke Wahl-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt,Manolis Saliakas-Hauke Wahl-Hauke Wahl-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Eric Anders Smith-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Hauke Wahl-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Philipp Treu-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,James Sands-Eric Anders Smith-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Philipp Treu-Philipp Treu-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Morgan Guilavogui-Philipp Treu-Philipp Treu-Philipp Treu-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Eric Anders Smith-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Tactical Shift,Unknown,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass,James Sands-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dispossessed,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past-Pressure,David Nemeth-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pressure,Manolis Saliakas-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Clearance,Manolis Saliakas-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nikola Vasilj-Manolis Saliakas-Manolis Saliakas-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Dribble,Jackson Irvine-Jackson Irvine-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Manolis Saliakas-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Miscontrol,James Sands-James Sands-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Pressure-Foul Committed,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Injury Stoppage-Substitution,Hauke Wahl-James Sands,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Pass,Carlo Boukhalfa-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Johannes Eggestein-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Pass-Ball Receipt-Carry,Nikola Vasilj-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nikola Vasilj-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Manolis Saliakas-Jackson Irvine-Jackson Irvine-Jackson Irvine-Morgan Guilavogui-Morgan Guilavogui-Carlo Boukhalfa-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Carlo Boukhalfa-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,David Nemeth-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+50/50,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past-Pressure,David Nemeth-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper,Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Referee Ball-Drop,Unknown,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Pass-Ball Receipt-Duel,Nikola Vasilj-Nikola Vasilj-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Carlo Boukhalfa-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Ball Recovery-Carry,Morgan Guilavogui-Carlo Boukhalfa-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Carlo Boukhalfa-Noah Weißhaupt-Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Miscontrol,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Noah Weißhaupt,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Goal Keeper-Carry-Pass-Ball Receipt-Duel,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Shot,Morgan Guilavogui-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Substitution-Substitution-Pass-Ball Receipt-Pass-Ball Receipt,Johannes Eggestein-Noah Weißhaupt-Manolis Saliakas-Abdoulie Ceesay-Abdoulie Ceesay-Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Carlo Boukhalfa-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,David Nemeth-David Nemeth-David Nemeth-Nikola Vasilj-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Duel,Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,Oladapo Afolayan-Oladapo Afolayan-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Foul Committed,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt,Hauke Wahl-Jackson Irvine-Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Pass,Jackson Irvine-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry,Abdoulie Ceesay-Abdoulie Ceesay-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt,Morgan Guilavogui-Eric Anders Smith-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Jackson Irvine-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt,Oladapo Afolayan-Eric Anders Smith-Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Jackson Irvine-Hauke Wahl-Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Manolis Saliakas-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Morgan Guilavogui-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Oladapo Afolayan-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Pass,Philipp Treu-Carlo Boukhalfa-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt,David Nemeth-David Nemeth-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,David Nemeth-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure-Pressure,Carlo Boukhalfa-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Pass,Philipp Treu-David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry,Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Won-Pass-Ball Receipt-Duel,Oladapo Afolayan-David Nemeth-Abdoulie Ceesay-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Foul Committed,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Nikola Vasilj-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,David Nemeth,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+50/50-Ball Recovery-Carry,Carlo Boukhalfa-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Shot,Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt,Eric Anders Smith-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel-Ball Recovery-Carry,Abdoulie Ceesay-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry-Pass,Jackson Irvine-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Abdoulie Ceesay-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Pressure-Pressure-Ball Receipt,Abdoulie Ceesay-Abdoulie Ceesay-Carlo Boukhalfa-Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Carlo Boukhalfa,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribbled Past,Eric Anders Smith,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block-Goal Keeper,Hauke Wahl-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance-Clearance,Manolis Saliakas-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Duel,Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Clearance,Hauke Wahl,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block-Goal Keeper,Hauke Wahl-Nikola Vasilj,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Jackson Irvine,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pressure,Morgan Guilavogui,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Block,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Pressure-Ball Receipt,Abdoulie Ceesay-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass-Ball Receipt,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Pass,Philipp Treu-Philipp Treu-Philipp Treu,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Receipt-Pass-Ball Receipt-Carry-Miscontrol,Nikola Vasilj-Nikola Vasilj-Abdoulie Ceesay-Abdoulie Ceesay-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry,Abdoulie Ceesay-Abdoulie Ceesay,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Pass-Ball Receipt-Carry,Abdoulie Ceesay-Oladapo Afolayan-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dribble,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Substitution-Pass-Ball Receipt,Morgan Guilavogui-Philipp Treu-Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Dispossessed,Oladapo Afolayan,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386
+Ball Recovery-Carry-Shot,Manolis Saliakas-Manolis Saliakas-Manolis Saliakas,3949640,St. Pauli,Won,2,0,First half,2.016962081084699,0.6851674411648386

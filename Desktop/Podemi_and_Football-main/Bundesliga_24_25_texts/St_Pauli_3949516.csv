@@ -1,0 +1,547 @@
+words,word_players,match_id,team_name,outcome,goals_scored,goals_conceded,season_half,K,beta
+Pass-Ball Receipt-Carry,Johannes Eggestein-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pass,Oladapo Afolayan-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Pressure,Oladapo Afolayan-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Manolis Saliakas-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass,Karol Mets-Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Philipp Treu-Johannes Eggestein-Johannes Eggestein-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Pressure,Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pass-Ball Receipt,Elias Saad-Karol Mets-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Philipp Treu-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Pass-Ball Receipt,Jackson Irvine-Eric Anders Smith-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Pressure,Philipp Treu-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Ball Recovery-Carry,Karol Mets-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Carlo Boukhalfa-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dribble-Carry,Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Ball Recovery-Pass-Ball Receipt-Carry,Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein-Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dribble,Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Oladapo Afolayan-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Miscontrol,Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Karol Mets-Nikola Vasilj-Nikola Vasilj-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pressure,Johannes Eggestein-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+50/50-Ball Recovery-Carry,Jackson Irvine-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Miscontrol,Johannes Eggestein-Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Carlo Boukhalfa-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past-Pressure,Philipp Treu-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pressure,Carlo Boukhalfa-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Block-Clearance,Karol Mets-Carlo Boukhalfa-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Jackson Irvine-Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception-Ball Recovery-Carry,Hauke Wahl-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Karol Mets-Karol Mets-Karol Mets-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Eric Anders Smith-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Nikola Vasilj-Manolis Saliakas-Manolis Saliakas-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Pressure,Carlo Boukhalfa-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Ball Recovery-Carry-Pass,Eric Anders Smith-Philipp Treu-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Pass-Ball Receipt-Duel,Nikola Vasilj-Nikola Vasilj-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Goal Keeper-Clearance,Karol Mets-Nikola Vasilj-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Oladapo Afolayan-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Miscontrol,Johannes Eggestein-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure,Carlo Boukhalfa-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Karol Mets-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Oladapo Afolayan-Philipp Treu-Philipp Treu-Philipp Treu-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Manolis Saliakas-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry,Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Nikola Vasilj-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Eric Anders Smith-Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Philipp Treu-Philipp Treu-Philipp Treu-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot-Ball Receipt,Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Shot,Hauke Wahl-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt,Philipp Treu-Philipp Treu-Philipp Treu-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Johannes Eggestein-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Shot,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Karol Mets-Jackson Irvine-Jackson Irvine-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Johannes Eggestein-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper,Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Karol Mets-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Philipp Treu-Philipp Treu-Philipp Treu-Elias Saad-Elias Saad-Elias Saad-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Carlo Boukhalfa-Karol Mets-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Johannes Eggestein-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Manolis Saliakas-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Elias Saad-Elias Saad-Elias Saad-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Shot,Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Offside,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pass,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jackson Irvine-Jackson Irvine-Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Jackson Irvine-Jackson Irvine-Jackson Irvine-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past-Pressure-Pressure,Karol Mets-Philipp Treu-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Ball Recovery-Carry-Pass-Ball Receipt,Karol Mets-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Oladapo Afolayan-Manolis Saliakas-Hauke Wahl-Hauke Wahl-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Miscontrol,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Karol Mets-Karol Mets-Karol Mets-Elias Saad-Elias Saad-Elias Saad-Karol Mets-Karol Mets-Karol Mets-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manolis Saliakas-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Philipp Treu-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt,Karol Mets-Karol Mets-Karol Mets-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Committed,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass-Ball Receipt,Nikola Vasilj-Jackson Irvine-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Nikola Vasilj-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Dribble,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-Nikola Vasilj-Nikola Vasilj-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Hauke Wahl-Hauke Wahl-Hauke Wahl-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass,Carlo Boukhalfa-Jackson Irvine-Jackson Irvine-Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Johannes Eggestein-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure-Foul Committed,Philipp Treu-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nikola Vasilj-Philipp Treu-Philipp Treu-Philipp Treu-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Nikola Vasilj-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass,Elias Saad-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Johannes Eggestein-Carlo Boukhalfa-Carlo Boukhalfa-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Injury Stoppage,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Nikola Vasilj-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Hauke Wahl-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Karol Mets-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Philipp Treu-Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Elias Saad-Elias Saad-Elias Saad-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Carry,Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Treu-Elias Saad-Elias Saad-Elias Saad-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Shot,Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Duel,Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry,Philipp Treu-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Eric Anders Smith-Carlo Boukhalfa-Carlo Boukhalfa-Karol Mets-Karol Mets-Karol Mets-Hauke Wahl-Hauke Wahl-Hauke Wahl-Karol Mets-Karol Mets-Karol Mets-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Ball Recovery-Carry,Manolis Saliakas-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Manolis Saliakas-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Pass-Ball Receipt,Hauke Wahl-Hauke Wahl-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dispossessed,Jackson Irvine-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Manolis Saliakas-Jackson Irvine-Jackson Irvine-Jackson Irvine-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past-Pressure,Eric Anders Smith-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pass-Ball Receipt-Duel,Jackson Irvine-Hauke Wahl-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Jackson Irvine-Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Foul Committed,Hauke Wahl-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Block-Pressure,Philipp Treu-Eric Anders Smith-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Carry,Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass,Philipp Treu-Karol Mets-Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass-Ball Receipt-Pass,Nikola Vasilj-Nikola Vasilj-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Miscontrol,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Jackson Irvine-Jackson Irvine-Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Shot,Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Elias Saad-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pressure,Eric Anders Smith-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass,Hauke Wahl-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Nikola Vasilj-Carlo Boukhalfa-Carlo Boukhalfa-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass,Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Hauke Wahl-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Hauke Wahl-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Carlo Boukhalfa-Carlo Boukhalfa-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Foul Committed,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Eric Anders Smith-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Duel,Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Karol Mets-Karol Mets-Karol Mets-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dispossessed,Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt,Philipp Treu-Karol Mets-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Jackson Irvine-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Johannes Eggestein-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception-Pressure,Jackson Irvine-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pass,Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Referee Ball-Drop,Unknown,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper,Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception-Carry,Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Carry,Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Pressure-Ball Receipt,Nikola Vasilj-Karol Mets-Karol Mets-Karol Mets-Elias Saad-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Pass-Ball Receipt-Carry-Pass,Hauke Wahl-Jackson Irvine-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Johannes Eggestein-Johannes Eggestein-Johannes Eggestein-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Philipp Treu-Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Ball Recovery-Carry-Pass-Ball Receipt,Elias Saad-Elias Saad-Elias Saad-Elias Saad-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Duel,Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt,Carlo Boukhalfa-Carlo Boukhalfa-Carlo Boukhalfa-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure,Hauke Wahl-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Dispossessed,Johannes Eggestein-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Johannes Eggestein-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Manolis Saliakas-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Manolis Saliakas-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Karol Mets-Karol Mets-Karol Mets-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Elias Saad-Karol Mets-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Manolis Saliakas-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Manolis Saliakas-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Shot,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Karol Mets-Karol Mets-Karol Mets-Elias Saad-Elias Saad-Elias Saad-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Johannes Eggestein-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Karol Mets-Karol Mets-Karol Mets-Elias Saad-Elias Saad-Elias Saad-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Karol Mets-Jackson Irvine-Jackson Irvine-Jackson Irvine-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Carry-Pass-Ball Receipt-Duel,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Pass,Johannes Eggestein-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Karol Mets-Karol Mets-Karol Mets-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Miscontrol-Ball Recovery-Carry,Elias Saad-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Clearance-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nikola Vasilj-Hauke Wahl-Oladapo Afolayan-Jackson Irvine-Jackson Irvine-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Oladapo Afolayan-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Jackson Irvine-Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass,Johannes Eggestein-Manolis Saliakas-Manolis Saliakas-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Elias Saad-Elias Saad-Elias Saad-Philipp Treu-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Shot,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Shot,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure,Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-50/50,Jackson Irvine-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper,Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass,Nikola Vasilj-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Johannes Eggestein-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Dispossessed,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance-Clearance,Eric Anders Smith-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Foul Committed,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass,Oladapo Afolayan-Johannes Eggestein-Johannes Eggestein-Jackson Irvine-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Philipp Treu-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure,Elias Saad-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribble-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt,Elias Saad-Karol Mets-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Nikola Vasilj-Nikola Vasilj-Nikola Vasilj-Karol Mets-Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Karol Mets-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Miscontrol,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass-Ball Receipt-Pass-Ball Receipt-Carry,Nikola Vasilj-Nikola Vasilj-Carlo Boukhalfa-Carlo Boukhalfa-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt,Jackson Irvine-Karol Mets-Karol Mets-Karol Mets-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Manolis Saliakas-Manolis Saliakas-Manolis Saliakas-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Johannes Eggestein,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Eric Anders Smith-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Miscontrol-Substitution-Substitution,Elias Saad-Johannes Eggestein-Manolis Saliakas,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt-Duel,Philipp Treu-Jackson Irvine-Jackson Irvine-Carlo Boukhalfa-Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dispossessed,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Philipp Treu-Philipp Treu-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Foul Committed,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Ball Recovery-Carry,Elias Saad-Eric Anders Smith-Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Dispossessed,Eric Anders Smith-Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Adam Dźwigała-Jackson Irvine-Jackson Irvine-Jackson Irvine-Philipp Treu-Philipp Treu-Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Nikola Vasilj-Hauke Wahl-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Dribble-Carry,Hauke Wahl-Adam Dźwigała-Adam Dźwigała-Adam Dźwigała-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Oladapo Afolayan-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Carry,Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Carlo Boukhalfa-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Adam Dźwigała-Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Adam Dźwigała-Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Duel,Adam Dźwigała-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Dribble,Hauke Wahl-Hauke Wahl-Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Duel-Ball Receipt-Carry-Pass-Ball Receipt-Duel,Carlo Boukhalfa-Carlo Boukhalfa-Adam Dźwigała-Adam Dźwigała-Adam Dźwigała-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Carlo Boukhalfa,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Carlo Boukhalfa-Adam Dźwigała-Adam Dźwigała-Adam Dźwigała-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Miscontrol-Pressure,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block-Pass-Ball Receipt,Jackson Irvine-Carlo Boukhalfa-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass-Ball Receipt,Nikola Vasilj-Nikola Vasilj-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Eric Anders Smith-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry,Oladapo Afolayan-Oladapo Afolayan-Oladapo Afolayan-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Interception-Pass-Ball Receipt,Jackson Irvine-Hauke Wahl-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Morgan Guilavogui-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt,Morgan Guilavogui-Philipp Treu-Philipp Treu-Philipp Treu-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Philipp Treu-Karol Mets-Karol Mets-Karol Mets-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Hauke Wahl-Hauke Wahl-Hauke Wahl-Nikola Vasilj-Nikola Vasilj-Eric Anders Smith-Eric Anders Smith-Eric Anders Smith-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Nikola Vasilj-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Carry-Pass,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry,Oladapo Afolayan-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Substitution-Pass-Ball Receipt,Oladapo Afolayan-Carlo Boukhalfa-Eric Anders Smith-Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Shot,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Miscontrol-Ball Receipt,Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Connor Metcalfe,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Pass-Ball Receipt-Pass,Nikola Vasilj-Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry,Adam Dźwigała-Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Foul Won-Pass-Ball Receipt-Carry,Adam Dźwigała-Nikola Vasilj-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Miscontrol,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Adam Dźwigała-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Dispossessed,Elias Saad-Elias Saad-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry,Connor Metcalfe-Connor Metcalfe-Connor Metcalfe-Jackson Irvine-Jackson Irvine-Jackson Irvine-Connor Metcalfe-Connor Metcalfe,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Pressure-Ball Receipt,Connor Metcalfe-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Connor Metcalfe,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+50/50,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Karol Mets,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Pass,Connor Metcalfe-Connor Metcalfe-Connor Metcalfe-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure-Pressure,Jackson Irvine-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Pass-Ball Receipt-Carry,Oladapo Afolayan-Connor Metcalfe-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Morgan Guilavogui-Connor Metcalfe-Connor Metcalfe-Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Oladapo Afolayan,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Eric Anders Smith,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Goal Keeper-Substitution-Pass-Ball Receipt-Duel,Nikola Vasilj-Oladapo Afolayan-Nikola Vasilj-Scott Brian Banks-Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Pass-Ball Receipt,Eric Anders Smith-Elias Saad-Elias Saad-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Pass-Ball Receipt-Carry-Pass-Ball Receipt-Carry-Miscontrol-Pressure,Scott Brian Banks-Scott Brian Banks-Scott Brian Banks-Adam Dźwigała-Adam Dźwigała-Adam Dźwigała-Elias Saad-Elias Saad-Elias Saad-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt,Scott Brian Banks-Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dribbled Past,Elias Saad,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Recovery-Carry-Pass,Nikola Vasilj-Nikola Vasilj-Nikola Vasilj,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Carry-Miscontrol,Morgan Guilavogui-Morgan Guilavogui-Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Morgan Guilavogui,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Duel-Ball Recovery-Carry,Morgan Guilavogui-Philipp Treu-Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Dispossessed,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Philipp Treu,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Duel,Philipp Treu-Connor Metcalfe-Connor Metcalfe,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass-Ball Receipt-Carry,Adam Dźwigała-Jackson Irvine-Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pass,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Ball Receipt-Shot,Scott Brian Banks-Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Connor Metcalfe,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Adam Dźwigała,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Block,Scott Brian Banks,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Pressure,Jackson Irvine,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952
+Clearance,Hauke Wahl,3949516,St. Pauli,Drawn,0,0,First half,1.2481594992030425,0.7657099624755952

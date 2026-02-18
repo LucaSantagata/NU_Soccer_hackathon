@@ -1,0 +1,871 @@
+from_id,to_id,team_id,team,from,to,passes,shared_minutes,passes_per90_shared
+98,170,33,FC Bayern München,Joshua Kimmich,Eric Dier,61.0,1935.0251516666665,2.8371724239715332
+98,204,33,FC Bayern München,Joshua Kimmich,Leroy Sané,78.0,3375.989906666667,2.0793901030738864
+98,216,33,FC Bayern München,Joshua Kimmich,Thomas Müller,99.0,3120.053045,2.8557206789412133
+98,231,33,FC Bayern München,Joshua Kimmich,Harry Kane,52.0,4798.9516583333325,0.9752129909192201
+98,309,33,FC Bayern München,Joshua Kimmich,Kingsley Coman,93.0,2214.7491216666667,3.779209084278276
+98,409,33,FC Bayern München,Joshua Kimmich,Raphaël Guerreiro,66.0,2025.1943566666666,2.9330518231232086
+98,582,33,FC Bayern München,Joshua Kimmich,Manuel Neuer,28.0,2987.007055,0.8436538493545674
+98,929,33,FC Bayern München,Joshua Kimmich,Eric-Maxim Choupo-Moting,30.0,1408.4313066666666,1.9170264017988128
+98,1053,33,FC Bayern München,Joshua Kimmich,Leon Goretzka,107.0,4251.7727116666665,2.2649376279159346
+98,1202,33,FC Bayern München,Joshua Kimmich,Sven Ulreich,27.0,2289.600516666667,1.0613205152214653
+98,1978,33,FC Bayern München,Joshua Kimmich,Bouna Sarr,0.0,0.0,0.0
+98,5253,33,FC Bayern München,Joshua Kimmich,Serge Gnabry,32.0,842.403135,3.418790695739754
+98,7594,33,FC Bayern München,Joshua Kimmich,Konrad Laimer,181.0,2684.897275,6.067271232937581
+98,7910,33,FC Bayern München,Joshua Kimmich,Matthijs de Ligt,128.0,2377.7249566666665,4.844967441545423
+98,7947,33,FC Bayern München,Joshua Kimmich,Dayot Upamecano,205.0,2966.2601766666667,6.219953376016118
+98,8358,33,FC Bayern München,Joshua Kimmich,Noussair Mazraoui,57.0,1542.9747849999999,3.3247464896194012
+98,28349,33,FC Bayern München,Joshua Kimmich,Ryan Gravenberch,2.0,12.794068333333355,14.069019744957307
+98,31001,33,FC Bayern München,Joshua Kimmich,Daniel Peretz,1.0,13.578818333333311,6.627969959585351
+98,32432,33,FC Bayern München,Joshua Kimmich,Alphonso Davies,103.0,3354.925318333334,2.763101744573309
+98,49451,33,FC Bayern München,Joshua Kimmich,Sacha Boey,2.0,19.201650000000004,9.374194405168303
+98,50321,33,FC Bayern München,Joshua Kimmich,Min-jae Kim,144.0,3221.6311916666664,4.022806841926348
+98,53703,33,FC Bayern München,Joshua Kimmich,Jamal Musiala,51.0,2600.5987750000004,1.7649781443121688
+98,66678,33,FC Bayern München,Joshua Kimmich,Mathys Tel,43.0,1445.3228399999998,2.6776024656193766
+98,69885,33,FC Bayern München,Joshua Kimmich,Bryan Zaragoza,3.0,218.96253333333334,1.2330876697931274
+98,80052,33,FC Bayern München,Joshua Kimmich,Lovro Zvonarek,16.0,386.63805,3.7244135697456575
+98,103990,33,FC Bayern München,Joshua Kimmich,Frans Krätzig,4.0,10.942166666666648,32.90024827502177
+98,103995,33,FC Bayern München,Joshua Kimmich,Aleksandar Pavlovic,81.0,1536.0081183333334,4.746068665255567
+98,112074,33,FC Bayern München,Joshua Kimmich,Jonathan Asp Jensen,0.0,0.0,0.0
+98,112388,33,FC Bayern München,Joshua Kimmich,Matteo Pérez Vinlöf,0.0,0.0,0.0
+170,98,33,FC Bayern München,Eric Dier,Joshua Kimmich,68.0,1935.0251516666665,3.162749587378103
+170,204,33,FC Bayern München,Eric Dier,Leroy Sané,21.0,1418.29799,1.3325831477770056
+170,216,33,FC Bayern München,Eric Dier,Thomas Müller,16.0,1998.9240250000003,0.7203875595021675
+170,231,33,FC Bayern München,Eric Dier,Harry Kane,21.0,2384.255076666667,0.7927004197228489
+170,309,33,FC Bayern München,Eric Dier,Kingsley Coman,5.0,229.56302166666663,1.9602460219112094
+170,409,33,FC Bayern München,Eric Dier,Raphaël Guerreiro,59.0,1428.3458233333333,3.7175870949851926
+170,582,33,FC Bayern München,Eric Dier,Manuel Neuer,57.0,2202.645591666667,2.329017441302622
+170,929,33,FC Bayern München,Eric Dier,Eric-Maxim Choupo-Moting,9.0,494.71960666666666,1.6372910818264046
+170,1053,33,FC Bayern München,Eric Dier,Leon Goretzka,150.0,2381.0746066666666,5.669708946625167
+170,1202,33,FC Bayern München,Eric Dier,Sven Ulreich,4.0,418.53426666666667,0.8601446253544512
+170,1978,33,FC Bayern München,Eric Dier,Bouna Sarr,0.0,0.0,0.0
+170,5253,33,FC Bayern München,Eric Dier,Serge Gnabry,6.0,102.82231666666664,5.251778188878907
+170,7594,33,FC Bayern München,Eric Dier,Konrad Laimer,50.0,788.9403416666667,5.703853336354404
+170,7910,33,FC Bayern München,Eric Dier,Matthijs de Ligt,156.0,1752.6455516666667,8.01074694575224
+170,7947,33,FC Bayern München,Eric Dier,Dayot Upamecano,49.0,462.94558500000005,9.525957570153736
+170,8358,33,FC Bayern München,Eric Dier,Noussair Mazraoui,34.0,786.2048183333334,3.892115551373571
+170,28349,33,FC Bayern München,Eric Dier,Ryan Gravenberch,0.0,0.0,0.0
+170,31001,33,FC Bayern München,Eric Dier,Daniel Peretz,0.0,0.0,0.0
+170,32432,33,FC Bayern München,Eric Dier,Alphonso Davies,71.0,1195.7333350000001,5.344000884611952
+170,49451,33,FC Bayern München,Eric Dier,Sacha Boey,5.0,228.71425000000002,1.9675206070456912
+170,50321,33,FC Bayern München,Eric Dier,Min-jae Kim,62.0,722.8646216666668,7.719287723798848
+170,53703,33,FC Bayern München,Eric Dier,Jamal Musiala,23.0,1688.2437550000002,1.2261262592379616
+170,66678,33,FC Bayern München,Eric Dier,Mathys Tel,23.0,1224.8397066666666,1.6900170599738233
+170,69885,33,FC Bayern München,Eric Dier,Bryan Zaragoza,0.0,0.0,0.0
+170,80052,33,FC Bayern München,Eric Dier,Lovro Zvonarek,2.0,193.71363500000004,0.9292066611624935
+170,103990,33,FC Bayern München,Eric Dier,Frans Krätzig,0.0,0.0,0.0
+170,103995,33,FC Bayern München,Eric Dier,Aleksandar Pavlovic,70.0,1859.8568366666668,3.3873574975217937
+170,112074,33,FC Bayern München,Eric Dier,Jonathan Asp Jensen,0.0,0.0,0.0
+170,112388,33,FC Bayern München,Eric Dier,Matteo Pérez Vinlöf,0.0,0.0,0.0
+204,98,33,FC Bayern München,Leroy Sané,Joshua Kimmich,94.0,3375.989906666667,2.505931662678786
+204,170,33,FC Bayern München,Leroy Sané,Eric Dier,7.0,1418.29799,0.4441943825923352
+204,216,33,FC Bayern München,Leroy Sané,Thomas Müller,46.0,2334.4220299999997,1.7734582465365103
+204,231,33,FC Bayern München,Leroy Sané,Harry Kane,53.0,5032.2662783333335,0.9478830682186804
+204,309,33,FC Bayern München,Leroy Sané,Kingsley Coman,30.0,2416.4493733333334,1.11734184452436
+204,409,33,FC Bayern München,Leroy Sané,Raphaël Guerreiro,52.0,1865.0667383333337,2.5092935838758
+204,582,33,FC Bayern München,Leroy Sané,Manuel Neuer,3.0,3277.449138333334,0.08238114112651092
+204,929,33,FC Bayern München,Leroy Sané,Eric-Maxim Choupo-Moting,9.0,699.8528299999999,1.157386189322118
+204,1053,33,FC Bayern München,Leroy Sané,Leon Goretzka,76.0,3508.779435,1.949395830291054
+204,1202,33,FC Bayern München,Leroy Sané,Sven Ulreich,3.0,1836.3582883333333,0.14703013116522606
+204,1978,33,FC Bayern München,Leroy Sané,Bouna Sarr,1.0,214.60546666666667,0.4193742191096716
+204,5253,33,FC Bayern München,Leroy Sané,Serge Gnabry,5.0,573.04472,0.7852790267398329
+204,7594,33,FC Bayern München,Leroy Sané,Konrad Laimer,82.0,3159.9468599999996,2.3354823125095217
+204,7910,33,FC Bayern München,Leroy Sané,Matthijs de Ligt,21.0,2274.92496,0.8307966342766753
+204,7947,33,FC Bayern München,Leroy Sané,Dayot Upamecano,40.0,3153.7882649999997,1.141484366579695
+204,8358,33,FC Bayern München,Leroy Sané,Noussair Mazraoui,67.0,2204.542973333333,2.735260810490106
+204,28349,33,FC Bayern München,Leroy Sané,Ryan Gravenberch,0.0,0.0,0.0
+204,31001,33,FC Bayern München,Leroy Sané,Daniel Peretz,0.0,0.0,0.0
+204,32432,33,FC Bayern München,Leroy Sané,Alphonso Davies,66.0,3493.141073333334,1.7004752671874621
+204,49451,33,FC Bayern München,Leroy Sané,Sacha Boey,3.0,228.17173333333335,1.1833192308950917
+204,50321,33,FC Bayern München,Leroy Sané,Min-jae Kim,24.0,3373.6492283333337,0.640256248889009
+204,53703,33,FC Bayern München,Leroy Sané,Jamal Musiala,70.0,3437.3850150000003,1.8327885798385024
+204,66678,33,FC Bayern München,Leroy Sané,Mathys Tel,9.0,455.72400833333324,1.777391546612432
+204,69885,33,FC Bayern München,Leroy Sané,Bryan Zaragoza,1.0,46.53305000000003,1.934109197656288
+204,80052,33,FC Bayern München,Leroy Sané,Lovro Zvonarek,0.0,0.0,0.0
+204,103990,33,FC Bayern München,Leroy Sané,Frans Krätzig,1.0,57.503703333333306,1.565116588722895
+204,103995,33,FC Bayern München,Leroy Sané,Aleksandar Pavlovic,44.0,1625.0049050000002,2.4369157211866996
+204,112074,33,FC Bayern München,Leroy Sané,Jonathan Asp Jensen,0.0,0.0,0.0
+204,112388,33,FC Bayern München,Leroy Sané,Matteo Pérez Vinlöf,0.0,0.0,0.0
+216,98,33,FC Bayern München,Thomas Müller,Joshua Kimmich,93.0,3120.053045,2.6826466983993216
+216,170,33,FC Bayern München,Thomas Müller,Eric Dier,12.0,1998.9240250000003,0.5402906696266256
+216,204,33,FC Bayern München,Thomas Müller,Leroy Sané,51.0,2334.4220299999997,1.9662254472470004
+216,231,33,FC Bayern München,Thomas Müller,Harry Kane,56.0,3552.020765,1.4189106239642155
+216,309,33,FC Bayern München,Thomas Müller,Kingsley Coman,18.0,566.0549733333334,2.8619128464860766
+216,409,33,FC Bayern München,Thomas Müller,Raphaël Guerreiro,25.0,1894.5911066666663,1.1875913446878985
+216,582,33,FC Bayern München,Thomas Müller,Manuel Neuer,5.0,2756.0826450000004,0.16327521992723115
+216,929,33,FC Bayern München,Thomas Müller,Eric-Maxim Choupo-Moting,10.0,612.3125699999999,1.4698375373871553
+216,1053,33,FC Bayern München,Thomas Müller,Leon Goretzka,28.0,2982.3910183333332,0.8449596261888779
+216,1202,33,FC Bayern München,Thomas Müller,Sven Ulreich,0.0,0.0,0.0
+216,1978,33,FC Bayern München,Thomas Müller,Bouna Sarr,4.0,179.6616,2.003767082114375
+216,5253,33,FC Bayern München,Thomas Müller,Serge Gnabry,4.0,540.1380683333333,0.6664962555052398
+216,7594,33,FC Bayern München,Thomas Müller,Konrad Laimer,40.0,1881.3478616666664,1.913521722033265
+216,7910,33,FC Bayern München,Thomas Müller,Matthijs de Ligt,9.0,1819.4447066666667,0.44519077553281033
+216,7947,33,FC Bayern München,Thomas Müller,Dayot Upamecano,23.0,2223.1656283333336,0.9311047155545675
+216,8358,33,FC Bayern München,Thomas Müller,Noussair Mazraoui,21.0,1063.7061716666667,1.7768064624826383
+216,28349,33,FC Bayern München,Thomas Müller,Ryan Gravenberch,0.0,0.0,0.0
+216,31001,33,FC Bayern München,Thomas Müller,Daniel Peretz,2.0,17.318501666666666,10.39350883029623
+216,32432,33,FC Bayern München,Thomas Müller,Alphonso Davies,15.0,2408.84999,0.560433404157309
+216,49451,33,FC Bayern München,Thomas Müller,Sacha Boey,1.0,25.98158333333334,3.4639921226253203
+216,50321,33,FC Bayern München,Thomas Müller,Min-jae Kim,7.0,2205.002891666667,0.28571391102521865
+216,53703,33,FC Bayern München,Thomas Müller,Jamal Musiala,39.0,2165.2972250000003,1.62102456857857
+216,66678,33,FC Bayern München,Thomas Müller,Mathys Tel,19.0,1167.4307250000002,1.4647550071975362
+216,69885,33,FC Bayern München,Thomas Müller,Bryan Zaragoza,2.0,218.31278666666665,0.8245050725078923
+216,80052,33,FC Bayern München,Thomas Müller,Lovro Zvonarek,4.0,397.9870183333333,0.9045521170705189
+216,103990,33,FC Bayern München,Thomas Müller,Frans Krätzig,1.0,39.683234999999996,2.2679602608003107
+216,103995,33,FC Bayern München,Thomas Müller,Aleksandar Pavlovic,36.0,2129.442555,1.5215249607895622
+216,112074,33,FC Bayern München,Thomas Müller,Jonathan Asp Jensen,0.0,0.0,0.0
+216,112388,33,FC Bayern München,Thomas Müller,Matteo Pérez Vinlöf,0.0,0.0,0.0
+231,98,33,FC Bayern München,Harry Kane,Joshua Kimmich,34.0,4798.9516583333325,0.6376392632933362
+231,170,33,FC Bayern München,Harry Kane,Eric Dier,5.0,2384.255076666667,0.18873819517210685
+231,204,33,FC Bayern München,Harry Kane,Leroy Sané,41.0,5032.2662783333335,0.7332680339050168
+231,216,33,FC Bayern München,Harry Kane,Thomas Müller,45.0,3552.020765,1.1401960371141018
+231,309,33,FC Bayern München,Harry Kane,Kingsley Coman,24.0,2595.276723333334,0.8322811901251628
+231,409,33,FC Bayern München,Harry Kane,Raphaël Guerreiro,28.0,2707.7862400000004,0.9306495331034697
+231,582,33,FC Bayern München,Harry Kane,Manuel Neuer,2.0,4331.094943333333,0.041559929383923166
+231,929,33,FC Bayern München,Harry Kane,Eric-Maxim Choupo-Moting,9.0,1473.2561783333335,0.5498025475218692
+231,1053,33,FC Bayern München,Harry Kane,Leon Goretzka,31.0,4763.936799999999,0.5856500867097987
+231,1202,33,FC Bayern München,Harry Kane,Sven Ulreich,2.0,2262.830968333333,0.07954637466031203
+231,1978,33,FC Bayern München,Harry Kane,Bouna Sarr,2.0,230.45320166666664,0.7810696431996487
+231,5253,33,FC Bayern München,Harry Kane,Serge Gnabry,12.0,999.7403716666665,1.080280471418327
+231,7594,33,FC Bayern München,Harry Kane,Konrad Laimer,26.0,3517.9038333333333,0.6651688365746969
+231,7910,33,FC Bayern München,Harry Kane,Matthijs de Ligt,8.0,2804.32339,0.2567464232432908
+231,7947,33,FC Bayern München,Harry Kane,Dayot Upamecano,26.0,3554.6806466666667,0.6582869834437278
+231,8358,33,FC Bayern München,Harry Kane,Noussair Mazraoui,25.0,2532.9332399999994,0.8882981850717868
+231,28349,33,FC Bayern München,Harry Kane,Ryan Gravenberch,0.0,0.0,0.0
+231,31001,33,FC Bayern München,Harry Kane,Daniel Peretz,0.0,0.0,0.0
+231,32432,33,FC Bayern München,Harry Kane,Alphonso Davies,25.0,4184.277593333332,0.5377272300444045
+231,49451,33,FC Bayern München,Harry Kane,Sacha Boey,3.0,228.77736833333336,1.1801866677940118
+231,50321,33,FC Bayern München,Harry Kane,Min-jae Kim,21.0,4363.088263333332,0.4331794100713583
+231,53703,33,FC Bayern München,Harry Kane,Jamal Musiala,31.0,4058.855583333334,0.6873858758257946
+231,66678,33,FC Bayern München,Harry Kane,Mathys Tel,20.0,1396.634625,1.2888123835537875
+231,69885,33,FC Bayern München,Harry Kane,Bryan Zaragoza,2.0,68.4210716666667,2.6307684988759417
+231,80052,33,FC Bayern München,Harry Kane,Lovro Zvonarek,1.0,14.452986666666643,6.227086627539047
+231,103990,33,FC Bayern München,Harry Kane,Frans Krätzig,1.0,55.20250000000002,1.6303609437978346
+231,103995,33,FC Bayern München,Harry Kane,Aleksandar Pavlovic,12.0,2639.5255883333334,0.4091644365084336
+231,112074,33,FC Bayern München,Harry Kane,Jonathan Asp Jensen,0.0,0.0,0.0
+231,112388,33,FC Bayern München,Harry Kane,Matteo Pérez Vinlöf,0.0,0.0,0.0
+309,98,33,FC Bayern München,Kingsley Coman,Joshua Kimmich,93.0,2214.7491216666667,3.779209084278276
+309,170,33,FC Bayern München,Kingsley Coman,Eric Dier,3.0,229.56302166666663,1.1761476131467257
+309,204,33,FC Bayern München,Kingsley Coman,Leroy Sané,21.0,2416.4493733333334,0.7821392911670519
+309,216,33,FC Bayern München,Kingsley Coman,Thomas Müller,14.0,566.0549733333334,2.225932213933615
+309,231,33,FC Bayern München,Kingsley Coman,Harry Kane,25.0,2595.276723333334,0.8669595730470446
+309,409,33,FC Bayern München,Kingsley Coman,Raphaël Guerreiro,19.0,575.71349,2.9702274303143392
+309,582,33,FC Bayern München,Kingsley Coman,Manuel Neuer,1.0,1201.4794200000001,0.07490765010356981
+309,929,33,FC Bayern München,Kingsley Coman,Eric-Maxim Choupo-Moting,9.0,572.1504533333333,1.4157115410482706
+309,1053,33,FC Bayern München,Kingsley Coman,Leon Goretzka,36.0,1885.6695399999999,1.7182225895211736
+309,1202,33,FC Bayern München,Kingsley Coman,Sven Ulreich,0.0,0.0,0.0
+309,1978,33,FC Bayern München,Kingsley Coman,Bouna Sarr,0.0,0.0,0.0
+309,5253,33,FC Bayern München,Kingsley Coman,Serge Gnabry,1.0,206.94913500000004,0.4348894717535301
+309,7594,33,FC Bayern München,Kingsley Coman,Konrad Laimer,52.0,1509.6295533333334,3.1000982921050655
+309,7910,33,FC Bayern München,Kingsley Coman,Matthijs de Ligt,11.0,1063.0853083333332,0.9312516994069707
+309,7947,33,FC Bayern München,Kingsley Coman,Dayot Upamecano,20.0,1697.818573333333,1.0601839491401333
+309,8358,33,FC Bayern München,Kingsley Coman,Noussair Mazraoui,58.0,1671.3266033333332,3.123267462858013
+309,28349,33,FC Bayern München,Kingsley Coman,Ryan Gravenberch,0.0,0.0,0.0
+309,31001,33,FC Bayern München,Kingsley Coman,Daniel Peretz,0.0,0.0,0.0
+309,32432,33,FC Bayern München,Kingsley Coman,Alphonso Davies,51.0,1898.4370216666669,2.4177783869650673
+309,49451,33,FC Bayern München,Kingsley Coman,Sacha Boey,0.0,0.0,0.0
+309,50321,33,FC Bayern München,Kingsley Coman,Min-jae Kim,32.0,2013.3160533333332,1.4304758536205715
+309,53703,33,FC Bayern München,Kingsley Coman,Jamal Musiala,33.0,1258.4930366666667,2.3599653819830033
+309,66678,33,FC Bayern München,Kingsley Coman,Mathys Tel,9.0,241.46995166666667,3.354454640874536
+309,69885,33,FC Bayern München,Kingsley Coman,Bryan Zaragoza,0.0,0.0,0.0
+309,80052,33,FC Bayern München,Kingsley Coman,Lovro Zvonarek,0.0,0.0,0.0
+309,103990,33,FC Bayern München,Kingsley Coman,Frans Krätzig,0.0,0.0,0.0
+309,103995,33,FC Bayern München,Kingsley Coman,Aleksandar Pavlovic,5.0,221.88378833333334,2.0280886827295848
+309,112074,33,FC Bayern München,Kingsley Coman,Jonathan Asp Jensen,0.0,0.0,0.0
+309,112388,33,FC Bayern München,Kingsley Coman,Matteo Pérez Vinlöf,0.0,0.0,0.0
+409,98,33,FC Bayern München,Raphaël Guerreiro,Joshua Kimmich,49.0,2025.1943566666666,2.177568777773291
+409,170,33,FC Bayern München,Raphaël Guerreiro,Eric Dier,42.0,1428.3458233333333,2.6464179320233576
+409,204,33,FC Bayern München,Raphaël Guerreiro,Leroy Sané,59.0,1865.0667383333337,2.847083104782158
+409,216,33,FC Bayern München,Raphaël Guerreiro,Thomas Müller,17.0,1894.5911066666663,0.807562114387771
+409,231,33,FC Bayern München,Raphaël Guerreiro,Harry Kane,44.0,2707.7862400000004,1.4624492663054522
+409,309,33,FC Bayern München,Raphaël Guerreiro,Kingsley Coman,40.0,575.71349,6.253110379609135
+409,582,33,FC Bayern München,Raphaël Guerreiro,Manuel Neuer,16.0,2485.41204,0.5793807935363505
+409,929,33,FC Bayern München,Raphaël Guerreiro,Eric-Maxim Choupo-Moting,11.0,450.5495916666667,2.19731638494623
+409,1053,33,FC Bayern München,Raphaël Guerreiro,Leon Goretzka,84.0,1639.79954,4.610319624799993
+409,1202,33,FC Bayern München,Raphaël Guerreiro,Sven Ulreich,1.0,249.2334666666667,0.36110720283150843
+409,1978,33,FC Bayern München,Raphaël Guerreiro,Bouna Sarr,4.0,33.09841666666668,10.876653213522294
+409,5253,33,FC Bayern München,Raphaël Guerreiro,Serge Gnabry,0.0,0.0,0.0
+409,7594,33,FC Bayern München,Raphaël Guerreiro,Konrad Laimer,12.0,1383.2519883333332,0.7807688035939724
+409,7910,33,FC Bayern München,Raphaël Guerreiro,Matthijs de Ligt,48.0,1835.3766533333333,2.353740302925941
+409,7947,33,FC Bayern München,Raphaël Guerreiro,Dayot Upamecano,31.0,1128.1475566666666,2.4730807450787755
+409,8358,33,FC Bayern München,Raphaël Guerreiro,Noussair Mazraoui,18.0,421.8670666666667,3.840072212320911
+409,28349,33,FC Bayern München,Raphaël Guerreiro,Ryan Gravenberch,0.0,0.0,0.0
+409,31001,33,FC Bayern München,Raphaël Guerreiro,Daniel Peretz,0.0,0.0,0.0
+409,32432,33,FC Bayern München,Raphaël Guerreiro,Alphonso Davies,56.0,1095.6683033333334,4.599932283033919
+409,49451,33,FC Bayern München,Raphaël Guerreiro,Sacha Boey,0.0,0.0,0.0
+409,50321,33,FC Bayern München,Raphaël Guerreiro,Min-jae Kim,42.0,995.6451083333334,3.7965334920668226
+409,53703,33,FC Bayern München,Raphaël Guerreiro,Jamal Musiala,109.0,2198.9764933333336,4.4611663788772224
+409,66678,33,FC Bayern München,Raphaël Guerreiro,Mathys Tel,29.0,750.5700283333333,3.4773570772544633
+409,69885,33,FC Bayern München,Raphaël Guerreiro,Bryan Zaragoza,3.0,16.280533333333338,16.58422328506846
+409,80052,33,FC Bayern München,Raphaël Guerreiro,Lovro Zvonarek,0.0,0.0,0.0
+409,103990,33,FC Bayern München,Raphaël Guerreiro,Frans Krätzig,0.0,0.0,0.0
+409,103995,33,FC Bayern München,Raphaël Guerreiro,Aleksandar Pavlovic,64.0,1573.475555,3.6606860409725277
+409,112074,33,FC Bayern München,Raphaël Guerreiro,Jonathan Asp Jensen,0.0,0.0,0.0
+409,112388,33,FC Bayern München,Raphaël Guerreiro,Matteo Pérez Vinlöf,0.0,0.0,0.0
+582,98,33,FC Bayern München,Manuel Neuer,Joshua Kimmich,30.0,2987.007055,0.9039148385941793
+582,170,33,FC Bayern München,Manuel Neuer,Eric Dier,59.0,2202.645591666667,2.4107373515237667
+582,204,33,FC Bayern München,Manuel Neuer,Leroy Sané,8.0,3277.449138333334,0.21968304300402913
+582,216,33,FC Bayern München,Manuel Neuer,Thomas Müller,9.0,2756.0826450000004,0.2938953958690161
+582,231,33,FC Bayern München,Manuel Neuer,Harry Kane,17.0,4331.094943333333,0.3532593997633469
+582,309,33,FC Bayern München,Manuel Neuer,Kingsley Coman,3.0,1201.4794200000001,0.2247229503107094
+582,409,33,FC Bayern München,Manuel Neuer,Raphaël Guerreiro,41.0,2485.41204,1.4846632834368982
+582,929,33,FC Bayern München,Manuel Neuer,Eric-Maxim Choupo-Moting,3.0,1259.4363633333335,0.21438161376045597
+582,1053,33,FC Bayern München,Manuel Neuer,Leon Goretzka,39.0,3521.289858333333,0.9967938287424378
+582,1202,33,FC Bayern München,Manuel Neuer,Sven Ulreich,0.0,0.0,0.0
+582,1978,33,FC Bayern München,Manuel Neuer,Bouna Sarr,4.0,199.70333333333335,1.8026739663834686
+582,5253,33,FC Bayern München,Manuel Neuer,Serge Gnabry,2.0,396.8582533333333,0.4535624457551914
+582,7594,33,FC Bayern München,Manuel Neuer,Konrad Laimer,30.0,2446.7675066666666,1.1034967534280862
+582,7910,33,FC Bayern München,Manuel Neuer,Matthijs de Ligt,52.0,2355.477405,1.9868583710740368
+582,7947,33,FC Bayern München,Manuel Neuer,Dayot Upamecano,56.0,2470.2914766666668,2.04024506727474
+582,8358,33,FC Bayern München,Manuel Neuer,Noussair Mazraoui,15.0,1496.1185166666667,0.902334931999761
+582,28349,33,FC Bayern München,Manuel Neuer,Ryan Gravenberch,0.0,0.0,0.0
+582,31001,33,FC Bayern München,Manuel Neuer,Daniel Peretz,0.0,0.0,0.0
+582,32432,33,FC Bayern München,Manuel Neuer,Alphonso Davies,44.0,2548.662173333333,1.553756335944992
+582,49451,33,FC Bayern München,Manuel Neuer,Sacha Boey,1.0,229.90820166666668,0.3914605888244338
+582,50321,33,FC Bayern München,Manuel Neuer,Min-jae Kim,107.0,2752.401106666667,3.498763307671585
+582,53703,33,FC Bayern München,Manuel Neuer,Jamal Musiala,6.0,3048.9735783333335,0.17710878304664784
+582,66678,33,FC Bayern München,Manuel Neuer,Mathys Tel,7.0,1428.1137599999997,0.4411413275648294
+582,69885,33,FC Bayern München,Manuel Neuer,Bryan Zaragoza,1.0,273.17328833333335,0.32946120226139974
+582,80052,33,FC Bayern München,Manuel Neuer,Lovro Zvonarek,1.0,379.51543666666663,0.23714450402988002
+582,103990,33,FC Bayern München,Manuel Neuer,Frans Krätzig,1.0,25.746549999999996,3.4956139754646744
+582,103995,33,FC Bayern München,Manuel Neuer,Aleksandar Pavlovic,26.0,2639.6374866666665,0.8864853646835238
+582,112074,33,FC Bayern München,Manuel Neuer,Jonathan Asp Jensen,0.0,0.0,0.0
+582,112388,33,FC Bayern München,Manuel Neuer,Matteo Pérez Vinlöf,0.0,0.0,0.0
+929,98,33,FC Bayern München,Eric-Maxim Choupo-Moting,Joshua Kimmich,26.0,1408.4313066666666,1.661422881558971
+929,170,33,FC Bayern München,Eric-Maxim Choupo-Moting,Eric Dier,3.0,494.71960666666666,0.5457636939421349
+929,204,33,FC Bayern München,Eric-Maxim Choupo-Moting,Leroy Sané,11.0,699.8528299999999,1.4145831202825887
+929,216,33,FC Bayern München,Eric-Maxim Choupo-Moting,Thomas Müller,14.0,612.3125699999999,2.0577725523420174
+929,231,33,FC Bayern München,Eric-Maxim Choupo-Moting,Harry Kane,13.0,1473.2561783333335,0.7941592353093666
+929,309,33,FC Bayern München,Eric-Maxim Choupo-Moting,Kingsley Coman,6.0,572.1504533333333,0.9438076940321805
+929,409,33,FC Bayern München,Eric-Maxim Choupo-Moting,Raphaël Guerreiro,9.0,450.5495916666667,1.7978043149560061
+929,582,33,FC Bayern München,Eric-Maxim Choupo-Moting,Manuel Neuer,1.0,1259.4363633333335,0.07146053792015199
+929,1053,33,FC Bayern München,Eric-Maxim Choupo-Moting,Leon Goretzka,15.0,1219.6398316666666,1.1068841513278498
+929,1202,33,FC Bayern München,Eric-Maxim Choupo-Moting,Sven Ulreich,0.0,0.0,0.0
+929,1978,33,FC Bayern München,Eric-Maxim Choupo-Moting,Bouna Sarr,1.0,44.65496833333333,2.015453226350588
+929,5253,33,FC Bayern München,Eric-Maxim Choupo-Moting,Serge Gnabry,7.0,226.62698333333333,2.7798984513391645
+929,7594,33,FC Bayern München,Eric-Maxim Choupo-Moting,Konrad Laimer,14.0,576.4400200000001,2.185830192705912
+929,7910,33,FC Bayern München,Eric-Maxim Choupo-Moting,Matthijs de Ligt,4.0,322.79520500000007,1.1152582021780648
+929,7947,33,FC Bayern München,Eric-Maxim Choupo-Moting,Dayot Upamecano,5.0,677.8854450000001,0.6638289748203695
+929,8358,33,FC Bayern München,Eric-Maxim Choupo-Moting,Noussair Mazraoui,11.0,732.041325,1.3523826677407864
+929,28349,33,FC Bayern München,Eric-Maxim Choupo-Moting,Ryan Gravenberch,0.0,0.0,0.0
+929,31001,33,FC Bayern München,Eric-Maxim Choupo-Moting,Daniel Peretz,0.0,0.0,0.0
+929,32432,33,FC Bayern München,Eric-Maxim Choupo-Moting,Alphonso Davies,24.0,781.1470949999999,2.7651642230071922
+929,49451,33,FC Bayern München,Eric-Maxim Choupo-Moting,Sacha Boey,0.0,0.0,0.0
+929,50321,33,FC Bayern München,Eric-Maxim Choupo-Moting,Min-jae Kim,7.0,1315.2495666666664,0.47899654633352606
+929,53703,33,FC Bayern München,Eric-Maxim Choupo-Moting,Jamal Musiala,5.0,195.23293833333332,2.3049389300881544
+929,66678,33,FC Bayern München,Eric-Maxim Choupo-Moting,Mathys Tel,15.0,567.6803916666665,2.378098697466901
+929,69885,33,FC Bayern München,Eric-Maxim Choupo-Moting,Bryan Zaragoza,3.0,27.313035000000006,9.885389888015007
+929,80052,33,FC Bayern München,Eric-Maxim Choupo-Moting,Lovro Zvonarek,1.0,11.836934999999993,7.603319609341442
+929,103990,33,FC Bayern München,Eric-Maxim Choupo-Moting,Frans Krätzig,2.0,15.186186666666678,11.852876824904028
+929,103995,33,FC Bayern München,Eric-Maxim Choupo-Moting,Aleksandar Pavlovic,8.0,627.8662083333334,1.1467411216654502
+929,112074,33,FC Bayern München,Eric-Maxim Choupo-Moting,Jonathan Asp Jensen,0.0,0.0,0.0
+929,112388,33,FC Bayern München,Eric-Maxim Choupo-Moting,Matteo Pérez Vinlöf,0.0,0.0,0.0
+1053,98,33,FC Bayern München,Leon Goretzka,Joshua Kimmich,109.0,4251.7727116666665,2.307272910680718
+1053,170,33,FC Bayern München,Leon Goretzka,Eric Dier,106.0,2381.0746066666666,4.006594322281784
+1053,204,33,FC Bayern München,Leon Goretzka,Leroy Sané,79.0,3508.779435,2.0263456656972796
+1053,216,33,FC Bayern München,Leon Goretzka,Thomas Müller,48.0,2982.3910183333332,1.4485022163237906
+1053,231,33,FC Bayern München,Leon Goretzka,Harry Kane,55.0,4763.936799999999,1.0390566054528687
+1053,309,33,FC Bayern München,Leon Goretzka,Kingsley Coman,35.0,1885.6695399999999,1.6704941842566965
+1053,409,33,FC Bayern München,Leon Goretzka,Raphaël Guerreiro,92.0,1639.79954,5.049397684304754
+1053,582,33,FC Bayern München,Leon Goretzka,Manuel Neuer,20.0,3521.289858333333,0.5111763224320194
+1053,929,33,FC Bayern München,Leon Goretzka,Eric-Maxim Choupo-Moting,28.0,1219.6398316666666,2.0661837491453197
+1053,1202,33,FC Bayern München,Leon Goretzka,Sven Ulreich,11.0,1712.59809,0.5780690786593135
+1053,1978,33,FC Bayern München,Leon Goretzka,Bouna Sarr,0.0,0.0,0.0
+1053,5253,33,FC Bayern München,Leon Goretzka,Serge Gnabry,22.0,811.840235,2.4389035116004076
+1053,7594,33,FC Bayern München,Leon Goretzka,Konrad Laimer,86.0,2167.9544183333333,3.570185763384412
+1053,7910,33,FC Bayern München,Leon Goretzka,Matthijs de Ligt,71.0,2228.8635266666665,2.866931924520493
+1053,7947,33,FC Bayern München,Leon Goretzka,Dayot Upamecano,126.0,2791.5240133333336,4.062297134409748
+1053,8358,33,FC Bayern München,Leon Goretzka,Noussair Mazraoui,80.0,1767.1132733333332,4.0744416946280575
+1053,28349,33,FC Bayern München,Leon Goretzka,Ryan Gravenberch,0.0,0.0,0.0
+1053,31001,33,FC Bayern München,Leon Goretzka,Daniel Peretz,0.0,0.0,0.0
+1053,32432,33,FC Bayern München,Leon Goretzka,Alphonso Davies,154.0,3239.52599,4.278403705598917
+1053,49451,33,FC Bayern München,Leon Goretzka,Sacha Boey,5.0,218.10650166666667,2.0632122222919214
+1053,50321,33,FC Bayern München,Leon Goretzka,Min-jae Kim,131.0,3343.908518333333,3.5258141588982097
+1053,53703,33,FC Bayern München,Leon Goretzka,Jamal Musiala,86.0,2945.3391349999997,2.6278807448772787
+1053,66678,33,FC Bayern München,Leon Goretzka,Mathys Tel,34.0,1447.1292983333333,2.1145311642326767
+1053,69885,33,FC Bayern München,Leon Goretzka,Bryan Zaragoza,10.0,259.57261833333337,3.467237822612915
+1053,80052,33,FC Bayern München,Leon Goretzka,Lovro Zvonarek,7.0,377.318035,1.6696790016941543
+1053,103990,33,FC Bayern München,Leon Goretzka,Frans Krätzig,4.0,19.250651666666666,18.70066563114617
+1053,103995,33,FC Bayern München,Leon Goretzka,Aleksandar Pavlovic,85.0,2014.0768033333334,3.798266276310373
+1053,112074,33,FC Bayern München,Leon Goretzka,Jonathan Asp Jensen,0.0,0.0,0.0
+1053,112388,33,FC Bayern München,Leon Goretzka,Matteo Pérez Vinlöf,0.0,0.0,0.0
+1202,98,33,FC Bayern München,Sven Ulreich,Joshua Kimmich,23.0,2289.600516666667,0.9040878462997667
+1202,170,33,FC Bayern München,Sven Ulreich,Eric Dier,13.0,418.53426666666667,2.7954700324019663
+1202,204,33,FC Bayern München,Sven Ulreich,Leroy Sané,4.0,1836.3582883333333,0.19604017488696807
+1202,216,33,FC Bayern München,Sven Ulreich,Thomas Müller,5.0,1180.3995049999999,0.38122686267985184
+1202,231,33,FC Bayern München,Sven Ulreich,Harry Kane,4.0,2262.830968333333,0.15909274932062406
+1202,309,33,FC Bayern München,Sven Ulreich,Kingsley Coman,0.0,0.0,0.0
+1202,409,33,FC Bayern München,Sven Ulreich,Raphaël Guerreiro,2.0,249.2334666666667,0.7222144056630169
+1202,582,33,FC Bayern München,Sven Ulreich,Manuel Neuer,0.0,0.0,0.0
+1202,929,33,FC Bayern München,Sven Ulreich,Eric-Maxim Choupo-Moting,2.0,268.54582,0.6702766775517116
+1202,1053,33,FC Bayern München,Sven Ulreich,Leon Goretzka,14.0,1712.59809,0.7357242819300354
+1202,1978,33,FC Bayern München,Sven Ulreich,Bouna Sarr,0.0,0.0,0.0
+1202,5253,33,FC Bayern München,Sven Ulreich,Serge Gnabry,1.0,605.5618516666667,0.14862230794805872
+1202,7594,33,FC Bayern München,Sven Ulreich,Konrad Laimer,12.0,1348.9746049999999,0.8006081033675205
+1202,7910,33,FC Bayern München,Sven Ulreich,Matthijs de Ligt,25.0,705.066405,3.1911887788782107
+1202,7947,33,FC Bayern München,Sven Ulreich,Dayot Upamecano,33.0,1551.5748850000002,1.9141841162245932
+1202,8358,33,FC Bayern München,Sven Ulreich,Noussair Mazraoui,4.0,1091.775085,0.3297382445762627
+1202,28349,33,FC Bayern München,Sven Ulreich,Ryan Gravenberch,0.0,0.0,0.0
+1202,31001,33,FC Bayern München,Sven Ulreich,Daniel Peretz,0.0,0.0,0.0
+1202,32432,33,FC Bayern München,Sven Ulreich,Alphonso Davies,14.0,2132.0388000000003,0.590983616245633
+1202,49451,33,FC Bayern München,Sven Ulreich,Sacha Boey,0.0,0.0,0.0
+1202,50321,33,FC Bayern München,Sven Ulreich,Min-jae Kim,89.0,1874.7936033333333,4.272470305935775
+1202,53703,33,FC Bayern München,Sven Ulreich,Jamal Musiala,1.0,1071.9336883333333,0.08396041749553933
+1202,66678,33,FC Bayern München,Sven Ulreich,Mathys Tel,1.0,415.59375166666666,0.21655763504400777
+1202,69885,33,FC Bayern München,Sven Ulreich,Bryan Zaragoza,0.0,0.0,0.0
+1202,80052,33,FC Bayern München,Sven Ulreich,Lovro Zvonarek,0.0,0.0,0.0
+1202,103990,33,FC Bayern München,Sven Ulreich,Frans Krätzig,0.0,0.0,0.0
+1202,103995,33,FC Bayern München,Sven Ulreich,Aleksandar Pavlovic,1.0,197.5245166666667,0.455639641695111
+1202,112074,33,FC Bayern München,Sven Ulreich,Jonathan Asp Jensen,0.0,0.0,0.0
+1202,112388,33,FC Bayern München,Sven Ulreich,Matteo Pérez Vinlöf,0.0,0.0,0.0
+1978,98,33,FC Bayern München,Bouna Sarr,Joshua Kimmich,1.0,18.4433,4.87982085635434
+1978,170,33,FC Bayern München,Bouna Sarr,Eric Dier,0.0,0.0,0.0
+1978,204,33,FC Bayern München,Bouna Sarr,Leroy Sané,0.0,0.0,0.0
+1978,216,33,FC Bayern München,Bouna Sarr,Thomas Müller,6.0,179.6616,3.0056506231715625
+1978,231,33,FC Bayern München,Bouna Sarr,Harry Kane,4.0,230.45320166666664,1.5621392863992973
+1978,309,33,FC Bayern München,Bouna Sarr,Kingsley Coman,0.0,0.0,0.0
+1978,409,33,FC Bayern München,Bouna Sarr,Raphaël Guerreiro,3.0,33.09841666666668,8.15748991014172
+1978,582,33,FC Bayern München,Bouna Sarr,Manuel Neuer,3.0,199.70333333333335,1.3520054747876014
+1978,929,33,FC Bayern München,Bouna Sarr,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+1978,1053,33,FC Bayern München,Bouna Sarr,Leon Goretzka,0.0,0.0,0.0
+1978,1202,33,FC Bayern München,Bouna Sarr,Sven Ulreich,2.0,18.996549999999996,9.475404744545722
+1978,5253,33,FC Bayern München,Bouna Sarr,Serge Gnabry,9.0,179.7329683333333,4.506685709979327
+1978,7594,33,FC Bayern München,Bouna Sarr,Konrad Laimer,3.0,230.912285,1.169275164376811
+1978,7910,33,FC Bayern München,Bouna Sarr,Matthijs de Ligt,2.0,18.797933333333336,9.575520713269897
+1978,7947,33,FC Bayern München,Bouna Sarr,Dayot Upamecano,3.0,180.169885,1.498585626560177
+1978,8358,33,FC Bayern München,Bouna Sarr,Noussair Mazraoui,4.0,214.75371666666666,1.6763388573096485
+1978,28349,33,FC Bayern München,Bouna Sarr,Ryan Gravenberch,0.0,0.0,0.0
+1978,31001,33,FC Bayern München,Bouna Sarr,Daniel Peretz,0.0,0.0,0.0
+1978,32432,33,FC Bayern München,Bouna Sarr,Alphonso Davies,1.0,33.164433333333335,2.713750574159265
+1978,49451,33,FC Bayern München,Bouna Sarr,Sacha Boey,0.0,0.0,0.0
+1978,50321,33,FC Bayern München,Bouna Sarr,Min-jae Kim,23.0,233.20525,8.876301026670712
+1978,53703,33,FC Bayern München,Bouna Sarr,Jamal Musiala,0.0,0.0,0.0
+1978,66678,33,FC Bayern München,Bouna Sarr,Mathys Tel,5.0,47.40645166666667,9.49237886784116
+1978,69885,33,FC Bayern München,Bouna Sarr,Bryan Zaragoza,0.0,0.0,0.0
+1978,80052,33,FC Bayern München,Bouna Sarr,Lovro Zvonarek,0.0,0.0,0.0
+1978,103990,33,FC Bayern München,Bouna Sarr,Frans Krätzig,0.0,0.0,0.0
+1978,103995,33,FC Bayern München,Bouna Sarr,Aleksandar Pavlovic,8.0,195.02990000000003,3.6917416252584854
+1978,112074,33,FC Bayern München,Bouna Sarr,Jonathan Asp Jensen,0.0,0.0,0.0
+1978,112388,33,FC Bayern München,Bouna Sarr,Matteo Pérez Vinlöf,0.0,0.0,0.0
+5253,98,33,FC Bayern München,Serge Gnabry,Joshua Kimmich,25.0,842.403135,2.670930231046683
+5253,170,33,FC Bayern München,Serge Gnabry,Eric Dier,3.0,102.82231666666664,2.6258890944394535
+5253,204,33,FC Bayern München,Serge Gnabry,Leroy Sané,7.0,573.04472,1.099390637435766
+5253,216,33,FC Bayern München,Serge Gnabry,Thomas Müller,7.0,540.1380683333333,1.1663684471341695
+5253,231,33,FC Bayern München,Serge Gnabry,Harry Kane,8.0,999.7403716666665,0.7201869809455513
+5253,309,33,FC Bayern München,Serge Gnabry,Kingsley Coman,1.0,206.94913500000004,0.4348894717535301
+5253,409,33,FC Bayern München,Serge Gnabry,Raphaël Guerreiro,3.0,31.591084999999993,8.546714998867563
+5253,582,33,FC Bayern München,Serge Gnabry,Manuel Neuer,2.0,396.8582533333333,0.4535624457551914
+5253,929,33,FC Bayern München,Serge Gnabry,Eric-Maxim Choupo-Moting,2.0,226.62698333333333,0.7942567003826184
+5253,1053,33,FC Bayern München,Serge Gnabry,Leon Goretzka,33.0,811.840235,3.6583552674006112
+5253,1202,33,FC Bayern München,Serge Gnabry,Sven Ulreich,0.0,0.0,0.0
+5253,1978,33,FC Bayern München,Serge Gnabry,Bouna Sarr,3.0,179.7329683333333,1.5022285699931088
+5253,7594,33,FC Bayern München,Serge Gnabry,Konrad Laimer,7.0,639.5666033333333,0.9850420530348623
+5253,7910,33,FC Bayern München,Serge Gnabry,Matthijs de Ligt,5.0,85.77385000000001,5.246354221012581
+5253,7947,33,FC Bayern München,Serge Gnabry,Dayot Upamecano,6.0,777.3842866666668,0.6946371431244861
+5253,8358,33,FC Bayern München,Serge Gnabry,Noussair Mazraoui,4.0,378.9882366666667,0.9498975566268895
+5253,28349,33,FC Bayern München,Serge Gnabry,Ryan Gravenberch,0.0,0.0,0.0
+5253,31001,33,FC Bayern München,Serge Gnabry,Daniel Peretz,0.0,0.0,0.0
+5253,32432,33,FC Bayern München,Serge Gnabry,Alphonso Davies,27.0,803.8854183333333,3.022818855251824
+5253,49451,33,FC Bayern München,Serge Gnabry,Sacha Boey,0.0,0.0,0.0
+5253,50321,33,FC Bayern München,Serge Gnabry,Min-jae Kim,6.0,950.8648533333334,0.5679040487267843
+5253,53703,33,FC Bayern München,Serge Gnabry,Jamal Musiala,9.0,225.9014683333333,3.5856340641610562
+5253,66678,33,FC Bayern München,Serge Gnabry,Mathys Tel,4.0,252.37383499999999,1.4264553217254081
+5253,69885,33,FC Bayern München,Serge Gnabry,Bryan Zaragoza,0.0,0.0,0.0
+5253,80052,33,FC Bayern München,Serge Gnabry,Lovro Zvonarek,0.0,0.0,0.0
+5253,103990,33,FC Bayern München,Serge Gnabry,Frans Krätzig,0.0,0.0,0.0
+5253,103995,33,FC Bayern München,Serge Gnabry,Aleksandar Pavlovic,4.0,357.897335,1.0058750507320766
+5253,112074,33,FC Bayern München,Serge Gnabry,Jonathan Asp Jensen,0.0,0.0,0.0
+5253,112388,33,FC Bayern München,Serge Gnabry,Matteo Pérez Vinlöf,0.0,0.0,0.0
+7594,98,33,FC Bayern München,Konrad Laimer,Joshua Kimmich,148.0,2684.897275,4.961083660081558
+7594,170,33,FC Bayern München,Konrad Laimer,Eric Dier,49.0,788.9403416666667,5.589776269627316
+7594,204,33,FC Bayern München,Konrad Laimer,Leroy Sané,141.0,3159.9468599999996,4.0158903178517384
+7594,216,33,FC Bayern München,Konrad Laimer,Thomas Müller,63.0,1881.3478616666664,3.0137967122023923
+7594,231,33,FC Bayern München,Konrad Laimer,Harry Kane,48.0,3517.9038333333333,1.2280040059840558
+7594,309,33,FC Bayern München,Konrad Laimer,Kingsley Coman,71.0,1509.6295533333334,4.232826514220378
+7594,409,33,FC Bayern München,Konrad Laimer,Raphaël Guerreiro,10.0,1383.2519883333332,0.6506406696616436
+7594,582,33,FC Bayern München,Konrad Laimer,Manuel Neuer,15.0,2446.7675066666666,0.5517483767140431
+7594,929,33,FC Bayern München,Konrad Laimer,Eric-Maxim Choupo-Moting,9.0,576.4400200000001,1.4051765524538007
+7594,1053,33,FC Bayern München,Konrad Laimer,Leon Goretzka,69.0,2167.9544183333333,2.8644513682967956
+7594,1202,33,FC Bayern München,Konrad Laimer,Sven Ulreich,7.0,1348.9746049999999,0.4670213936310536
+7594,1978,33,FC Bayern München,Konrad Laimer,Bouna Sarr,2.0,230.912285,0.7795167762512073
+7594,5253,33,FC Bayern München,Konrad Laimer,Serge Gnabry,10.0,639.5666033333333,1.407202932906946
+7594,7910,33,FC Bayern München,Konrad Laimer,Matthijs de Ligt,70.0,1836.5764249999997,3.4302955838061577
+7594,7947,33,FC Bayern München,Konrad Laimer,Dayot Upamecano,200.0,2517.22518,7.150730948909387
+7594,8358,33,FC Bayern München,Konrad Laimer,Noussair Mazraoui,41.0,1136.3641099999998,3.247198646567605
+7594,28349,33,FC Bayern München,Konrad Laimer,Ryan Gravenberch,0.0,0.0,0.0
+7594,31001,33,FC Bayern München,Konrad Laimer,Daniel Peretz,0.0,0.0,0.0
+7594,32432,33,FC Bayern München,Konrad Laimer,Alphonso Davies,29.0,2843.20424,0.9179783721763161
+7594,49451,33,FC Bayern München,Konrad Laimer,Sacha Boey,0.0,0.0,0.0
+7594,50321,33,FC Bayern München,Konrad Laimer,Min-jae Kim,54.0,2472.0424316666667,1.965985671501341
+7594,53703,33,FC Bayern München,Konrad Laimer,Jamal Musiala,61.0,2507.0399983333336,2.1898334305195455
+7594,66678,33,FC Bayern München,Konrad Laimer,Mathys Tel,26.0,581.7921616666665,4.022054874882769
+7594,69885,33,FC Bayern München,Konrad Laimer,Bryan Zaragoza,7.0,46.61085000000003,13.516166300335643
+7594,80052,33,FC Bayern München,Konrad Laimer,Lovro Zvonarek,1.0,196.32288333333332,0.4584284749281647
+7594,103990,33,FC Bayern München,Konrad Laimer,Frans Krätzig,3.0,42.17008666666667,6.402642757986585
+7594,103995,33,FC Bayern München,Konrad Laimer,Aleksandar Pavlovic,32.0,742.0767183333334,3.8810003451776978
+7594,112074,33,FC Bayern München,Konrad Laimer,Jonathan Asp Jensen,0.0,0.0,0.0
+7594,112388,33,FC Bayern München,Konrad Laimer,Matteo Pérez Vinlöf,2.0,12.598199999999997,14.287755393627664
+7910,98,33,FC Bayern München,Matthijs de Ligt,Joshua Kimmich,192.0,2377.7249566666665,7.2674511623181335
+7910,170,33,FC Bayern München,Matthijs de Ligt,Eric Dier,159.0,1752.6455516666667,8.16479977163209
+7910,204,33,FC Bayern München,Matthijs de Ligt,Leroy Sané,44.0,2274.92496,1.7407167575320817
+7910,216,33,FC Bayern München,Matthijs de Ligt,Thomas Müller,31.0,1819.4447066666667,1.5334348935019022
+7910,231,33,FC Bayern München,Matthijs de Ligt,Harry Kane,18.0,2804.32339,0.5776794522974043
+7910,309,33,FC Bayern München,Matthijs de Ligt,Kingsley Coman,26.0,1063.0853083333332,2.201140380416476
+7910,409,33,FC Bayern München,Matthijs de Ligt,Raphaël Guerreiro,57.0,1835.3766533333333,2.795066609724555
+7910,582,33,FC Bayern München,Matthijs de Ligt,Manuel Neuer,48.0,2355.477405,1.8340231117606496
+7910,929,33,FC Bayern München,Matthijs de Ligt,Eric-Maxim Choupo-Moting,7.0,322.79520500000007,1.9517018538116135
+7910,1053,33,FC Bayern München,Matthijs de Ligt,Leon Goretzka,63.0,2228.8635266666665,2.5438973414759305
+7910,1202,33,FC Bayern München,Matthijs de Ligt,Sven Ulreich,15.0,705.066405,1.9147132673269265
+7910,1978,33,FC Bayern München,Matthijs de Ligt,Bouna Sarr,2.0,18.797933333333336,9.575520713269897
+7910,5253,33,FC Bayern München,Matthijs de Ligt,Serge Gnabry,1.0,85.77385000000001,1.049270844202516
+7910,7594,33,FC Bayern München,Matthijs de Ligt,Konrad Laimer,89.0,1836.5764249999997,4.361375813696401
+7910,7947,33,FC Bayern München,Matthijs de Ligt,Dayot Upamecano,63.0,946.3251200000001,5.991598320881516
+7910,8358,33,FC Bayern München,Matthijs de Ligt,Noussair Mazraoui,47.0,708.5634383333334,5.9698253835248805
+7910,28349,33,FC Bayern München,Matthijs de Ligt,Ryan Gravenberch,0.0,0.0,0.0
+7910,31001,33,FC Bayern München,Matthijs de Ligt,Daniel Peretz,6.0,16.636435000000013,32.45887715727555
+7910,32432,33,FC Bayern München,Matthijs de Ligt,Alphonso Davies,68.0,1776.0136516666666,3.445919458027139
+7910,49451,33,FC Bayern München,Matthijs de Ligt,Sacha Boey,5.0,30.755468333333344,14.631544384979556
+7910,50321,33,FC Bayern München,Matthijs de Ligt,Min-jae Kim,57.0,734.3915233333332,6.98537474495269
+7910,53703,33,FC Bayern München,Matthijs de Ligt,Jamal Musiala,10.0,2479.9882599999996,0.36290494375162896
+7910,66678,33,FC Bayern München,Matthijs de Ligt,Mathys Tel,10.0,804.7190783333334,1.1184027124894371
+7910,69885,33,FC Bayern München,Matthijs de Ligt,Bryan Zaragoza,1.0,45.41461833333336,1.9817407544729253
+7910,80052,33,FC Bayern München,Matthijs de Ligt,Lovro Zvonarek,2.0,190.53451666666666,0.944710717769335
+7910,103990,33,FC Bayern München,Matthijs de Ligt,Frans Krätzig,0.0,0.0,0.0
+7910,103995,33,FC Bayern München,Matthijs de Ligt,Aleksandar Pavlovic,39.0,1081.6842350000002,3.244939591820897
+7910,112074,33,FC Bayern München,Matthijs de Ligt,Jonathan Asp Jensen,0.0,0.0,0.0
+7910,112388,33,FC Bayern München,Matthijs de Ligt,Matteo Pérez Vinlöf,6.0,17.694118333333336,30.518615837598006
+7947,98,33,FC Bayern München,Dayot Upamecano,Joshua Kimmich,181.0,2966.2601766666667,5.491763712482523
+7947,170,33,FC Bayern München,Dayot Upamecano,Eric Dier,55.0,462.94558500000005,10.692401354254192
+7947,204,33,FC Bayern München,Dayot Upamecano,Leroy Sané,63.0,3153.7882649999997,1.7978378773630197
+7947,216,33,FC Bayern München,Dayot Upamecano,Thomas Müller,56.0,2223.1656283333336,2.2670375683067734
+7947,231,33,FC Bayern München,Dayot Upamecano,Harry Kane,29.0,3554.6806466666667,0.7342431738410811
+7947,309,33,FC Bayern München,Dayot Upamecano,Kingsley Coman,34.0,1697.818573333333,1.8023127135382264
+7947,409,33,FC Bayern München,Dayot Upamecano,Raphaël Guerreiro,31.0,1128.1475566666666,2.4730807450787755
+7947,582,33,FC Bayern München,Dayot Upamecano,Manuel Neuer,92.0,2470.2914766666668,3.351831181951358
+7947,929,33,FC Bayern München,Dayot Upamecano,Eric-Maxim Choupo-Moting,12.0,677.8854450000001,1.5931895395688866
+7947,1053,33,FC Bayern München,Dayot Upamecano,Leon Goretzka,121.0,2791.5240133333336,3.901094867171266
+7947,1202,33,FC Bayern München,Dayot Upamecano,Sven Ulreich,59.0,1551.5748850000002,3.4223291774924545
+7947,1978,33,FC Bayern München,Dayot Upamecano,Bouna Sarr,2.0,180.169885,0.9990570843734512
+7947,5253,33,FC Bayern München,Dayot Upamecano,Serge Gnabry,1.0,777.3842866666668,0.11577285718741435
+7947,7594,33,FC Bayern München,Dayot Upamecano,Konrad Laimer,215.0,2517.22518,7.687035770077591
+7947,7910,33,FC Bayern München,Dayot Upamecano,Matthijs de Ligt,64.0,946.3251200000001,6.0867030561336035
+7947,8358,33,FC Bayern München,Dayot Upamecano,Noussair Mazraoui,143.0,1567.1457083333332,8.21238250633842
+7947,28349,33,FC Bayern München,Dayot Upamecano,Ryan Gravenberch,2.0,12.604700000000017,14.280387474513455
+7947,31001,33,FC Bayern München,Dayot Upamecano,Daniel Peretz,1.0,17.045866666666644,5.279872344419768
+7947,32432,33,FC Bayern München,Dayot Upamecano,Alphonso Davies,47.0,3076.903456666667,1.3747587662638363
+7947,49451,33,FC Bayern München,Dayot Upamecano,Sacha Boey,0.0,0.0,0.0
+7947,50321,33,FC Bayern München,Dayot Upamecano,Min-jae Kim,286.0,3279.3372016666667,7.849147073658081
+7947,53703,33,FC Bayern München,Dayot Upamecano,Jamal Musiala,28.0,2085.107213333333,1.208570947280658
+7947,66678,33,FC Bayern München,Dayot Upamecano,Mathys Tel,12.0,698.5217716666666,1.5461221737199826
+7947,69885,33,FC Bayern München,Dayot Upamecano,Bryan Zaragoza,5.0,263.84553500000004,1.7055433589202105
+7947,80052,33,FC Bayern München,Dayot Upamecano,Lovro Zvonarek,1.0,390.7975,0.23029830027060047
+7947,103990,33,FC Bayern München,Dayot Upamecano,Frans Krätzig,1.0,28.40130166666668,3.1688688446849924
+7947,103995,33,FC Bayern München,Dayot Upamecano,Aleksandar Pavlovic,59.0,1124.3221033333334,4.722845867974293
+7947,112074,33,FC Bayern München,Dayot Upamecano,Jonathan Asp Jensen,0.0,0.0,0.0
+7947,112388,33,FC Bayern München,Dayot Upamecano,Matteo Pérez Vinlöf,0.0,0.0,0.0
+8358,98,33,FC Bayern München,Noussair Mazraoui,Joshua Kimmich,42.0,1542.9747849999999,2.4498132028774537
+8358,170,33,FC Bayern München,Noussair Mazraoui,Eric Dier,22.0,786.2048183333334,2.5184277097123107
+8358,204,33,FC Bayern München,Noussair Mazraoui,Leroy Sané,141.0,2204.542973333333,5.756295138494103
+8358,216,33,FC Bayern München,Noussair Mazraoui,Thomas Müller,32.0,1063.7061716666667,2.7075146094973537
+8358,231,33,FC Bayern München,Noussair Mazraoui,Harry Kane,41.0,2532.9332399999994,1.4568090235177305
+8358,309,33,FC Bayern München,Noussair Mazraoui,Kingsley Coman,73.0,1671.3266033333332,3.931009048079913
+8358,409,33,FC Bayern München,Noussair Mazraoui,Raphaël Guerreiro,17.0,421.8670666666667,3.6267348671919715
+8358,582,33,FC Bayern München,Noussair Mazraoui,Manuel Neuer,12.0,1496.1185166666667,0.7218679455998088
+8358,929,33,FC Bayern München,Noussair Mazraoui,Eric-Maxim Choupo-Moting,14.0,732.041325,1.7212143043973644
+8358,1053,33,FC Bayern München,Noussair Mazraoui,Leon Goretzka,49.0,1767.1132733333332,2.495595537959685
+8358,1202,33,FC Bayern München,Noussair Mazraoui,Sven Ulreich,2.0,1091.775085,0.16486912228813136
+8358,1978,33,FC Bayern München,Noussair Mazraoui,Bouna Sarr,3.0,214.75371666666666,1.2572541429822364
+8358,5253,33,FC Bayern München,Noussair Mazraoui,Serge Gnabry,8.0,378.9882366666667,1.899795113253779
+8358,7594,33,FC Bayern München,Noussair Mazraoui,Konrad Laimer,36.0,1136.3641099999998,2.851198811620336
+8358,7910,33,FC Bayern München,Noussair Mazraoui,Matthijs de Ligt,36.0,708.5634383333334,4.572632208657355
+8358,7947,33,FC Bayern München,Noussair Mazraoui,Dayot Upamecano,118.0,1567.1457083333332,6.776651298936599
+8358,28349,33,FC Bayern München,Noussair Mazraoui,Ryan Gravenberch,0.0,0.0,0.0
+8358,31001,33,FC Bayern München,Noussair Mazraoui,Daniel Peretz,0.0,0.0,0.0
+8358,32432,33,FC Bayern München,Noussair Mazraoui,Alphonso Davies,1.0,1567.14227,0.05742937429669356
+8358,49451,33,FC Bayern München,Noussair Mazraoui,Sacha Boey,0.0,0.0,0.0
+8358,50321,33,FC Bayern München,Noussair Mazraoui,Min-jae Kim,44.0,2046.3281233333332,1.9351735212187875
+8358,53703,33,FC Bayern München,Noussair Mazraoui,Jamal Musiala,19.0,1056.1459516666666,1.61909440385726
+8358,66678,33,FC Bayern München,Noussair Mazraoui,Mathys Tel,20.0,342.41743833333334,5.256741621458405
+8358,69885,33,FC Bayern München,Noussair Mazraoui,Bryan Zaragoza,1.0,45.78151666666669,1.9658588564307784
+8358,80052,33,FC Bayern München,Noussair Mazraoui,Lovro Zvonarek,0.0,0.0,0.0
+8358,103990,33,FC Bayern München,Noussair Mazraoui,Frans Krätzig,1.0,55.028568333333325,1.6355141106857196
+8358,103995,33,FC Bayern München,Noussair Mazraoui,Aleksandar Pavlovic,23.0,972.5278183333334,2.1284738194404107
+8358,112074,33,FC Bayern München,Noussair Mazraoui,Jonathan Asp Jensen,0.0,0.0,0.0
+8358,112388,33,FC Bayern München,Noussair Mazraoui,Matteo Pérez Vinlöf,0.0,0.0,0.0
+28349,98,33,FC Bayern München,Ryan Gravenberch,Joshua Kimmich,0.0,0.0,0.0
+28349,170,33,FC Bayern München,Ryan Gravenberch,Eric Dier,0.0,0.0,0.0
+28349,204,33,FC Bayern München,Ryan Gravenberch,Leroy Sané,0.0,0.0,0.0
+28349,216,33,FC Bayern München,Ryan Gravenberch,Thomas Müller,0.0,0.0,0.0
+28349,231,33,FC Bayern München,Ryan Gravenberch,Harry Kane,0.0,0.0,0.0
+28349,309,33,FC Bayern München,Ryan Gravenberch,Kingsley Coman,0.0,0.0,0.0
+28349,409,33,FC Bayern München,Ryan Gravenberch,Raphaël Guerreiro,0.0,0.0,0.0
+28349,582,33,FC Bayern München,Ryan Gravenberch,Manuel Neuer,0.0,0.0,0.0
+28349,929,33,FC Bayern München,Ryan Gravenberch,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+28349,1053,33,FC Bayern München,Ryan Gravenberch,Leon Goretzka,0.0,0.0,0.0
+28349,1202,33,FC Bayern München,Ryan Gravenberch,Sven Ulreich,0.0,0.0,0.0
+28349,1978,33,FC Bayern München,Ryan Gravenberch,Bouna Sarr,0.0,0.0,0.0
+28349,5253,33,FC Bayern München,Ryan Gravenberch,Serge Gnabry,0.0,0.0,0.0
+28349,7594,33,FC Bayern München,Ryan Gravenberch,Konrad Laimer,0.0,0.0,0.0
+28349,7910,33,FC Bayern München,Ryan Gravenberch,Matthijs de Ligt,2.0,12.357950000000013,14.565522598812894
+28349,7947,33,FC Bayern München,Ryan Gravenberch,Dayot Upamecano,0.0,0.0,0.0
+28349,8358,33,FC Bayern München,Ryan Gravenberch,Noussair Mazraoui,0.0,0.0,0.0
+28349,31001,33,FC Bayern München,Ryan Gravenberch,Daniel Peretz,0.0,0.0,0.0
+28349,32432,33,FC Bayern München,Ryan Gravenberch,Alphonso Davies,1.0,12.794068333333355,7.034509872478654
+28349,49451,33,FC Bayern München,Ryan Gravenberch,Sacha Boey,0.0,0.0,0.0
+28349,50321,33,FC Bayern München,Ryan Gravenberch,Min-jae Kim,0.0,0.0,0.0
+28349,53703,33,FC Bayern München,Ryan Gravenberch,Jamal Musiala,0.0,0.0,0.0
+28349,66678,33,FC Bayern München,Ryan Gravenberch,Mathys Tel,1.0,12.523266666666677,7.186623298500385
+28349,69885,33,FC Bayern München,Ryan Gravenberch,Bryan Zaragoza,0.0,0.0,0.0
+28349,80052,33,FC Bayern München,Ryan Gravenberch,Lovro Zvonarek,0.0,0.0,0.0
+28349,103990,33,FC Bayern München,Ryan Gravenberch,Frans Krätzig,0.0,0.0,0.0
+28349,103995,33,FC Bayern München,Ryan Gravenberch,Aleksandar Pavlovic,0.0,0.0,0.0
+28349,112074,33,FC Bayern München,Ryan Gravenberch,Jonathan Asp Jensen,0.0,0.0,0.0
+28349,112388,33,FC Bayern München,Ryan Gravenberch,Matteo Pérez Vinlöf,0.0,0.0,0.0
+31001,98,33,FC Bayern München,Daniel Peretz,Joshua Kimmich,0.0,0.0,0.0
+31001,170,33,FC Bayern München,Daniel Peretz,Eric Dier,0.0,0.0,0.0
+31001,204,33,FC Bayern München,Daniel Peretz,Leroy Sané,0.0,0.0,0.0
+31001,216,33,FC Bayern München,Daniel Peretz,Thomas Müller,0.0,0.0,0.0
+31001,231,33,FC Bayern München,Daniel Peretz,Harry Kane,0.0,0.0,0.0
+31001,309,33,FC Bayern München,Daniel Peretz,Kingsley Coman,0.0,0.0,0.0
+31001,409,33,FC Bayern München,Daniel Peretz,Raphaël Guerreiro,0.0,0.0,0.0
+31001,582,33,FC Bayern München,Daniel Peretz,Manuel Neuer,0.0,0.0,0.0
+31001,929,33,FC Bayern München,Daniel Peretz,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+31001,1053,33,FC Bayern München,Daniel Peretz,Leon Goretzka,0.0,0.0,0.0
+31001,1202,33,FC Bayern München,Daniel Peretz,Sven Ulreich,0.0,0.0,0.0
+31001,1978,33,FC Bayern München,Daniel Peretz,Bouna Sarr,0.0,0.0,0.0
+31001,5253,33,FC Bayern München,Daniel Peretz,Serge Gnabry,0.0,0.0,0.0
+31001,7594,33,FC Bayern München,Daniel Peretz,Konrad Laimer,0.0,0.0,0.0
+31001,7910,33,FC Bayern München,Daniel Peretz,Matthijs de Ligt,6.0,16.636435000000013,32.45887715727555
+31001,7947,33,FC Bayern München,Daniel Peretz,Dayot Upamecano,1.0,17.045866666666644,5.279872344419768
+31001,8358,33,FC Bayern München,Daniel Peretz,Noussair Mazraoui,0.0,0.0,0.0
+31001,28349,33,FC Bayern München,Daniel Peretz,Ryan Gravenberch,0.0,0.0,0.0
+31001,32432,33,FC Bayern München,Daniel Peretz,Alphonso Davies,0.0,0.0,0.0
+31001,49451,33,FC Bayern München,Daniel Peretz,Sacha Boey,0.0,0.0,0.0
+31001,50321,33,FC Bayern München,Daniel Peretz,Min-jae Kim,0.0,0.0,0.0
+31001,53703,33,FC Bayern München,Daniel Peretz,Jamal Musiala,0.0,0.0,0.0
+31001,66678,33,FC Bayern München,Daniel Peretz,Mathys Tel,0.0,0.0,0.0
+31001,69885,33,FC Bayern München,Daniel Peretz,Bryan Zaragoza,0.0,0.0,0.0
+31001,80052,33,FC Bayern München,Daniel Peretz,Lovro Zvonarek,0.0,0.0,0.0
+31001,103990,33,FC Bayern München,Daniel Peretz,Frans Krätzig,0.0,0.0,0.0
+31001,103995,33,FC Bayern München,Daniel Peretz,Aleksandar Pavlovic,0.0,0.0,0.0
+31001,112074,33,FC Bayern München,Daniel Peretz,Jonathan Asp Jensen,0.0,0.0,0.0
+31001,112388,33,FC Bayern München,Daniel Peretz,Matteo Pérez Vinlöf,1.0,16.930468333333344,5.315860035767859
+32432,98,33,FC Bayern München,Alphonso Davies,Joshua Kimmich,112.0,3354.925318333334,3.004537819341851
+32432,170,33,FC Bayern München,Alphonso Davies,Eric Dier,57.0,1195.7333350000001,4.290254231308187
+32432,204,33,FC Bayern München,Alphonso Davies,Leroy Sané,88.0,3493.141073333334,2.2673003562499496
+32432,216,33,FC Bayern München,Alphonso Davies,Thomas Müller,19.0,2408.84999,0.7098823119325914
+32432,231,33,FC Bayern München,Alphonso Davies,Harry Kane,43.0,4184.277593333332,0.9248908356763758
+32432,309,33,FC Bayern München,Alphonso Davies,Kingsley Coman,62.0,1898.4370216666669,2.939259999839886
+32432,409,33,FC Bayern München,Alphonso Davies,Raphaël Guerreiro,61.0,1095.6683033333334,5.010640522590519
+32432,582,33,FC Bayern München,Alphonso Davies,Manuel Neuer,28.0,2548.662173333333,0.9887540319649949
+32432,929,33,FC Bayern München,Alphonso Davies,Eric-Maxim Choupo-Moting,28.0,781.1470949999999,3.226024926841724
+32432,1053,33,FC Bayern München,Alphonso Davies,Leon Goretzka,139.0,3239.52599,3.8616760719366847
+32432,1202,33,FC Bayern München,Alphonso Davies,Sven Ulreich,21.0,2132.0388000000003,0.8864754243684495
+32432,1978,33,FC Bayern München,Alphonso Davies,Bouna Sarr,0.0,0.0,0.0
+32432,5253,33,FC Bayern München,Alphonso Davies,Serge Gnabry,41.0,803.8854183333333,4.590206409826844
+32432,7594,33,FC Bayern München,Alphonso Davies,Konrad Laimer,34.0,2843.20424,1.0762505053101636
+32432,7910,33,FC Bayern München,Alphonso Davies,Matthijs de Ligt,49.0,1776.0136516666666,2.4830890212254384
+32432,7947,33,FC Bayern München,Alphonso Davies,Dayot Upamecano,37.0,3076.903456666667,1.082256901101318
+32432,8358,33,FC Bayern München,Alphonso Davies,Noussair Mazraoui,7.0,1567.14227,0.4020056200768549
+32432,28349,33,FC Bayern München,Alphonso Davies,Ryan Gravenberch,4.0,12.794068333333355,28.138039489914615
+32432,31001,33,FC Bayern München,Alphonso Davies,Daniel Peretz,0.0,0.0,0.0
+32432,49451,33,FC Bayern München,Alphonso Davies,Sacha Boey,0.0,0.0,0.0
+32432,50321,33,FC Bayern München,Alphonso Davies,Min-jae Kim,250.0,3360.9565433333337,6.694522737769445
+32432,53703,33,FC Bayern München,Alphonso Davies,Jamal Musiala,72.0,2689.3868116666667,2.409471174577604
+32432,66678,33,FC Bayern München,Alphonso Davies,Mathys Tel,53.0,1298.9024066666666,3.6723313279872234
+32432,69885,33,FC Bayern München,Alphonso Davies,Bryan Zaragoza,20.0,254.79959833333334,7.064375343501163
+32432,80052,33,FC Bayern München,Alphonso Davies,Lovro Zvonarek,2.0,402.5250833333333,0.4471771013856072
+32432,103990,33,FC Bayern München,Alphonso Davies,Frans Krätzig,0.0,0.0,0.0
+32432,103995,33,FC Bayern München,Alphonso Davies,Aleksandar Pavlovic,38.0,1591.637505,2.1487304673685736
+32432,112074,33,FC Bayern München,Alphonso Davies,Jonathan Asp Jensen,0.0,0.0,0.0
+32432,112388,33,FC Bayern München,Alphonso Davies,Matteo Pérez Vinlöf,1.0,17.97051666666666,5.0082032514368455
+49451,98,33,FC Bayern München,Sacha Boey,Joshua Kimmich,1.0,19.201650000000004,4.687097202584152
+49451,170,33,FC Bayern München,Sacha Boey,Eric Dier,3.0,228.71425000000002,1.1805123642274147
+49451,204,33,FC Bayern München,Sacha Boey,Leroy Sané,7.0,228.17173333333335,2.7610782054218808
+49451,216,33,FC Bayern München,Sacha Boey,Thomas Müller,6.0,25.98158333333334,20.78395273575192
+49451,231,33,FC Bayern München,Sacha Boey,Harry Kane,2.0,228.77736833333336,0.7867911118626746
+49451,309,33,FC Bayern München,Sacha Boey,Kingsley Coman,0.0,0.0,0.0
+49451,409,33,FC Bayern München,Sacha Boey,Raphaël Guerreiro,0.0,0.0,0.0
+49451,582,33,FC Bayern München,Sacha Boey,Manuel Neuer,1.0,229.90820166666668,0.3914605888244338
+49451,929,33,FC Bayern München,Sacha Boey,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+49451,1053,33,FC Bayern München,Sacha Boey,Leon Goretzka,2.0,218.10650166666667,0.8252848889167685
+49451,1202,33,FC Bayern München,Sacha Boey,Sven Ulreich,0.0,0.0,0.0
+49451,1978,33,FC Bayern München,Sacha Boey,Bouna Sarr,0.0,0.0,0.0
+49451,5253,33,FC Bayern München,Sacha Boey,Serge Gnabry,0.0,0.0,0.0
+49451,7594,33,FC Bayern München,Sacha Boey,Konrad Laimer,0.0,0.0,0.0
+49451,7910,33,FC Bayern München,Sacha Boey,Matthijs de Ligt,1.0,30.755468333333344,2.926308876995911
+49451,7947,33,FC Bayern München,Sacha Boey,Dayot Upamecano,0.0,0.0,0.0
+49451,8358,33,FC Bayern München,Sacha Boey,Noussair Mazraoui,0.0,0.0,0.0
+49451,28349,33,FC Bayern München,Sacha Boey,Ryan Gravenberch,0.0,0.0,0.0
+49451,31001,33,FC Bayern München,Sacha Boey,Daniel Peretz,0.0,0.0,0.0
+49451,32432,33,FC Bayern München,Sacha Boey,Alphonso Davies,0.0,0.0,0.0
+49451,50321,33,FC Bayern München,Sacha Boey,Min-jae Kim,6.0,199.15273333333334,2.7114867617517007
+49451,53703,33,FC Bayern München,Sacha Boey,Jamal Musiala,5.0,228.26286833333333,1.9714113087498002
+49451,66678,33,FC Bayern München,Sacha Boey,Mathys Tel,0.0,0.0,0.0
+49451,69885,33,FC Bayern München,Sacha Boey,Bryan Zaragoza,0.0,0.0,0.0
+49451,80052,33,FC Bayern München,Sacha Boey,Lovro Zvonarek,0.0,0.0,0.0
+49451,103990,33,FC Bayern München,Sacha Boey,Frans Krätzig,0.0,0.0,0.0
+49451,103995,33,FC Bayern München,Sacha Boey,Aleksandar Pavlovic,7.0,209.72491833333336,3.0039348924608387
+49451,112074,33,FC Bayern München,Sacha Boey,Jonathan Asp Jensen,0.0,0.0,0.0
+49451,112388,33,FC Bayern München,Sacha Boey,Matteo Pérez Vinlöf,0.0,0.0,0.0
+50321,98,33,FC Bayern München,Min-jae Kim,Joshua Kimmich,198.0,3221.6311916666664,5.531359407648729
+50321,170,33,FC Bayern München,Min-jae Kim,Eric Dier,59.0,722.8646216666668,7.345773801679549
+50321,204,33,FC Bayern München,Min-jae Kim,Leroy Sané,39.0,3373.6492283333337,1.0404164044446398
+50321,216,33,FC Bayern München,Min-jae Kim,Thomas Müller,20.0,2205.002891666667,0.8163254600720533
+50321,231,33,FC Bayern München,Min-jae Kim,Harry Kane,44.0,4363.088263333332,0.9076140020542744
+50321,309,33,FC Bayern München,Min-jae Kim,Kingsley Coman,54.0,2013.3160533333332,2.4139280029847145
+50321,409,33,FC Bayern München,Min-jae Kim,Raphaël Guerreiro,84.0,995.6451083333334,7.593066984133645
+50321,582,33,FC Bayern München,Min-jae Kim,Manuel Neuer,126.0,2752.401106666667,4.120039035202053
+50321,929,33,FC Bayern München,Min-jae Kim,Eric-Maxim Choupo-Moting,9.0,1315.2495666666664,0.6158527024288193
+50321,1053,33,FC Bayern München,Min-jae Kim,Leon Goretzka,165.0,3343.908518333333,4.440910963497745
+50321,1202,33,FC Bayern München,Min-jae Kim,Sven Ulreich,69.0,1874.7936033333333,3.3123646192086342
+50321,1978,33,FC Bayern München,Min-jae Kim,Bouna Sarr,29.0,233.20525,11.191857816236984
+50321,5253,33,FC Bayern München,Min-jae Kim,Serge Gnabry,22.0,950.8648533333334,2.0823148453315428
+50321,7594,33,FC Bayern München,Min-jae Kim,Konrad Laimer,63.0,2472.0424316666667,2.2936499500848977
+50321,7910,33,FC Bayern München,Min-jae Kim,Matthijs de Ligt,47.0,734.3915233333332,5.75987040373292
+50321,7947,33,FC Bayern München,Min-jae Kim,Dayot Upamecano,229.0,3279.3372016666667,6.284806572963988
+50321,8358,33,FC Bayern München,Min-jae Kim,Noussair Mazraoui,52.0,2046.3281233333332,2.287023252349476
+50321,28349,33,FC Bayern München,Min-jae Kim,Ryan Gravenberch,0.0,0.0,0.0
+50321,31001,33,FC Bayern München,Min-jae Kim,Daniel Peretz,0.0,0.0,0.0
+50321,32432,33,FC Bayern München,Min-jae Kim,Alphonso Davies,348.0,3360.9565433333337,9.318775650975066
+50321,49451,33,FC Bayern München,Min-jae Kim,Sacha Boey,12.0,199.15273333333334,5.422973523503401
+50321,53703,33,FC Bayern München,Min-jae Kim,Jamal Musiala,59.0,2269.1810649999998,2.3400512554514905
+50321,66678,33,FC Bayern München,Min-jae Kim,Mathys Tel,18.0,1058.0719916666667,1.5310867433965327
+50321,69885,33,FC Bayern München,Min-jae Kim,Bryan Zaragoza,13.0,260.0047016666667,4.499918626471505
+50321,80052,33,FC Bayern München,Min-jae Kim,Lovro Zvonarek,1.0,205.249035,0.4384917083775814
+50321,103990,33,FC Bayern München,Min-jae Kim,Frans Krätzig,15.0,58.891083333333306,22.923674070636057
+50321,103995,33,FC Bayern München,Min-jae Kim,Aleksandar Pavlovic,74.0,1672.1570049999998,3.982879586118769
+50321,112074,33,FC Bayern München,Min-jae Kim,Jonathan Asp Jensen,0.0,0.0,0.0
+50321,112388,33,FC Bayern München,Min-jae Kim,Matteo Pérez Vinlöf,0.0,0.0,0.0
+53703,98,33,FC Bayern München,Jamal Musiala,Joshua Kimmich,42.0,2600.5987750000004,1.4535114129629625
+53703,170,33,FC Bayern München,Jamal Musiala,Eric Dier,16.0,1688.2437550000002,0.8529573977307559
+53703,204,33,FC Bayern München,Jamal Musiala,Leroy Sané,74.0,3437.3850150000003,1.937519355829274
+53703,216,33,FC Bayern München,Jamal Musiala,Thomas Müller,28.0,2165.2972250000003,1.163812510774358
+53703,231,33,FC Bayern München,Jamal Musiala,Harry Kane,41.0,4058.855583333334,0.9091232551244379
+53703,309,33,FC Bayern München,Jamal Musiala,Kingsley Coman,32.0,1258.4930366666667,2.2884512794986698
+53703,409,33,FC Bayern München,Jamal Musiala,Raphaël Guerreiro,63.0,2198.9764933333336,2.578472310727202
+53703,582,33,FC Bayern München,Jamal Musiala,Manuel Neuer,1.0,3048.9735783333335,0.029518130507774642
+53703,929,33,FC Bayern München,Jamal Musiala,Eric-Maxim Choupo-Moting,4.0,195.23293833333332,1.8439511440705236
+53703,1053,33,FC Bayern München,Jamal Musiala,Leon Goretzka,59.0,2945.3391349999997,1.8028484179972029
+53703,1202,33,FC Bayern München,Jamal Musiala,Sven Ulreich,2.0,1071.9336883333333,0.16792083499107865
+53703,1978,33,FC Bayern München,Jamal Musiala,Bouna Sarr,0.0,0.0,0.0
+53703,5253,33,FC Bayern München,Jamal Musiala,Serge Gnabry,5.0,225.9014683333333,1.9920189245339202
+53703,7594,33,FC Bayern München,Jamal Musiala,Konrad Laimer,45.0,2507.0399983333336,1.615450891366878
+53703,7910,33,FC Bayern München,Jamal Musiala,Matthijs de Ligt,13.0,2479.9882599999996,0.4717764268771176
+53703,7947,33,FC Bayern München,Jamal Musiala,Dayot Upamecano,20.0,2085.107213333333,0.8632649623433273
+53703,8358,33,FC Bayern München,Jamal Musiala,Noussair Mazraoui,14.0,1056.1459516666666,1.193016929157981
+53703,28349,33,FC Bayern München,Jamal Musiala,Ryan Gravenberch,0.0,0.0,0.0
+53703,31001,33,FC Bayern München,Jamal Musiala,Daniel Peretz,0.0,0.0,0.0
+53703,32432,33,FC Bayern München,Jamal Musiala,Alphonso Davies,44.0,2689.3868116666667,1.4724546066863133
+53703,49451,33,FC Bayern München,Jamal Musiala,Sacha Boey,2.0,228.26286833333333,0.78856452349992
+53703,50321,33,FC Bayern München,Jamal Musiala,Min-jae Kim,34.0,2269.1810649999998,1.3485041133110285
+53703,66678,33,FC Bayern München,Jamal Musiala,Mathys Tel,21.0,624.5073933333334,3.0263853081258953
+53703,69885,33,FC Bayern München,Jamal Musiala,Bryan Zaragoza,0.0,0.0,0.0
+53703,80052,33,FC Bayern München,Jamal Musiala,Lovro Zvonarek,0.0,0.0,0.0
+53703,103990,33,FC Bayern München,Jamal Musiala,Frans Krätzig,1.0,14.781533333333332,6.088678215611371
+53703,103995,33,FC Bayern München,Jamal Musiala,Aleksandar Pavlovic,27.0,1629.4956883333336,1.491258932072064
+53703,112074,33,FC Bayern München,Jamal Musiala,Jonathan Asp Jensen,0.0,0.0,0.0
+53703,112388,33,FC Bayern München,Jamal Musiala,Matteo Pérez Vinlöf,0.0,0.0,0.0
+66678,98,33,FC Bayern München,Mathys Tel,Joshua Kimmich,31.0,1445.3228399999998,1.9303645682372252
+66678,170,33,FC Bayern München,Mathys Tel,Eric Dier,17.0,1224.8397066666666,1.2491430443284781
+66678,204,33,FC Bayern München,Mathys Tel,Leroy Sané,14.0,455.72400833333324,2.76483129473045
+66678,216,33,FC Bayern München,Mathys Tel,Thomas Müller,15.0,1167.4307250000002,1.1563855319980547
+66678,231,33,FC Bayern München,Mathys Tel,Harry Kane,8.0,1396.634625,0.5155249534215149
+66678,309,33,FC Bayern München,Mathys Tel,Kingsley Coman,4.0,241.46995166666667,1.4908687292775715
+66678,409,33,FC Bayern München,Mathys Tel,Raphaël Guerreiro,18.0,750.5700283333333,2.1583595651924257
+66678,582,33,FC Bayern München,Mathys Tel,Manuel Neuer,3.0,1428.1137599999997,0.18906056895635542
+66678,929,33,FC Bayern München,Mathys Tel,Eric-Maxim Choupo-Moting,17.0,567.6803916666665,2.6951785237958217
+66678,1053,33,FC Bayern München,Mathys Tel,Leon Goretzka,22.0,1447.1292983333333,1.3682260474446732
+66678,1202,33,FC Bayern München,Mathys Tel,Sven Ulreich,0.0,0.0,0.0
+66678,1978,33,FC Bayern München,Mathys Tel,Bouna Sarr,5.0,47.40645166666667,9.49237886784116
+66678,5253,33,FC Bayern München,Mathys Tel,Serge Gnabry,3.0,252.37383499999999,1.069841491294056
+66678,7594,33,FC Bayern München,Mathys Tel,Konrad Laimer,18.0,581.7921616666665,2.784499528764994
+66678,7910,33,FC Bayern München,Mathys Tel,Matthijs de Ligt,16.0,804.7190783333334,1.7894443399830995
+66678,7947,33,FC Bayern München,Mathys Tel,Dayot Upamecano,13.0,698.5217716666666,1.674965688196648
+66678,8358,33,FC Bayern München,Mathys Tel,Noussair Mazraoui,9.0,342.41743833333334,2.365533729656282
+66678,28349,33,FC Bayern München,Mathys Tel,Ryan Gravenberch,0.0,0.0,0.0
+66678,31001,33,FC Bayern München,Mathys Tel,Daniel Peretz,0.0,0.0,0.0
+66678,32432,33,FC Bayern München,Mathys Tel,Alphonso Davies,37.0,1298.9024066666666,2.563703002557118
+66678,49451,33,FC Bayern München,Mathys Tel,Sacha Boey,1.0,28.017951666666676,3.212226256606552
+66678,50321,33,FC Bayern München,Mathys Tel,Min-jae Kim,15.0,1058.0719916666667,1.2759056194971106
+66678,53703,33,FC Bayern München,Mathys Tel,Jamal Musiala,15.0,624.5073933333334,2.1617037915184967
+66678,69885,33,FC Bayern München,Mathys Tel,Bryan Zaragoza,4.0,242.53583499999996,1.4843167402458284
+66678,80052,33,FC Bayern München,Mathys Tel,Lovro Zvonarek,4.0,382.00152,0.942404627081065
+66678,103990,33,FC Bayern München,Mathys Tel,Frans Krätzig,2.0,32.62951666666665,5.51647766771497
+66678,103995,33,FC Bayern München,Mathys Tel,Aleksandar Pavlovic,21.0,1323.3778566666667,1.4281635365734056
+66678,112074,33,FC Bayern München,Mathys Tel,Jonathan Asp Jensen,0.0,0.0,0.0
+66678,112388,33,FC Bayern München,Mathys Tel,Matteo Pérez Vinlöf,0.0,0.0,0.0
+69885,98,33,FC Bayern München,Bryan Zaragoza,Joshua Kimmich,3.0,218.96253333333334,1.2330876697931274
+69885,170,33,FC Bayern München,Bryan Zaragoza,Eric Dier,3.0,46.836333333333364,5.76475528257976
+69885,204,33,FC Bayern München,Bryan Zaragoza,Leroy Sané,0.0,0.0,0.0
+69885,216,33,FC Bayern München,Bryan Zaragoza,Thomas Müller,1.0,218.31278666666665,0.41225253625394614
+69885,231,33,FC Bayern München,Bryan Zaragoza,Harry Kane,3.0,68.4210716666667,3.9461527483139123
+69885,309,33,FC Bayern München,Bryan Zaragoza,Kingsley Coman,0.0,0.0,0.0
+69885,409,33,FC Bayern München,Bryan Zaragoza,Raphaël Guerreiro,1.0,16.280533333333338,5.528074428356153
+69885,582,33,FC Bayern München,Bryan Zaragoza,Manuel Neuer,0.0,0.0,0.0
+69885,929,33,FC Bayern München,Bryan Zaragoza,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+69885,1053,33,FC Bayern München,Bryan Zaragoza,Leon Goretzka,6.0,259.57261833333337,2.080342693567749
+69885,1202,33,FC Bayern München,Bryan Zaragoza,Sven Ulreich,0.0,0.0,0.0
+69885,1978,33,FC Bayern München,Bryan Zaragoza,Bouna Sarr,0.0,0.0,0.0
+69885,5253,33,FC Bayern München,Bryan Zaragoza,Serge Gnabry,0.0,0.0,0.0
+69885,7594,33,FC Bayern München,Bryan Zaragoza,Konrad Laimer,6.0,46.61085000000003,11.585285400287693
+69885,7910,33,FC Bayern München,Bryan Zaragoza,Matthijs de Ligt,2.0,45.41461833333336,3.9634815089458506
+69885,7947,33,FC Bayern München,Bryan Zaragoza,Dayot Upamecano,1.0,263.84553500000004,0.3411086717840421
+69885,8358,33,FC Bayern München,Bryan Zaragoza,Noussair Mazraoui,0.0,0.0,0.0
+69885,28349,33,FC Bayern München,Bryan Zaragoza,Ryan Gravenberch,0.0,0.0,0.0
+69885,31001,33,FC Bayern München,Bryan Zaragoza,Daniel Peretz,0.0,0.0,0.0
+69885,32432,33,FC Bayern München,Bryan Zaragoza,Alphonso Davies,9.0,254.79959833333334,3.178968904575523
+69885,49451,33,FC Bayern München,Bryan Zaragoza,Sacha Boey,0.0,0.0,0.0
+69885,50321,33,FC Bayern München,Bryan Zaragoza,Min-jae Kim,7.0,260.0047016666667,2.4230331065615793
+69885,53703,33,FC Bayern München,Bryan Zaragoza,Jamal Musiala,0.0,0.0,0.0
+69885,66678,33,FC Bayern München,Bryan Zaragoza,Mathys Tel,6.0,242.53583499999996,2.2264751103687423
+69885,80052,33,FC Bayern München,Bryan Zaragoza,Lovro Zvonarek,2.0,206.93998333333332,0.869817408412858
+69885,103990,33,FC Bayern München,Bryan Zaragoza,Frans Krätzig,0.0,0.0,0.0
+69885,103995,33,FC Bayern München,Bryan Zaragoza,Aleksandar Pavlovic,4.0,235.47253333333333,1.528840731035014
+69885,112074,33,FC Bayern München,Bryan Zaragoza,Jonathan Asp Jensen,0.0,0.0,0.0
+69885,112388,33,FC Bayern München,Bryan Zaragoza,Matteo Pérez Vinlöf,0.0,0.0,0.0
+80052,98,33,FC Bayern München,Lovro Zvonarek,Joshua Kimmich,12.0,386.63805,2.7933101773092432
+80052,170,33,FC Bayern München,Lovro Zvonarek,Eric Dier,2.0,193.71363500000004,0.9292066611624935
+80052,204,33,FC Bayern München,Lovro Zvonarek,Leroy Sané,0.0,0.0,0.0
+80052,216,33,FC Bayern München,Lovro Zvonarek,Thomas Müller,7.0,397.9870183333333,1.582966204873408
+80052,231,33,FC Bayern München,Lovro Zvonarek,Harry Kane,3.0,14.452986666666643,18.68125988261714
+80052,309,33,FC Bayern München,Lovro Zvonarek,Kingsley Coman,0.0,0.0,0.0
+80052,409,33,FC Bayern München,Lovro Zvonarek,Raphaël Guerreiro,0.0,0.0,0.0
+80052,582,33,FC Bayern München,Lovro Zvonarek,Manuel Neuer,1.0,379.51543666666663,0.23714450402988002
+80052,929,33,FC Bayern München,Lovro Zvonarek,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+80052,1053,33,FC Bayern München,Lovro Zvonarek,Leon Goretzka,3.0,377.318035,0.7155767150117803
+80052,1202,33,FC Bayern München,Lovro Zvonarek,Sven Ulreich,0.0,0.0,0.0
+80052,1978,33,FC Bayern München,Lovro Zvonarek,Bouna Sarr,0.0,0.0,0.0
+80052,5253,33,FC Bayern München,Lovro Zvonarek,Serge Gnabry,0.0,0.0,0.0
+80052,7594,33,FC Bayern München,Lovro Zvonarek,Konrad Laimer,1.0,196.32288333333332,0.4584284749281647
+80052,7910,33,FC Bayern München,Lovro Zvonarek,Matthijs de Ligt,2.0,190.53451666666666,0.944710717769335
+80052,7947,33,FC Bayern München,Lovro Zvonarek,Dayot Upamecano,5.0,390.7975,1.1514915013530025
+80052,8358,33,FC Bayern München,Lovro Zvonarek,Noussair Mazraoui,0.0,0.0,0.0
+80052,28349,33,FC Bayern München,Lovro Zvonarek,Ryan Gravenberch,0.0,0.0,0.0
+80052,31001,33,FC Bayern München,Lovro Zvonarek,Daniel Peretz,1.0,12.61863333333331,7.132309626768892
+80052,32432,33,FC Bayern München,Lovro Zvonarek,Alphonso Davies,1.0,402.5250833333333,0.2235885506928036
+80052,49451,33,FC Bayern München,Lovro Zvonarek,Sacha Boey,0.0,0.0,0.0
+80052,50321,33,FC Bayern München,Lovro Zvonarek,Min-jae Kim,0.0,0.0,0.0
+80052,53703,33,FC Bayern München,Lovro Zvonarek,Jamal Musiala,0.0,0.0,0.0
+80052,66678,33,FC Bayern München,Lovro Zvonarek,Mathys Tel,5.0,382.00152,1.1780057838513311
+80052,69885,33,FC Bayern München,Lovro Zvonarek,Bryan Zaragoza,2.0,206.93998333333332,0.869817408412858
+80052,103990,33,FC Bayern München,Lovro Zvonarek,Frans Krätzig,0.0,0.0,0.0
+80052,103995,33,FC Bayern München,Lovro Zvonarek,Aleksandar Pavlovic,4.0,221.1837,1.6276063742490972
+80052,112074,33,FC Bayern München,Lovro Zvonarek,Jonathan Asp Jensen,0.0,0.0,0.0
+80052,112388,33,FC Bayern München,Lovro Zvonarek,Matteo Pérez Vinlöf,0.0,0.0,0.0
+103990,98,33,FC Bayern München,Frans Krätzig,Joshua Kimmich,3.0,10.942166666666648,24.67518620626632
+103990,170,33,FC Bayern München,Frans Krätzig,Eric Dier,0.0,0.0,0.0
+103990,204,33,FC Bayern München,Frans Krätzig,Leroy Sané,1.0,57.503703333333306,1.565116588722895
+103990,216,33,FC Bayern München,Frans Krätzig,Thomas Müller,2.0,39.683234999999996,4.535920521600621
+103990,231,33,FC Bayern München,Frans Krätzig,Harry Kane,2.0,55.20250000000002,3.260721887595669
+103990,309,33,FC Bayern München,Frans Krätzig,Kingsley Coman,1.0,11.084466666666655,8.119470490235594
+103990,409,33,FC Bayern München,Frans Krätzig,Raphaël Guerreiro,0.0,0.0,0.0
+103990,582,33,FC Bayern München,Frans Krätzig,Manuel Neuer,1.0,25.746549999999996,3.4956139754646744
+103990,929,33,FC Bayern München,Frans Krätzig,Eric-Maxim Choupo-Moting,1.0,15.186186666666678,5.926438412452014
+103990,1053,33,FC Bayern München,Frans Krätzig,Leon Goretzka,2.0,19.250651666666666,9.350332815573084
+103990,1202,33,FC Bayern München,Frans Krätzig,Sven Ulreich,0.0,0.0,0.0
+103990,1978,33,FC Bayern München,Frans Krätzig,Bouna Sarr,0.0,0.0,0.0
+103990,5253,33,FC Bayern München,Frans Krätzig,Serge Gnabry,0.0,0.0,0.0
+103990,7594,33,FC Bayern München,Frans Krätzig,Konrad Laimer,4.0,42.17008666666667,8.53685701064878
+103990,7910,33,FC Bayern München,Frans Krätzig,Matthijs de Ligt,0.0,0.0,0.0
+103990,7947,33,FC Bayern München,Frans Krätzig,Dayot Upamecano,1.0,28.40130166666668,3.1688688446849924
+103990,8358,33,FC Bayern München,Frans Krätzig,Noussair Mazraoui,2.0,55.028568333333325,3.2710282213714392
+103990,28349,33,FC Bayern München,Frans Krätzig,Ryan Gravenberch,0.0,0.0,0.0
+103990,31001,33,FC Bayern München,Frans Krätzig,Daniel Peretz,0.0,0.0,0.0
+103990,32432,33,FC Bayern München,Frans Krätzig,Alphonso Davies,0.0,0.0,0.0
+103990,49451,33,FC Bayern München,Frans Krätzig,Sacha Boey,0.0,0.0,0.0
+103990,50321,33,FC Bayern München,Frans Krätzig,Min-jae Kim,9.0,58.891083333333306,13.754204442381633
+103990,53703,33,FC Bayern München,Frans Krätzig,Jamal Musiala,1.0,14.781533333333332,6.088678215611371
+103990,66678,33,FC Bayern München,Frans Krätzig,Mathys Tel,5.0,32.62951666666665,13.791194169287424
+103990,69885,33,FC Bayern München,Frans Krätzig,Bryan Zaragoza,0.0,0.0,0.0
+103990,80052,33,FC Bayern München,Frans Krätzig,Lovro Zvonarek,0.0,0.0,0.0
+103990,103995,33,FC Bayern München,Frans Krätzig,Aleksandar Pavlovic,1.0,16.232520000000022,5.5444256344671
+103990,112074,33,FC Bayern München,Frans Krätzig,Jonathan Asp Jensen,0.0,0.0,0.0
+103990,112388,33,FC Bayern München,Frans Krätzig,Matteo Pérez Vinlöf,0.0,0.0,0.0
+103995,98,33,FC Bayern München,Aleksandar Pavlovic,Joshua Kimmich,77.0,1536.0081183333334,4.511694904008379
+103995,170,33,FC Bayern München,Aleksandar Pavlovic,Eric Dier,77.0,1859.8568366666668,3.726093247273973
+103995,204,33,FC Bayern München,Aleksandar Pavlovic,Leroy Sané,44.0,1625.0049050000002,2.4369157211866996
+103995,216,33,FC Bayern München,Aleksandar Pavlovic,Thomas Müller,60.0,2129.442555,2.53587493464927
+103995,231,33,FC Bayern München,Aleksandar Pavlovic,Harry Kane,29.0,2639.5255883333334,0.9888140548953812
+103995,309,33,FC Bayern München,Aleksandar Pavlovic,Kingsley Coman,4.0,221.88378833333334,1.6224709461836677
+103995,409,33,FC Bayern München,Aleksandar Pavlovic,Raphaël Guerreiro,58.0,1573.475555,3.317496724631353
+103995,582,33,FC Bayern München,Aleksandar Pavlovic,Manuel Neuer,12.0,2639.6374866666665,0.4091470913923956
+103995,929,33,FC Bayern München,Aleksandar Pavlovic,Eric-Maxim Choupo-Moting,11.0,627.8662083333334,1.576769042289994
+103995,1053,33,FC Bayern München,Aleksandar Pavlovic,Leon Goretzka,91.0,2014.0768033333334,4.066379189932282
+103995,1202,33,FC Bayern München,Aleksandar Pavlovic,Sven Ulreich,0.0,0.0,0.0
+103995,1978,33,FC Bayern München,Aleksandar Pavlovic,Bouna Sarr,11.0,195.02990000000003,5.076144734730418
+103995,5253,33,FC Bayern München,Aleksandar Pavlovic,Serge Gnabry,7.0,357.897335,1.760281338781134
+103995,7594,33,FC Bayern München,Aleksandar Pavlovic,Konrad Laimer,42.0,742.0767183333334,5.093812953045728
+103995,7910,33,FC Bayern München,Aleksandar Pavlovic,Matthijs de Ligt,47.0,1081.6842350000002,3.9105682260405685
+103995,7947,33,FC Bayern München,Aleksandar Pavlovic,Dayot Upamecano,71.0,1124.3221033333334,5.683424688579234
+103995,8358,33,FC Bayern München,Aleksandar Pavlovic,Noussair Mazraoui,32.0,972.5278183333334,2.961354879221441
+103995,28349,33,FC Bayern München,Aleksandar Pavlovic,Ryan Gravenberch,0.0,0.0,0.0
+103995,31001,33,FC Bayern München,Aleksandar Pavlovic,Daniel Peretz,0.0,0.0,0.0
+103995,32432,33,FC Bayern München,Aleksandar Pavlovic,Alphonso Davies,52.0,1591.637505,2.9403680079780483
+103995,49451,33,FC Bayern München,Aleksandar Pavlovic,Sacha Boey,4.0,209.72491833333336,1.7165342242633364
+103995,50321,33,FC Bayern München,Aleksandar Pavlovic,Min-jae Kim,59.0,1672.1570049999998,3.175539129473073
+103995,53703,33,FC Bayern München,Aleksandar Pavlovic,Jamal Musiala,33.0,1629.4956883333336,1.822649805865856
+103995,66678,33,FC Bayern München,Aleksandar Pavlovic,Mathys Tel,20.0,1323.3778566666667,1.3601557491175291
+103995,69885,33,FC Bayern München,Aleksandar Pavlovic,Bryan Zaragoza,9.0,235.47253333333333,3.4398916448287813
+103995,80052,33,FC Bayern München,Aleksandar Pavlovic,Lovro Zvonarek,6.0,221.1837,2.441409561373646
+103995,103990,33,FC Bayern München,Aleksandar Pavlovic,Frans Krätzig,3.0,16.232520000000022,16.6332769034013
+103995,112074,33,FC Bayern München,Aleksandar Pavlovic,Jonathan Asp Jensen,0.0,0.0,0.0
+103995,112388,33,FC Bayern München,Aleksandar Pavlovic,Matteo Pérez Vinlöf,2.0,17.379633333333338,10.356950376782017
+112074,98,33,FC Bayern München,Jonathan Asp Jensen,Joshua Kimmich,0.0,0.0,0.0
+112074,170,33,FC Bayern München,Jonathan Asp Jensen,Eric Dier,0.0,0.0,0.0
+112074,204,33,FC Bayern München,Jonathan Asp Jensen,Leroy Sané,0.0,0.0,0.0
+112074,216,33,FC Bayern München,Jonathan Asp Jensen,Thomas Müller,0.0,0.0,0.0
+112074,231,33,FC Bayern München,Jonathan Asp Jensen,Harry Kane,0.0,0.0,0.0
+112074,309,33,FC Bayern München,Jonathan Asp Jensen,Kingsley Coman,0.0,0.0,0.0
+112074,409,33,FC Bayern München,Jonathan Asp Jensen,Raphaël Guerreiro,0.0,0.0,0.0
+112074,582,33,FC Bayern München,Jonathan Asp Jensen,Manuel Neuer,0.0,0.0,0.0
+112074,929,33,FC Bayern München,Jonathan Asp Jensen,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+112074,1053,33,FC Bayern München,Jonathan Asp Jensen,Leon Goretzka,0.0,0.0,0.0
+112074,1202,33,FC Bayern München,Jonathan Asp Jensen,Sven Ulreich,0.0,0.0,0.0
+112074,1978,33,FC Bayern München,Jonathan Asp Jensen,Bouna Sarr,0.0,0.0,0.0
+112074,5253,33,FC Bayern München,Jonathan Asp Jensen,Serge Gnabry,0.0,0.0,0.0
+112074,7594,33,FC Bayern München,Jonathan Asp Jensen,Konrad Laimer,0.0,0.0,0.0
+112074,7910,33,FC Bayern München,Jonathan Asp Jensen,Matthijs de Ligt,0.0,0.0,0.0
+112074,7947,33,FC Bayern München,Jonathan Asp Jensen,Dayot Upamecano,0.0,0.0,0.0
+112074,8358,33,FC Bayern München,Jonathan Asp Jensen,Noussair Mazraoui,0.0,0.0,0.0
+112074,28349,33,FC Bayern München,Jonathan Asp Jensen,Ryan Gravenberch,0.0,0.0,0.0
+112074,31001,33,FC Bayern München,Jonathan Asp Jensen,Daniel Peretz,0.0,0.0,0.0
+112074,32432,33,FC Bayern München,Jonathan Asp Jensen,Alphonso Davies,0.0,0.0,0.0
+112074,49451,33,FC Bayern München,Jonathan Asp Jensen,Sacha Boey,0.0,0.0,0.0
+112074,50321,33,FC Bayern München,Jonathan Asp Jensen,Min-jae Kim,0.0,0.0,0.0
+112074,53703,33,FC Bayern München,Jonathan Asp Jensen,Jamal Musiala,0.0,0.0,0.0
+112074,66678,33,FC Bayern München,Jonathan Asp Jensen,Mathys Tel,0.0,0.0,0.0
+112074,69885,33,FC Bayern München,Jonathan Asp Jensen,Bryan Zaragoza,0.0,0.0,0.0
+112074,80052,33,FC Bayern München,Jonathan Asp Jensen,Lovro Zvonarek,0.0,0.0,0.0
+112074,103990,33,FC Bayern München,Jonathan Asp Jensen,Frans Krätzig,0.0,0.0,0.0
+112074,103995,33,FC Bayern München,Jonathan Asp Jensen,Aleksandar Pavlovic,0.0,0.0,0.0
+112074,112388,33,FC Bayern München,Jonathan Asp Jensen,Matteo Pérez Vinlöf,0.0,0.0,0.0
+112388,98,33,FC Bayern München,Matteo Pérez Vinlöf,Joshua Kimmich,0.0,0.0,0.0
+112388,170,33,FC Bayern München,Matteo Pérez Vinlöf,Eric Dier,0.0,0.0,0.0
+112388,204,33,FC Bayern München,Matteo Pérez Vinlöf,Leroy Sané,0.0,0.0,0.0
+112388,216,33,FC Bayern München,Matteo Pérez Vinlöf,Thomas Müller,0.0,0.0,0.0
+112388,231,33,FC Bayern München,Matteo Pérez Vinlöf,Harry Kane,0.0,0.0,0.0
+112388,309,33,FC Bayern München,Matteo Pérez Vinlöf,Kingsley Coman,0.0,0.0,0.0
+112388,409,33,FC Bayern München,Matteo Pérez Vinlöf,Raphaël Guerreiro,0.0,0.0,0.0
+112388,582,33,FC Bayern München,Matteo Pérez Vinlöf,Manuel Neuer,0.0,0.0,0.0
+112388,929,33,FC Bayern München,Matteo Pérez Vinlöf,Eric-Maxim Choupo-Moting,0.0,0.0,0.0
+112388,1053,33,FC Bayern München,Matteo Pérez Vinlöf,Leon Goretzka,0.0,0.0,0.0
+112388,1202,33,FC Bayern München,Matteo Pérez Vinlöf,Sven Ulreich,0.0,0.0,0.0
+112388,1978,33,FC Bayern München,Matteo Pérez Vinlöf,Bouna Sarr,0.0,0.0,0.0
+112388,5253,33,FC Bayern München,Matteo Pérez Vinlöf,Serge Gnabry,0.0,0.0,0.0
+112388,7594,33,FC Bayern München,Matteo Pérez Vinlöf,Konrad Laimer,1.0,12.598199999999997,7.143877696813832
+112388,7910,33,FC Bayern München,Matteo Pérez Vinlöf,Matthijs de Ligt,3.0,17.694118333333336,15.259307918799003
+112388,7947,33,FC Bayern München,Matteo Pérez Vinlöf,Dayot Upamecano,2.0,16.657833333333322,10.805727035328731
+112388,8358,33,FC Bayern München,Matteo Pérez Vinlöf,Noussair Mazraoui,0.0,0.0,0.0
+112388,28349,33,FC Bayern München,Matteo Pérez Vinlöf,Ryan Gravenberch,0.0,0.0,0.0
+112388,31001,33,FC Bayern München,Matteo Pérez Vinlöf,Daniel Peretz,0.0,0.0,0.0
+112388,32432,33,FC Bayern München,Matteo Pérez Vinlöf,Alphonso Davies,0.0,0.0,0.0
+112388,49451,33,FC Bayern München,Matteo Pérez Vinlöf,Sacha Boey,0.0,0.0,0.0
+112388,50321,33,FC Bayern München,Matteo Pérez Vinlöf,Min-jae Kim,0.0,0.0,0.0
+112388,53703,33,FC Bayern München,Matteo Pérez Vinlöf,Jamal Musiala,0.0,0.0,0.0
+112388,66678,33,FC Bayern München,Matteo Pérez Vinlöf,Mathys Tel,1.0,10.29045166666668,8.745971791649561
+112388,69885,33,FC Bayern München,Matteo Pérez Vinlöf,Bryan Zaragoza,0.0,0.0,0.0
+112388,80052,33,FC Bayern München,Matteo Pérez Vinlöf,Lovro Zvonarek,0.0,0.0,0.0
+112388,103990,33,FC Bayern München,Matteo Pérez Vinlöf,Frans Krätzig,0.0,0.0,0.0
+112388,103995,33,FC Bayern München,Matteo Pérez Vinlöf,Aleksandar Pavlovic,2.0,17.379633333333338,10.356950376782017
+112388,112074,33,FC Bayern München,Matteo Pérez Vinlöf,Jonathan Asp Jensen,0.0,0.0,0.0
