@@ -1,11 +1,10 @@
 from __future__ import annotations
 
 import re
-import math
 import random
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Tuple, Optional, Set
 
 import numpy as np
 import pandas as pd
@@ -64,20 +63,16 @@ def find_team_csvs(repo_root: Path, team_query: str) -> Dict[str, Path]:
         Returns (primary_score, secondary_score)
         """
         name = path.name.lower()
-        # strip prefix and suffix to get core team name
         core = name
         if core.endswith(suffix):
             core = core[: -len(suffix)]
         core = re.sub(r"^\d+_", "", core)  # remove leading "1_" etc
         core_norm = _normalize_team_query(core)
 
-        # exact core match
         if core_norm == q:
             return (100, len(core_norm))
-        # contains match
         if q in core_norm:
             return (50, len(q))
-        # token overlap
         q_tokens = set(q.split("_"))
         core_tokens = set(core_norm.split("_"))
         overlap = len(q_tokens.intersection(core_tokens))
@@ -86,7 +81,6 @@ def find_team_csvs(repo_root: Path, team_query: str) -> Dict[str, Path]:
     best_node = max(node_files, key=lambda p: score_match(p, NODES_SUFFIX))
     best_edge = max(edge_files, key=lambda p: score_match(p, EDGES_SUFFIX))
 
-    # Resolve “team name” from best_node core
     resolved = best_node.name.lower()
     resolved = resolved[: -len(NODES_SUFFIX)]
     resolved = re.sub(r"^\d+_", "", resolved)
@@ -95,7 +89,115 @@ def find_team_csvs(repo_root: Path, team_query: str) -> Dict[str, Path]:
 
 
 # =============================
-# Objective model + optimization
+# Positions: parse + map IMPECT labels to canonical formation slots
+# =============================
+
+CANONICAL_SLOTS: Set[str] = {
+    "GK", "CB", "LB", "RB", "LWB", "RWB",
+    "DM", "CM", "AM",
+    "LW", "RW", "ST",
+    "LM", "RM",
+}
+
+def parse_positions_cell(x) -> List[str]:
+    """
+    Supports:
+      - python-like lists: "[A, B, C]" (with or without quotes)
+      - actual python lists
+      - comma/semicolon separated strings
+    Returns raw strings (not mapped yet).
+    """
+    if x is None or (isinstance(x, float) and np.isnan(x)):
+        return []
+    if isinstance(x, list):
+        return [str(p).strip() for p in x if str(p).strip()]
+    s = str(x).strip()
+    if not s:
+        return []
+    # strip brackets/quotes, then split by comma/semicolon
+    s2 = re.sub(r"[\[\]'\"]", "", s)
+    parts = re.split(r"\s*,\s*|\s*;\s*", s2)
+    return [p.strip() for p in parts if p.strip()]
+
+def map_impect_position_to_slots(pos: str) -> Set[str]:
+    """
+    Maps IMPECT strings like:
+      'ATTACKING_MIDFIELD (Centre-Right)'
+    into canonical slot families.
+
+    Notes:
+    - GK is ONLY from explicit goalkeeping tokens.
+    - Mapping is intentionally conservative.
+    """
+    p = pos.upper()
+    slots: Set[str] = set()
+
+    # GK
+    if "GOALKEEPER" in p or p == "GK":
+        return {"GK"}
+
+    # Center backs
+    if "CENTRE_BACK" in p or "CENTER_BACK" in p or "CENTRAL_DEFENCE" in p or "CENTRAL_DEFENSE" in p:
+        slots.add("CB")
+
+    # Fullbacks / wingbacks
+    if "LEFT_BACK" in p or "LEFT_FULLBACK" in p:
+        slots.add("LB")
+    if "RIGHT_BACK" in p or "RIGHT_FULLBACK" in p:
+        slots.add("RB")
+
+    if "LEFT_WING_BACK" in p or "LEFT_WINGBACK" in p:
+        slots.update({"LWB", "LB"})
+    if "RIGHT_WING_BACK" in p or "RIGHT_WINGBACK" in p:
+        slots.update({"RWB", "RB"})
+    if "WING_BACK" in p and "LEFT" in p:
+        slots.update({"LWB", "LB"})
+    if "WING_BACK" in p and "RIGHT" in p:
+        slots.update({"RWB", "RB"})
+
+    # Midfield
+    if "DEFENSIVE_MIDFIELD" in p:
+        slots.update({"DM", "CM"})
+    if "CENTRAL_MIDFIELD" in p:
+        slots.update({"CM", "DM", "AM"})
+    if "ATTACKING_MIDFIELD" in p:
+        slots.update({"AM", "CM"})
+
+    # Wings
+    if "LEFT_WINGER" in p or ("WINGER" in p and "LEFT" in p):
+        slots.update({"LW", "LM"})
+    if "RIGHT_WINGER" in p or ("WINGER" in p and "RIGHT" in p):
+        slots.update({"RW", "RM"})
+    if "WINGER" in p and "LEFT" not in p and "RIGHT" not in p:
+        slots.update({"LW", "RW", "LM", "RM"})
+
+    # Forwards
+    if "STRIKER" in p or "CENTRE_FORWARD" in p or "CENTER_FORWARD" in p or "FORWARD" in p:
+        slots.add("ST")
+
+    return slots
+
+def build_player_slot_eligibility(nodes: pd.DataFrame, positions_col: str = "positions") -> Tuple[List[Set[str]], bool]:
+    """
+    Returns:
+      - list of eligible canonical slot sets per player
+      - whether positions_col existed
+    """
+    if positions_col not in nodes.columns:
+        return [set(CANONICAL_SLOTS) for _ in range(len(nodes))], False
+
+    raw_lists = nodes[positions_col].apply(parse_positions_cell).tolist()
+    elig: List[Set[str]] = []
+    for plist in raw_lists:
+        s: Set[str] = set()
+        for p in plist:
+            s |= map_impect_position_to_slots(p)
+        elig.append(s)
+    return elig, True
+
+
+# =============================
+# KPI + Network objective components
 # =============================
 
 NEGATIVE_KW = (
@@ -177,7 +279,6 @@ def select_kpis_balanced(
         return float(np.dot(aa, bb) / den)
 
     selected: List[str] = []
-
     for cols in categories.values():
         cols = [c for c in cols if c in zmap]
         cols = sorted(cols, key=lambda c: varmap[c], reverse=True)
@@ -200,10 +301,14 @@ def select_kpis_balanced(
     return selected
 
 
+# =============================
+# Network cohesion / matrix
+# =============================
+
 def build_undirected_pass_matrix(
     edges: pd.DataFrame,
     player_ids: List[int],
-    weight_col: str = "passes_per90_shared"
+    weight_col: str = "passes_per90_shared",
 ) -> np.ndarray:
     id_to_idx = {pid: i for i, pid in enumerate(player_ids)}
     n = len(player_ids)
@@ -222,86 +327,6 @@ def build_undirected_pass_matrix(
     return (W + W.T) / 2.0
 
 
-def estimate_minutes_proxy(edges: pd.DataFrame, player_ids: List[int]) -> np.ndarray:
-    mins = {int(pid): 0.0 for pid in player_ids}
-    for _, r in edges.iterrows():
-        pid = int(r["from_id"])
-        m = r.get("shared_minutes", np.nan)
-        if pid in mins and not pd.isna(m):
-            mins[pid] = max(mins[pid], float(m))
-    return np.array([mins[int(pid)] for pid in player_ids], dtype=float)
-
-
-def parse_positions_cell(x) -> List[str]:
-    if x is None or (isinstance(x, float) and np.isnan(x)):
-        return []
-    if isinstance(x, list):
-        return [str(p).strip().upper() for p in x if str(p).strip()]
-    s = str(x).strip()
-    if not s:
-        return []
-    if s.startswith("[") and s.endswith("]"):
-        s2 = re.sub(r"[\[\]'\"]", "", s)
-        parts = re.split(r"[,\s;]+", s2)
-        return [p.strip().upper() for p in parts if p.strip()]
-    parts = re.split(r"[,\s;]+", s)
-    return [p.strip().upper() for p in parts if p.strip()]
-
-
-def formation_to_slots_433() -> List[str]:
-    return ["GK",
-            "LB", "CB", "CB", "RB",
-            "DM", "CM", "AM",
-            "LW", "ST", "RW"]
-
-
-@dataclass
-class ObjectiveWeights:
-    w_player: float = 0.60
-    w_centrality: float = 0.10
-    w_cohesion: float = 0.30
-
-
-@dataclass
-class PlayerScoreConfig:
-    std_penalty: float = 0.35
-    min_minutes: float = 600.0
-    reliability_floor: float = 0.20
-
-
-def build_player_quality(
-    nodes: pd.DataFrame,
-    kpis_mean_cols: List[str],
-    cfg: PlayerScoreConfig,
-) -> np.ndarray:
-    q = np.zeros(len(nodes), dtype=float)
-
-    for mean_col in kpis_mean_cols:
-        if mean_col not in nodes.columns:
-            continue
-        std_col = mean_col.replace("_mean", "_std")
-
-        z_m = zscore(nodes[mean_col]).fillna(0.0).to_numpy(dtype=float)
-        if is_negative_kpi(mean_col):
-            z_m = -z_m
-        q += z_m
-
-        if std_col in nodes.columns:
-            z_s = zscore(nodes[std_col]).fillna(0.0).to_numpy(dtype=float)
-            q -= cfg.std_penalty * z_s
-
-    q = (q - q.mean()) / (q.std() + 1e-9)
-    return q
-
-
-def build_centrality(nodes: pd.DataFrame, centrality_col: str) -> np.ndarray:
-    if centrality_col not in nodes.columns:
-        raise ValueError(f"centrality_col='{centrality_col}' not found in nodes columns.")
-    c = nodes[centrality_col].fillna(0.0).to_numpy(dtype=float)
-    c = (c - c.mean()) / (c.std() + 1e-9)
-    return c
-
-
 def cohesion_of_team(W_und: np.ndarray, idx: List[int]) -> float:
     if len(idx) < 2:
         return 0.0
@@ -311,13 +336,124 @@ def cohesion_of_team(W_und: np.ndarray, idx: List[int]) -> float:
     return float(coh / (pairs + 1e-12))
 
 
+# =============================
+# Minutes extraction (avoid GK bias)
+# =============================
+
+def extract_minutes(nodes: pd.DataFrame, edges: pd.DataFrame, player_ids: List[int]) -> np.ndarray:
+    """
+    Priority:
+      1) nodes minutes column if present
+      2) else max(shared_minutes) over BOTH from_id and to_id
+    """
+    minutes_cols = [c for c in nodes.columns if c.lower() in {
+        "minutes", "minutes_played", "played_minutes", "time_played", "mins_played"
+    }]
+    if minutes_cols:
+        col = minutes_cols[0]
+        return nodes[col].fillna(0.0).to_numpy(dtype=float)
+
+    mins = {int(pid): 0.0 for pid in player_ids}
+    for _, r in edges.iterrows():
+        m = r.get("shared_minutes", np.nan)
+        if pd.isna(m):
+            continue
+        m = float(m)
+        a = int(r["from_id"]); b = int(r["to_id"])
+        if a in mins: mins[a] = max(mins[a], m)
+        if b in mins: mins[b] = max(mins[b], m)
+    return np.array([mins[int(pid)] for pid in player_ids], dtype=float)
+
+
+# =============================
+# Formation templates
+# =============================
+
+def formation_to_slots_433() -> List[str]:
+    return ["GK",
+            "LB", "CB", "CB", "RB",
+            "DM", "CM", "AM",
+            "LW", "ST", "RW"]
+
+
+# =============================
+# Objective definitions (STANDARD scalarization)
+# =============================
+
+@dataclass
+class ObjectiveWeights:
+    """
+    Team objective is scalarized as:
+      total = w_kpi * KPI_term + w_net * NET_term + w_cohesion * COH_term
+    """
+    w_kpi: float = 0.55
+    w_net: float = 0.25
+    w_cohesion: float = 0.20
+
+
+@dataclass
+class PlayerScoreConfig:
+    std_penalty: float = 0.35
+    min_minutes: float = 600.0
+    reliability_floor: float = 0.25
+
+
+def build_kpi_score(nodes: pd.DataFrame, kpis_mean_cols: List[str], cfg: PlayerScoreConfig) -> np.ndarray:
+    score = np.zeros(len(nodes), dtype=float)
+    for mean_col in kpis_mean_cols:
+        if mean_col not in nodes.columns:
+            continue
+        std_col = mean_col.replace("_mean", "_std")
+
+        zm = zscore(nodes[mean_col]).fillna(0.0).to_numpy(dtype=float)
+        if is_negative_kpi(mean_col):
+            zm = -zm
+        score += zm
+
+        if std_col in nodes.columns:
+            zs = zscore(nodes[std_col]).fillna(0.0).to_numpy(dtype=float)
+            score -= cfg.std_penalty * zs
+
+    score = (score - score.mean()) / (score.std() + 1e-9)
+    return score
+
+
+def build_network_composite(
+    nodes: pd.DataFrame,
+    metrics: List[str],
+    metric_weights: Optional[Dict[str, float]] = None,
+) -> np.ndarray:
+    """
+    NET(i) = sum_m v_m z(m_i). If weights not provided, equal weights.
+    """
+    if not metrics:
+        return np.zeros(len(nodes), dtype=float)
+
+    ws = metric_weights or {m: 1.0 for m in metrics}
+    net = np.zeros(len(nodes), dtype=float)
+
+    for m in metrics:
+        if m not in nodes.columns:
+            raise ValueError(f"Network metric '{m}' not found in nodes.csv.")
+        z = zscore(nodes[m]).fillna(0.0).to_numpy(dtype=float)
+        net += float(ws.get(m, 1.0)) * z
+
+    net = (net - net.mean()) / (net.std() + 1e-9)
+    return net
+
+
+# =============================
+# Optimizer (greedy + local swaps)
+# =============================
+
 def optimize_lineup(
     nodes: pd.DataFrame,
     edges: pd.DataFrame,
     formation_slots: List[str],
     positions_col: str = "positions",
-    centrality_col: str = "net_pagerank",
     kpis: Optional[List[str]] = None,
+    mobility_metrics: Optional[List[str]] = None,
+    mobility_weights: Optional[Dict[str, float]] = None,
     weights: ObjectiveWeights = ObjectiveWeights(),
     score_cfg: PlayerScoreConfig = PlayerScoreConfig(),
     seed: int = 7,
@@ -326,7 +462,6 @@ def optimize_lineup(
     random.seed(seed)
     np.random.seed(seed)
 
-    # Basic required columns
     for col in ("player_id", "player"):
         if col not in nodes.columns:
             raise ValueError(f"nodes.csv must include '{col}' column.")
@@ -334,168 +469,169 @@ def optimize_lineup(
     player_ids = nodes["player_id"].astype(int).tolist()
     id_to_idx = {pid: i for i, pid in enumerate(player_ids)}
 
-    # Network matrix + minutes proxy + reliability
-    W_und = build_undirected_pass_matrix(edges, player_ids, weight_col="passes_per90_shared")
-    minutes_proxy = estimate_minutes_proxy(edges, player_ids)
+    # slot eligibility
+    elig_slots, has_positions = build_player_slot_eligibility(nodes, positions_col=positions_col)
 
-    reliability = np.sqrt(minutes_proxy / (minutes_proxy.max() + 1e-9))
+    def fits_slot(pid: int, slot: str) -> bool:
+        if not has_positions:
+            return True
+        i = id_to_idx[pid]
+        return slot.upper() in elig_slots[i]
+
+    # cohesion matrix
+    W_und = build_undirected_pass_matrix(edges, player_ids, weight_col="passes_per90_shared")
+
+    # minutes + reliability
+    minutes = extract_minutes(nodes, edges, player_ids)
+    reliability = np.sqrt(minutes / (minutes.max() + 1e-9))
     reliability = normalize01(reliability)
     reliability = score_cfg.reliability_floor + (1.0 - score_cfg.reliability_floor) * reliability
 
-    eligible_mask = minutes_proxy >= float(score_cfg.min_minutes)
+    # eligible by minutes
+    eligible_mask = minutes >= float(score_cfg.min_minutes)
     eligible_ids = [pid for pid, ok in zip(player_ids, eligible_mask) if ok]
     if len(eligible_ids) < 11:
-        eligible_ids = player_ids[:]  # auto-relax if too strict
+        eligible_ids = player_ids[:]  # relax automatically
 
+    # KPI set
     if kpis is None:
         kpis = select_kpis_balanced(nodes)
 
-    q = build_player_quality(nodes, kpis, score_cfg) * reliability
-    c = build_centrality(nodes, centrality_col) * reliability
+    # mobility metrics default: first few net_* columns if present
+    if mobility_metrics is None:
+        candidates = [c for c in nodes.columns if c.lower().startswith("net_")]
+        mobility_metrics = candidates[:3] if candidates else []
 
-    have_positions = positions_col in nodes.columns
-    pos_lists = None
-    if have_positions:
-        pos_lists = nodes[positions_col].apply(parse_positions_cell).tolist()
+    kpi_vec = build_kpi_score(nodes, kpis, score_cfg) * reliability
+    net_vec = build_network_composite(nodes, mobility_metrics, mobility_weights) * reliability
 
-    def fits_slot(pid: int, slot: str) -> bool:
-        if not have_positions:
-            return True
-        i = id_to_idx[pid]
-        return slot.upper() in set(pos_lists[i])
-
-    def objective(selected_ids: List[int]) -> Tuple[float, float, float, float]:
+    def team_objective(selected_ids: List[int]) -> Dict[str, float]:
         idx = [id_to_idx[pid] for pid in selected_ids]
-        player_term = float(np.mean(q[idx])) if idx else 0.0
-        cent_term = float(np.mean(c[idx])) if idx else 0.0
+        kpi_term = float(np.mean(kpi_vec[idx])) if idx else 0.0
+        net_term = float(np.mean(net_vec[idx])) if idx else 0.0
         coh_term = cohesion_of_team(W_und, idx)
-        total = (weights.w_player * player_term +
-                 weights.w_centrality * cent_term +
-                 weights.w_cohesion * coh_term)
-        return total, player_term, cent_term, coh_term
 
-    # ---- Greedy build with slot constraints ----
+        total = (weights.w_kpi * kpi_term +
+                 weights.w_net * net_term +
+                 weights.w_cohesion * coh_term)
+
+        return {
+            "total": total,
+            "kpi_term": kpi_term,
+            "net_term": net_term,
+            "cohesion_term": coh_term,
+        }
+
+    # --- Greedy build with hard slot constraints ---
     lineup: Dict[str, int] = {}
     chosen: set[int] = set()
-    eligible_pool = eligible_ids[:]
 
     for slot in formation_slots:
-        best_pid = None
-        best_val = -1e18
-        for pid in eligible_pool:
+        best_pid, best_val = None, -1e18
+        for pid in eligible_ids:
             if pid in chosen:
                 continue
             if not fits_slot(pid, slot):
                 continue
             trial = list(lineup.values()) + [pid]
-            val, *_ = objective(trial)
+            val = team_objective(trial)["total"]
             if val > best_val:
                 best_val = val
                 best_pid = pid
 
         if best_pid is None:
-            # fallback: ignore positions for this slot if impossible
-            for pid in eligible_pool:
-                if pid in chosen:
-                    continue
-                trial = list(lineup.values()) + [pid]
-                val, *_ = objective(trial)
-                if val > best_val:
-                    best_val = val
-                    best_pid = pid
+            raise ValueError(
+                f"No eligible player found for slot '{slot}'. "
+                f"Check positions mapping or the '{positions_col}' column."
+            )
 
         lineup[slot] = best_pid
         chosen.add(best_pid)
 
-    # ---- Local search by random swaps ----
+    # --- Local search swaps that preserve eligibility ---
     current_ids = list(lineup.values())
-    current_val, *_ = objective(current_ids)
-    unselected = [pid for pid in eligible_pool if pid not in chosen]
+    current_val = team_objective(current_ids)["total"]
+    unselected = [pid for pid in eligible_ids if pid not in chosen]
 
-    improved = True
-    iters = 0
-    while improved and iters < max_local_iters:
-        improved = False
-        iters += 1
-
-        slot = random.choice(formation_slots)
-        out_pid = lineup[slot]
+    for _ in range(max_local_iters):
         if not unselected:
             break
+        slot = random.choice(formation_slots)
+        out_pid = lineup[slot]
 
-        candidates = random.sample(unselected, k=min(10, len(unselected)))
-        for in_pid in candidates:
-            if have_positions and (not fits_slot(in_pid, slot)):
+        improved = False
+        for in_pid in random.sample(unselected, k=min(15, len(unselected))):
+            if not fits_slot(in_pid, slot):
                 continue
-
             trial_ids = [pid if pid != out_pid else in_pid for pid in current_ids]
-            trial_val, *_ = objective(trial_ids)
-
-            if trial_val > current_val + 1e-10:
+            val = team_objective(trial_ids)["total"]
+            if val > current_val + 1e-10:
                 lineup[slot] = in_pid
-                chosen.remove(out_pid)
-                chosen.add(in_pid)
-
-                unselected.remove(in_pid)
-                unselected.append(out_pid)
-
+                chosen.remove(out_pid); chosen.add(in_pid)
+                unselected.remove(in_pid); unselected.append(out_pid)
                 current_ids = list(lineup.values())
-                current_val = trial_val
+                current_val = val
                 improved = True
                 break
+        if not improved:
+            continue
 
-    # Build output slot -> player name
-    slot_to_player = {}
+    # output
+    slot_to_player: Dict[str, str] = {}
     for slot, pid in lineup.items():
         name = nodes.loc[nodes["player_id"].astype(int) == int(pid), "player"].iloc[0]
         slot_to_player[slot] = name
 
-    total, player_term, cent_term, coh_term = objective(list(lineup.values()))
+    obj = team_objective(list(lineup.values()))
 
     return {
         "selected_kpis": kpis,
-        "centrality_col": centrality_col,
+        "selected_mobility_metrics": mobility_metrics,
+        "mobility_weights": mobility_weights,
         "weights": weights.__dict__,
         "score_cfg": score_cfg.__dict__,
-        "has_positions": have_positions,
+        "has_positions": has_positions,
         "formation_slots": formation_slots,
-        "objective": {
-            "total": total,
-            "player_term": player_term,
-            "centrality_term": cent_term,
-            "cohesion_term": coh_term,
-        },
+        "objective": obj,
         "lineup": slot_to_player,
     }
 
 
 # =============================
-# High-level wrapper for main.py
+# High-level wrapper for CLI/UI
 # =============================
+
 def run_for_team(
     team_query: str,
     repo_root: Path,
     formation_slots: List[str],
-    centrality_col: str = "net_pagerank",
     positions_col: str = "positions",
     weights: ObjectiveWeights = ObjectiveWeights(),
     score_cfg: PlayerScoreConfig = PlayerScoreConfig(),
     seed: int = 7,
     max_local_iters: int = 2500,
-    kpis: Optional[List[str]] = None,        # <-- add
+    kpis: Optional[List[str]] = None,
+    mobility_metrics: Optional[List[str]] = None,
+    mobility_weights: Optional[Dict[str, float]] = None,
+    # Backward-compat: if older code passes --centrality, treat it as a single mobility metric
+    centrality_col: Optional[str] = None,
 ) -> Dict:
     paths = find_team_csvs(repo_root=repo_root, team_query=team_query)
 
     nodes = pd.read_csv(paths["nodes_csv"])
     edges = pd.read_csv(paths["edges_csv"])
 
+    if mobility_metrics is None and centrality_col:
+        mobility_metrics = [centrality_col]
+
     result = optimize_lineup(
         nodes=nodes,
         edges=edges,
         formation_slots=formation_slots,
         positions_col=positions_col,
-        centrality_col=centrality_col,
-        kpis=kpis,                              # <-- use it
+        kpis=kpis,
+        mobility_metrics=mobility_metrics,
+        mobility_weights=mobility_weights,
         weights=weights,
         score_cfg=score_cfg,
         seed=seed,
@@ -508,4 +644,3 @@ def run_for_team(
         "edges_csv": str(paths["edges_csv"]),
     }
     return result
-

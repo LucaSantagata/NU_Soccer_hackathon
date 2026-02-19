@@ -26,32 +26,19 @@ FORMATION_TEMPLATES: Dict[str, List[str]] = {
 }
 
 def parse_custom_slots(text: str) -> List[str]:
-    """
-    Accepts formats like:
-      GK,LB,CB,CB,RB,DM,CM,AM,LW,ST,RW
-    or newlines. Returns list of 11 slot labels.
-    """
     parts = re.split(r"[,\n;]+", (text or "").strip())
-    slots = [p.strip().upper() for p in parts if p.strip()]
-    return slots
+    return [p.strip().upper() for p in parts if p.strip()]
 
 def guess_kpi_mean_cols(df: pd.DataFrame) -> List[str]:
-    # Most IMPECT KPI means end with "_mean"
     cols = [c for c in df.columns if c.endswith("_mean")]
-    # Drop obvious non-KPI means if any (keep conservative)
     drop = {"minutes_mean", "time_mean"}
     cols = [c for c in cols if c.lower() not in drop]
     return sorted(cols)
 
-def guess_centrality_cols(df: pd.DataFrame) -> List[str]:
-    # Anything that looks like a network metric
-    keys = ("net_", "central", "pagerank", "between", "eigen", "closen", "strength", "degree")
-    cols = []
-    for c in df.columns:
-        cl = c.lower()
-        if any(k in cl for k in keys):
-            cols.append(c)
-    # Prefer net_* first
+def guess_net_cols(df: pd.DataFrame) -> List[str]:
+    # Mobility / network metrics typically are net_* but include a broad heuristic
+    keys = ("net_", "pagerank", "between", "eigen", "closen", "strength", "degree", "central")
+    cols = [c for c in df.columns if any(k in c.lower() for k in keys)]
     cols = sorted(cols, key=lambda x: (0 if x.lower().startswith("net_") else 1, x))
     return cols
 
@@ -59,7 +46,6 @@ def guess_centrality_cols(df: pd.DataFrame) -> List[str]:
 # Streamlit UI
 # -----------------------------
 st.set_page_config(page_title="IMPECT Lineup Optimizer", layout="wide")
-
 st.title("IMPECT Open Data – Optimal XI Lineup Optimizer")
 
 with st.sidebar:
@@ -81,16 +67,15 @@ with st.sidebar:
         formation_slots = parse_custom_slots(custom_text)
 
     st.divider()
-    st.header("Objective weights")
-    w_player = st.slider("Player quality (KPIs) weight", 0.0, 1.0, 0.60, 0.05)
-    w_cent = st.slider("Centrality weight", 0.0, 1.0, 0.10, 0.05)
-    w_coh = st.slider("Cohesion (within-XI passes) weight", 0.0, 1.0, 0.30, 0.05)
-    st.caption("Tip: weights don’t have to sum to 1, but it’s usually sensible.")
+    st.header("Objective weights (scalarization)")
+    w_kpi = st.slider("KPI term weight (player performance)", 0.0, 1.0, 0.60, 0.05)
+    w_net = st.slider("Mobility/Network term weight", 0.0, 1.0, 0.10, 0.05)
+    w_coh = st.slider("Cohesion term weight (within-XI passes)", 0.0, 1.0, 0.30, 0.05)
 
     st.divider()
-    st.header("Player filtering / risk")
-    min_minutes = st.number_input("Min minutes (proxy) filter", min_value=0.0, value=600.0, step=50.0)
-    std_penalty = st.slider("Std penalty (consistency penalty)", 0.0, 1.0, 0.35, 0.05)
+    st.header("Player filtering / consistency")
+    min_minutes = st.number_input("Min minutes filter", min_value=0.0, value=600.0, step=50.0)
+    std_penalty = st.slider("Std penalty (inconsistency penalty)", 0.0, 1.0, 0.35, 0.05)
 
     st.divider()
     positions_col = st.text_input("Positions column name", value="positions")
@@ -102,7 +87,6 @@ if len(formation_slots) != 11:
     st.error(f"Formation must define exactly 11 slots. You currently have {len(formation_slots)}.")
     st.stop()
 
-# Load team files (preview + populate dropdowns)
 repo_root_path = Path(repo_root).resolve()
 
 try:
@@ -121,50 +105,41 @@ with colA:
     st.write(f"**Nodes:** `{nodes_path}`")
     st.write(f"**Edges:** `{edges_path}`")
 
-# Load nodes for column discovery
 nodes_df = pd.read_csv(nodes_path)
 
-# Centrality choices
-centrality_cols = guess_centrality_cols(nodes_df)
-if not centrality_cols:
-    centrality_cols = [c for c in nodes_df.columns if c.lower().startswith("net_")] or ["net_pagerank"]
+kpi_mean_cols = guess_kpi_mean_cols(nodes_df)
+net_cols = guess_net_cols(nodes_df)
 
 with colB:
-    st.subheader("Model inputs")
-    centrality_col = st.selectbox(
-        "Centrality / network metric column",
-        centrality_cols,
-        index=0 if "net_pagerank" not in centrality_cols else centrality_cols.index("net_pagerank"),
-        help="This should exist in nodes.csv for this team.",
+    st.subheader("Feature selection")
+    kpi_mode = st.radio("KPIs", ["Auto-select (balanced)", "Manual select"], index=0, horizontal=True)
+    selected_kpis: Optional[List[str]] = None
+    if kpi_mode == "Manual select":
+        default_manual = [c for c in kpi_mean_cols if any(k in c.upper() for k in ["GOALS", "SHOT_XG", "PXT_PASS", "SUCCESSFUL_PASSES"])]
+        selected_kpis = st.multiselect(
+            "Select KPI mean columns",
+            options=kpi_mean_cols,
+            default=(default_manual[:8] if default_manual else kpi_mean_cols[:8]),
+        )
+        if not selected_kpis:
+            st.warning("Manual KPI mode selected, but no KPIs chosen.")
+            st.stop()
+
+    st.markdown("**Mobility / network metrics**")
+    if not net_cols:
+        st.warning("No obvious mobility/network metric columns found. (Expected columns like net_*)")
+    selected_net = st.multiselect(
+        "Select mobility/network metric columns (from nodes.csv)",
+        options=net_cols,
+        default=(["net_pagerank"] if "net_pagerank" in net_cols else net_cols[:1]),
+        help="These are combined into a composite 'NET' term using z-scores.",
     )
 
-# KPI choices
-kpi_mean_cols = guess_kpi_mean_cols(nodes_df)
-
-st.subheader("KPIs")
-kpi_mode = st.radio("KPI selection", ["Auto-select (balanced)", "Manual select"], index=0, horizontal=True)
-
-selected_kpis: Optional[List[str]] = None
-if kpi_mode == "Manual select":
-    default_manual = [c for c in kpi_mean_cols if any(k in c.upper() for k in ["GOALS", "SHOT_XG", "PXT_PASS", "SUCCESSFUL_PASSES"])]
-    selected_kpis = st.multiselect(
-        "Select KPI mean columns (the optimizer uses mean + std if available)",
-        options=kpi_mean_cols,
-        default=default_manual[:8] if default_manual else kpi_mean_cols[:8],
-        help="Columns should end with _mean. The optimizer will also use the paired _std if present.",
-    )
-    if not selected_kpis:
-        st.warning("Manual mode selected, but no KPIs chosen. Switch back to auto or pick a few KPIs.")
-        st.stop()
-else:
-    st.caption("Auto mode picks a small, diverse KPI set for this team (attack/progression/passing/defending/security).")
-
-# Run
 st.divider()
 run_btn = st.button("Optimize XI", type="primary")
 
 if run_btn:
-    weights = ObjectiveWeights(w_player=float(w_player), w_centrality=float(w_cent), w_cohesion=float(w_coh))
+    weights = ObjectiveWeights(w_kpi=float(w_kpi), w_net=float(w_net), w_cohesion=float(w_coh))
     score_cfg = PlayerScoreConfig(std_penalty=float(std_penalty), min_minutes=float(min_minutes))
 
     with st.spinner("Running optimization..."):
@@ -172,24 +147,21 @@ if run_btn:
             team_query=team_query,
             repo_root=repo_root_path,
             formation_slots=formation_slots,
-            centrality_col=centrality_col,
             positions_col=positions_col,
             weights=weights,
             score_cfg=score_cfg,
             seed=int(seed),
             max_local_iters=int(max_local_iters),
             kpis=selected_kpis,  # None => auto
+            mobility_metrics=(selected_net or None),
         )
 
     st.success("Optimization completed.")
 
-    # Outputs
     st.subheader("Selected features")
-    st.write("**KPIs used:**")
-    st.write(result["selected_kpis"])
-
-    st.write(f"**Centrality used:** `{result['centrality_col']}`")
-    st.write(f"**Has positions column:** `{result['has_positions']}`")
+    st.write("**KPIs used:**", result["selected_kpis"])
+    st.write("**Mobility metrics used:**", result.get("selected_mobility_metrics", []))
+    st.write("**Has positions column:**", result["has_positions"])
 
     st.subheader("Objective breakdown")
     st.json(result["objective"])
@@ -199,6 +171,5 @@ if run_btn:
     lineup_df = pd.DataFrame({"Slot": list(lineup.keys()), "Player": list(lineup.values())})
     st.dataframe(lineup_df, use_container_width=True)
 
-    # Optional: show nodes preview
-    with st.expander("Preview team nodes data (first 20 rows)"):
+    with st.expander("Preview nodes data (first 20 rows)"):
         st.dataframe(nodes_df.head(20), use_container_width=True)
