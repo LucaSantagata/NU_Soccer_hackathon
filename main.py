@@ -5,12 +5,13 @@ from pathlib import Path
 from typing import List, Optional
 
 from optimization import (
+    FORMATION_TEMPLATES,
     run_for_team,
-    formation_to_slots_433,
+    formation_to_slots,
     ObjectiveWeights,
     PlayerScoreConfig,
+    SearchConfig,
 )
-
 
 def _parse_csv_list(x: Optional[str]) -> Optional[List[str]]:
     if not x:
@@ -46,10 +47,10 @@ def main():
 
     repo_root = Path(args.repo_root).resolve()
 
-    if args.formation.strip() != "4-3-3":
-        raise ValueError('Only formation="4-3-3" is wired in this CLI right now.')
+    if args.formation.strip() not in FORMATION_TEMPLATES:
+        raise ValueError(f'Only formations in {sorted(FORMATION_TEMPLATES.keys())} are wired in this CLI right now.')
 
-    formation_slots = formation_to_slots_433()
+    formation_slots = formation_to_slots(args.formation)
 
     weights = ObjectiveWeights(
         w_kpi=float(args.w_player),
@@ -73,7 +74,7 @@ def main():
         weights=weights,
         score_cfg=score_cfg,
         seed=7,
-        max_local_iters=2500,
+        search_cfg=SearchConfig(max_iters=2500),
         kpis=kpis,
         mobility_metrics=mobility_metrics,
         centrality_col=centrality_col,
@@ -95,7 +96,6 @@ def main():
     for m in result.get("selected_mobility_metrics", []):
         print(" -", m)
 
-    print("\nHas positions:", result["has_positions"])
     print("Objective components:", result["objective"])
 
     print("\nOptimal XI (slot -> player):")
