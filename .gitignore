@@ -2,3 +2,8 @@ load_data/
 .venv/
 .idea/
 kloppy_test/
+
+# ignore pycache dir
+__pycache__/
+.ipynb_checkpoints/
+.github/

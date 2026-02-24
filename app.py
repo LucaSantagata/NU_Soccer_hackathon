@@ -79,8 +79,8 @@ def list_teams(repo_root_path: Path) -> List[str]:
 # -----------------------------
 # Streamlit UI
 # -----------------------------
-st.set_page_config(page_title="IMPECT Lineup Optimizer", layout="wide")
-st.title("IMPECT Open Data – Optimal XI Lineup Optimizer")
+st.set_page_config(page_title="Big O(Goal) F.C.", layout="wide")
+st.title("Big O(Goal) F.C. — Optimal XI Lineup Optimizer")
 
 # Top controls (main page)
 # Top controls (main page)
@@ -134,11 +134,11 @@ if len(formation_slots) != 11:
     st.error(f"Formation must define exactly 11 slots. You currently have {len(formation_slots)}.")
     st.stop()
 
-# Display resolved files
-with st.expander("Resolved team & files", expanded=True):
-    st.write(f"**Team:** {paths['team_resolved']}")
-    st.write(f"**Nodes:** `{nodes_path}`")
-    st.write(f"**Edges:** `{edges_path}`")
+# # Display resolved files
+# with st.expander("Resolved team & files", expanded=True):
+#     st.write(f"**Team:** {paths['team_resolved']}")
+#     st.write(f"**Nodes:** `{nodes_path}`")
+#     st.write(f"**Edges:** `{edges_path}`")
 
 st.divider()
 
@@ -151,11 +151,11 @@ with st.sidebar:
 
     st.divider()
     st.header("Player filtering / consistency")
-    min_minutes = st.number_input("Min minutes filter", min_value=0.0, value=600.0, step=50.0)
-    std_penalty = st.slider("Std penalty (inconsistency penalty)", 0.0, 1.0, 0.35, 0.05)
+    min_minutes = st.number_input("Min minutes filter (players who have played at least this many minutes)", min_value=0.0, value=200.0, step=50.0)
+    std_penalty = st.slider("Std penalty (inconsistency penalty) This term penalizes players with high variance in their KPIs across matches)", 0.0, 1.0, 0.35, 0.05)
 
     st.divider()
-    st.header("Search parameters (Tabu)")
+    st.header("Search parameters (Tabu Search)")
     seed = st.number_input("Random seed", min_value=0, value=7, step=1)
     max_iters = st.number_input("Search iterations", min_value=100, value=2500, step=100)
     candidate_samples = st.number_input("Candidates per move", min_value=5, value=20, step=1)
@@ -246,5 +246,5 @@ if run_btn:
     lineup_df = pd.DataFrame({"Slot": list(lineup.keys()), "Player": list(lineup.values())})
     st.dataframe(lineup_df, use_container_width=True)
 
-    with st.expander("Preview nodes data (first 20 rows)"):
-        st.dataframe(nodes_df.head(20), use_container_width=True)
+    with st.expander("Preview nodes data"):
+        st.dataframe(nodes_df, use_container_width=True)

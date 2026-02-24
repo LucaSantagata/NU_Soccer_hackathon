@@ -29,7 +29,7 @@ def main():
     parser.add_argument("--formation", type=str, default="4-3-3", help='Formation string (currently supported: "4-3-3").')
 
     # KPI objective settings
-    parser.add_argument("--min_minutes", type=float, default=600.0, help="Minimum minutes filter (default: 600).")
+    parser.add_argument("--min_minutes", type=float, default=200.0, help="Minimum minutes filter (default: 200).")
     parser.add_argument("--std_penalty", type=float, default=0.35, help="Penalty for KPI standard deviation (default: 0.35).")
     parser.add_argument("--kpis", type=str, default="", help="Optional comma-separated KPI mean columns to use. If empty, auto-select.")
 
