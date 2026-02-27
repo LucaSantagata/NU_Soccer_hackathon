@@ -119,7 +119,7 @@ def build_kpi_score_by_group(
                 z_s[mask] = gs
 
         if is_negative_kpi(mean_col):
-            z_m = -z_m
+            z_m = -z_m  
 
         score += w * z_m
         if z_s is not None:
